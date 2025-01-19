@@ -1,0 +1,1 @@
+﻿Strike		common	Action	50	C	1	Attack 2. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 2 health. If they chose a card they control, remove 2 endurance counter from it.)			normal	sss		

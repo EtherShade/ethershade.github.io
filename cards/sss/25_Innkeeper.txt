@@ -1,0 +1,1 @@
+﻿Innkeeper		common	Follower	25	C	2	Soul 1 (You must spend at least 1 soul mana to play this card.)NEWLINEExert: You gain 1 hunger.	1		normal	sss		

@@ -1,1 +1,0 @@
-﻿Research		common	Action	30	C	2	Draw two cards.			normal	sss		

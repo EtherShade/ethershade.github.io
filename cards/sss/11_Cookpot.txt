@@ -1,0 +1,1 @@
+﻿Cookpot		common	Structure	11	C	2	Soul 1 (You must spend at least 1 soul mana to play this card.)NEWLINE1, Exert, Destroy two Foods you control: Create two Food item tokens with the abilities of both Foods destroyed.	1		normal	sss		

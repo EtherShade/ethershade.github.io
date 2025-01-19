@@ -1,1 +1,0 @@
-﻿House of Learned Satiation		common	Structure	18	C	3	Whenever you draw your third, fifth, or seventh card each turn, gain 1 hunger.	1		normal	sss		

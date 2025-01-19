@@ -1,0 +1,1 @@
+﻿Guardian		common	Follower	23	C	1	Soul 1 (You must spend at least 1 soul mana to play this card.)NEWLINEObstruct (This can block attacks.)	2		normal	sss		

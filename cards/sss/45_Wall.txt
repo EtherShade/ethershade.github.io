@@ -1,1 +1,0 @@
-﻿Wall		common	Structure	45	C	1	Obstruct (This can block attacks.)	2		normal	sss		

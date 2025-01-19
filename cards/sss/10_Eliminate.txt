@@ -1,1 +1,0 @@
-﻿Eliminate		common	Action	10	C	3	Remove all endurance counters from a card of your choice.			normal	sss		

@@ -1,0 +1,1 @@
+﻿Amulet of Protection		common	Item	1	C	1	Mind 1 (You must spend at least 1 mind mana to play this card.)NEWLINEObstruct (This can block attacks.)	2		normal	sss		

@@ -1,0 +1,1 @@
+﻿Farmer		common	Follower	17	C	1	1, Exert: Create a Rations token.	2		normal	sss		

@@ -1,0 +1,1 @@
+﻿Builder		common	Follower	7	C	2	Structure cards you play cost 1 less to play.	1		normal	sss		

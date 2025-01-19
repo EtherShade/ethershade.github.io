@@ -1,0 +1,1 @@
+﻿Slow Silver		common	Silver	46	C		Slow Silver enters exerted.NEWLINEExert, Remove an endurance counter from Slow Silver: Add one null mana.	5		normal	sss		

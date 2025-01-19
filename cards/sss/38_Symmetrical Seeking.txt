@@ -1,1 +1,0 @@
-﻿Symmetrical Seeking		common	Action	38	C	0	Each player discards a card, then draws a card.			normal	sss		

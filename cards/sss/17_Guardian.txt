@@ -1,1 +1,0 @@
-﻿Guardian		common	Follower	17	C	1	Obstruct (This can block attacks.)	2		normal	sss		

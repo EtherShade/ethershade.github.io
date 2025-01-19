@@ -1,1 +1,0 @@
-﻿Tower of Famine		common	Structure	40	C	4	Exert or 1: Each opponent loses 1 hunger.	3		normal	sss		

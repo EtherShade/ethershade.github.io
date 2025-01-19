@@ -1,1 +1,0 @@
-﻿Opportunist		common	Follower	25	C	3	Whenever an opponent discards a card, you draw a card.	2		normal	sss		

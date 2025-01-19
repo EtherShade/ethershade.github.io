@@ -1,0 +1,1 @@
+﻿Salt		common	Item – Food	41	C	0	Soul 1 (You must spend at least 1 soul mana to play this card.)NEWLINEWhen Salt is destroyed, you gain 1 hunger.	1		normal	sss		

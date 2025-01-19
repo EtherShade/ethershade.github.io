@@ -1,1 +1,0 @@
-﻿Raid		common	Action	28	C	2	Exert any number of followers you control. For each follower exerted this way, attack 2. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 2 health. If they chose a card they control, remove 2 endurance counter from it.)			normal	sss		

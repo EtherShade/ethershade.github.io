@@ -1,1 +1,0 @@
-﻿Vampiric Research		common	Action	44	C	1	Remove all counters from a card you control. If you did, draw two cards.			normal	sss		

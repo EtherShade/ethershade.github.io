@@ -1,1 +1,0 @@
-﻿Loaf of Bread		common	Item – Food	21	C	0	Exert, Remove an endurance counter from Loaf of Bread: You gain 2 hunger.	2		normal	sss		

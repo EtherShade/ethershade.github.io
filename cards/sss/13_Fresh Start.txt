@@ -1,1 +1,0 @@
-﻿Fresh Start		common	Action	13	C	3	Each player discards their hand and draw seven cards.			normal	sss		

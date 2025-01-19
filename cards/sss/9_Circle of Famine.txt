@@ -1,0 +1,1 @@
+﻿Circle of Famine		common	Structure	9	C	3	Blood 1 (You must spend at least 1 blood mana to play this card.)NEWLINEEach opponent loses an additional hunger at the start of their turn.	3		normal	sss		

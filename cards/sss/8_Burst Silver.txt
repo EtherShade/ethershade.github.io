@@ -1,0 +1,1 @@
+﻿Burst Silver		common	Silver	8	C		Exert, Remove an endurance counter from Burst Silver: Add two null mana.	1		normal	sss		

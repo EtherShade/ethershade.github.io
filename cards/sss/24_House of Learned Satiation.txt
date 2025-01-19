@@ -1,0 +1,1 @@
+﻿House of Learned Satiation		common	Structure	24	C	3	Mind 1 (You must spend at least 1 mind mana to play this card.)NEWLINEWhenever you draw your third, fifth, or seventh card each turn, gain 1 hunger.	1		normal	sss		

@@ -1,1 +1,0 @@
-﻿Mana Spring		common	Structure	23	C	2	Exert: Add one null mana.	1		normal	sss		

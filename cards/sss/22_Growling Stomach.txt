@@ -1,0 +1,1 @@
+﻿Growling Stomach		common	Action	22	C	1	Blood 1 (You must spend at least 1 blood mana to play this card.)NEWLINEA player of your choice loses 2 hunger.			normal	sss		

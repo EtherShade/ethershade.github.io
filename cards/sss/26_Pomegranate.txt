@@ -1,1 +1,0 @@
-﻿Pomegranate		common	Item – Food	26	C	1	1, Exert, Remove an endurance counter from Pomegranate, Discard a card: You gain 1 hunger. Draw a card.	3		normal	sss		
