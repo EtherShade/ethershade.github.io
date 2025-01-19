@@ -1,1 +1,0 @@
-﻿Rations		common	Item – Food	36	C	0	Exert, Remove an endurance counter from Rations: You gain 3 hunger.	1		normal	sss		

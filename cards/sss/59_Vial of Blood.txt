@@ -1,1 +1,0 @@
-﻿Vial of Blood		common	Item	59	C	1	Blood 1 (You must spend at least 1 blood mana to play this card.)NEWLINEExert, Remove an endurance counter from Vial of Blood: Choose one –NEWLINE• You gain 1 health.NEWLINE• Put an endurance counter on a follower you control.	2		normal	sss		

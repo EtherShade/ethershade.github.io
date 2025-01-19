@@ -1,1 +1,0 @@
-﻿The Shifting One		common	Follower	43	C	X	Cards you play with X in their mana cost cost X less to play, where X is the number of endurance counters on The Shifting One.	X		normal	sss		

@@ -1,1 +1,0 @@
-﻿Opportunist		common	Follower	32	C	3	Bone 1 (You must spend at least 1 bone mana to play this card.)NEWLINEWhenever an opponent discards a card, you draw a card.	2		normal	sss		

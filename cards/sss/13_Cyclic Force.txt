@@ -1,1 +1,0 @@
-﻿Cyclic Force		common	Action	13	C	3	Bone 1 (You must spend at least 1 bone mana to play this card.)NEWLINEEach player discards their hand and draws seven cards.			normal	sss		

@@ -1,1 +1,0 @@
-﻿Lucky Coin		common	Item	28	C	1	Exert: Flip a coin. If you win, draw a card. If you lose, discard a card.	1		normal	sss		

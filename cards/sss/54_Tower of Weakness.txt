@@ -1,1 +1,0 @@
-﻿Tower of Weakness		common	Structure	54	C	4	Mind 1 (You must spend at least 1 mind mana to play this card.)NEWLINEOther cards enter with 1 less endurance counter.	3		normal	sss		

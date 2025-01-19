@@ -1,1 +1,0 @@
-﻿Ruin		common	Action	38	C	1	Bone 1 (You must spend at least 1 bone mana to play this card.)NEWLINERemove an endurance counter from up to two item or structure cards of your choice.			normal	sss		

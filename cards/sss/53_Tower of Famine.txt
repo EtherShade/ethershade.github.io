@@ -1,1 +1,0 @@
-﻿Tower of Famine		common	Structure	53	C	4	Blood 1 (You must spend at least 1 blood mana to play this card.)NEWLINEExert or 1: Each opponent loses 1 hunger.	3		normal	sss		

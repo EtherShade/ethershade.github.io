@@ -1,1 +1,0 @@
-﻿Symmetrical Seeking		common	Action	51	C	0	Bone 1 (You must spend at least 1 bone mana to play this card.)NEWLINEEach player discards a card, then draws a card.			normal	sss		

@@ -1,1 +1,0 @@
-﻿Cyclic Flare		common	Action	12	C	1	Bone 1 (You must spend at least 1 bone mana to play this card.)NEWLINEDraw a card.NEWLINEWhen you discard this card, draw a card.			normal	sss		

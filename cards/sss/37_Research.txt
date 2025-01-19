@@ -1,1 +1,0 @@
-﻿Research		common	Action	37	C	2	Mind 1 (You must spend at least 1 mind mana to play this card.)NEWLINEDraw two cards.			normal	sss		

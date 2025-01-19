@@ -1,1 +1,0 @@
-﻿Shifting Guardian		common	Follower	42	C	X	Obstruct (This can block attacks.)	X		normal	sss		

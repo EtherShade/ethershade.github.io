@@ -1,1 +1,0 @@
-﻿Pomegranate		common	Item – Food	33	C	1	Bone 1 (You must spend at least 1 bone mana to play this card.)NEWLINE1, Exert, Remove an endurance counter from Pomegranate, Discard a card: You gain 1 hunger. Draw a card.	3		normal	sss		

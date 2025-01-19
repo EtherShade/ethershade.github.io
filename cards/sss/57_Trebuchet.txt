@@ -1,1 +1,0 @@
-﻿Trebuchet		common	Structure	57	C	2	Soul 1 (You must spend at least 1 soul mana to play this card.)NEWLINE1, Exert, Exert a follower you control: Attack 3. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 3 health. If they chose a card they control, remove 3 endurance counter from it.)	2		normal	sss		

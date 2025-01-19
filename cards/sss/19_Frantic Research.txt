@@ -1,1 +1,0 @@
-﻿Frantic Research		common	Action	19	C	1	Bone 1 (You must spend at least 1 bone mana to play this card.)NEWLINEDiscard a card, then draw two cards.			normal	sss		

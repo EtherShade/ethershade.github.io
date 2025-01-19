@@ -1,1 +1,0 @@
-﻿Degrade		common	Action	15	C	1	Bone 1 (You must spend at least 1 bone mana to play this card.)NEWLINERemove 2 endurance counters from an item or structure card of your choice.			normal	sss		

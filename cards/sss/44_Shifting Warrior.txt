@@ -1,1 +1,0 @@
-﻿Shifting Warrior		common	Follower	44	C	X	2, Exert: Attack X, where X is the number of endurance counters on Shifting Warrior. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose X health. If they chose a card they control, remove X endurance counter from it.)	X		normal	sss		

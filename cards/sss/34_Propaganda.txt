@@ -1,1 +1,0 @@
-﻿Propaganda		common	Action	34	C	2	Bone 1 (You must spend at least 1 bone mana to play this card.)NEWLINEEach opponent discards two cards.			normal	sss		
