@@ -1,0 +1,1 @@
+﻿Tower of Weakness		common	Structure	41	C	4	Other cards enter with 1 less endurance counter.	3		normal	sss		

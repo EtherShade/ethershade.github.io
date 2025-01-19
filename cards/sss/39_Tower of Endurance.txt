@@ -1,0 +1,1 @@
+﻿Tower of Endurance		common	Structure	39	C	4	Other cards enter with 1 more endurance counter.	3		normal	sss		

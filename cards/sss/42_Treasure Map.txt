@@ -1,0 +1,1 @@
+﻿Treasure Map		common	Item	42	C	2	1, Exert, Remove an endurance counter from Treasure Map: Draw card and add one mana of any type.	3		normal	sss		

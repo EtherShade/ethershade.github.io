@@ -1,0 +1,1 @@
+﻿Frantic Research		common	Action	12	C	1	Discard a card, then draw two cards.			normal	sss		

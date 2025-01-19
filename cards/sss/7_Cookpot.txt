@@ -1,0 +1,1 @@
+﻿Cookpot		common	Structure	7	C	2	1, Exert, Destroy two Foods you control: Create two Food item tokens with the abilities of both Foods destroyed.	1		normal	sss		

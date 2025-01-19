@@ -1,0 +1,1 @@
+﻿Widespread Famine		common	Action	48	C	0	Each player loses 2 hunger.			normal	sss		

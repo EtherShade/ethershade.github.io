@@ -1,0 +1,1 @@
+﻿Big Score		common	Action	1	C	2	Create two exerted Silver tokens with endurance 1 and “Exert, Remove an endurance counter from this card: Add one null mana.”			normal	sss		

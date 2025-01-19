@@ -1,0 +1,1 @@
+﻿Grave Robbing		common	Action	14	C	1	Put target card from your discard on top of your deck.			normal	sss		

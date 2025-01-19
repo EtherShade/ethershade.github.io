@@ -1,0 +1,1 @@
+﻿War Conscriptor		common	Follower	46	C	4	1, Exert, Exert X other followers: attack X. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose X health. If they chose a card they control, remove X endurance counter from it.)	2		normal	sss		

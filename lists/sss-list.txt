@@ -1,0 +1,70 @@
+er
+er
+er
+er
+er
+er
+er
+er
+er
+er
+er
+er
+er
+er
+er
+1_Big Score
+2_Boneyard
+3_Builder
+4_Burst Silver
+5_Circle of Famine
+6_Compass
+7_Cookpot
+8_Cyclic Flare
+9_Degrade
+10_Eliminate
+11_Farmer
+12_Frantic Research
+13_Fresh Start
+14_Grave Robbing
+15_Growling Stomach
+16_Guard
+17_Guardian
+18_House of Learned Satiation
+19_Innkeeper
+20_Lestrid, the Ever Feasting
+21_Loaf of Bread
+22_Lucky Coin
+23_Mana Spring
+24_﻿Null Silver
+25_Opportunist
+26_Pomegranate
+27_Propaganda
+28_Raid
+29_Rations
+30_Research
+31_Ruin
+32_Saboteur
+33_Salt
+34_Slow Silver
+35_Spy
+36_Starving Masses
+37_Strike
+38_Symmetrical Seeking
+39_Tower of Endurance
+40_Tower of Famine
+41_Tower of Weakness
+42_Treasure Map
+43_Trebuchet
+44_Vampiric Research
+45_Wall
+46_War Conscriptor
+47_Warrior
+48_Widespread Famine
+e
+e
+er
+er
+er
+er
+er

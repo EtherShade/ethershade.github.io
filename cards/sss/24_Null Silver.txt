@@ -1,0 +1,1 @@
+﻿Null Silver		common	Silver – Null	24	C		Limitless (A deck can have any number of this card.)NEWLINEExert, Remove an endurance counter from Null Silver: Add one null mana.	3		normal	sss		

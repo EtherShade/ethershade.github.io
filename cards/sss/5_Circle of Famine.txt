@@ -1,0 +1,1 @@
+﻿Circle of Famine		common	Structure	5	C	3	Each opponent loses an additional hunger at the start of their turn.	3		normal	sss		

@@ -1,0 +1,1 @@
+﻿Ruin		common	Action	31	C	1	Remove an endurance counter from up to two cards of your choice.			normal	sss		

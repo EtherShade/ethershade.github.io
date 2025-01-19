@@ -1,0 +1,1 @@
+﻿Degrade		common	Action	9	C	1	Remove 2 endurance counters from a card of your choice.			normal	sss		

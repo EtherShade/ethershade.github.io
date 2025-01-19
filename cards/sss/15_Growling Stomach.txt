@@ -1,0 +1,1 @@
+﻿Growling Stomach		common	Action	15	C	1	A player of your choice loses 2 hunger.			normal	sss		
