@@ -1,632 +1,22 @@
 ﻿[CustomCards]
 	[	{
-			"name": "Blood Silver",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Silver — Blood",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/3_Blood Silver.png"
-			}
-		},
-		{
-			"name": "Bone Silver",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Silver — Bone",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/7_Bone Silver.png"
-			}
-		},
-		{
-			"name": "Mind Silver",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Silver — Mind",
-			"collector_number": "46",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/46_Mind Silver.png"
-			}
-		},
-		{
-			"name": "Null Silver",
+			"name": "Base Silver",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Silver — Null",
-			"collector_number": "48",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/48_Null Silver.png"
-			}
-		},
-		{
-			"name": "Soul Silver",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Silver — Soul",
-			"collector_number": "65",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/65_Soul Silver.png"
-			}
-		},
-		{
-			"name": "Rations",
-			"rarity": "common",
-			"mana_cost": "{0}",
-			"type": "Item — Food",
-			"collector_number": "51",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/51_Rations.png"
-			}
-		},
-		{
-			"name": "Mind Berries",
-			"rarity": "common",
-			"mana_cost": "{0}",
-			"type": "Item — Food",
-			"collector_number": "45",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/45_Mind Berries.png"
-			}
-		},
-		{
-			"name": "Blood Berries",
-			"rarity": "common",
-			"mana_cost": "{0}",
-			"type": "Item — Food",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/2_Blood Berries.png"
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/2_Base Silver.png"
 			}
 		},
 		{
-			"name": "Bone Berries",
-			"rarity": "common",
-			"mana_cost": "{0}",
-			"type": "Item — Food",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/6_Bone Berries.png"
-			}
-		},
-		{
-			"name": "Soul Berries",
-			"rarity": "common",
-			"mana_cost": "{0}",
-			"type": "Item — Food",
-			"collector_number": "64",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/64_Soul Berries.png"
-			}
-		},
-		{
-			"name": "Deoth Hemo",
+			"name": "Slow Silver",
 			"rarity": "uncommon",
-			"mana_cost": "{2}",
-			"type": "Item",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/15_Deoth Hemo.png"
-			}
-		},
-		{
-			"name": "Deoth Necro",
-			"rarity": "uncommon",
-			"mana_cost": "{2}",
-			"type": "Item",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/16_Deoth Necro.png"
-			}
-		},
-		{
-			"name": "Deoth Psyche",
-			"rarity": "uncommon",
-			"mana_cost": "{2}",
-			"type": "Item",
-			"collector_number": "17",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/17_Deoth Psyche.png"
-			}
-		},
-		{
-			"name": "The Deoth Quadrutum",
-			"rarity": "rare",
-			"mana_cost": "{4}",
-			"type": "Item",
-			"collector_number": "18",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/18_The Deoth Quadrutum.png"
-			}
-		},
-		{
-			"name": "Deoth Spectra",
-			"rarity": "uncommon",
-			"mana_cost": "{2}",
-			"type": "Item",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/19_Deoth Spectra.png"
-			}
-		},
-		{
-			"name": "Symmetrical Seeking",
-			"rarity": "rare",
-			"mana_cost": "{0}",
-			"type": "Action",
-			"collector_number": "68",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/68_Symmetrical Seeking.png"
-			}
-		},
-		{
-			"name": "Mana Lens",
-			"rarity": "common",
-			"mana_cost": "{0}",
-			"type": "Item",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/37_Mana Lens.png"
-			}
-		},
-		{
-			"name": "Mana Spring",
-			"rarity": "common",
-			"mana_cost": "{2}",
-			"type": "Structure",
-			"collector_number": "38",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/38_Mana Spring.png"
-			}
-		},
-		{
-			"name": "Manamorph",
-			"rarity": "uncommon",
-			"mana_cost": "{1}",
-			"type": "Action",
-			"collector_number": "39",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/39_Manamorph.png"
-			}
-		},
-		{
-			"name": "The Master of Hemo",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Follower",
-			"collector_number": "41",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/41_The Master of Hemo.png"
-			}
-		},
-		{
-			"name": "The Master of Necro",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Follower",
-			"collector_number": "42",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/42_The Master of Necro.png"
-			}
-		},
-		{
-			"name": "The Master of Psyche",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Follower",
-			"collector_number": "43",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/43_The Master of Psyche.png"
-			}
-		},
-		{
-			"name": "The Master of Spectra",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Follower",
-			"collector_number": "44",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/44_The Master of Spectra.png"
-			}
-		},
-		{
-			"name": "The Master of All",
-			"rarity": "rare",
-			"mana_cost": "{12}",
-			"type": "Follower",
-			"collector_number": "40",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/40_The Master of All.png"
-			}
-		},
-		{
-			"name": "Shrine of Endurance",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Structure",
+			"mana_cost": "",
+			"type": "Silver",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/58_Shrine of Endurance.png"
-			}
-		},
-		{
-			"name": "Shrine of Weakness",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Structure",
-			"collector_number": "61",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/61_Shrine of Weakness.png"
-			}
-		},
-		{
-			"name": "Shrine of Defense",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Structure",
-			"collector_number": "57",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/57_Shrine of Defense.png"
-			}
-		},
-		{
-			"name": "Shrine of Attack",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Structure",
-			"collector_number": "54",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/54_Shrine of Attack.png"
-			}
-		},
-		{
-			"name": "Shrine of Famine",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Structure",
-			"collector_number": "59",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/59_Shrine of Famine.png"
-			}
-		},
-		{
-			"name": "Shrine of Brain",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Structure",
-			"collector_number": "56",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/56_Shrine of Brain.png"
-			}
-		},
-		{
-			"name": "Shrine of Body",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Structure",
-			"collector_number": "55",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/55_Shrine of Body.png"
-			}
-		},
-		{
-			"name": "Shrine of Plenty",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Structure",
-			"collector_number": "60",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/60_Shrine of Plenty.png"
-			}
-		},
-		{
-			"name": "Bloodstained Trebuchet",
-			"rarity": "uncommon",
-			"mana_cost": "{2}",
-			"type": "Structure",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/5_Bloodstained Trebuchet.png"
-			}
-		},
-		{
-			"name": "Hefty Trebuchet",
-			"rarity": "uncommon",
-			"mana_cost": "{2}",
-			"type": "Structure",
-			"collector_number": "31",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/31_Hefty Trebuchet.png"
-			}
-		},
-		{
-			"name": "Makeshift Trebuchet",
-			"rarity": "uncommon",
-			"mana_cost": "{2}",
-			"type": "Structure",
-			"collector_number": "35",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/35_Makeshift Trebuchet.png"
-			}
-		},
-		{
-			"name": "Conjured Trebuchet",
-			"rarity": "uncommon",
-			"mana_cost": "{2}",
-			"type": "Structure",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/13_Conjured Trebuchet.png"
-			}
-		},
-		{
-			"name": "Giant",
-			"rarity": "common",
-			"mana_cost": "{6}",
-			"type": "Follower",
-			"collector_number": "29",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/29_Giant.png"
-			}
-		},
-		{
-			"name": "Dragon",
-			"rarity": "common",
-			"mana_cost": "{6}",
-			"type": "Follower",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/21_Dragon.png"
-			}
-		},
-		{
-			"name": "Eliminate",
-			"rarity": "common",
-			"mana_cost": "{3}",
-			"type": "Action",
-			"collector_number": "24",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/24_Eliminate.png"
-			}
-		},
-		{
-			"name": "Frantic Research",
-			"rarity": "common",
-			"mana_cost": "{1}",
-			"type": "Action",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/28_Frantic Research.png"
-			}
-		},
-		{
-			"name": "Careful Research",
-			"rarity": "common",
-			"mana_cost": "{2}",
-			"type": "Action",
-			"collector_number": "12",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/12_Careful Research.png"
-			}
-		},
-		{
-			"name": "Vampiric Research",
-			"rarity": "common",
-			"mana_cost": "{1}",
-			"type": "Action",
-			"collector_number": "72",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/72_Vampiric Research.png"
-			}
-		},
-		{
-			"name": "Shared Research",
-			"rarity": "common",
-			"mana_cost": "{1}",
-			"type": "Action",
-			"collector_number": "52",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/52_Shared Research.png"
-			}
-		},
-		{
-			"name": "Boneblade Adept",
-			"rarity": "common",
-			"mana_cost": "{1}",
-			"type": "Follower",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/8_Boneblade Adept.png"
-			}
-		},
-		{
-			"name": "Mindblade Adept",
-			"rarity": "common",
-			"mana_cost": "{1}",
-			"type": "Follower",
-			"collector_number": "47",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/47_Mindblade Adept.png"
-			}
-		},
-		{
-			"name": "Bloodblade Adept",
-			"rarity": "common",
-			"mana_cost": "{1}",
-			"type": "Follower",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/4_Bloodblade Adept.png"
-			}
-		},
-		{
-			"name": "Soulblade Adept",
-			"rarity": "common",
-			"mana_cost": "{1}",
-			"type": "Follower",
-			"collector_number": "66",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/66_Soulblade Adept.png"
-			}
-		},
-		{
-			"name": "Exact Nothing",
-			"rarity": "rare",
-			"mana_cost": "{5}",
-			"type": "Action",
-			"collector_number": "25",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/25_Exact Nothing.png"
-			}
-		},
-		{
-			"name": "Dismiss",
-			"rarity": "common",
-			"mana_cost": "{2}",
-			"type": "Action",
-			"collector_number": "20",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/20_Dismiss.png"
-			}
-		},
-		{
-			"name": "Edict",
-			"rarity": "common",
-			"mana_cost": "{2}",
-			"type": "Action",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/23_Edict.png"
-			}
-		},
-		{
-			"name": "Vanish",
-			"rarity": "common",
-			"mana_cost": "{2}",
-			"type": "Action",
-			"collector_number": "73",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/73_Vanish.png"
-			}
-		},
-		{
-			"name": "Smite",
-			"rarity": "common",
-			"mana_cost": "{2}",
-			"type": "Action",
-			"collector_number": "63",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/63_Smite.png"
-			}
-		},
-		{
-			"name": "Lucky Coin",
-			"rarity": "uncommon",
-			"mana_cost": "{1}",
-			"type": "Item",
-			"collector_number": "33",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/33_Lucky Coin.png"
-			}
-		},
-		{
-			"name": "Lucky Fool",
-			"rarity": "uncommon",
-			"mana_cost": "{2}",
-			"type": "Follower",
-			"collector_number": "34",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/34_Lucky Fool.png"
-			}
-		},
-		{
-			"name": "Rabbit's Foot",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Item",
-			"collector_number": "50",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/50_Rabbit's Foot.png"
-			}
-		},
-		{
-			"name": "Shield",
-			"rarity": "common",
-			"mana_cost": "{1}",
-			"type": "Item",
-			"collector_number": "53",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/53_Shield.png"
-			}
-		},
-		{
-			"name": "Brain Satiation Charm",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Item",
-			"collector_number": "9",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/9_Brain Satiation Charm.png"
-			}
-		},
-		{
-			"name": "Tactician",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Follower",
-			"collector_number": "69",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/69_Tactician.png"
-			}
-		},
-		{
-			"name": "Wall",
-			"rarity": "common",
-			"mana_cost": "{1}",
-			"type": "Structure",
-			"collector_number": "74",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/74_Wall.png"
-			}
-		},
-		{
-			"name": "Guardian",
-			"rarity": "common",
-			"mana_cost": "{1}",
-			"type": "Follower",
-			"collector_number": "30",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/30_Guardian.png"
-			}
-		},
-		{
-			"name": "Cure",
-			"rarity": "common",
-			"mana_cost": "{1}",
-			"type": "Action",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/14_Cure.png"
-			}
-		},
-		{
-			"name": "Drain Charm",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Item",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/22_Drain Charm.png"
-			}
-		},
-		{
-			"name": "Famine Charm",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Item",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/26_Famine Charm.png"
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/58_Slow Silver.png"
 			}
 		},
 		{
@@ -634,39 +24,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Silver",
-			"collector_number": "11",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/11_Burst Silver.png"
-			}
-		},
-		{
-			"name": "Time Charm",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Item",
-			"collector_number": "70",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/70_Time Charm.png"
-			}
-		},
-		{
-			"name": "Oppression Charm",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Item",
-			"collector_number": "49",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/49_Oppression Charm.png"
-			}
-		},
-		{
-			"name": "Brawn Satiation Charm",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Item",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/10_Brawn Satiation Charm.png"
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/5_Burst Silver.png"
 			}
 		},
 		{
@@ -680,13 +40,123 @@
 			}
 		},
 		{
-			"name": "Mana Charm",
+			"name": "Skeleton Warrior",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Follower",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/57_Skeleton Warrior.png"
+			}
+		},
+		{
+			"name": "Brain Satiation Charm",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Item",
-			"collector_number": "36",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/36_Mana Charm.png"
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/3_Brain Satiation Charm.png"
+			}
+		},
+		{
+			"name": "Brawn Satiation Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Item",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/4_Brawn Satiation Charm.png"
+			}
+		},
+		{
+			"name": "Research",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Action",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/40_Research.png"
+			}
+		},
+		{
+			"name": "Cure",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Action",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/8_Cure.png"
+			}
+		},
+		{
+			"name": "Dismiss",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Action",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/12_Dismiss.png"
+			}
+		},
+		{
+			"name": "Dragon",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Follower",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/13_Dragon.png"
+			}
+		},
+		{
+			"name": "Drain Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Item",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/14_Drain Charm.png"
+			}
+		},
+		{
+			"name": "Edict",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Action",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/15_Edict.png"
+			}
+		},
+		{
+			"name": "Eliminate",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Action",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/16_Eliminate.png"
+			}
+		},
+		{
+			"name": "Exact Nothing",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Action",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/17_Exact Nothing.png"
+			}
+		},
+		{
+			"name": "Famine Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Item",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/18_Famine Charm.png"
 			}
 		},
 		{
@@ -694,9 +164,39 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Follower",
-			"collector_number": "27",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/27_Farmer.png"
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/19_Farmer.png"
+			}
+		},
+		{
+			"name": "Frantic Research",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Action",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/21_Frantic Research.png"
+			}
+		},
+		{
+			"name": "Giant",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Follower",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/22_Giant.png"
+			}
+		},
+		{
+			"name": "Guardian",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Follower",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/25_Guardian.png"
 			}
 		},
 		{
@@ -704,19 +204,189 @@
 			"rarity": "common",
 			"mana_cost": "{0}",
 			"type": "Item — Food",
-			"collector_number": "32",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/32_Loaf of Bread.png"
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/28_Loaf of Bread.png"
 			}
 		},
 		{
-			"name": "Slow Silver",
+			"name": "Lucky Coin",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Silver",
-			"collector_number": "62",
+			"mana_cost": "{1}",
+			"type": "Item",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/62_Slow Silver.png"
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/29_Lucky Coin.png"
+			}
+		},
+		{
+			"name": "Lucky Fool",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Follower",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/30_Lucky Fool.png"
+			}
+		},
+		{
+			"name": "Mana Spring",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Structure",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/31_Mana Spring.png"
+			}
+		},
+		{
+			"name": "Vampire Warrior",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Follower",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/69_Vampire Warrior.png"
+			}
+		},
+		{
+			"name": "Oppression Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Item",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/34_Oppression Charm.png"
+			}
+		},
+		{
+			"name": "Rabbit's Foot",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Item",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/37_Rabbit's Foot.png"
+			}
+		},
+		{
+			"name": "Rations",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Item — Food",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/39_Rations.png"
+			}
+		},
+		{
+			"name": "Shared Research",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Action",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/44_Shared Research.png"
+			}
+		},
+		{
+			"name": "Shield",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Item",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/45_Shield.png"
+			}
+		},
+		{
+			"name": "Shrine of Offense",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Structure",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/54_Shrine of Offense.png"
+			}
+		},
+		{
+			"name": "Shrine of Brawn",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Structure",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/50_Shrine of Brawn.png"
+			}
+		},
+		{
+			"name": "Shrine of Brain",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Structure",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/49_Shrine of Brain.png"
+			}
+		},
+		{
+			"name": "Shrine of Defense",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Structure",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/51_Shrine of Defense.png"
+			}
+		},
+		{
+			"name": "Shrine of Endurance",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Structure",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/52_Shrine of Endurance.png"
+			}
+		},
+		{
+			"name": "Shrine of Famine",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Structure",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/53_Shrine of Famine.png"
+			}
+		},
+		{
+			"name": "Shrine of Plenty",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Structure",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/55_Shrine of Plenty.png"
+			}
+		},
+		{
+			"name": "Shrine of Weakness",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Structure",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/56_Shrine of Weakness.png"
+			}
+		},
+		{
+			"name": "Smite",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Action",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/59_Smite.png"
 			}
 		},
 		{
@@ -724,9 +394,39 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Action",
-			"collector_number": "67",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/67_Strike.png"
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/63_Strike.png"
+			}
+		},
+		{
+			"name": "Symmetrical Seeking",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Action",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/64_Symmetrical Seeking.png"
+			}
+		},
+		{
+			"name": "Tactician",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Follower",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/65_Tactician.png"
+			}
+		},
+		{
+			"name": "Time Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Item",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/66_Time Charm.png"
 			}
 		},
 		{
@@ -734,88 +434,388 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Item",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/68_Treasure Map.png"
+			}
+		},
+		{
+			"name": "Vampiric Research",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Action",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/70_Vampiric Research.png"
+			}
+		},
+		{
+			"name": "Wall",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Structure",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/72_Wall.png"
+			}
+		},
+		{
+			"name": "Compass",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Item",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/6_Compass.png"
+			}
+		},
+		{
+			"name": "Cookpot",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Structure",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/7_Cookpot.png"
+			}
+		},
+		{
+			"name": "Cyclic Flare",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Action",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/9_Cyclic Flare.png"
+			}
+		},
+		{
+			"name": "Cyclic Force",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Action",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/10_Cyclic Force.png"
+			}
+		},
+		{
+			"name": "Cyclic Thought",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Action",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/11_Cyclic Thought.png"
+			}
+		},
+		{
+			"name": "Food for Thought",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Item — Food",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/20_Food for Thought.png"
+			}
+		},
+		{
+			"name": "Grave Robbing",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Action",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/23_Grave Robbing.png"
+			}
+		},
+		{
+			"name": "Growling Stomach",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Action",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/24_Growling Stomach.png"
+			}
+		},
+		{
+			"name": "Innkeeper",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Follower",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/26_Innkeeper.png"
+			}
+		},
+		{
+			"name": "Lestrid, the Ever Feasting",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Follower",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/27_Lestrid, the Ever Feasting.png"
+			}
+		},
+		{
+			"name": "Okletor, the Ever Searching",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Follower",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/32_Okletor, the Ever Searching.png"
+			}
+		},
+		{
+			"name": "Opportunist",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Follower",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/33_Opportunist.png"
+			}
+		},
+		{
+			"name": "Pomegranate",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Item — Food",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/35_Pomegranate.png"
+			}
+		},
+		{
+			"name": "Propaganda",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Action",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/36_Propaganda.png"
+			}
+		},
+		{
+			"name": "Raid",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Action",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/38_Raid.png"
+			}
+		},
+		{
+			"name": "Saboteur",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Follower",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/41_Saboteur.png"
+			}
+		},
+		{
+			"name": "Sacrifice Fodder",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Follower",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/42_Sacrifice Fodder.png"
+			}
+		},
+		{
+			"name": "Salt",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Item — Food",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/43_Salt.png"
+			}
+		},
+		{
+			"name": "Shifting Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{X}",
+			"type": "Follower",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/46_Shifting Guardian.png"
+			}
+		},
+		{
+			"name": "The Shifting One",
+			"rarity": "rare",
+			"mana_cost": "{X}",
+			"type": "Follower",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/47_The Shifting One.png"
+			}
+		},
+		{
+			"name": "Shifting Warrior",
+			"rarity": "uncommon",
+			"mana_cost": "{X}",
+			"type": "Follower",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/48_Shifting Warrior.png"
+			}
+		},
+		{
+			"name": "Spy",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Follower",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/60_Spy.png"
+			}
+		},
+		{
+			"name": "Starvatiomancer",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Follower",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/61_Starvatiomancer.png"
+			}
+		},
+		{
+			"name": "Starving Masses",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Follower",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/62_Starving Masses.png"
+			}
+		},
+		{
+			"name": "Town Guard",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Follower",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/67_Town Guard.png"
+			}
+		},
+		{
+			"name": "Vial of Blood",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Item",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/71_Treasure Map.png"
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/71_Vial of Blood.png"
+			}
+		},
+		{
+			"name": "War Conscriptor",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Follower",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/73_War Conscriptor.png"
+			}
+		},
+		{
+			"name": "Warrior",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Follower",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://github.com/EtherShade/ethershade.github.io/sets/S01-files/img/74_Warrior.png"
 			}
 		},
 		]
-	[RareSlot(1)]
-	2 The Deoth Quadrutum
-		2 Symmetrical Seeking
-		2 The Master of All
-		2 Shrine of Endurance
-		2 Shrine of Weakness
-		2 Shrine of Defense
-		2 Shrine of Attack
-		2 Shrine of Famine
-		2 Shrine of Brain
-		2 Shrine of Body
-		2 Shrine of Plenty
-		2 Exact Nothing
+	[RareSlot(2)]
+	2 Exact Nothing
 		2 Rabbit's Foot
-		[UncommonSlot(3)]
-	9 Deoth Hemo
-		9 Deoth Necro
-		9 Deoth Psyche
-		9 Deoth Spectra
-		9 Manamorph
-		9 The Master of Hemo
-		9 The Master of Necro
-		9 The Master of Psyche
-		9 The Master of Spectra
-		9 Bloodstained Trebuchet
-		9 Hefty Trebuchet
-		9 Makeshift Trebuchet
-		9 Conjured Trebuchet
-		9 Lucky Coin
-		9 Lucky Fool
+		2 Shrine of Offense
+		2 Shrine of Brawn
+		2 Shrine of Brain
+		2 Shrine of Defense
+		2 Shrine of Endurance
+		2 Shrine of Famine
+		2 Shrine of Plenty
+		2 Shrine of Weakness
+		2 Symmetrical Seeking
+		2 Cyclic Flare
+		2 Cyclic Force
+		2 Cyclic Thought
+		2 Lestrid, the Ever Feasting
+		2 Okletor, the Ever Searching
+		2 The Shifting One
+		[UncommonSlot(5)]
+	9 Slow Silver
+		9 Burst Silver
+		9 Attack Charm
 		9 Brain Satiation Charm
-		9 Tactician
+		9 Brawn Satiation Charm
 		9 Drain Charm
 		9 Famine Charm
-		9 Burst Silver
-		9 Time Charm
+		9 Lucky Coin
+		9 Lucky Fool
 		9 Oppression Charm
-		9 Brawn Satiation Charm
-		9 Attack Charm
-		9 Mana Charm
-		9 Slow Silver
-		[CommonSlot(6)]
-	30 Mind Berries
-		30 Blood Berries
-		30 Bone Berries
-		30 Soul Berries
-		30 Mana Lens
-		30 Mana Spring
-		30 Giant
-		30 Dragon
-		30 Eliminate
-		30 Frantic Research
-		30 Careful Research
-		30 Vampiric Research
-		30 Shared Research
-		30 Boneblade Adept
-		30 Mindblade Adept
-		30 Bloodblade Adept
-		30 Soulblade Adept
-		30 Dismiss
-		30 Edict
-		30 Vanish
-		30 Smite
-		30 Shield
-		30 Wall
-		30 Guardian
+		9 Tactician
+		9 Time Charm
+		9 Cookpot
+		9 Shifting Guardian
+		9 Shifting Warrior
+		9 War Conscriptor
+		[CommonSlot(8)]
+	30 Skeleton Warrior
+		30 Research
 		30 Cure
+		30 Dismiss
+		30 Dragon
+		30 Edict
+		30 Eliminate
 		30 Farmer
+		30 Frantic Research
+		30 Giant
+		30 Guardian
 		30 Loaf of Bread
+		30 Mana Spring
+		30 Vampire Warrior
+		30 Shared Research
+		30 Shield
+		30 Smite
 		30 Strike
 		30 Treasure Map
+		30 Vampiric Research
+		30 Wall
+		30 Compass
+		30 Food for Thought
+		30 Grave Robbing
+		30 Growling Stomach
+		30 Innkeeper
+		30 Opportunist
+		30 Pomegranate
+		30 Propaganda
+		30 Raid
+		30 Saboteur
+		30 Sacrifice Fodder
+		30 Salt
+		30 Spy
+		30 Starvatiomancer
+		30 Starving Masses
+		30 Town Guard
+		30 Vial of Blood
+		30 Warrior
 		[LandSlot(1)]
-	10 Blood Silver
-		10 Bone Silver
-		10 Mind Silver
-		10 Null Silver
-		10 Soul Silver
+	10 Base Silver
 		10 Rations
 		
