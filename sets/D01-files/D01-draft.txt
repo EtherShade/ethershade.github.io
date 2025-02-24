@@ -842,20 +842,20 @@
 		}
 	]
 [RareSlot(2)]
-2 Cyclic Flare
-2 Cyclic Force
-2 Drakken, Khaos Incarnate
-2 Illusory Silver
-2 Karaxunnos, the Mirrored Abolishment
-2 The Shifting One
-2 Shrine of Defense
-2 Shrine of Endurance
-2 Shrine of Heart
-2 Shrine of Mind
-2 Shrine of Obstruction
-2 Shrine of Offense
-2 Shrine of Plenty
-2 Shrine of Weakness
+3 Cyclic Flare
+3 Cyclic Force
+3 Drakken, Khaos Incarnate
+3 Illusory Silver
+3 Karaxunnos, the Mirrored Abolishment
+3 The Shifting One
+3 Shrine of Defense
+3 Shrine of Endurance
+3 Shrine of Heart
+3 Shrine of Mind
+3 Shrine of Obstruction
+3 Shrine of Offense
+3 Shrine of Plenty
+3 Shrine of Weakness
 [UncommonSlot(5)]
 9 Argent Harmony
 9 Argent Resurgence
