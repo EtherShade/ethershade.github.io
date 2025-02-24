@@ -32,7 +32,7 @@
 		},
 		{
 			"name": "Attack Charm",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Item",
 			"collector_number": "7",
@@ -562,7 +562,7 @@
 		},
 		{
 			"name": "Opportunist",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Follower",
 			"collector_number": "72",
@@ -1269,7 +1269,6 @@
 2 Master of Nothing
 [UncommonSlot(5)]
 9 Burst Silver
-9 Attack Charm
 9 Brain Satiation Charm
 9 Brawn Satiation Charm
 9 Dragon
@@ -1285,6 +1284,7 @@
 9 Time Charm
 9 Compass
 9 Cookpot
+9 Opportunist
 9 Raid
 9 Starving Masses
 9 War Conscriptor
@@ -1307,6 +1307,7 @@
 9 Feasting Table
 [CommonSlot(8)]
 30 Slow Silver
+30 Attack Charm
 30 Skeleton Warrior
 30 Research
 30 Cure
@@ -1330,7 +1331,6 @@
 30 Grave Robbing
 30 Growling Stomach
 30 Innkeeper
-30 Opportunist
 30 Pomegranate
 30 Propaganda
 30 Saboteur

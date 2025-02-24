@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "Attack Charm",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Item",
 			"collector_number": "5",
@@ -432,7 +432,7 @@
 		},
 		{
 			"name": "Opportunist",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Follower",
 			"collector_number": "44",
@@ -860,7 +860,6 @@
 9 Argent Harmony
 9 Argent Resurgence
 9 The Argent Trials
-9 Attack Charm
 9 Book of Bread and Circuses
 9 Brain Satiation Charm
 9 Burst Silver
@@ -877,6 +876,7 @@
 9 Lucky Fool
 9 Lucky Silver
 9 Mark of Karaxunnos
+9 Opportunist
 9 Oppression Charm
 9 Raid
 9 Reap and Sow
@@ -889,6 +889,7 @@
 9 Wayfarer's Silver
 [CommonSlot(8)]
 30 Against the Odds
+30 Attack Charm
 30 Cure
 30 Degrade
 30 Dismiss
@@ -906,7 +907,6 @@
 30 Library
 30 Loaf of Bread
 30 Mana Spring
-30 Opportunist
 30 Pomegranate
 30 Propaganda
 30 Research
