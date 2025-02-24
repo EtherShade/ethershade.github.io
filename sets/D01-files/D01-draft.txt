@@ -7,7 +7,7 @@
 			"type": "Action",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/1_Against the Odds.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/1_Against the Odds.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Action",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/2_Argent Harmony.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/2_Argent Harmony.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Action",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/3_Argent Resurgence.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/3_Argent Resurgence.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Structure",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/4_The Argent Trials.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/4_The Argent Trials.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Item",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/5_Attack Charm.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/5_Attack Charm.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Item",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/6_Book of Bread and Circuses.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/6_Book of Bread and Circuses.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Item",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/7_Brain Satiation Charm.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/7_Brain Satiation Charm.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Silver",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/8_Burst Silver.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/8_Burst Silver.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Item",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/9_Compass.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/9_Compass.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Action",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/10_Cure.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/10_Cure.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Action",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/11_Cyclic Flare.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/11_Cyclic Flare.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Action",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/12_Cyclic Force.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/12_Cyclic Force.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Structure",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/13_Defensible Encampment.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/13_Defensible Encampment.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Action",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/14_Degrade.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/14_Degrade.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Action",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/15_Dismiss.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/15_Dismiss.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Action",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/16_Disorganized Propoganda.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/16_Disorganized Propoganda.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Follower",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/17_Dragon.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/17_Dragon.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Item",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/18_Drain Charm.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/18_Drain Charm.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Follower",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/19_Drakken, Khaos Incarnate.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/19_Drakken, Khaos Incarnate.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Follower",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/20_Duelist.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/20_Duelist.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Silver — Food",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/21_Edible Silver.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/21_Edible Silver.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Action",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/22_Edict.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/22_Edict.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Action",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/23_Eliminate.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/23_Eliminate.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Silver",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/24_Eternal Silver.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/24_Eternal Silver.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Action",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/25_Exact Nothing.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/25_Exact Nothing.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Structure",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/26_Feasting Table.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/26_Feasting Table.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Silver",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/27_Fool's Silver.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/27_Fool's Silver.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Action",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/28_Frantic Research.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/28_Frantic Research.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Follower",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/29_Giant.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/29_Giant.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Action",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/30_Grave Robbing.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/30_Grave Robbing.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Follower",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/31_Guardian.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/31_Guardian.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Item",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/32_Horn of Plenty.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/32_Horn of Plenty.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Silver",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/33_Illusory Silver.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/33_Illusory Silver.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Silver",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/34_Imperial Silver.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/34_Imperial Silver.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Follower",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/35_Innkeeper.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/35_Innkeeper.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Follower",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/36_Karaxunnos, the Mirrored Abolishment.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/36_Karaxunnos, the Mirrored Abolishment.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Structure",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/37_Large Wall.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/37_Large Wall.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Structure",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/38_Library.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/38_Library.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Item — Food",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/39_Loaf of Bread.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/39_Loaf of Bread.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Follower",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/40_Lucky Fool.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/40_Lucky Fool.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Silver",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/41_Lucky Silver.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/41_Lucky Silver.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Structure",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/42_Mana Spring.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/42_Mana Spring.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Item — Rune",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/43_Mark of Karaxunnos.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/43_Mark of Karaxunnos.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Follower",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/44_Opportunist.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/44_Opportunist.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Item",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/45_Oppression Charm.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/45_Oppression Charm.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Item — Food",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/46_Pomegranate.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/46_Pomegranate.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Action",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/47_Propaganda.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/47_Propaganda.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Action",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/48_Raid.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/48_Raid.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Action",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/49_Reap and Sow.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/49_Reap and Sow.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Action",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/50_Research.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/50_Research.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Follower",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/51_Saboteur.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/51_Saboteur.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Follower",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/52_Sacrifice Fodder.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/52_Sacrifice Fodder.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Action",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/53_Shared Research.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/53_Shared Research.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Item",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/54_Shield.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/54_Shield.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Follower",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/55_Shifting Guardian.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/55_Shifting Guardian.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Follower",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/56_The Shifting One.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/56_The Shifting One.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Item",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/57_Shifting Rations.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/57_Shifting Rations.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Action",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/58_Shifting Strike.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/58_Shifting Strike.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Structure",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/59_Shifting Wall.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/59_Shifting Wall.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Follower",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/60_Shifting Warrior.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/60_Shifting Warrior.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Silver",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/61_Shifty Silver.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/61_Shifty Silver.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Structure",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/62_Shrine of Defense.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/62_Shrine of Defense.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Structure",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/63_Shrine of Endurance.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/63_Shrine of Endurance.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Structure",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/64_Shrine of Heart.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/64_Shrine of Heart.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Structure",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/65_Shrine of Mind.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/65_Shrine of Mind.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Structure",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/66_Shrine of Obstruction.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/66_Shrine of Obstruction.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Structure",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/67_Shrine of Offense.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/67_Shrine of Offense.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Structure",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/68_Shrine of Plenty.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/68_Shrine of Plenty.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Structure",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/69_Shrine of Weakness.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/69_Shrine of Weakness.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Silver",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/70_Slow Silver.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/70_Slow Silver.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Action",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/71_Smite.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/71_Smite.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Follower",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/72_Spy.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/72_Spy.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Follower",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/73_Starving Masses.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/73_Starving Masses.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Action",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/74_Strike.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/74_Strike.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Action",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/75_Symmetrical Seeking.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/75_Symmetrical Seeking.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Follower",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/76_Tactician.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/76_Tactician.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Action",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/77_Target Aquired.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/77_Target Aquired.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Item",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/78_Time Charm.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/78_Time Charm.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Follower",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/79_Town Guard.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/79_Town Guard.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Item",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/80_Vial of Blood.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/80_Vial of Blood.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Structure",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/81_Wall.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/81_Wall.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Follower",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/82_War Conscriptor.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/82_War Conscriptor.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Follower",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/83_Warrior.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/83_Warrior.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Silver",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://github.com/EtherShade/ethershade.github.io/sets/D01-files/img/84_Wayfarer's Silver.png"
+				"en": "https://ethershade.github.io/sets/D01-files/img/84_Wayfarer's Silver.png"
 			}
 		}
 	]
