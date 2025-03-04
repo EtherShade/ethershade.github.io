@@ -68,7 +68,7 @@
 			gap: 2px;
 			padding-left: 5%;
 			padding-right: 5%;
-			padding-bottom: 3%;
+			padding-bottom: 1%;
 			justify-items: center;
 			max-width: 1200px;
 		}
@@ -159,6 +159,7 @@
 	<img class="preload-hidden" src="/img/dot.png" />
 	<img class="preload-hidden" src="/sets/S01-files/logo.png" />
 	<img class="preload-hidden" src="/sets/D01-files/icon.png" />
+		<img class="preload-hidden" src="/sets/EOP-files/icon.png" />
 		<img class="preload-hidden" src="/sets/S01-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
@@ -174,6 +175,8 @@
 	<div class="icon-bar">
 			<div class="icon"><a href="D01"><img src="/sets/D01-files/icon.png"></img></a></div>
 		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="EOP"><img src="/sets/EOP-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
 		<div class="icon"><a href="S01"><img src="/sets/S01-files/icon.png"></img></a></div>
 
 		</div>
@@ -182,22 +185,7 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\S01-files\img\14_Confusion Charm.png" id="14_Confusion Charm" data-flag="@X" onclick="openSidebar('14_Confusion Charm',false)"></div>
+				<div class="container"><img alt="/sets\S01-files\img\14_Confusion Charm.png" id="14_Confusion Charm" data-flag="@X" onclick="openSidebar('14_Confusion Charm',false)"></div>
 			<div class="container"><img alt="/sets\S01-files\img\17_Cyclic Flare.png" id="17_Cyclic Flare" data-flag="@X" onclick="openSidebar('17_Cyclic Flare',false)"></div>
 			<div class="container"><img alt="/sets\S01-files\img\18_Cyclic Force.png" id="18_Cyclic Force" data-flag="@X" onclick="openSidebar('18_Cyclic Force',false)"></div>
 			<div class="container"><img alt="/sets\S01-files\img\19_Cyclic Thought.png" id="19_Cyclic Thought" data-flag="@X" onclick="openSidebar('19_Cyclic Thought',false)"></div>
@@ -458,7 +446,7 @@
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
-		if (horizontal && sidebar_img.src.includes("_front"))
+		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
 			rotated_img.style.display = "block";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
