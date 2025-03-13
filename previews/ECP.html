@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/ECP-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>ECP visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/ECP-files/logo.png" />
+	<img class="preload-hidden" src="/sets/ECP-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="ECP"><img src="/sets/ECP-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/ECP-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\ECP-files\img\20_Raeka's Protection.png" id="20_Raekas Protection" data-flag="@X" onclick="openSidebar('20_Raekas Protection',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\26_The Balancer.png" id="26_The Balancer" data-flag="@X" onclick="openSidebar('26_The Balancer',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\51_Oil Plague.png" id="51_Oil Plague" data-flag="@X" onclick="openSidebar('51_Oil Plague',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\58_Failure Incarnate.png" id="58_Failure Incarnate" data-flag="@X" onclick="openSidebar('58_Failure Incarnate',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\72_Rogerek, Heir of Rosnakht.png" id="72_Rogerek, Heir of Rosnakht" data-flag="@X" onclick="openSidebar('72_Rogerek, Heir of Rosnakht',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\12_Artificial Rally.png" id="12_Artificial Rally" data-flag="@X" onclick="openSidebar('12_Artificial Rally',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\32_Great Anticipation.png" id="32_Great Anticipation" data-flag="@X" onclick="openSidebar('32_Great Anticipation',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\53_Vampiric Bowmastery.png" id="53_Vampiric Bowmastery" data-flag="@X" onclick="openSidebar('53_Vampiric Bowmastery',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\61_Norin, the Fearful.png" id="61_Norin, the Fearful" data-flag="@X" onclick="openSidebar('61_Norin, the Fearful',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\69_Faewood Caretaker.png" id="69_Faewood Caretaker" data-flag="@X" onclick="openSidebar('69_Faewood Caretaker',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\13_Chilling Eminence.png" id="13_Chilling Eminence" data-flag="@X" onclick="openSidebar('13_Chilling Eminence',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\37_Oracle of the Grind.png" id="37_Oracle of the Grind" data-flag="@X" onclick="openSidebar('37_Oracle of the Grind',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\47_Crown of Doom.png" id="47_Crown of Doom" data-flag="@X" onclick="openSidebar('47_Crown of Doom',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\63_Ragavan, the Pilferer.png" id="63_Ragavan, the Pilferer" data-flag="@X" onclick="openSidebar('63_Ragavan, the Pilferer',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\70_Fey Grove.png" id="70_Fey Grove" data-flag="@X" onclick="openSidebar('70_Fey Grove',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\14_Ephemeral Force.png" id="14_Ephemeral Force" data-flag="@X" onclick="openSidebar('14_Ephemeral Force',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\43_War of Wits.png" id="43_War of Wits" data-flag="@X" onclick="openSidebar('43_War of Wits',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\48_Dredgern, Heir to Sheoldred.png" id="48_Dredgern, Heir to Sheoldred" data-flag="@X" onclick="openSidebar('48_Dredgern, Heir to Sheoldred',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\57_Extreme Ritual.png" id="57_Extreme Ritual" data-flag="@X" onclick="openSidebar('57_Extreme Ritual',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\71_Oilborn Elves.png" id="71_Oilborn Elves" data-flag="@X" onclick="openSidebar('71_Oilborn Elves',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\15_Frost Prison Guard.png" id="15_Frost Prison Guard" data-flag="@X" onclick="openSidebar('15_Frost Prison Guard',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\28_Conditioned Retrieval.png" id="28_Conditioned Retrieval" data-flag="@X" onclick="openSidebar('28_Conditioned Retrieval',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\49_Horrific Parasite.png" id="49_Horrific Parasite" data-flag="@X" onclick="openSidebar('49_Horrific Parasite',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\64_Sneak Strike.png" id="64_Sneak Strike" data-flag="@X" onclick="openSidebar('64_Sneak Strike',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\73_Tutor of Emerald.png" id="73_Tutor of Emerald" data-flag="@X" onclick="openSidebar('73_Tutor of Emerald',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\16_Holy Negation.png" id="16_Holy Negation" data-flag="@X" onclick="openSidebar('16_Holy Negation',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\30_Enswiften.png" id="30_Enswiften" data-flag="@X" onclick="openSidebar('30_Enswiften',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\50_Hounds of the Skull.png" id="50_Hounds of the Skull" data-flag="@X" onclick="openSidebar('50_Hounds of the Skull',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\59_Foul Flingery.png" id="59_Foul Flingery" data-flag="@X" onclick="openSidebar('59_Foul Flingery',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\74_Word of Life.png" id="74_Word of Life" data-flag="@X" onclick="openSidebar('74_Word of Life',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\17_Oilborn Medic.png" id="17_Oilborn Medic" data-flag="@X" onclick="openSidebar('17_Oilborn Medic',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\31_Exchange Rate.png" id="31_Exchange Rate" data-flag="@X" onclick="openSidebar('31_Exchange Rate',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\52_Tutor of Jet.png" id="52_Tutor of Jet" data-flag="@X" onclick="openSidebar('52_Tutor of Jet',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\60_Lightning Blast.png" id="60_Lightning Blast" data-flag="@X" onclick="openSidebar('60_Lightning Blast',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\75_Word of Nature.png" id="75_Word of Nature" data-flag="@X" onclick="openSidebar('75_Word of Nature',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\18_Raeka, Font of Purity.png" id="18_Raeka, Font of Purity" data-flag="@X" onclick="openSidebar('18_Raeka, Font of Purity',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\34_Hatch a Plan.png" id="34_Hatch a Plan" data-flag="@X" onclick="openSidebar('34_Hatch a Plan',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\54_Word of Death.png" id="54_Word of Death" data-flag="@X" onclick="openSidebar('54_Word of Death',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\62_Oilborn Catapult.png" id="62_Oilborn Catapult" data-flag="@X" onclick="openSidebar('62_Oilborn Catapult',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\76_Word of Strength.png" id="76_Word of Strength" data-flag="@X" onclick="openSidebar('76_Word of Strength',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\19_Raeka, Giada's Heir.png" id="19_Raeka, Giadas Heir" data-flag="@X" onclick="openSidebar('19_Raeka, Giadas Heir',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\38_Radical Dissipation.png" id="38_Radical Dissipation" data-flag="@X" onclick="openSidebar('38_Radical Dissipation',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\55_Word of Fear.png" id="55_Word of Fear" data-flag="@X" onclick="openSidebar('55_Word of Fear',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\65_Tutor of Ruby.png" id="65_Tutor of Ruby" data-flag="@X" onclick="openSidebar('65_Tutor of Ruby',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\21_Tutor of Pearl.png" id="21_Tutor of Pearl" data-flag="@X" onclick="openSidebar('21_Tutor of Pearl',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\40_Stealthy Snacker.png" id="40_Stealthy Snacker" data-flag="@X" onclick="openSidebar('40_Stealthy Snacker',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\56_Word of Persistence.png" id="56_Word of Persistence" data-flag="@X" onclick="openSidebar('56_Word of Persistence',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\66_Word of Chaos.png" id="66_Word of Chaos" data-flag="@X" onclick="openSidebar('66_Word of Chaos',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\22_Word of Loyalty.png" id="22_Word of Loyalty" data-flag="@X" onclick="openSidebar('22_Word of Loyalty',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\27_Chilling Touch.png" id="27_Chilling Touch" data-flag="@X" onclick="openSidebar('27_Chilling Touch',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\67_Word of Courage.png" id="67_Word of Courage" data-flag="@X" onclick="openSidebar('67_Word of Courage',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\23_Word of Order.png" id="23_Word of Order" data-flag="@X" onclick="openSidebar('23_Word of Order',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\29_Cultist of Frost.png" id="29_Cultist of Frost" data-flag="@X" onclick="openSidebar('29_Cultist of Frost',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\68_Word of Wealth.png" id="68_Word of Wealth" data-flag="@X" onclick="openSidebar('68_Word of Wealth',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\24_Word of Purity.png" id="24_Word of Purity" data-flag="@X" onclick="openSidebar('24_Word of Purity',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\33_Grinding Investigation.png" id="33_Grinding Investigation" data-flag="@X" onclick="openSidebar('33_Grinding Investigation',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\25_Wrath of Phyrexia.png" id="25_Wrath of Phyrexia" data-flag="@X" onclick="openSidebar('25_Wrath of Phyrexia',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\35_Library Ravens.png" id="35_Library Ravens" data-flag="@X" onclick="openSidebar('35_Library Ravens',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\36_Oilborn Barricade.png" id="36_Oilborn Barricade" data-flag="@X" onclick="openSidebar('36_Oilborn Barricade',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\39_Seek Knowledge.png" id="39_Seek Knowledge" data-flag="@X" onclick="openSidebar('39_Seek Knowledge',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\41_Thinking in Squares.png" id="41_Thinking in Squares" data-flag="@X" onclick="openSidebar('41_Thinking in Squares',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\42_Tutor of Sapphire.png" id="42_Tutor of Sapphire" data-flag="@X" onclick="openSidebar('42_Tutor of Sapphire',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\44_Word of Knowledge.png" id="44_Word of Knowledge" data-flag="@X" onclick="openSidebar('44_Word of Knowledge',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\45_Word of Subtlety.png" id="45_Word of Subtlety" data-flag="@X" onclick="openSidebar('45_Word of Subtlety',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\46_Word of Will.png" id="46_Word of Will" data-flag="@X" onclick="openSidebar('46_Word of Will',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\77_Frost, in the Flesh.png" id="77_Frost, in the Flesh" data-flag="@X" onclick="openSidebar('77_Frost, in the Flesh',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\78_Reanimoeba.png" id="78_Reanimoeba" data-flag="@X" onclick="openSidebar('78_Reanimoeba',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\79_Time Stops for the Duel.png" id="79_Time Stops for the Duel" data-flag="@X" onclick="openSidebar('79_Time Stops for the Duel',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\81_The Font of Oil.png" id="81_The Font of Oil" data-flag="@X" onclick="openSidebar('81_The Font of Oil',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\80_Prismatic Wheel.png" id="80_Prismatic Wheel" data-flag="@X" onclick="openSidebar('80_Prismatic Wheel',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\2_Embodiment of the Fae.png" id="2_Embodiment of the Fae" data-flag="@X" onclick="openSidebar('2_Embodiment of the Fae',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\1_Bountiful Blessings of Fae.png" id="1_Bountiful Blessings of Fae" data-flag="@X" onclick="openSidebar('1_Bountiful Blessings of Fae',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\5_Feylusion.png" id="5_Feylusion" data-flag="@X" onclick="openSidebar('5_Feylusion',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\84_Helm of the Great Host.png" id="84_Helm of the Great Host" data-flag="@X" onclick="openSidebar('84_Helm of the Great Host',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\85_Karnite.png" id="85_Karnite" data-flag="@X" onclick="openSidebar('85_Karnite',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\87_Karnite Enforcer.png" id="87_Karnite Enforcer" data-flag="@X" onclick="openSidebar('87_Karnite Enforcer',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\89_Karnithoper.png" id="89_Karnithoper" data-flag="@X" onclick="openSidebar('89_Karnithoper',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\3_Essence of Heartbeat.png" id="3_Essence of Heartbeat" data-flag="@X" onclick="openSidebar('3_Essence of Heartbeat',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\4_Fae Anthem.png" id="4_Fae Anthem" data-flag="@X" onclick="openSidebar('4_Fae Anthem',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\6_The Lord of Sevens.png" id="6_The Lord of Sevens" data-flag="@X" onclick="openSidebar('6_The Lord of Sevens',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\7_Lotus Eminence.png" id="7_Lotus Eminence" data-flag="@X" onclick="openSidebar('7_Lotus Eminence',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\8_Micromanage.png" id="8_Micromanage" data-flag="@X" onclick="openSidebar('8_Micromanage',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\9_Natural Essence.png" id="9_Natural Essence" data-flag="@X" onclick="openSidebar('9_Natural Essence',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\10_Trip.png" id="10_Trip" data-flag="@X" onclick="openSidebar('10_Trip',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\11_Vanishing Knowledge.png" id="11_Vanishing Knowledge" data-flag="@X" onclick="openSidebar('11_Vanishing Knowledge',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\83_Babbling Bauble.png" id="83_Babbling Bauble" data-flag="@X" onclick="openSidebar('83_Babbling Bauble',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\86_Karnite Bruteling.png" id="86_Karnite Bruteling" data-flag="@X" onclick="openSidebar('86_Karnite Bruteling',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\88_Karnite Reconstructor.png" id="88_Karnite Reconstructor" data-flag="@X" onclick="openSidebar('88_Karnite Reconstructor',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\91_Mox Mox Emerald.png" id="91_Mox Mox Emerald" data-flag="@X" onclick="openSidebar('91_Mox Mox Emerald',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\92_Mox Mox Jet.png" id="92_Mox Mox Jet" data-flag="@X" onclick="openSidebar('92_Mox Mox Jet',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\93_Mox Mox Pearl.png" id="93_Mox Mox Pearl" data-flag="@X" onclick="openSidebar('93_Mox Mox Pearl',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\94_Mox Mox Ruby.png" id="94_Mox Mox Ruby" data-flag="@X" onclick="openSidebar('94_Mox Mox Ruby',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\95_Mox Mox Sapphire.png" id="95_Mox Mox Sapphire" data-flag="@X" onclick="openSidebar('95_Mox Mox Sapphire',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\96_Pure Essence.png" id="96_Pure Essence" data-flag="@X" onclick="openSidebar('96_Pure Essence',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\97_The Thoughteater.png" id="97_The Thoughteater" data-flag="@X" onclick="openSidebar('97_The Thoughteater',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\125_Minehowler.png" id="125_Minehowler" data-flag="@X" onclick="openSidebar('125_Minehowler',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\124_Maniacal Laboratory.png" id="124_Maniacal Laboratory" data-flag="@X" onclick="openSidebar('124_Maniacal Laboratory',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\105_Archive of Frost.png" id="105_Archive of Frost" data-flag="@X" onclick="openSidebar('105_Archive of Frost',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\102_Archive of Darkness.png" id="102_Archive of Darkness" data-flag="@X" onclick="openSidebar('102_Archive of Darkness',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\100_Archive of Blood.png" id="100_Archive of Blood" data-flag="@X" onclick="openSidebar('100_Archive of Blood',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\104_Archive of Fire.png" id="104_Archive of Fire" data-flag="@X" onclick="openSidebar('104_Archive of Fire',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\106_Archive of Life.png" id="106_Archive of Life" data-flag="@X" onclick="openSidebar('106_Archive of Life',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\117_Cemetery of Frost.png" id="117_Cemetery of Frost" data-flag="@X" onclick="openSidebar('117_Cemetery of Frost',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\114_Cemetery of Darkness.png" id="114_Cemetery of Darkness" data-flag="@X" onclick="openSidebar('114_Cemetery of Darkness',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\112_Cemetery of Blood.png" id="112_Cemetery of Blood" data-flag="@X" onclick="openSidebar('112_Cemetery of Blood',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\116_Cemetery of Fire.png" id="116_Cemetery of Fire" data-flag="@X" onclick="openSidebar('116_Cemetery of Fire',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\118_Cemetery of Life.png" id="118_Cemetery of Life" data-flag="@X" onclick="openSidebar('118_Cemetery of Life',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\142_Sparkvista of Frost.png" id="142_Sparkvista of Frost" data-flag="@X" onclick="openSidebar('142_Sparkvista of Frost',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\139_Sparkvista of Darkness.png" id="139_Sparkvista of Darkness" data-flag="@X" onclick="openSidebar('139_Sparkvista of Darkness',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\137_Sparkvista of Blood.png" id="137_Sparkvista of Blood" data-flag="@X" onclick="openSidebar('137_Sparkvista of Blood',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\141_Sparkvista of Fire.png" id="141_Sparkvista of Fire" data-flag="@X" onclick="openSidebar('141_Sparkvista of Fire',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\143_Sparkvista of Life.png" id="143_Sparkvista of Life" data-flag="@X" onclick="openSidebar('143_Sparkvista of Life',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\158_Village of Frost.png" id="158_Village of Frost" data-flag="@X" onclick="openSidebar('158_Village of Frost',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\155_Village of Darkness.png" id="155_Village of Darkness" data-flag="@X" onclick="openSidebar('155_Village of Darkness',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\153_Village of Blood.png" id="153_Village of Blood" data-flag="@X" onclick="openSidebar('153_Village of Blood',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\157_Village of Fire.png" id="157_Village of Fire" data-flag="@X" onclick="openSidebar('157_Village of Fire',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\159_Village of Life.png" id="159_Village of Life" data-flag="@X" onclick="openSidebar('159_Village of Life',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\132_Road of Frost.png" id="132_Road of Frost" data-flag="@X" onclick="openSidebar('132_Road of Frost',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\129_Road of Darkness.png" id="129_Road of Darkness" data-flag="@X" onclick="openSidebar('129_Road of Darkness',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\127_Road of Blood.png" id="127_Road of Blood" data-flag="@X" onclick="openSidebar('127_Road of Blood',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\131_Road of Fire.png" id="131_Road of Fire" data-flag="@X" onclick="openSidebar('131_Road of Fire',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\133_Road of Life.png" id="133_Road of Life" data-flag="@X" onclick="openSidebar('133_Road of Life',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\101_Archive of Bone.png" id="101_Archive of Bone" data-flag="@X" onclick="openSidebar('101_Archive of Bone',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\108_Archive of Lightning.png" id="108_Archive of Lightning" data-flag="@X" onclick="openSidebar('108_Archive of Lightning',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\103_Archive of Death.png" id="103_Archive of Death" data-flag="@X" onclick="openSidebar('103_Archive of Death',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\107_Archive of Light.png" id="107_Archive of Light" data-flag="@X" onclick="openSidebar('107_Archive of Light',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\109_Archive of Water.png" id="109_Archive of Water" data-flag="@X" onclick="openSidebar('109_Archive of Water',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\113_Cemetery of Bone.png" id="113_Cemetery of Bone" data-flag="@X" onclick="openSidebar('113_Cemetery of Bone',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\120_Cemetery of Lightning.png" id="120_Cemetery of Lightning" data-flag="@X" onclick="openSidebar('120_Cemetery of Lightning',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\115_Cemetery of Death.png" id="115_Cemetery of Death" data-flag="@X" onclick="openSidebar('115_Cemetery of Death',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\119_Cemetery of Light.png" id="119_Cemetery of Light" data-flag="@X" onclick="openSidebar('119_Cemetery of Light',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\121_Cemetery of Water.png" id="121_Cemetery of Water" data-flag="@X" onclick="openSidebar('121_Cemetery of Water',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\138_Sparkvista of Bone.png" id="138_Sparkvista of Bone" data-flag="@X" onclick="openSidebar('138_Sparkvista of Bone',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\145_Sparkvista of Lightning.png" id="145_Sparkvista of Lightning" data-flag="@X" onclick="openSidebar('145_Sparkvista of Lightning',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\140_Sparkvista of Death.png" id="140_Sparkvista of Death" data-flag="@X" onclick="openSidebar('140_Sparkvista of Death',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\144_Sparkvista of Light.png" id="144_Sparkvista of Light" data-flag="@X" onclick="openSidebar('144_Sparkvista of Light',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\146_Sparkvista of Water.png" id="146_Sparkvista of Water" data-flag="@X" onclick="openSidebar('146_Sparkvista of Water',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\154_Village of Bone.png" id="154_Village of Bone" data-flag="@X" onclick="openSidebar('154_Village of Bone',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\161_Village of Lightning.png" id="161_Village of Lightning" data-flag="@X" onclick="openSidebar('161_Village of Lightning',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\156_Village of Death.png" id="156_Village of Death" data-flag="@X" onclick="openSidebar('156_Village of Death',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\160_Village of Light.png" id="160_Village of Light" data-flag="@X" onclick="openSidebar('160_Village of Light',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\162_Village of Water.png" id="162_Village of Water" data-flag="@X" onclick="openSidebar('162_Village of Water',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\128_Road of Bone.png" id="128_Road of Bone" data-flag="@X" onclick="openSidebar('128_Road of Bone',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\135_Road of Lightning.png" id="135_Road of Lightning" data-flag="@X" onclick="openSidebar('135_Road of Lightning',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\130_Road of Death.png" id="130_Road of Death" data-flag="@X" onclick="openSidebar('130_Road of Death',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\134_Road of Light.png" id="134_Road of Light" data-flag="@X" onclick="openSidebar('134_Road of Light',false)"></div>
+			<div class="container"><img alt="/sets\ECP-files\img\136_Road of Water.png" id="136_Road of Water" data-flag="@X" onclick="openSidebar('136_Road of Water',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
