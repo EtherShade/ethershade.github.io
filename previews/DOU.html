@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/DOU-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>DOU visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/DOU-files/logo.png" />
+	<img class="preload-hidden" src="/sets/DOU-files/icon.png" />
+		<img class="preload-hidden" src="/sets/ECP-files/icon.png" />
+		<img class="preload-hidden" src="/sets/MTA-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="DOU"><img src="/sets/DOU-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="ECP"><img src="/sets/ECP-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="MTA"><img src="/sets/MTA-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/DOU-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\DOU-files\img\35_RW01 — The Shield of Belief.png" id="35_RW01 — The Shield of Belief" data-flag="@X" onclick="openSidebar('35_RW01 — The Shield of Belief',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\74_MU01 — The Balancer.png" id="74_MU01 — The Balancer" data-flag="@X" onclick="openSidebar('74_MU01 — The Balancer',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\114_RB01 — The Crown of Doomsday.png" id="114_RB01 — The Crown of Doomsday" data-flag="@X" onclick="openSidebar('114_RB01 — The Crown of Doomsday',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\154_RR01 — The Sword of Aeons.png" id="154_RR01 — The Sword of Aeons" data-flag="@X" onclick="openSidebar('154_RR01 — The Sword of Aeons',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\194_RG01 — The Stave of Eternity.png" id="194_RG01 — The Stave of Eternity" data-flag="@X" onclick="openSidebar('194_RG01 — The Stave of Eternity',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\36_RW02 — Word of Loyalty.png" id="36_RW02 — Word of Loyalty" data-flag="@X" onclick="openSidebar('36_RW02 — Word of Loyalty',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\75_RU01 — The Pan Flute of Ages.png" id="75_RU01 — The Pan Flute of Ages" data-flag="@X" onclick="openSidebar('75_RU01 — The Pan Flute of Ages',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\115_RB02 — Word of Fear.png" id="115_RB02 — Word of Fear" data-flag="@X" onclick="openSidebar('115_RB02 — Word of Fear',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\155_RR02 — Word of Chaos.png" id="155_RR02 — Word of Chaos" data-flag="@X" onclick="openSidebar('155_RR02 — Word of Chaos',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\195_RG02 — Word of Life.png" id="195_RG02 — Word of Life" data-flag="@X" onclick="openSidebar('195_RG02 — Word of Life',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\37_RW03 — Word of Purity.png" id="37_RW03 — Word of Purity" data-flag="@X" onclick="openSidebar('37_RW03 — Word of Purity',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\76_RU02 — Word of Subtlety.png" id="76_RU02 — Word of Subtlety" data-flag="@X" onclick="openSidebar('76_RU02 — Word of Subtlety',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\116_RB03 — Word of Death.png" id="116_RB03 — Word of Death" data-flag="@X" onclick="openSidebar('116_RB03 — Word of Death',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\156_RR03 — Word of Wealth.png" id="156_RR03 — Word of Wealth" data-flag="@X" onclick="openSidebar('156_RR03 — Word of Wealth',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\196_RG03 — Word of Nature.png" id="196_RG03 — Word of Nature" data-flag="@X" onclick="openSidebar('196_RG03 — Word of Nature',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\38_RW04 — Word of Order.png" id="38_RW04 — Word of Order" data-flag="@X" onclick="openSidebar('38_RW04 — Word of Order',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\77_RU03 — Word of Knowledge.png" id="77_RU03 — Word of Knowledge" data-flag="@X" onclick="openSidebar('77_RU03 — Word of Knowledge',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\117_RB04 — Word of Persistence.png" id="117_RB04 — Word of Persistence" data-flag="@X" onclick="openSidebar('117_RB04 — Word of Persistence',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\157_RR04 — Word of Courage.png" id="157_RR04 — Word of Courage" data-flag="@X" onclick="openSidebar('157_RR04 — Word of Courage',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\197_RG04 — Word of Strength.png" id="197_RG04 — Word of Strength" data-flag="@X" onclick="openSidebar('197_RG04 — Word of Strength',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\39_RW05 — Enrenere, Shield of Decaying Faith.png" id="39_RW05 — Enrenere, Shield of Decaying Faith" data-flag="@X" onclick="openSidebar('39_RW05 — Enrenere, Shield of Decaying Faith',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\78_RU04 — Word of Will.png" id="78_RU04 — Word of Will" data-flag="@X" onclick="openSidebar('78_RU04 — Word of Will',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\125_UB03 — Bloodmana Converter.png" id="125_UB03 — Bloodmana Converter" data-flag="@X" onclick="openSidebar('125_UB03 — Bloodmana Converter',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\158_RR05 — Wormpaw, the Pilferer.png" id="158_RR05 — Wormpaw, the Pilferer" data-flag="@X" onclick="openSidebar('158_RR05 — Wormpaw, the Pilferer',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\198_RG05 — The Woodqueen.png" id="198_RG05 — The Woodqueen" data-flag="@X" onclick="openSidebar('198_RG05 — The Woodqueen',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\47_UW04 — Wingdream Steed.png" id="47_UW04 — Wingdream Steed" data-flag="@X" onclick="openSidebar('47_UW04 — Wingdream Steed',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\79_RU05 — Return Again.png" id="79_RU05 — Return Again" data-flag="@X" onclick="openSidebar('79_RU05 — Return Again',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\95_CB01 — Shifting Slayer.png" id="95_CB01 — Shifting Slayer" data-flag="@X" onclick="openSidebar('95_CB01 — Shifting Slayer',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\159_RR06 — The Fearful Knight.png" id="159_RR06 — The Fearful Knight" data-flag="@X" onclick="openSidebar('159_RR06 — The Fearful Knight',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\199_RG06 — Fae Anthem.png" id="199_RG06 — Fae Anthem" data-flag="@X" onclick="openSidebar('199_RG06 — Fae Anthem',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\16_CW01 — Lively Chromageist.png" id="16_CW01 — Lively Chromageist" data-flag="@X" onclick="openSidebar('16_CW01 — Lively Chromageist',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\83_UU01 — Library Ravens.png" id="83_UU01 — Library Ravens" data-flag="@X" onclick="openSidebar('83_UU01 — Library Ravens',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\96_CB02 — Bloody Imitator.png" id="96_CB02 — Bloody Imitator" data-flag="@X" onclick="openSidebar('96_CB02 — Bloody Imitator',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\171_UR09 — Thunderboom.png" id="171_UR09 — Thunderboom" data-flag="@X" onclick="openSidebar('171_UR09 — Thunderboom',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\203_UG01 — Faewood Caretaker.png" id="203_UG01 — Faewood Caretaker" data-flag="@X" onclick="openSidebar('203_UG01 — Faewood Caretaker',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\17_CW02 — Purelight Guardian.png" id="17_CW02 — Purelight Guardian" data-flag="@X" onclick="openSidebar('17_CW02 — Purelight Guardian',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\84_UU02 — Death Analyzer.png" id="84_UU02 — Death Analyzer" data-flag="@X" onclick="openSidebar('84_UU02 — Death Analyzer',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\97_CB03 — Deadly Wingstealer.png" id="97_CB03 — Deadly Wingstealer" data-flag="@X" onclick="openSidebar('97_CB03 — Deadly Wingstealer',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\172_UR10 — Extreme Ritual.png" id="172_UR10 — Extreme Ritual" data-flag="@X" onclick="openSidebar('172_UR10 — Extreme Ritual',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\204_UG02 — Growthrot Incarnator.png" id="204_UG02 — Growthrot Incarnator" data-flag="@X" onclick="openSidebar('204_UG02 — Growthrot Incarnator',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\18_CW03 — Prized Steed.png" id="18_CW03 — Prized Steed" data-flag="@X" onclick="openSidebar('18_CW03 — Prized Steed',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\85_UU03 — Skilled Impersonator.png" id="85_UU03 — Skilled Impersonator" data-flag="@X" onclick="openSidebar('85_UU03 — Skilled Impersonator',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\98_CB04 — Cutthroat Librarian.png" id="98_CB04 — Cutthroat Librarian" data-flag="@X" onclick="openSidebar('98_CB04 — Cutthroat Librarian',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\173_UR11 — Zealous Ritual.png" id="173_UR11 — Zealous Ritual" data-flag="@X" onclick="openSidebar('173_UR11 — Zealous Ritual',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\207_UG05 — Great Wildebeast.png" id="207_UG05 — Great Wildebeast" data-flag="@X" onclick="openSidebar('207_UG05 — Great Wildebeast',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\19_CW04 — Swiftbite Wingrat.png" id="19_CW04 — Swiftbite Wingrat" data-flag="@X" onclick="openSidebar('19_CW04 — Swiftbite Wingrat',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\88_UU06 — Feylusion.png" id="88_UU06 — Feylusion" data-flag="@X" onclick="openSidebar('88_UU06 — Feylusion',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\99_CB05 — Doomed Rats.png" id="99_CB05 — Doomed Rats" data-flag="@X" onclick="openSidebar('99_CB05 — Doomed Rats',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\174_UR12 — Pyrotechnic Ritual.png" id="174_UR12 — Pyrotechnic Ritual" data-flag="@X" onclick="openSidebar('174_UR12 — Pyrotechnic Ritual',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\212_UG10 — Fey Grove.png" id="212_UG10 — Fey Grove" data-flag="@X" onclick="openSidebar('212_UG10 — Fey Grove',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\20_CW05 — Death Trainee.png" id="20_CW05 — Death Trainee" data-flag="@X" onclick="openSidebar('20_CW05 — Death Trainee',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\89_UU07 — Stealthy Snacker.png" id="89_UU07 — Stealthy Snacker" data-flag="@X" onclick="openSidebar('89_UU07 — Stealthy Snacker',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\100_CB06 — Incarnation Profiteer.png" id="100_CB06 — Incarnation Profiteer" data-flag="@X" onclick="openSidebar('100_CB06 — Incarnation Profiteer',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\135_CR01 — Freerunning Foal.png" id="135_CR01 — Freerunning Foal" data-flag="@X" onclick="openSidebar('135_CR01 — Freerunning Foal',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\213_UG11 — Exponential Growth.png" id="213_UG11 — Exponential Growth" data-flag="@X" onclick="openSidebar('213_UG11 — Exponential Growth',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\21_CW06 — Fearful Fisherman.png" id="21_CW06 — Fearful Fisherman" data-flag="@X" onclick="openSidebar('21_CW06 — Fearful Fisherman',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\92_UU10 — Disperse Identity.png" id="92_UU10 — Disperse Identity" data-flag="@X" onclick="openSidebar('92_UU10 — Disperse Identity',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\101_CB07 — Lightwarped Crusader.png" id="101_CB07 — Lightwarped Crusader" data-flag="@X" onclick="openSidebar('101_CB07 — Lightwarped Crusader',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\136_CR02 — Firebite Rat.png" id="136_CR02 — Firebite Rat" data-flag="@X" onclick="openSidebar('136_CR02 — Firebite Rat',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\214_UG12 — Megamorphose.png" id="214_UG12 — Megamorphose" data-flag="@X" onclick="openSidebar('214_UG12 — Megamorphose',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\22_CW07 — Cart Horse.png" id="22_CW07 — Cart Horse" data-flag="@X" onclick="openSidebar('22_CW07 — Cart Horse',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\93_UU11 — Bountiful Blessings of Fae.png" id="93_UU11 — Bountiful Blessings of Fae" data-flag="@X" onclick="openSidebar('93_UU11 — Bountiful Blessings of Fae',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\102_CB08 — Warped Chromageist.png" id="102_CB08 — Warped Chromageist" data-flag="@X" onclick="openSidebar('102_CB08 — Warped Chromageist',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\137_CR03 — Chaos Remnant.png" id="137_CR03 — Chaos Remnant" data-flag="@X" onclick="openSidebar('137_CR03 — Chaos Remnant',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\175_CG01 — Manachain Druid.png" id="175_CG01 — Manachain Druid" data-flag="@X" onclick="openSidebar('175_CG01 — Manachain Druid',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\23_CW08 — Chromageist Lightcaller.png" id="23_CW08 — Chromageist Lightcaller" data-flag="@X" onclick="openSidebar('23_CW08 — Chromageist Lightcaller',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\94_UU12 — Exchange Rate.png" id="94_UU12 — Exchange Rate" data-flag="@X" onclick="openSidebar('94_UU12 — Exchange Rate',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\103_CB09 — Priest of Cyclic Faith.png" id="103_CB09 — Priest of Cyclic Faith" data-flag="@X" onclick="openSidebar('103_CB09 — Priest of Cyclic Faith',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\138_CR04 — Trophy Hunter.png" id="138_CR04 — Trophy Hunter" data-flag="@X" onclick="openSidebar('138_CR04 — Trophy Hunter',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\176_CG02 — Lightened Guardian.png" id="176_CG02 — Lightened Guardian" data-flag="@X" onclick="openSidebar('176_CG02 — Lightened Guardian',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\24_CW09 — Reflective Angel.png" id="24_CW09 — Reflective Angel" data-flag="@X" onclick="openSidebar('24_CW09 — Reflective Angel',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\56_CU01 — Shiftling.png" id="56_CU01 — Shiftling" data-flag="@X" onclick="openSidebar('56_CU01 — Shiftling',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\104_CB10 — Prismic Jet Entity.png" id="104_CB10 — Prismic Jet Entity" data-flag="@X" onclick="openSidebar('104_CB10 — Prismic Jet Entity',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\139_CR05 — Library Courier.png" id="139_CR05 — Library Courier" data-flag="@X" onclick="openSidebar('139_CR05 — Library Courier',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\177_CG03 — Earthbound Fae.png" id="177_CG03 — Earthbound Fae" data-flag="@X" onclick="openSidebar('177_CG03 — Earthbound Fae',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\25_CW10 — Disparate Council.png" id="25_CW10 — Disparate Council" data-flag="@X" onclick="openSidebar('25_CW10 — Disparate Council',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\57_CU02 — Fledgeling Faerie.png" id="57_CU02 — Fledgeling Faerie" data-flag="@X" onclick="openSidebar('57_CU02 — Fledgeling Faerie',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\105_CB11 — Prismatic Death.png" id="105_CB11 — Prismatic Death" data-flag="@X" onclick="openSidebar('105_CB11 — Prismatic Death',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\140_CR06 — Manalight Ritualist.png" id="140_CR06 — Manalight Ritualist" data-flag="@X" onclick="openSidebar('140_CR06 — Manalight Ritualist',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\178_CG04 — Corrupted Chromageist.png" id="178_CG04 — Corrupted Chromageist" data-flag="@X" onclick="openSidebar('178_CG04 — Corrupted Chromageist',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\26_CW11 — Short-Lived Hero.png" id="26_CW11 — Short-Lived Hero" data-flag="@X" onclick="openSidebar('26_CW11 — Short-Lived Hero',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\58_CU03 — Manachain Seer.png" id="58_CU03 — Manachain Seer" data-flag="@X" onclick="openSidebar('58_CU03 — Manachain Seer',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\106_CB12 — Cull Vermin.png" id="106_CB12 — Cull Vermin" data-flag="@X" onclick="openSidebar('106_CB12 — Cull Vermin',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\141_CR07 — Loyal Rodents.png" id="141_CR07 — Loyal Rodents" data-flag="@X" onclick="openSidebar('141_CR07 — Loyal Rodents',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\179_CG05 — Manachain Companion.png" id="179_CG05 — Manachain Companion" data-flag="@X" onclick="openSidebar('179_CG05 — Manachain Companion',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\27_CW12 — Prismic Pearl Entity.png" id="27_CW12 — Prismic Pearl Entity" data-flag="@X" onclick="openSidebar('27_CW12 — Prismic Pearl Entity',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\59_CU04 — Animated Blades.png" id="59_CU04 — Animated Blades" data-flag="@X" onclick="openSidebar('59_CU04 — Animated Blades',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\107_CB13 — Seep Through.png" id="107_CB13 — Seep Through" data-flag="@X" onclick="openSidebar('107_CB13 — Seep Through',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\142_CR08 — Flaming Charger.png" id="142_CR08 — Flaming Charger" data-flag="@X" onclick="openSidebar('142_CR08 — Flaming Charger',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\180_CG06 — Helpful Chromageist.png" id="180_CG06 — Helpful Chromageist" data-flag="@X" onclick="openSidebar('180_CG06 — Helpful Chromageist',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\28_CW13 — Exverminate.png" id="28_CW13 — Exverminate" data-flag="@X" onclick="openSidebar('28_CW13 — Exverminate',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\60_CU05 — Accumulation Mage.png" id="60_CU05 — Accumulation Mage" data-flag="@X" onclick="openSidebar('60_CU05 — Accumulation Mage',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\108_CB14 — Vile Victory.png" id="108_CB14 — Vile Victory" data-flag="@X" onclick="openSidebar('108_CB14 — Vile Victory',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\143_CR09 — Vermin Rider.png" id="143_CR09 — Vermin Rider" data-flag="@X" onclick="openSidebar('143_CR09 — Vermin Rider',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\181_CG07 — Great Lightbeast.png" id="181_CG07 — Great Lightbeast" data-flag="@X" onclick="openSidebar('181_CG07 — Great Lightbeast',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\29_CW14 — Remnant of True Pacifism.png" id="29_CW14 — Remnant of True Pacifism" data-flag="@X" onclick="openSidebar('29_CW14 — Remnant of True Pacifism',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\61_CU06 — Library Grotesque.png" id="61_CU06 — Library Grotesque" data-flag="@X" onclick="openSidebar('61_CU06 — Library Grotesque',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\109_CB15 — Prismic Blood Rites.png" id="109_CB15 — Prismic Blood Rites" data-flag="@X" onclick="openSidebar('109_CB15 — Prismic Blood Rites',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\144_CR10 — Prismic Ruby Entity.png" id="144_CR10 — Prismic Ruby Entity" data-flag="@X" onclick="openSidebar('144_CR10 — Prismic Ruby Entity',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\182_CG08 — Incarnation Caretaker.png" id="182_CG08 — Incarnation Caretaker" data-flag="@X" onclick="openSidebar('182_CG08 — Incarnation Caretaker',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\30_CW15 — Rise Up for Honor.png" id="30_CW15 — Rise Up for Honor" data-flag="@X" onclick="openSidebar('30_CW15 — Rise Up for Honor',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\62_CU07 — Mirrored Visage.png" id="62_CU07 — Mirrored Visage" data-flag="@X" onclick="openSidebar('62_CU07 — Mirrored Visage',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\110_CB16 — Return Unscathed.png" id="110_CB16 — Return Unscathed" data-flag="@X" onclick="openSidebar('110_CB16 — Return Unscathed',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\145_CR11 — Firelight Blast.png" id="145_CR11 — Firelight Blast" data-flag="@X" onclick="openSidebar('145_CR11 — Firelight Blast',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\183_CG09 — Scaling Imitator.png" id="183_CG09 — Scaling Imitator" data-flag="@X" onclick="openSidebar('183_CG09 — Scaling Imitator',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\31_CW16 — Council Meeting.png" id="31_CW16 — Council Meeting" data-flag="@X" onclick="openSidebar('31_CW16 — Council Meeting',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\63_CU08 — Symmetry Seeker.png" id="63_CU08 — Symmetry Seeker" data-flag="@X" onclick="openSidebar('63_CU08 — Symmetry Seeker',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\111_CB17 — Lightrot Thoughts.png" id="111_CB17 — Lightrot Thoughts" data-flag="@X" onclick="openSidebar('111_CB17 — Lightrot Thoughts',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\146_CR12 — Manalight Fervor.png" id="146_CR12 — Manalight Fervor" data-flag="@X" onclick="openSidebar('146_CR12 — Manalight Fervor',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\184_CG10 — Faetouched Wildebeast.png" id="184_CG10 — Faetouched Wildebeast" data-flag="@X" onclick="openSidebar('184_CG10 — Faetouched Wildebeast',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\32_CW17 — Purelight Battle Cry.png" id="32_CW17 — Purelight Battle Cry" data-flag="@X" onclick="openSidebar('32_CW17 — Purelight Battle Cry',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\64_CU09 — Prismic Sapphire Entity.png" id="64_CU09 — Prismic Sapphire Entity" data-flag="@X" onclick="openSidebar('64_CU09 — Prismic Sapphire Entity',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\112_CB18 — On Wings of Death.png" id="112_CB18 — On Wings of Death" data-flag="@X" onclick="openSidebar('112_CB18 — On Wings of Death',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\147_CR13 — Mana Overflow.png" id="147_CR13 — Mana Overflow" data-flag="@X" onclick="openSidebar('147_CR13 — Mana Overflow',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\185_CG11 — Prismic Emerald Entity.png" id="185_CG11 — Prismic Emerald Entity" data-flag="@X" onclick="openSidebar('185_CG11 — Prismic Emerald Entity',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\33_CW18 — Prismic Purification.png" id="33_CW18 — Prismic Purification" data-flag="@X" onclick="openSidebar('33_CW18 — Prismic Purification',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\65_CU10 — Fishy Thing.png" id="65_CU10 — Fishy Thing" data-flag="@X" onclick="openSidebar('65_CU10 — Fishy Thing',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\148_CR14 — Faithless Rummaging.png" id="148_CR14 — Faithless Rummaging" data-flag="@X" onclick="openSidebar('148_CR14 — Faithless Rummaging',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\186_CG12 — Prismclaim Battle.png" id="186_CG12 — Prismclaim Battle" data-flag="@X" onclick="openSidebar('186_CG12 — Prismclaim Battle',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\66_CU11 — Antipurity Force.png" id="66_CU11 — Antipurity Force" data-flag="@X" onclick="openSidebar('66_CU11 — Antipurity Force',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\149_CR15 — Prismic Strength.png" id="149_CR15 — Prismic Strength" data-flag="@X" onclick="openSidebar('149_CR15 — Prismic Strength',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\187_CG13 — Cyclical Growth.png" id="187_CG13 — Cyclical Growth" data-flag="@X" onclick="openSidebar('187_CG13 — Cyclical Growth',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\67_CU12 — Creation Pierce.png" id="67_CU12 — Creation Pierce" data-flag="@X" onclick="openSidebar('67_CU12 — Creation Pierce',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\150_CR16 — Lightsurge.png" id="150_CR16 — Lightsurge" data-flag="@X" onclick="openSidebar('150_CR16 — Lightsurge',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\188_CG14 — Natural Accumulation.png" id="188_CG14 — Natural Accumulation" data-flag="@X" onclick="openSidebar('188_CG14 — Natural Accumulation',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\68_CU13 — Comfortable Lockdown.png" id="68_CU13 — Comfortable Lockdown" data-flag="@X" onclick="openSidebar('68_CU13 — Comfortable Lockdown',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\151_CR17 — Lightning Shatter.png" id="151_CR17 — Lightning Shatter" data-flag="@X" onclick="openSidebar('151_CR17 — Lightning Shatter',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\189_CG15 — Prismic Might.png" id="189_CG15 — Prismic Might" data-flag="@X" onclick="openSidebar('189_CG15 — Prismic Might',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\69_CU14 — Studificate.png" id="69_CU14 — Studificate" data-flag="@X" onclick="openSidebar('69_CU14 — Studificate',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\152_CR18 — Library Stockpile.png" id="152_CR18 — Library Stockpile" data-flag="@X" onclick="openSidebar('152_CR18 — Library Stockpile',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\190_CG16 — Prismic Reclamation.png" id="190_CG16 — Prismic Reclamation" data-flag="@X" onclick="openSidebar('190_CG16 — Prismic Reclamation',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\70_CU15 — Seek Answers.png" id="70_CU15 — Seek Answers" data-flag="@X" onclick="openSidebar('70_CU15 — Seek Answers',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\191_CG17 — Extreme Wildgrowth.png" id="191_CG17 — Extreme Wildgrowth" data-flag="@X" onclick="openSidebar('191_CG17 — Extreme Wildgrowth',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\71_CU16 — Intangibility Investigation.png" id="71_CU16 — Intangibility Investigation" data-flag="@X" onclick="openSidebar('71_CU16 — Intangibility Investigation',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\192_CG18 — Accumulate Might.png" id="192_CG18 — Accumulate Might" data-flag="@X" onclick="openSidebar('192_CG18 — Accumulate Might',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\72_CU17 — Varying Skills.png" id="72_CU17 — Varying Skills" data-flag="@X" onclick="openSidebar('72_CU17 — Varying Skills',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\73_CU18 — Hatch a Plan.png" id="73_CU18 — Hatch a Plan" data-flag="@X" onclick="openSidebar('73_CU18 — Hatch a Plan',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\216_UM01 — Skilled Animator.png" id="216_UM01 — Skilled Animator" data-flag="@X" onclick="openSidebar('216_UM01 — Skilled Animator',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\215_RM01 — The Amorphous Star.png" id="215_RM01 — The Amorphous Star" data-flag="@X" onclick="openSidebar('215_RM01 — The Amorphous Star',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\218_UM03 — Honored Swarmsinger.png" id="218_UM03 — Honored Swarmsinger" data-flag="@X" onclick="openSidebar('218_UM03 — Honored Swarmsinger',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\219_UM04 — Prismwood Dryad.png" id="219_UM04 — Prismwood Dryad" data-flag="@X" onclick="openSidebar('219_UM04 — Prismwood Dryad',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\220_UM05 — Chromageist Caretaker.png" id="220_UM05 — Chromageist Caretaker" data-flag="@X" onclick="openSidebar('220_UM05 — Chromageist Caretaker',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\217_UM02 — Wingform Shapecrafter.png" id="217_UM02 — Wingform Shapecrafter" data-flag="@X" onclick="openSidebar('217_UM02 — Wingform Shapecrafter',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\7_MC01 — Prismatic Wheel.png" id="7_MC01 — Prismatic Wheel" data-flag="@X" onclick="openSidebar('7_MC01 — Prismatic Wheel',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\8_MC02 — Pure Lightform.png" id="8_MC02 — Pure Lightform" data-flag="@X" onclick="openSidebar('8_MC02 — Pure Lightform',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\9_MC03 — Void Emanation.png" id="9_MC03 — Void Emanation" data-flag="@X" onclick="openSidebar('9_MC03 — Void Emanation',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\230_MA01 — The Ultraprism.png" id="230_MA01 — The Ultraprism" data-flag="@X" onclick="openSidebar('230_MA01 — The Ultraprism',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\231_MA02 — Mox Mox Pearl.png" id="231_MA02 — Mox Mox Pearl" data-flag="@X" onclick="openSidebar('231_MA02 — Mox Mox Pearl',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\232_MA03 — Mox Mox Sapphire.png" id="232_MA03 — Mox Mox Sapphire" data-flag="@X" onclick="openSidebar('232_MA03 — Mox Mox Sapphire',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\233_MA04 — Mox Mox Jet.png" id="233_MA04 — Mox Mox Jet" data-flag="@X" onclick="openSidebar('233_MA04 — Mox Mox Jet',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\234_MA05 — Mox Mox Ruby.png" id="234_MA05 — Mox Mox Ruby" data-flag="@X" onclick="openSidebar('234_MA05 — Mox Mox Ruby',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\235_MA06 — Mox Mox Emerald.png" id="235_MA06 — Mox Mox Emerald" data-flag="@X" onclick="openSidebar('235_MA06 — Mox Mox Emerald',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\10_RC01 — Vanishing Knowledge.png" id="10_RC01 — Vanishing Knowledge" data-flag="@X" onclick="openSidebar('10_RC01 — Vanishing Knowledge',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\11_RC02 — Embodiment of the Fae.png" id="11_RC02 — Embodiment of the Fae" data-flag="@X" onclick="openSidebar('11_RC02 — Embodiment of the Fae',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\236_RA01 — The Balancer's Helm.png" id="236_RA01 — The Balancers Helm" data-flag="@X" onclick="openSidebar('236_RA01 — The Balancers Helm',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\237_RA02 — Doubling Sphere.png" id="237_RA02 — Doubling Sphere" data-flag="@X" onclick="openSidebar('237_RA02 — Doubling Sphere',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\13_UC02 — Essence of Heartbeat.png" id="13_UC02 — Essence of Heartbeat" data-flag="@X" onclick="openSidebar('13_UC02 — Essence of Heartbeat',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\14_UC03 — Fey Ritual.png" id="14_UC03 — Fey Ritual" data-flag="@X" onclick="openSidebar('14_UC03 — Fey Ritual',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\15_UC04 — Micromanage.png" id="15_UC04 — Micromanage" data-flag="@X" onclick="openSidebar('15_UC04 — Micromanage',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\247_UA07 — Pure Essence.png" id="247_UA07 — Pure Essence" data-flag="@X" onclick="openSidebar('247_UA07 — Pure Essence',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\1_CC01 — Archivist's Lightform.png" id="1_CC01 — Archivists Lightform" data-flag="@X" onclick="openSidebar('1_CC01 — Archivists Lightform',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\2_CC02 — Animator's Lightform.png" id="2_CC02 — Animators Lightform" data-flag="@X" onclick="openSidebar('2_CC02 — Animators Lightform',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\3_CC03 — Warmonger's Lightform.png" id="3_CC03 — Warmongers Lightform" data-flag="@X" onclick="openSidebar('3_CC03 — Warmongers Lightform',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\4_CC04 — Lightweaver's Lightform.png" id="4_CC04 — Lightweavers Lightform" data-flag="@X" onclick="openSidebar('4_CC04 — Lightweavers Lightform',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\5_CC05 — Chromageists's Lightform.png" id="5_CC05 — Chromageistss Lightform" data-flag="@X" onclick="openSidebar('5_CC05 — Chromageistss Lightform',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\6_CC11 — Minimorphose.png" id="6_CC11 — Minimorphose" data-flag="@X" onclick="openSidebar('6_CC11 — Minimorphose',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\12_UC01 — Natural Essence.png" id="12_UC01 — Natural Essence" data-flag="@X" onclick="openSidebar('12_UC01 — Natural Essence',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\226_CA01 — Ultraprismite.png" id="226_CA01 — Ultraprismite" data-flag="@X" onclick="openSidebar('226_CA01 — Ultraprismite',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\227_CA02 — Accumulation Golem.png" id="227_CA02 — Accumulation Golem" data-flag="@X" onclick="openSidebar('227_CA02 — Accumulation Golem',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\228_CA03 — Prismic Vessel.png" id="228_CA03 — Prismic Vessel" data-flag="@X" onclick="openSidebar('228_CA03 — Prismic Vessel',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\229_CA04 — Cyclilith.png" id="229_CA04 — Cyclilith" data-flag="@X" onclick="openSidebar('229_CA04 — Cyclilith',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\257_UL01 — Village of Frost.png" id="257_UL01 — Village of Frost" data-flag="@X" onclick="openSidebar('257_UL01 — Village of Frost',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\258_UL02 — Village of Darkness.png" id="258_UL02 — Village of Darkness" data-flag="@X" onclick="openSidebar('258_UL02 — Village of Darkness',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\259_UL03 — Village of Blood.png" id="259_UL03 — Village of Blood" data-flag="@X" onclick="openSidebar('259_UL03 — Village of Blood',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\260_UL04 — Village of Fire.png" id="260_UL04 — Village of Fire" data-flag="@X" onclick="openSidebar('260_UL04 — Village of Fire',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\261_UL05 — Village of Life.png" id="261_UL05 — Village of Life" data-flag="@X" onclick="openSidebar('261_UL05 — Village of Life',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\262_UL06 — Village of Bone.png" id="262_UL06 — Village of Bone" data-flag="@X" onclick="openSidebar('262_UL06 — Village of Bone',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\263_UL07 — Village of Lightning.png" id="263_UL07 — Village of Lightning" data-flag="@X" onclick="openSidebar('263_UL07 — Village of Lightning',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\264_UL08 — Village of Death.png" id="264_UL08 — Village of Death" data-flag="@X" onclick="openSidebar('264_UL08 — Village of Death',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\265_UL09 — Village of Light.png" id="265_UL09 — Village of Light" data-flag="@X" onclick="openSidebar('265_UL09 — Village of Light',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\266_UL10 — Village of Water.png" id="266_UL10 — Village of Water" data-flag="@X" onclick="openSidebar('266_UL10 — Village of Water',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\DOU-files\img\2t_Prism Reminder.png" id="2t_Prism Reminder" data-flag="@X" onclick="openSidebar('2t_Prism Reminder',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
