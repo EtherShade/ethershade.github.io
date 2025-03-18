@@ -91,6 +91,16 @@
 			}
 		},
 		{
+			"name": "Creaturized Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/1_Creaturized Token.png"
+			}
+		},
+		{
 			"name": "CW02 — Purelight Guardian",
 			"rarity": "common",
 			"mana_cost": "{W}",
@@ -1301,6 +1311,16 @@
 			}
 		},
 		{
+			"name": "UW10 — Ephemeral Force",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/53_UW10 — Ephemeral Force.png"
+			}
+		},
+		{
 			"name": "UU03 — Skilled Impersonator",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
@@ -1333,7 +1353,7 @@
 		{
 			"name": "CC02 — Animator's Lightform",
 			"rarity": "common",
-			"mana_cost": "{2}",
+			"mana_cost": "{3}",
 			"type": "Instant — Lightform ",
 			"collector_number": "2",
 			"image_uris": {
@@ -1528,36 +1548,6 @@
 			"collector_number": "198",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DOU-files/img/198_RG05 — The Woodqueen.png"
-			}
-		},
-		{
-			"name": "UR10 — Extreme Ritual",
-			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Instant",
-			"collector_number": "172",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/172_UR10 — Extreme Ritual.png"
-			}
-		},
-		{
-			"name": "UR11 — Zealous Ritual",
-			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Instant",
-			"collector_number": "173",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/173_UR11 — Zealous Ritual.png"
-			}
-		},
-		{
-			"name": "UR12 — Pyrotechnic Ritual",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Instant",
-			"collector_number": "174",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/174_UR12 — Pyrotechnic Ritual.png"
 			}
 		},
 		{
@@ -1891,16 +1881,6 @@
 			}
 		},
 		{
-			"name": "UR09 — Thunderboom",
-			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Instant",
-			"collector_number": "171",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/171_UR09 — Thunderboom.png"
-			}
-		},
-		{
 			"name": "CG11 — Prismic Emerald Entity",
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
@@ -2024,11 +2004,11 @@
 30 CG11 — Prismic Emerald Entity
 30 CC05 — Chromageists's Lightform
 [LandSlot(1)]
-10 CL01 — Prismatic Plains
-10 CL02 — Prismatic Island
-10 CL03 — Prismatic Swamp
-10 CL04 — Prismatic Mountain
-10 CL05 — Prismatic Forest
+20 CL01 — Prismatic Plains
+20 CL02 — Prismatic Island
+20 CL03 — Prismatic Swamp
+20 CL04 — Prismatic Mountain
+20 CL05 — Prismatic Forest
 10 UL03 — Village of Blood
 10 UL06 — Village of Bone
 10 UL02 — Village of Darkness
@@ -2039,3 +2019,5 @@
 10 UL09 — Village of Light
 10 UL07 — Village of Lightning
 10 UL10 — Village of Water
+[ReminderSlot(1)]
+60 Prism Reminder
