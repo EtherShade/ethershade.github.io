@@ -27,7 +27,7 @@
 			"type": "",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/2t_Prism Reminder.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/2_Prism Reminder.png"
 			}
 		},
 		{
@@ -94,7 +94,7 @@
 			"name": "Creaturized Token",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Creature",
+			"type": "Token Creature",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DOU-files/img/1_Creaturized Token.png"
@@ -174,7 +174,7 @@
 			"name": "CW09 — Reflective Angel",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Angel ",
+			"type": "Enchantment Creature — Angel ",
 			"collector_number": "24",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DOU-files/img/24_CW09 — Reflective Angel.png"
@@ -253,7 +253,7 @@
 		{
 			"name": "CW17 — Purelight Battle Cry",
 			"rarity": "common",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
 			"collector_number": "32",
 			"image_uris": {
@@ -268,6 +268,16 @@
 			"collector_number": "33",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DOU-files/img/33_CW18 — Prismic Purification.png"
+			}
+		},
+		{
+			"name": "MW01 — The Balancer's Spokesperson",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Avatar ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/34_MW01 — The Balancer's Spokesperson.png"
 			}
 		},
 		{
@@ -291,13 +301,153 @@
 			}
 		},
 		{
-			"name": "UW04 — Wingdream Steed",
+			"name": "RW06 — Soulbond",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura Curse ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/40_RW06 — Soulbond.png"
+			}
+		},
+		{
+			"name": "RM09 — The Lord High Stallion",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}{W}{W}",
+			"type": "Legendary Creature — Horse ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/214_RM09 — The Lord High Stallion.png"
+			}
+		},
+		{
+			"name": "RW07 — Invulnerable Chromageist",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/41_RW07 — Invulnerable Chromageist.png"
+			}
+		},
+		{
+			"name": "RM01 — The Essence of Animation",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{U}{U}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/206_RM01 — The Essence of Animation.png"
+			}
+		},
+		{
+			"name": "UW01 — Vermin Medic",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Rat ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/42_UW01 — Vermin Medic.png"
+			}
+		},
+		{
+			"name": "UW02 — Tangiblade Chromageist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/43_UW02 — Tangiblade Chromageist.png"
+			}
+		},
+		{
+			"name": "UW03 — Animated Geistcaller",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Golem Wizard ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/44_UW03 — Animated Geistcaller.png"
+			}
+		},
+		{
+			"name": "UW05 — Wingdream Steed",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
 			"type": "Creature — Horse ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/46_UW05 — Wingdream Steed.png"
+			}
+		},
+		{
+			"name": "UW04 — Cyclic Faith Geistcaller",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/45_UW04 — Cyclic Faith Geistcaller.png"
+			}
+		},
+		{
+			"name": "UW06 — Prismatic Angel",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment Creature — Angel ",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/47_UW04 — Wingdream Steed.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/47_UW06 — Prismatic Angel.png"
+			}
+		},
+		{
+			"name": "UW07 — Combat Animator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/48_UW07 — Combat Animator.png"
+			}
+		},
+		{
+			"name": "UW08 — Ultrapearl Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Giant ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/49_UW08 — Ultrapearl Guardian.png"
+			}
+		},
+		{
+			"name": "UW09 — Holy Smashing",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/50_UW09 — Holy Smashing.png"
+			}
+		},
+		{
+			"name": "UW11 — Union of Knowledge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/52_UW11 — Union of Knowledge.png"
+			}
+		},
+		{
+			"name": "UW12 — Optimized Training",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/53_UW12 — Optimized Training.png"
 			}
 		},
 		{
@@ -305,9 +455,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Shapeshifter ",
-			"collector_number": "56",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/56_CU01 — Shiftling.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/54_CU01 — Shiftling.png"
 			}
 		},
 		{
@@ -315,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment Creature — Faerie ",
-			"collector_number": "57",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/57_CU02 — Fledgeling Faerie.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/55_CU02 — Fledgeling Faerie.png"
 			}
 		},
 		{
@@ -325,9 +475,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Mystic ",
-			"collector_number": "58",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/58_CU03 — Manachain Seer.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/56_CU03 — Manachain Seer.png"
 			}
 		},
 		{
@@ -335,9 +485,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment Artifact Creature",
-			"collector_number": "59",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/59_CU04 — Animated Blades.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/57_CU04 — Animated Blades.png"
 			}
 		},
 		{
@@ -345,9 +495,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "60",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/60_CU05 — Accumulation Mage.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/58_CU05 — Accumulation Mage.png"
 			}
 		},
 		{
@@ -355,9 +505,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact Creature — Gargoyle ",
-			"collector_number": "61",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/61_CU06 — Library Grotesque.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/59_CU06 — Library Grotesque.png"
 			}
 		},
 		{
@@ -365,9 +515,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Shapeshifter ",
-			"collector_number": "62",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/62_CU07 — Mirrored Visage.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/60_CU07 — Mirrored Visage.png"
 			}
 		},
 		{
@@ -375,9 +525,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Enchantment Creature — Faerie ",
-			"collector_number": "63",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/63_CU08 — Symmetry Seeker.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/61_CU08 — Symmetry Seeker.png"
 			}
 		},
 		{
@@ -385,9 +535,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "73",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/73_CU18 — Hatch a Plan.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/71_CU18 — Hatch a Plan.png"
 			}
 		},
 		{
@@ -395,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "66",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/66_CU11 — Antipurity Force.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/64_CU11 — Antipurity Force.png"
 			}
 		},
 		{
@@ -405,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "67",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/67_CU12 — Creation Pierce.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/65_CU12 — Creation Pierce.png"
 			}
 		},
 		{
@@ -415,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "68",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/68_CU13 — Comfortable Lockdown.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/66_CU13 — Comfortable Lockdown.png"
 			}
 		},
 		{
@@ -425,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "69",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/69_CU14 — Studificate.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/67_CU14 — Studificate.png"
 			}
 		},
 		{
@@ -435,9 +585,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "70",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/70_CU15 — Seek Answers.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/68_CU15 — Seek Answers.png"
 			}
 		},
 		{
@@ -445,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/71_CU16 — Intangibility Investigation.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/69_CU16 — Intangibility Investigation.png"
 			}
 		},
 		{
@@ -455,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "72",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/72_CU17 — Varying Skills.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/70_CU17 — Varying Skills.png"
 			}
 		},
 		{
@@ -465,9 +615,39 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Fish Horror ",
-			"collector_number": "65",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/65_CU10 — Fishy Thing.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/63_CU10 — Fishy Thing.png"
+			}
+		},
+		{
+			"name": "RU06 — Unity Orb",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/78_RU06 — Unity Orb.png"
+			}
+		},
+		{
+			"name": "RU07 — Perfection",
+			"rarity": "rare",
+			"mana_cost": "{7}{U}{U}{U}{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/79_RU07 — Perfection.png"
+			}
+		},
+		{
+			"name": "RM07 — Malaktior, High Curator",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/212_RM07 — Malaktior, High Curator.png"
 			}
 		},
 		{
@@ -475,9 +655,49 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "84",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/84_UU02 — Death Analyzer.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/81_UU02 — Death Analyzer.png"
+			}
+		},
+		{
+			"name": "UU06 — Animation Documentor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/85_UU06 — Animation Documentor.png"
+			}
+		},
+		{
+			"name": "UU07 — Ultrasapphire Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Giant ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/86_UU07 — Ultrasapphire Guardian.png"
+			}
+		},
+		{
+			"name": "UU08 — Optimized Research",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/87_UU08 — Optimized Research.png"
+			}
+		},
+		{
+			"name": "UU09 — Efficient Denial",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/88_UU09 — Efficient Denial.png"
 			}
 		},
 		{
@@ -485,9 +705,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Rat ",
-			"collector_number": "99",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/99_CB05 — Doomed Rats.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/96_CB05 — Doomed Rats.png"
 			}
 		},
 		{
@@ -495,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Assassin ",
-			"collector_number": "97",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/97_CB03 — Deadly Wingstealer.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/94_CB03 — Deadly Wingstealer.png"
 			}
 		},
 		{
@@ -505,9 +725,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "98",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/98_CB04 — Cutthroat Librarian.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/95_CB04 — Cutthroat Librarian.png"
 			}
 		},
 		{
@@ -515,9 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Shapeshifter ",
-			"collector_number": "96",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/96_CB02 — Bloody Imitator.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/93_CB02 — Bloody Imitator.png"
 			}
 		},
 		{
@@ -525,9 +745,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "100",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/100_CB06 — Incarnation Profiteer.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/97_CB06 — Incarnation Profiteer.png"
 			}
 		},
 		{
@@ -535,9 +755,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Warrior Horror ",
-			"collector_number": "101",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/101_CB07 — Lightwarped Crusader.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/98_CB07 — Lightwarped Crusader.png"
 			}
 		},
 		{
@@ -545,9 +765,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Spirit Horror ",
-			"collector_number": "102",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/102_CB08 — Warped Chromageist.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/99_CB08 — Warped Chromageist.png"
 			}
 		},
 		{
@@ -555,9 +775,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Human Cleric ",
-			"collector_number": "103",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/103_CB09 — Priest of Cyclic Faith.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/100_CB09 — Priest of Cyclic Faith.png"
 			}
 		},
 		{
@@ -565,9 +785,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "105",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/105_CB11 — Prismatic Death.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/102_CB11 — Prismatic Death.png"
 			}
 		},
 		{
@@ -575,9 +795,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "106",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/106_CB12 — Cull Vermin.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/103_CB12 — Cull Vermin.png"
 			}
 		},
 		{
@@ -585,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "107",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/107_CB13 — Seep Through.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/104_CB13 — Seep Through.png"
 			}
 		},
 		{
@@ -595,9 +815,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/108_CB14 — Vile Victory.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/105_CB14 — Vile Victory.png"
 			}
 		},
 		{
@@ -605,9 +825,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "109",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/109_CB15 — Prismic Blood Rites.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/106_CB15 — Prismic Blood Rites.png"
 			}
 		},
 		{
@@ -615,9 +835,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "110",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/110_CB16 — Return Unscathed.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/107_CB16 — Return Unscathed.png"
 			}
 		},
 		{
@@ -625,9 +845,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "111",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/111_CB17 — Lightrot Thoughts.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/108_CB17 — Lightrot Thoughts.png"
 			}
 		},
 		{
@@ -635,9 +855,89 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "112",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/112_CB18 — On Wings of Death.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/109_CB18 — On Wings of Death.png"
+			}
+		},
+		{
+			"name": "MB01 — The Balancer's Slayer",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Avatar ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/110_MB01 — The Balancer's Slayer.png"
+			}
+		},
+		{
+			"name": "RB05 — Nonexistant Stab",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/115_RB05 — Nonexistant Stab.png"
+			}
+		},
+		{
+			"name": "RB06 — Worst Enemy",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/116_RB06 — Worst Enemy.png"
+			}
+		},
+		{
+			"name": "RB07 — Imperfection",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/117_RB07 — Imperfection.png"
+			}
+		},
+		{
+			"name": "RM08 — Raktro Voidlistener",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human Warlock ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/213_RM08 — Raktro Voidlistener.png"
+			}
+		},
+		{
+			"name": "RM06 — The Archbishop of Cyclic Faith",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}{B}{B}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/211_RM06 — The Archbishop of Cyclic Faith.png"
+			}
+		},
+		{
+			"name": "UB01 — Plague Vermin",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Rat ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/118_UB01 — Plague Vermin.png"
+			}
+		},
+		{
+			"name": "UB02 — Soulless Bodies",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Zombie Horror ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/119_UB02 — Soulless Bodies.png"
 			}
 		},
 		{
@@ -645,9 +945,99 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Cleric ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/120_UB03 — Bloodmana Converter.png"
+			}
+		},
+		{
+			"name": "UB04 — Cycleshifter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/121_UB04 — Cycleshifter.png"
+			}
+		},
+		{
+			"name": "UB05 — Attrition Incarnator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/122_UB05 — Attrition Incarnator.png"
+			}
+		},
+		{
+			"name": "UB06 — Soulless Gargantua",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Zombie Horror ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/123_UB06 — Soulless Gargantua.png"
+			}
+		},
+		{
+			"name": "UB07 — Ultrajet Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Giant ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/124_UB07 — Ultrajet Guardian.png"
+			}
+		},
+		{
+			"name": "UB08 — Rotting Prismtheft",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/125_UB03 — Bloodmana Converter.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/125_UB08 — Rotting Prismtheft.png"
+			}
+		},
+		{
+			"name": "UB09 — Optimized Necromancy",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/126_UB09 — Optimized Necromancy.png"
+			}
+		},
+		{
+			"name": "UB10 — Council Disolving",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/127_UB10 — Council Disolving.png"
+			}
+		},
+		{
+			"name": "UB11 — Price to Pay",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/128_UB11 — Price to Pay.png"
+			}
+		},
+		{
+			"name": "UB12 — Bloodstained Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/129_UB12 — Bloodstained Ritual.png"
 			}
 		},
 		{
@@ -655,9 +1045,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Horse ",
-			"collector_number": "135",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/135_CR01 — Freerunning Foal.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/130_CR01 — Freerunning Foal.png"
 			}
 		},
 		{
@@ -665,9 +1055,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Rat ",
-			"collector_number": "136",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/136_CR02 — Firebite Rat.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/131_CR02 — Firebite Rat.png"
 			}
 		},
 		{
@@ -675,9 +1065,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Spirit ",
-			"collector_number": "137",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/137_CR03 — Chaos Remnant.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/132_CR03 — Chaos Remnant.png"
 			}
 		},
 		{
@@ -685,9 +1075,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Archer ",
-			"collector_number": "138",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/138_CR04 — Trophy Hunter.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/133_CR04 — Trophy Hunter.png"
 			}
 		},
 		{
@@ -695,9 +1085,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Scout ",
-			"collector_number": "139",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/139_CR05 — Library Courier.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/134_CR05 — Library Courier.png"
 			}
 		},
 		{
@@ -705,9 +1095,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Shaman ",
-			"collector_number": "140",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/140_CR06 — Manalight Ritualist.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/135_CR06 — Manalight Ritualist.png"
 			}
 		},
 		{
@@ -715,9 +1105,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Rat ",
-			"collector_number": "141",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/141_CR07 — Loyal Rodents.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/136_CR07 — Loyal Rodents.png"
 			}
 		},
 		{
@@ -725,9 +1115,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Horse ",
-			"collector_number": "142",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/142_CR08 — Flaming Charger.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/137_CR08 — Flaming Charger.png"
 			}
 		},
 		{
@@ -735,9 +1125,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Rat Horse ",
-			"collector_number": "143",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/143_CR09 — Vermin Rider.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/138_CR09 — Vermin Rider.png"
 			}
 		},
 		{
@@ -745,9 +1135,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "145",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/145_CR11 — Firelight Blast.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/140_CR11 — Firelight Blast.png"
 			}
 		},
 		{
@@ -755,9 +1145,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "146",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/146_CR12 — Manalight Fervor.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/141_CR12 — Manalight Fervor.png"
 			}
 		},
 		{
@@ -765,9 +1155,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "147",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/147_CR13 — Mana Overflow.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/142_CR13 — Mana Overflow.png"
 			}
 		},
 		{
@@ -775,9 +1165,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "148",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/148_CR14 — Faithless Rummaging.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/143_CR14 — Faithless Rummaging.png"
 			}
 		},
 		{
@@ -785,9 +1175,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "149",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/149_CR15 — Prismic Strength.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/144_CR15 — Prismic Strength.png"
 			}
 		},
 		{
@@ -795,9 +1185,9 @@
 			"rarity": "common",
 			"mana_cost": "{X}{R}",
 			"type": "Instant",
-			"collector_number": "150",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/150_CR16 — Lightsurge.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/145_CR16 — Lightsurge.png"
 			}
 		},
 		{
@@ -805,9 +1195,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "151",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/151_CR17 — Lightning Shatter.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/146_CR17 — Lightning Shatter.png"
 			}
 		},
 		{
@@ -815,9 +1205,129 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Treasure ",
-			"collector_number": "152",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/152_CR18 — Library Stockpile.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/147_CR18 — Library Stockpile.png"
+			}
+		},
+		{
+			"name": "MR01 — The Balancer's Counterbalance",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Legendary Creature — Avatar ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/148_MR01 — The Balancer's Counterbalance.png"
+			}
+		},
+		{
+			"name": "RR07 — Prism Hoard",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/155_RR07 — Prism Hoard.png"
+			}
+		},
+		{
+			"name": "RM03 — The Chittering Voice",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{W}{B}{B}",
+			"type": "Legendary Kindred Enchantment — Rat ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/208_RM03 — The Chittering Voice.png"
+			}
+		},
+		{
+			"name": "RM04 — The Ultraprism Regent",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{U}{R}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/209_RM04 — The Ultraprism Regent.png"
+			}
+		},
+		{
+			"name": "UR01 — Flamefilth Rat",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Rat ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/156_UR01 — Flamefilth Rat.png"
+			}
+		},
+		{
+			"name": "UR02 — Manachain Wrecker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/157_UR02 — Manachain Wrecker.png"
+			}
+		},
+		{
+			"name": "UR03 — Book Burner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Berserker Wizard ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/158_UR03 — Book Burner.png"
+			}
+		},
+		{
+			"name": "UR04 — Thrill-Seeking Prismthief",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/159_UR04 — Thrill-Seeking Prismthief.png"
+			}
+		},
+		{
+			"name": "UR05 — Stampede Mother",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Horse ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/160_UR05 — Stampede Mother.png"
+			}
+		},
+		{
+			"name": "UR06 — Pyrebright Chromageist",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/161_UR06 — Pyrebright Chromageist.png"
+			}
+		},
+		{
+			"name": "UR07 — Ultraruby Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Giant ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/162_UR07 — Ultraruby Guardian.png"
+			}
+		},
+		{
+			"name": "UR08 — Optimized Conflagration",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/163_UR08 — Optimized Conflagration.png"
 			}
 		},
 		{
@@ -825,9 +1335,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Druid ",
-			"collector_number": "175",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/175_CG01 — Manachain Druid.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/168_CG01 — Manachain Druid.png"
 			}
 		},
 		{
@@ -835,9 +1345,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment Creature — Spirit ",
-			"collector_number": "176",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/176_CG02 — Lightened Guardian.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/169_CG02 — Lightened Guardian.png"
 			}
 		},
 		{
@@ -845,9 +1355,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment Creature — Faerie ",
-			"collector_number": "177",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/177_CG03 — Earthbound Fae.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/170_CG03 — Earthbound Fae.png"
 			}
 		},
 		{
@@ -855,9 +1365,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment Creature — Spirit ",
-			"collector_number": "178",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/178_CG04 — Corrupted Chromageist.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/171_CG04 — Corrupted Chromageist.png"
 			}
 		},
 		{
@@ -865,9 +1375,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Wolf ",
-			"collector_number": "179",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/179_CG05 — Manachain Companion.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/172_CG05 — Manachain Companion.png"
 			}
 		},
 		{
@@ -875,9 +1385,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment Creature — Spirit ",
-			"collector_number": "180",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/180_CG06 — Helpful Chromageist.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/173_CG06 — Helpful Chromageist.png"
 			}
 		},
 		{
@@ -885,9 +1395,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Beast ",
-			"collector_number": "181",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/181_CG07 — Great Lightbeast.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/174_CG07 — Great Lightbeast.png"
 			}
 		},
 		{
@@ -895,9 +1405,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Druid ",
-			"collector_number": "182",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/182_CG08 — Incarnation Caretaker.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/175_CG08 — Incarnation Caretaker.png"
 			}
 		},
 		{
@@ -905,9 +1415,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Shapeshifter ",
-			"collector_number": "183",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/183_CG09 — Scaling Imitator.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/176_CG09 — Scaling Imitator.png"
 			}
 		},
 		{
@@ -915,9 +1425,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Enchantment Creature — Faerie Beast ",
-			"collector_number": "184",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/184_CG10 — Faetouched Wildebeast.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/177_CG10 — Faetouched Wildebeast.png"
 			}
 		},
 		{
@@ -925,9 +1435,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "186",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/186_CG12 — Prismclaim Battle.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/179_CG12 — Prismclaim Battle.png"
 			}
 		},
 		{
@@ -935,9 +1445,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "187",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/187_CG13 — Cyclical Growth.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/180_CG13 — Cyclical Growth.png"
 			}
 		},
 		{
@@ -945,9 +1455,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "188",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/188_CG14 — Natural Accumulation.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/181_CG14 — Natural Accumulation.png"
 			}
 		},
 		{
@@ -955,9 +1465,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "189",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/189_CG15 — Prismic Might.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/182_CG15 — Prismic Might.png"
 			}
 		},
 		{
@@ -965,9 +1475,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "190",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/190_CG16 — Prismic Reclamation.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/183_CG16 — Prismic Reclamation.png"
 			}
 		},
 		{
@@ -975,9 +1485,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "191",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/191_CG17 — Extreme Wildgrowth.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/184_CG17 — Extreme Wildgrowth.png"
 			}
 		},
 		{
@@ -985,9 +1495,49 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "192",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/192_CG18 — Accumulate Might.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/185_CG18 — Accumulate Might.png"
+			}
+		},
+		{
+			"name": "MG01 — The Balancer's Caretaker",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Avatar ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/186_MG01 — The Balancer's Caretaker.png"
+			}
+		},
+		{
+			"name": "RG07 — Crusher of Men",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Creature — Giant Beast ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/193_RG07 — Crusher of Men.png"
+			}
+		},
+		{
+			"name": "RM05 — The Chromat",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{G}{W}{W}",
+			"type": "Legendary Enchantment Creature — Spirit ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/210_RM05 — The Chromat.png"
+			}
+		},
+		{
+			"name": "RM10 — The Faerie Queen",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}{U}{U}",
+			"type": "Legendary Enchantment Creature — Faerie ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/215_RM10 — The Faerie Queen.png"
 			}
 		},
 		{
@@ -995,9 +1545,69 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Shaman ",
-			"collector_number": "204",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/204_UG02 — Growthrot Incarnator.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/195_UG02 — Growthrot Incarnator.png"
+			}
+		},
+		{
+			"name": "UG03 — Giant Chromageist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature — Giant Spirit ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/196_UG03 — Giant Chromageist.png"
+			}
+		},
+		{
+			"name": "UG04 — Lightblossom Hamadryad",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Dryad ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/197_UG04 — Lightblossom Hamadryad.png"
+			}
+		},
+		{
+			"name": "UG06 — Wild Imitator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/199_UG06 — Wild Imitator.png"
+			}
+		},
+		{
+			"name": "UG07 — Faerie Eater",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Giant ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/200_UG07 — Faerie Eater.png"
+			}
+		},
+		{
+			"name": "UG08 — Ultraemerald Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Giant ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/201_UG08 — Ultraemerald Guardian.png"
+			}
+		},
+		{
+			"name": "UG09 — Optimized Evolution",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/202_UG09 — Optimized Evolution.png"
 			}
 		},
 		{
@@ -1008,6 +1618,26 @@
 			"collector_number": "216",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DOU-files/img/216_UM01 — Skilled Animator.png"
+			}
+		},
+		{
+			"name": "UM06 — Cyclic Faith Ritekeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/221_UM06 — Cyclic Faith Ritekeeper.png"
+			}
+		},
+		{
+			"name": "UM09 — Stampeding Stallion",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Horse ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/224_UM09 — Stampeding Stallion.png"
 			}
 		},
 		{
@@ -1031,6 +1661,26 @@
 			}
 		},
 		{
+			"name": "UM07 — Frantic Archivist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/222_UM07 — Frantic Archivist.png"
+			}
+		},
+		{
+			"name": "UM10 — Horizon Tricksters",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Enchantment Creature — Faerie ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/225_UM10 — Horizon Tricksters.png"
+			}
+		},
+		{
 			"name": "UM03 — Honored Swarmsinger",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
@@ -1041,9 +1691,19 @@
 			}
 		},
 		{
+			"name": "UM08 — Incarnation Chanter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/223_UM08 — Incarnation Chanter.png"
+			}
+		},
+		{
 			"name": "UM04 — Prismwood Dryad",
 			"rarity": "uncommon",
-			"mana_cost": "{R}{G}",
+			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Dryad ",
 			"collector_number": "219",
 			"image_uris": {
@@ -1091,6 +1751,76 @@
 			}
 		},
 		{
+			"name": "RA01 — The Lantern of Alignment",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/236_RA01 — The Lantern of Alignment.png"
+			}
+		},
+		{
+			"name": "UA01 — Ultraprismite Bruteling",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/241_UA01 — Ultraprismite Bruteling.png"
+			}
+		},
+		{
+			"name": "UA02 — Guarded Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/242_UA02 — Guarded Guardian.png"
+			}
+		},
+		{
+			"name": "UA03 — Bookstack Golem",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/243_UA03 — Bookstack Golem.png"
+			}
+		},
+		{
+			"name": "UA04 — Ultraprismite Core",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/244_UA04 — Ultraprismite Core.png"
+			}
+		},
+		{
+			"name": "UA05 — Prismatic Wellspring",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/245_UA05 — Prismatic Wellspring.png"
+			}
+		},
+		{
+			"name": "UA06 — Font of Prisms",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/246_UA06 — Font of Prisms.png"
+			}
+		},
+		{
 			"name": "MC02 — Pure Lightform",
 			"rarity": "mythic",
 			"mana_cost": "{5}",
@@ -1111,13 +1841,13 @@
 			}
 		},
 		{
-			"name": "RM01 — The Amorphous Star",
+			"name": "RM02 — The Amorphous Star",
 			"rarity": "rare",
-			"mana_cost": "{U}{U}{B}{B}",
+			"mana_cost": "{B}{G}{G}{U}{U}",
 			"type": "Legendary Kindred Enchantment Artifact — Shapeshifter ",
-			"collector_number": "215",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/215_RM01 — The Amorphous Star.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/207_RM02 — The Amorphous Star.png"
 			}
 		},
 		{
@@ -1305,9 +2035,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Shapeshifter Assassin ",
-			"collector_number": "95",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/95_CB01 — Shifting Slayer.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/92_CB01 — Shifting Slayer.png"
 			}
 		},
 		{
@@ -1315,19 +2045,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "53",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/53_UW10 — Ephemeral Force.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/51_UW10 — Ephemeral Force.png"
 			}
 		},
 		{
-			"name": "UU03 — Skilled Impersonator",
+			"name": "UU04 — Skilled Impersonator",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Shapeshifter ",
-			"collector_number": "85",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/85_UU03 — Skilled Impersonator.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/83_UU04 — Skilled Impersonator.png"
 			}
 		},
 		{
@@ -1335,9 +2065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "92",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/92_UU10 — Disperse Identity.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/89_UU10 — Disperse Identity.png"
 			}
 		},
 		{
@@ -1345,9 +2075,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Avatar ",
-			"collector_number": "64",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/64_CU09 — Prismic Sapphire Entity.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/62_CU09 — Prismic Sapphire Entity.png"
 			}
 		},
 		{
@@ -1365,9 +2095,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Avatar ",
-			"collector_number": "104",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/104_CB10 — Prismic Jet Entity.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/101_CB10 — Prismic Jet Entity.png"
 			}
 		},
 		{
@@ -1375,9 +2105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "75",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/75_RU01 — The Pan Flute of Ages.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/73_RU01 — The Pan Flute of Ages.png"
 			}
 		},
 		{
@@ -1385,9 +2115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Artifact",
-			"collector_number": "114",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/114_RB01 — The Crown of Doomsday.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/111_RB01 — The Crown of Doomsday.png"
 			}
 		},
 		{
@@ -1405,9 +2135,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "240",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/240_RL04 — Mirror Halls.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/239_RL04 — Mirror Halls.png"
 			}
 		},
 		{
@@ -1421,13 +2151,13 @@
 			}
 		},
 		{
-			"name": "RA01 — The Balancer's Helm",
+			"name": "RA03 — The Balancer's Helm",
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "236",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/236_RA01 — The Balancer's Helm.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/238_RA03 — The Balancer's Helm.png"
 			}
 		},
 		{
@@ -1445,9 +2175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Enchantment Creature — Faerie Druid ",
-			"collector_number": "203",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/203_UG01 — Faewood Caretaker.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/194_UG01 — Faewood Caretaker.png"
 			}
 		},
 		{
@@ -1455,9 +2185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "212",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/212_UG10 — Fey Grove.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/203_UG10 — Fey Grove.png"
 			}
 		},
 		{
@@ -1495,9 +2225,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "154",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/154_RR01 — The Sword of Aeons.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/149_RR01 — The Sword of Aeons.png"
 			}
 		},
 		{
@@ -1505,9 +2235,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "194",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/194_RG01 — The Stave of Eternity.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/187_RG01 — The Stave of Eternity.png"
 			}
 		},
 		{
@@ -1515,9 +2245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "213",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/213_UG11 — Exponential Growth.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/204_UG11 — Exponential Growth.png"
 			}
 		},
 		{
@@ -1525,9 +2255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Beast ",
-			"collector_number": "207",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/207_UG05 — Great Wildebeast.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/198_UG05 — Great Wildebeast.png"
 			}
 		},
 		{
@@ -1535,9 +2265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "214",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/214_UG12 — Megamorphose.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/205_UG12 — Megamorphose.png"
 			}
 		},
 		{
@@ -1545,9 +2275,39 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Dryad Noble ",
-			"collector_number": "198",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/198_RG05 — The Woodqueen.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/191_RG05 — The Woodqueen.png"
+			}
+		},
+		{
+			"name": "UR10 — Extreme Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/165_UR10 — Extreme Ritual.png"
+			}
+		},
+		{
+			"name": "UR11 — Zealous Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/166_UR11 — Zealous Ritual.png"
+			}
+		},
+		{
+			"name": "UR12 — Pyrotechnic Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/167_UR12 — Pyrotechnic Ritual.png"
 			}
 		},
 		{
@@ -1555,9 +2315,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "79",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/79_RU05 — Return Again.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/77_RU05 — Return Again.png"
 			}
 		},
 		{
@@ -1605,9 +2365,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "76",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/76_RU02 — Word of Subtlety.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/74_RU02 — Word of Subtlety.png"
 			}
 		},
 		{
@@ -1615,9 +2375,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/77_RU03 — Word of Knowledge.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/75_RU03 — Word of Knowledge.png"
 			}
 		},
 		{
@@ -1625,9 +2385,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Instant",
-			"collector_number": "78",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/78_RU04 — Word of Will.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/76_RU04 — Word of Will.png"
 			}
 		},
 		{
@@ -1635,9 +2395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "115",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/115_RB02 — Word of Fear.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/112_RB02 — Word of Fear.png"
 			}
 		},
 		{
@@ -1645,9 +2405,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "116",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/116_RB03 — Word of Death.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/113_RB03 — Word of Death.png"
 			}
 		},
 		{
@@ -1655,9 +2415,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Instant",
-			"collector_number": "117",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/117_RB04 — Word of Persistence.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/114_RB04 — Word of Persistence.png"
 			}
 		},
 		{
@@ -1665,9 +2425,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "155",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/155_RR02 — Word of Chaos.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/150_RR02 — Word of Chaos.png"
 			}
 		},
 		{
@@ -1675,9 +2435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Instant",
-			"collector_number": "156",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/156_RR03 — Word of Wealth.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/151_RR03 — Word of Wealth.png"
 			}
 		},
 		{
@@ -1685,9 +2445,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Instant",
-			"collector_number": "157",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/157_RR04 — Word of Courage.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/152_RR04 — Word of Courage.png"
 			}
 		},
 		{
@@ -1695,9 +2455,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "195",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/195_RG02 — Word of Life.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/188_RG02 — Word of Life.png"
 			}
 		},
 		{
@@ -1705,9 +2465,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Instant",
-			"collector_number": "196",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/196_RG03 — Word of Nature.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/189_RG03 — Word of Nature.png"
 			}
 		},
 		{
@@ -1715,9 +2475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Instant",
-			"collector_number": "197",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/197_RG04 — Word of Strength.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/190_RG04 — Word of Strength.png"
 			}
 		},
 		{
@@ -1725,9 +2485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{U}",
 			"type": "Enchantment",
-			"collector_number": "93",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/93_UU11 — Bountiful Blessings of Fae.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/90_UU11 — Bountiful Blessings of Fae.png"
 			}
 		},
 		{
@@ -1755,19 +2515,19 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}",
 			"type": "Enchantment",
-			"collector_number": "199",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/199_RG06 — Fae Anthem.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/192_RG06 — Fae Anthem.png"
 			}
 		},
 		{
-			"name": "UU06 — Feylusion",
+			"name": "UU05 — Feylusion",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment Creature — Faerie Illusion ",
-			"collector_number": "88",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/88_UU06 — Feylusion.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/84_UU05 — Feylusion.png"
 			}
 		},
 		{
@@ -1805,9 +2565,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{U}{U}",
 			"type": "Legendary Planeswalker — Balancer ",
-			"collector_number": "74",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/74_MU01 — The Balancer.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/72_MU01 — The Balancer.png"
 			}
 		},
 		{
@@ -1815,9 +2575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "94",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/94_UU12 — Exchange Rate.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/91_UU12 — Exchange Rate.png"
 			}
 		},
 		{
@@ -1825,19 +2585,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird ",
-			"collector_number": "83",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/83_UU01 — Library Ravens.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/80_UU01 — Library Ravens.png"
 			}
 		},
 		{
-			"name": "UU07 — Stealthy Snacker",
+			"name": "UU03 — Stealthy Snacker",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Faerie Rogue ",
-			"collector_number": "89",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/89_UU07 — Stealthy Snacker.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/82_UU03 — Stealthy Snacker.png"
 			}
 		},
 		{
@@ -1855,9 +2615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Rat Rogue ",
-			"collector_number": "158",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/158_RR05 — Wormpaw, the Pilferer.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/153_RR05 — Wormpaw, the Pilferer.png"
 			}
 		},
 		{
@@ -1865,9 +2625,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human Coward ",
-			"collector_number": "159",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/159_RR06 — The Fearful Knight.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/154_RR06 — The Fearful Knight.png"
 			}
 		},
 		{
@@ -1875,9 +2635,19 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Avatar ",
-			"collector_number": "144",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/144_CR10 — Prismic Ruby Entity.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/139_CR10 — Prismic Ruby Entity.png"
+			}
+		},
+		{
+			"name": "UR09 — Thunderboom",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/164_UR09 — Thunderboom.png"
 			}
 		},
 		{
@@ -1885,9 +2655,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Avatar ",
-			"collector_number": "185",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/185_CG11 — Prismic Emerald Entity.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/178_CG11 — Prismic Emerald Entity.png"
 			}
 		},
 		{
@@ -1899,9 +2669,271 @@
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DOU-files/img/5_CC05 — Chromageists's Lightform.png"
 			}
+		},
+		{
+			"name": "Spirit Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Spirit ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/5_Spirit Token.png"
+			}
+		},
+		{
+			"name": "Loyal Rodents Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rat ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/9_Loyal Rodents Token.png"
+			}
+		},
+		{
+			"name": "The Mindshield",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/3_The Mindshield.png"
+			}
+		},
+		{
+			"name": "The Thoughtblade",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/8_The Thoughtblade.png"
+			}
+		},
+		{
+			"name": "The Memoryflask",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/10_The Memoryflask.png"
+			}
+		},
+		{
+			"name": "Frog Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/6_Frog Token.png"
+			}
+		},
+		{
+			"name": "Reflective Angel Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Angel ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/4_Reflective Angel Token.png"
+			}
+		},
+		{
+			"name": "Doomed Rats Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Rat ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/7_Doomed Rats Token.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/11_Clue.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/12_Treasure.png"
+			}
+		},
+		{
+			"name": "RL05 — Animated Armory",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Artifact Land — Equipment ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/240_RL05 — Animated Armory.png"
+			}
 		}
 	]
-[CommonSlot(14)]
+[RareSlot(2)]
+2 RL01 — Ultraprismatic Vista
+2 RW05 — Enrenere, Shield of Decaying Faith
+2 RW01 — The Shield of Belief
+2 RW06 — Soulbond
+2 RM09 — The Lord High Stallion
+2 RW07 — Invulnerable Chromageist
+2 RM01 — The Essence of Animation
+2 RU06 — Unity Orb
+2 RU07 — Perfection
+2 RM07 — Malaktior, High Curator
+2 RB05 — Nonexistant Stab
+2 RB06 — Worst Enemy
+2 RB07 — Imperfection
+2 RM08 — Raktro Voidlistener
+2 RM06 — The Archbishop of Cyclic Faith
+2 RR07 — Prism Hoard
+2 RM03 — The Chittering Voice
+2 RM04 — The Ultraprism Regent
+2 RG07 — Crusher of Men
+2 RM05 — The Chromat
+2 RM10 — The Faerie Queen
+2 RA01 — The Lantern of Alignment
+2 RM02 — The Amorphous Star
+2 RU01 — The Pan Flute of Ages
+2 RB01 — The Crown of Doomsday
+2 RL02 — Tales of the Fae
+2 RL04 — Mirror Halls
+2 RL03 — Animated Tower
+2 RA03 — The Balancer's Helm
+2 RA02 — Doubling Sphere
+2 RR01 — The Sword of Aeons
+2 RG01 — The Stave of Eternity
+2 RG05 — The Woodqueen
+2 RU05 — Return Again
+2 RC01 — Vanishing Knowledge
+2 RW02 — Word of Loyalty
+2 RW03 — Word of Purity
+2 RW04 — Word of Order
+2 RU02 — Word of Subtlety
+2 RU03 — Word of Knowledge
+2 RU04 — Word of Will
+2 RB02 — Word of Fear
+2 RB03 — Word of Death
+2 RB04 — Word of Persistence
+2 RR02 — Word of Chaos
+2 RR03 — Word of Wealth
+2 RR04 — Word of Courage
+2 RG02 — Word of Life
+2 RG03 — Word of Nature
+2 RG04 — Word of Strength
+2 RC02 — Embodiment of the Fae
+2 RG06 — Fae Anthem
+2 RR05 — Wormpaw, the Pilferer
+2 RR06 — The Fearful Knight
+2 RL05 — Animated Armory
+1 MA01 — The Ultraprism
+1 MW01 — The Balancer's Spokesperson
+1 MB01 — The Balancer's Slayer
+1 MR01 — The Balancer's Counterbalance
+1 MG01 — The Balancer's Caretaker
+1 MC02 — Pure Lightform
+1 MA06 — Mox Mox Emerald
+1 MA04 — Mox Mox Jet
+1 MA02 — Mox Mox Pearl
+1 MA05 — Mox Mox Ruby
+1 MA03 — Mox Mox Sapphire
+1 MC01 — Prismatic Wheel
+1 ML01 — Unchained Bazaar
+1 MC03 — Void Emanation
+1 MU01 — The Balancer
+[UncommonSlot(5)]
+9 UW01 — Vermin Medic
+9 UW02 — Tangiblade Chromageist
+9 UW03 — Animated Geistcaller
+9 UW05 — Wingdream Steed
+9 UW04 — Cyclic Faith Geistcaller
+9 UW06 — Prismatic Angel
+9 UW07 — Combat Animator
+9 UW08 — Ultrapearl Guardian
+9 UW09 — Holy Smashing
+9 UW11 — Union of Knowledge
+9 UW12 — Optimized Training
+9 UU02 — Death Analyzer
+9 UU06 — Animation Documentor
+9 UU07 — Ultrasapphire Guardian
+9 UU08 — Optimized Research
+9 UU09 — Efficient Denial
+9 UB01 — Plague Vermin
+9 UB02 — Soulless Bodies
+9 UB03 — Bloodmana Converter
+9 UB04 — Cycleshifter
+9 UB05 — Attrition Incarnator
+9 UB06 — Soulless Gargantua
+9 UB07 — Ultrajet Guardian
+9 UB08 — Rotting Prismtheft
+9 UB09 — Optimized Necromancy
+9 UB10 — Council Disolving
+9 UB11 — Price to Pay
+9 UB12 — Bloodstained Ritual
+9 UR01 — Flamefilth Rat
+9 UR02 — Manachain Wrecker
+9 UR03 — Book Burner
+9 UR04 — Thrill-Seeking Prismthief
+9 UR05 — Stampede Mother
+9 UR06 — Pyrebright Chromageist
+9 UR07 — Ultraruby Guardian
+9 UR08 — Optimized Conflagration
+9 UG02 — Growthrot Incarnator
+9 UG03 — Giant Chromageist
+9 UG04 — Lightblossom Hamadryad
+9 UG06 — Wild Imitator
+9 UG07 — Faerie Eater
+9 UG08 — Ultraemerald Guardian
+9 UG09 — Optimized Evolution
+9 UM01 — Skilled Animator
+9 UM06 — Cyclic Faith Ritekeeper
+9 UM09 — Stampeding Stallion
+9 UM05 — Chromageist Caretaker
+9 UM02 — Wingform Shapecrafter
+9 UM07 — Frantic Archivist
+9 UM10 — Horizon Tricksters
+9 UM03 — Honored Swarmsinger
+9 UM08 — Incarnation Chanter
+9 UM04 — Prismwood Dryad
+9 UA01 — Ultraprismite Bruteling
+9 UA02 — Guarded Guardian
+9 UA03 — Bookstack Golem
+9 UA04 — Ultraprismite Core
+9 UA05 — Prismatic Wellspring
+9 UA06 — Font of Prisms
+9 UW10 — Ephemeral Force
+9 UU04 — Skilled Impersonator
+9 UU10 — Disperse Identity
+9 UG01 — Faewood Caretaker
+9 UG10 — Fey Grove
+9 UA07 — Pure Essence
+9 UG11 — Exponential Growth
+9 UG05 — Great Wildebeast
+9 UG12 — Megamorphose
+9 UR10 — Extreme Ritual
+9 UR11 — Zealous Ritual
+9 UR12 — Pyrotechnic Ritual
+9 UU11 — Bountiful Blessings of Fae
+9 UC02 — Essence of Heartbeat
+9 UU05 — Feylusion
+9 UC03 — Fey Ritual
+9 UC04 — Micromanage
+9 UU12 — Exchange Rate
+9 UU01 — Library Ravens
+9 UU03 — Stealthy Snacker
+9 UR09 — Thunderboom
+[CommonSlot(7)]
 30 CC03 — Warmonger's Lightform
 30 CW02 — Purelight Guardian
 30 CW03 — Prized Steed
@@ -2004,11 +3036,11 @@
 30 CG11 — Prismic Emerald Entity
 30 CC05 — Chromageists's Lightform
 [LandSlot(1)]
-20 CL01 — Prismatic Plains
-20 CL02 — Prismatic Island
-20 CL03 — Prismatic Swamp
-20 CL04 — Prismatic Mountain
-20 CL05 — Prismatic Forest
+10 CL01 — Prismatic Plains
+10 CL02 — Prismatic Island
+10 CL03 — Prismatic Swamp
+10 CL04 — Prismatic Mountain
+10 CL05 — Prismatic Forest
 10 UL03 — Village of Blood
 10 UL06 — Village of Bone
 10 UL02 — Village of Darkness
@@ -2019,5 +3051,3 @@
 10 UL09 — Village of Light
 10 UL07 — Village of Lightning
 10 UL10 — Village of Water
-[ReminderSlot(1)]
-60 Prism Reminder
