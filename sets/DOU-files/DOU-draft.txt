@@ -27,7 +27,7 @@
 			"type": "",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/2_Prism Reminder.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/2t_Prism Reminder.png"
 			}
 		},
 		{
@@ -3036,11 +3036,11 @@
 30 CG11 — Prismic Emerald Entity
 30 CC05 — Chromageists's Lightform
 [LandSlot(1)]
-10 CL01 — Prismatic Plains
-10 CL02 — Prismatic Island
-10 CL03 — Prismatic Swamp
-10 CL04 — Prismatic Mountain
-10 CL05 — Prismatic Forest
+30 CL01 — Prismatic Plains
+30 CL02 — Prismatic Island
+30 CL03 — Prismatic Swamp
+30 CL04 — Prismatic Mountain
+30 CL05 — Prismatic Forest
 10 UL03 — Village of Blood
 10 UL06 — Village of Bone
 10 UL02 — Village of Darkness
@@ -3051,3 +3051,5 @@
 10 UL09 — Village of Light
 10 UL07 — Village of Lightning
 10 UL10 — Village of Water
+[ReminderSlot(1)]
+60 Prism Reminder
