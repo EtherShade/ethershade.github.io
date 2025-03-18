@@ -27,7 +27,7 @@
 			"type": "",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/2_Prism Reminder.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/2t_Prism Reminder.png"
 			}
 		},
 		{
