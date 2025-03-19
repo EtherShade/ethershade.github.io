@@ -25,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/2t_Prism Reminder.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/3t_Prism Reminder.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/1_Creaturized Token.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/2_Creaturized Token.png"
 			}
 		},
 		{
@@ -251,13 +251,13 @@
 			}
 		},
 		{
-			"name": "CW17 — Purelight Battle Cry",
+			"name": "CW17 — Battle Cry",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/32_CW17 — Purelight Battle Cry.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/32_CW17 — Battle Cry.png"
 			}
 		},
 		{
@@ -2202,7 +2202,7 @@
 		},
 		{
 			"name": "UC01 — Natural Essence",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{0}",
 			"type": "Enchantment",
 			"collector_number": "12",
@@ -2681,23 +2681,13 @@
 			}
 		},
 		{
-			"name": "Loyal Rodents Token",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Rat ",
-			"collector_number": "9",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/9_Loyal Rodents Token.png"
-			}
-		},
-		{
 			"name": "The Mindshield",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/3_The Mindshield.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/4_The Mindshield.png"
 			}
 		},
 		{
@@ -2705,9 +2695,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/8_The Thoughtblade.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/7_The Thoughtblade.png"
 			}
 		},
 		{
@@ -2715,9 +2705,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "10",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/10_The Memoryflask.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/8_The Memoryflask.png"
 			}
 		},
 		{
@@ -2731,33 +2721,13 @@
 			}
 		},
 		{
-			"name": "Reflective Angel Token",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Enchantment Creature — Angel ",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/4_Reflective Angel Token.png"
-			}
-		},
-		{
-			"name": "Doomed Rats Token",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Creature — Rat ",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/7_Doomed Rats Token.png"
-			}
-		},
-		{
 			"name": "Clue",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue ",
-			"collector_number": "11",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/11_Clue.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/9_Clue.png"
 			}
 		},
 		{
@@ -2765,9 +2735,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure ",
-			"collector_number": "12",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/12_Treasure.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/10_Treasure.png"
 			}
 		},
 		{
@@ -2828,6 +2798,16 @@
 			"collector_number": "256",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DOU-files/img/256_CL09 — Inverted Mountain.png"
+			}
+		},
+		{
+			"name": "Copy Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token ? — ?",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/1_Copy Token.png"
 			}
 		}
 	]
@@ -2967,6 +2947,7 @@
 9 UU10 — Disperse Identity
 9 UG01 — Faewood Caretaker
 9 UG10 — Fey Grove
+9 UC01 — Natural Essence
 9 UA07 — Pure Essence
 9 UG11 — Exponential Growth
 9 UG05 — Great Wildebeast
@@ -3000,7 +2981,7 @@
 30 CW14 — Remnant of True Pacifism
 30 CW15 — Rise Up for Honor
 30 CW16 — Council Meeting
-30 CW17 — Purelight Battle Cry
+30 CW17 — Battle Cry
 30 CW18 — Prismic Purification
 30 CU01 — Shiftling
 30 CU02 — Fledgeling Faerie
@@ -3080,7 +3061,6 @@
 30 CC02 — Animator's Lightform
 30 CB10 — Prismic Jet Entity
 30 CC11 — Minimorphose
-30 UC01 — Natural Essence
 30 CC04 — Lightweaver's Lightform
 30 CR10 — Prismic Ruby Entity
 30 CG11 — Prismic Emerald Entity
