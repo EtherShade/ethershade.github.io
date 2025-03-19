@@ -85,9 +85,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/254_RL01 — Ultraprismatic Vista.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/259_RL01 — Ultraprismatic Vista.png"
 			}
 		},
 		{
@@ -621,13 +621,13 @@
 			}
 		},
 		{
-			"name": "RU06 — Unity Orb",
+			"name": "RU06 — Infinity Visions",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Artifact",
+			"type": "Enchantment",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/78_RU06 — Unity Orb.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/78_RU06 — Infinity Visions.png"
 			}
 		},
 		{
@@ -1823,7 +1823,7 @@
 		{
 			"name": "MC02 — Pure Lightform",
 			"rarity": "mythic",
-			"mana_cost": "{5}",
+			"mana_cost": "{7}",
 			"type": "Instant — Lightform ",
 			"collector_number": "8",
 			"image_uris": {
@@ -1915,9 +1915,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/253_ML01 — Unchained Bazaar.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/258_ML01 — Unchained Bazaar.png"
 			}
 		},
 		{
@@ -1925,9 +1925,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "259",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/259_UL03 — Village of Blood.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/264_UL03 — Village of Blood.png"
 			}
 		},
 		{
@@ -1935,9 +1935,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/262_UL06 — Village of Bone.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/267_UL06 — Village of Bone.png"
 			}
 		},
 		{
@@ -1945,9 +1945,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "258",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/258_UL02 — Village of Darkness.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/263_UL02 — Village of Darkness.png"
 			}
 		},
 		{
@@ -1955,9 +1955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "264",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/264_UL08 — Village of Death.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/269_UL08 — Village of Death.png"
 			}
 		},
 		{
@@ -1965,9 +1965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "260",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/260_UL04 — Village of Fire.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/265_UL04 — Village of Fire.png"
 			}
 		},
 		{
@@ -1975,9 +1975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/257_UL01 — Village of Frost.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/262_UL01 — Village of Frost.png"
 			}
 		},
 		{
@@ -1985,9 +1985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "261",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/261_UL05 — Village of Life.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/266_UL05 — Village of Life.png"
 			}
 		},
 		{
@@ -1995,9 +1995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "265",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/265_UL09 — Village of Light.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/270_UL09 — Village of Light.png"
 			}
 		},
 		{
@@ -2005,9 +2005,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "263",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/263_UL07 — Village of Lightning.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/268_UL07 — Village of Lightning.png"
 			}
 		},
 		{
@@ -2015,9 +2015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "266",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/266_UL10 — Village of Water.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/271_UL10 — Village of Water.png"
 			}
 		},
 		{
@@ -2125,9 +2125,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Enchantment Land — Saga ",
-			"collector_number": "255",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/255_RL02 — Tales of the Fae.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/260_RL02 — Tales of the Fae.png"
 			}
 		},
 		{
@@ -2145,9 +2145,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Enchantment Land — Aura ",
-			"collector_number": "256",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/256_RL03 — Animated Tower.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/261_RL03 — Animated Tower.png"
 			}
 		},
 		{
@@ -2779,6 +2779,56 @@
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DOU-files/img/240_RL05 — Animated Armory.png"
 			}
+		},
+		{
+			"name": "CL06 — Inverted Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/253_CL06 — Inverted Plains.png"
+			}
+		},
+		{
+			"name": "CL07 — Inverted Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island ",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/254_CL07 — Inverted Island.png"
+			}
+		},
+		{
+			"name": "CL10 — Inverted Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/257_CL10 — Inverted Forest.png"
+			}
+		},
+		{
+			"name": "CL08 — Inverted Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/255_CL08 — Inverted Swamp.png"
+			}
+		},
+		{
+			"name": "CL09 — Inverted Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain ",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/256_CL09 — Inverted Mountain.png"
+			}
 		}
 	]
 [RareSlot(2)]
@@ -2789,7 +2839,7 @@
 2 RM09 — The Lord High Stallion
 2 RW07 — Invulnerable Chromageist
 2 RM01 — The Essence of Animation
-2 RU06 — Unity Orb
+2 RU06 — Infinity Visions
 2 RU07 — Perfection
 2 RM07 — Malaktior, High Curator
 2 RB05 — Nonexistant Stab
@@ -3036,11 +3086,11 @@
 30 CG11 — Prismic Emerald Entity
 30 CC05 — Chromageists's Lightform
 [LandSlot(1)]
-30 CL01 — Prismatic Plains
-30 CL02 — Prismatic Island
-30 CL03 — Prismatic Swamp
-30 CL04 — Prismatic Mountain
-30 CL05 — Prismatic Forest
+20 CL01 — Prismatic Plains
+20 CL02 — Prismatic Island
+20 CL03 — Prismatic Swamp
+20 CL04 — Prismatic Mountain
+20 CL05 — Prismatic Forest
 10 UL03 — Village of Blood
 10 UL06 — Village of Bone
 10 UL02 — Village of Darkness
@@ -3051,5 +3101,10 @@
 10 UL09 — Village of Light
 10 UL07 — Village of Lightning
 10 UL10 — Village of Water
+20 CL06 — Inverted Plains
+20 CL07 — Inverted Island
+20 CL10 — Inverted Forest
+20 CL08 — Inverted Swamp
+20 CL09 — Inverted Mountain
 [ReminderSlot(1)]
 60 Prism Reminder
