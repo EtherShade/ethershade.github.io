@@ -871,13 +871,13 @@
 			}
 		},
 		{
-			"name": "RB05 — Nonexistent Stab#",
+			"name": "RB05 — Nonexistent Stab",
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Instant",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/115_RB05 — Nonexistent Stab#.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/115_RB05 — Nonexistent Stab.png"
 			}
 		},
 		{
@@ -1541,13 +1541,13 @@
 			}
 		},
 		{
-			"name": "UG02 — Growthrot Incarnator",
+			"name": "UG01 — Growthrot Incarnator",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Shaman ",
-			"collector_number": "195",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/195_UG02 — Growthrot Incarnator.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/194_UG01 — Growthrot Incarnator.png"
 			}
 		},
 		{
@@ -2171,13 +2171,13 @@
 			}
 		},
 		{
-			"name": "UG01 — Faewood Caretaker",
+			"name": "UG02 — Faewood Caretaker",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Enchantment Creature — Faerie Druid ",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/194_UG01 — Faewood Caretaker.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/195_UG02 — Faewood Caretaker.png"
 			}
 		},
 		{
@@ -2822,7 +2822,7 @@
 2 RU06 — Infinity Visions
 2 RU07 — Perfection
 2 RM07 — Malaktior, High Curator
-2 RB05 — Nonexistent Stab#
+2 RB05 — Nonexistent Stab
 2 RB06 — Worst Enemy
 2 RB07 — Imperfection
 2 RM08 — Raktro Voidlistener
@@ -2919,7 +2919,7 @@
 9 UR06 — Pyrebright Chromageist
 9 UR07 — Ultraruby Guardian
 9 UR08 — Optimized Conflagration
-9 UG02 — Growthrot Incarnator
+9 UG01 — Growthrot Incarnator
 9 UG03 — Giant Chromageist
 9 UG04 — Lightblossom Hamadryad
 9 UG06 — Wild Imitator
@@ -2945,7 +2945,7 @@
 9 UW10 — Ephemeral Force
 9 UU04 — Skilled Impersonator
 9 UU10 — Disperse Identity
-9 UG01 — Faewood Caretaker
+9 UG02 — Faewood Caretaker
 9 UG10 — Fey Grove
 9 UC01 — Natural Essence
 9 UA07 — Pure Essence
@@ -3081,10 +3081,10 @@
 10 UL09 — Village of Light
 10 UL07 — Village of Lightning
 10 UL10 — Village of Water
-20 CL06 — Inverted Plains
-20 CL07 — Inverted Island
-20 CL10 — Inverted Forest
-20 CL08 — Inverted Swamp
-20 CL09 — Inverted Mountain
+10 CL06 — Inverted Plains
+10 CL07 — Inverted Island
+10 CL10 — Inverted Forest
+10 CL08 — Inverted Swamp
+10 CL09 — Inverted Mountain
 [ReminderSlot(1)]
 60 Prism Reminder
