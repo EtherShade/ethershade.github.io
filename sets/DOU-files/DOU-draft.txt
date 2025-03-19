@@ -871,13 +871,13 @@
 			}
 		},
 		{
-			"name": "RB05 — Nonexistant Stab",
+			"name": "RB05 — Nonexistent Stab#",
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Instant",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/115_RB05 — Nonexistant Stab.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/115_RB05 — Nonexistent Stab#.png"
 			}
 		},
 		{
@@ -941,13 +941,13 @@
 			}
 		},
 		{
-			"name": "UB03 — Bloodmana Converter",
+			"name": "UB03 — Priest of Bloodstained Hands",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Cleric ",
+			"type": "Creature — Human Cleric  ",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/120_UB03 — Bloodmana Converter.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/120_UB03 — Priest of Bloodstained Hands.png"
 			}
 		},
 		{
@@ -2173,7 +2173,7 @@
 		{
 			"name": "UG01 — Faewood Caretaker",
 			"rarity": "uncommon",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Enchantment Creature — Faerie Druid ",
 			"collector_number": "194",
 			"image_uris": {
@@ -2822,7 +2822,7 @@
 2 RU06 — Infinity Visions
 2 RU07 — Perfection
 2 RM07 — Malaktior, High Curator
-2 RB05 — Nonexistant Stab
+2 RB05 — Nonexistent Stab#
 2 RB06 — Worst Enemy
 2 RB07 — Imperfection
 2 RM08 — Raktro Voidlistener
@@ -2901,7 +2901,7 @@
 9 UU09 — Efficient Denial
 9 UB01 — Plague Vermin
 9 UB02 — Soulless Bodies
-9 UB03 — Bloodmana Converter
+9 UB03 — Priest of Bloodstained Hands
 9 UB04 — Cycleshifter
 9 UB05 — Attrition Incarnator
 9 UB06 — Soulless Gargantua
