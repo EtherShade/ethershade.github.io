@@ -25,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/3t_Prism Reminder.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/2t_Prism Reminder.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature",
-			"collector_number": "2",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/2_Creaturized Token.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/1_Creaturized Token.png"
 			}
 		},
 		{
@@ -341,23 +341,23 @@
 			}
 		},
 		{
-			"name": "UW01 — Vermin Medic",
+			"name": "UW02 — Vermin Medic",
 			"rarity": "uncommon",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Creature — Rat ",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/42_UW01 — Vermin Medic.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/43_UW02 — Vermin Medic.png"
 			}
 		},
 		{
-			"name": "UW02 — Tangiblade Chromageist",
+			"name": "UW01 — Tangiblade Chromageist",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}",
 			"type": "Enchantment Creature — Spirit ",
-			"collector_number": "43",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/43_UW02 — Tangiblade Chromageist.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/42_UW01 — Tangiblade Chromageist.png"
 			}
 		},
 		{
@@ -921,13 +921,13 @@
 			}
 		},
 		{
-			"name": "UB01 — Plague Vermin",
+			"name": "UB01 — Plague Swarm",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
+			"mana_cost": "{X}{B}",
 			"type": "Creature — Rat ",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/118_UB01 — Plague Vermin.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/118_UB01 — Plague Swarm.png"
 			}
 		},
 		{
@@ -1331,13 +1331,13 @@
 			}
 		},
 		{
-			"name": "CG01 — Manachain Druid",
+			"name": "CW01 — Leyline Cleric",
 			"rarity": "common",
-			"mana_cost": "{G}",
+			"mana_cost": "{W}",
 			"type": "Creature — Human Druid ",
-			"collector_number": "168",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/168_CG01 — Manachain Druid.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/16_CW01 — Leyline Cleric.png"
 			}
 		},
 		{
@@ -1511,13 +1511,13 @@
 			}
 		},
 		{
-			"name": "RG07 — Crusher of Men",
-			"rarity": "rare",
+			"name": "UG07 — Crusher of Men",
+			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Creature — Giant Beast ",
-			"collector_number": "193",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/193_RG07 — Crusher of Men.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/200_UG07 — Crusher of Men.png"
 			}
 		},
 		{
@@ -1551,13 +1551,13 @@
 			}
 		},
 		{
-			"name": "UG03 — Giant Chromageist",
+			"name": "UG02 — Giant Chromageist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment Creature — Giant Spirit ",
-			"collector_number": "196",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/196_UG03 — Giant Chromageist.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/195_UG02 — Giant Chromageist.png"
 			}
 		},
 		{
@@ -1571,23 +1571,23 @@
 			}
 		},
 		{
-			"name": "UG06 — Wild Imitator",
+			"name": "UG05 — Wild Imitator",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Shapeshifter ",
-			"collector_number": "199",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/199_UG06 — Wild Imitator.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/198_UG05 — Wild Imitator.png"
 			}
 		},
 		{
-			"name": "UG07 — Faerie Eater",
+			"name": "UG06 — Faerie Eater",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Giant ",
-			"collector_number": "200",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/200_UG07 — Faerie Eater.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/199_UG06 — Faerie Eater.png"
 			}
 		},
 		{
@@ -1813,7 +1813,7 @@
 		{
 			"name": "UA06 — Font of Prisms",
 			"rarity": "uncommon",
-			"mana_cost": "{4}",
+			"mana_cost": "{2}",
 			"type": "Artifact",
 			"collector_number": "246",
 			"image_uris": {
@@ -1831,13 +1831,13 @@
 			}
 		},
 		{
-			"name": "CW01 — Lively Chromageist",
+			"name": "CG01 — Lively Chromageist",
 			"rarity": "common",
-			"mana_cost": "{W}",
+			"mana_cost": "{G}",
 			"type": "Enchantment Creature — Spirit ",
-			"collector_number": "16",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/16_CW01 — Lively Chromageist.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/168_CG01 — Lively Chromageist.png"
 			}
 		},
 		{
@@ -1908,16 +1908,6 @@
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DOU-files/img/7_MC01 — Prismatic Wheel.png"
-			}
-		},
-		{
-			"name": "ML01 — Unchained Bazaar",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "258",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/258_ML01 — Unchained Bazaar.png"
 			}
 		},
 		{
@@ -2171,13 +2161,13 @@
 			}
 		},
 		{
-			"name": "UG02 — Faewood Caretaker",
-			"rarity": "uncommon",
+			"name": "RG07 — Faewood Caretaker",
+			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment Creature — Faerie Druid ",
-			"collector_number": "195",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/195_UG02 — Faewood Caretaker.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/193_RG07 — Faewood Caretaker.png"
 			}
 		},
 		{
@@ -2251,13 +2241,13 @@
 			}
 		},
 		{
-			"name": "UG05 — Great Wildebeast",
+			"name": "UG03 — Great Wildebeast",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Beast ",
-			"collector_number": "198",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/198_UG05 — Great Wildebeast.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/196_UG03 — Great Wildebeast.png"
 			}
 		},
 		{
@@ -2291,13 +2281,13 @@
 			}
 		},
 		{
-			"name": "UR11 — Zealous Ritual",
+			"name": "UR11 — Zealous Tremors",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Instant",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/166_UR11 — Zealous Ritual.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/166_UR11 — Zealous Tremors.png"
 			}
 		},
 		{
@@ -2561,13 +2551,13 @@
 			}
 		},
 		{
-			"name": "MU01 — The Balancer",
+			"name": "MU01 — The Visiting Balancer",
 			"rarity": "mythic",
 			"mana_cost": "{U}{U}{U}",
 			"type": "Legendary Planeswalker — Balancer ",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/72_MU01 — The Balancer.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/72_MU01 — The Visiting Balancer.png"
 			}
 		},
 		{
@@ -2675,9 +2665,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment Creature — Spirit ",
-			"collector_number": "5",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/5_Spirit Token.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/4_Spirit Token.png"
 			}
 		},
 		{
@@ -2685,9 +2675,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/4_The Mindshield.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/3_The Mindshield.png"
 			}
 		},
 		{
@@ -2714,10 +2704,10 @@
 			"name": "Frog Token",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Spirit ",
-			"collector_number": "6",
+			"type": "Token Creature — Frog ",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/6_Frog Token.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/5_Frog Token.png"
 			}
 		},
 		{
@@ -2801,13 +2791,23 @@
 			}
 		},
 		{
-			"name": "Copy Token",
+			"name": "ML01 — Unchained Bank",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DOU-files/img/258_ML01 — Unchained Bank.png"
+			}
+		},
+		{
+			"name": "Rat Token",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token ? — ?",
-			"collector_number": "1",
+			"type": "Token Creature — Rat ",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DOU-files/img/1_Copy Token.png"
+				"en": "https://ethershade.github.io/sets/DOU-files/img/6_Rat Token.png"
 			}
 		}
 	]
@@ -2830,7 +2830,6 @@
 2 RR07 — Prism Hoard
 2 RM03 — The Chittering Voice
 2 RM04 — The Ultraprism Regent
-2 RG07 — Crusher of Men
 2 RM05 — The Chromat
 2 RM10 — The Faerie Queen
 2 RA01 — The Lantern of Alignment
@@ -2842,6 +2841,7 @@
 2 RL03 — Animated Tower
 2 RA03 — The Balancer's Helm
 2 RA02 — Doubling Sphere
+2 RG07 — Faewood Caretaker
 2 RR01 — The Sword of Aeons
 2 RG01 — The Stave of Eternity
 2 RG05 — The Woodqueen
@@ -2879,12 +2879,12 @@
 1 MA05 — Mox Mox Ruby
 1 MA03 — Mox Mox Sapphire
 1 MC01 — Prismatic Wheel
-1 ML01 — Unchained Bazaar
 1 MC03 — Void Emanation
-1 MU01 — The Balancer
+1 MU01 — The Visiting Balancer
+1 ML01 — Unchained Bank
 [UncommonSlot(5)]
-9 UW01 — Vermin Medic
-9 UW02 — Tangiblade Chromageist
+9 UW02 — Vermin Medic
+9 UW01 — Tangiblade Chromageist
 9 UW03 — Animated Geistcaller
 9 UW05 — Wingdream Steed
 9 UW04 — Cyclic Faith Geistcaller
@@ -2899,7 +2899,7 @@
 9 UU07 — Ultrasapphire Guardian
 9 UU08 — Optimized Research
 9 UU09 — Efficient Denial
-9 UB01 — Plague Vermin
+9 UB01 — Plague Swarm
 9 UB02 — Soulless Bodies
 9 UB03 — Priest of Bloodstained Hands
 9 UB04 — Cycleshifter
@@ -2919,11 +2919,12 @@
 9 UR06 — Pyrebright Chromageist
 9 UR07 — Ultraruby Guardian
 9 UR08 — Optimized Conflagration
+9 UG07 — Crusher of Men
 9 UG01 — Growthrot Incarnator
-9 UG03 — Giant Chromageist
+9 UG02 — Giant Chromageist
 9 UG04 — Lightblossom Hamadryad
-9 UG06 — Wild Imitator
-9 UG07 — Faerie Eater
+9 UG05 — Wild Imitator
+9 UG06 — Faerie Eater
 9 UG08 — Ultraemerald Guardian
 9 UG09 — Optimized Evolution
 9 UM01 — Skilled Animator
@@ -2945,15 +2946,14 @@
 9 UW10 — Ephemeral Force
 9 UU04 — Skilled Impersonator
 9 UU10 — Disperse Identity
-9 UG02 — Faewood Caretaker
 9 UG10 — Fey Grove
 9 UC01 — Natural Essence
 9 UA07 — Pure Essence
 9 UG11 — Exponential Growth
-9 UG05 — Great Wildebeast
+9 UG03 — Great Wildebeast
 9 UG12 — Megamorphose
 9 UR10 — Extreme Ritual
-9 UR11 — Zealous Ritual
+9 UR11 — Zealous Tremors
 9 UR12 — Pyrotechnic Ritual
 9 UU11 — Bountiful Blessings of Fae
 9 UC02 — Essence of Heartbeat
@@ -3033,7 +3033,7 @@
 30 CR16 — Lightsurge
 30 CR17 — Lightning Shatter
 30 CR18 — Library Stockpile
-30 CG01 — Manachain Druid
+30 CW01 — Leyline Cleric
 30 CG02 — Lightened Guardian
 30 CG03 — Earthbound Fae
 30 CG04 — Corrupted Chromageist
@@ -3054,7 +3054,7 @@
 30 CA02 — Accumulation Golem
 30 CA03 — Prismic Vessel
 30 CA04 — Cyclilith
-30 CW01 — Lively Chromageist
+30 CG01 — Lively Chromageist
 30 CC01 — Archivist's Lightform
 30 CB01 — Shifting Slayer
 30 CU09 — Prismic Sapphire Entity
@@ -3066,11 +3066,11 @@
 30 CG11 — Prismic Emerald Entity
 30 CC05 — Chromageists's Lightform
 [LandSlot(1)]
-20 CL01 — Prismatic Plains
-20 CL02 — Prismatic Island
-20 CL03 — Prismatic Swamp
-20 CL04 — Prismatic Mountain
-20 CL05 — Prismatic Forest
+15 CL01 — Prismatic Plains
+15 CL02 — Prismatic Island
+15 CL03 — Prismatic Swamp
+15 CL04 — Prismatic Mountain
+15 CL05 — Prismatic Forest
 10 UL03 — Village of Blood
 10 UL06 — Village of Bone
 10 UL02 — Village of Darkness
@@ -3081,10 +3081,11 @@
 10 UL09 — Village of Light
 10 UL07 — Village of Lightning
 10 UL10 — Village of Water
-10 CL06 — Inverted Plains
-10 CL07 — Inverted Island
-10 CL10 — Inverted Forest
-10 CL08 — Inverted Swamp
-10 CL09 — Inverted Mountain
+15 CL06 — Inverted Plains
+15 CL07 — Inverted Island
+15 CL10 — Inverted Forest
+15 CL08 — Inverted Swamp
+15 CL09 — Inverted Mountain
+30 CC05 — Chromageists's Lightform
 [ReminderSlot(1)]
 60 Prism Reminder
