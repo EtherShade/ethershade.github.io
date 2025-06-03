@@ -2755,6 +2755,7 @@
 	5 UC04 Miniscule Tutelage
 	5 UC03 Miscroscopic Tutelage
 	5 UM01 Archive Naysayer
+	5 UM03 Amorphous Starlight
 	5 UM05 Rataclysm
 	5 UM07 Lightflame Shaman
 	5 UM09 Chromageist Guide
@@ -2858,7 +2859,28 @@
 	5 CC11 Minimorphose
 	5 CR10 Prismic Ruby Entity
 	5 CG11 Prismic Emerald Entity
+	5 CL01 Rift of Frost
+	5 CL02 Rift of Darkness
+	5 CL03 Rift of Blood
+	5 CL04 Rift of Fire
+	5 CL05 Rift of Life
+	5 CL06 Rift of Bone
+	5 CL07 Rift of Thunder
+	5 CL08 Rift of Death
+	5 CL09 Rift of Light
+	5 CL10 Rift of Water
+	5 CL11 Lighthouse of Frost
+	5 CL12 Lighthouse of Darkness
+	5 CL13 Lighthouse of Blood
+	5 CL14 Lighthouse of Fire
+	5 CL15 Lighthouse of Life
+	5 CL16 Lighthouse of Bone
+	5 CL17 Lighthouse of Thunder
+	5 CL18 Lighthouse of Death
+	5 CL19 Lighthouse of Light
+	5 CL20 Lighthouse of Water
 	5 CC01 Archival Lightform
+	5 CC02 Amorphous Lightform
 	5 CB01 Shapeshifter Spawn
 	5 CC04 Burning Lightform
 	5 CC05 Glimmering Lightform

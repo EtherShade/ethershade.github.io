@@ -4373,11 +4373,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\n[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\nI, II \u2014 {U} \u2014\nDraw a card.\nIII \u2014 {B} \u2014\nConjure a card named Shapeshifter Spawn onto the battlefield under your control.",
-            "shape": "token",
+            "shape": "saga",
             "set": "ROU",
             "loyalty": "",
             "artist": "",
-            "notes": "!tokens CB01 Shapeshifter Spawn<conjure>;"
+            "notes": ""
         },
         {
             "card_name": "CB01 Shapeshifter Spawn",
@@ -4395,7 +4395,7 @@
             "set": "ROU",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!related CC02 Amorphous Lightform<conjure>;UM03 Amorphous Starlight<conjure>;"
         },
         {
             "card_name": "CC04 Burning Lightform",
@@ -4553,11 +4553,11 @@
             "flavor_text": "[i]FT\nFT\nFT[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "ROU",
             "loyalty": "",
             "artist": "",
-            "notes": "!tokens CB01 Shapeshifter Spawn<conjure>;"
+            "notes": ""
         },
         {
             "card_name": "UM05 Rataclysm",
