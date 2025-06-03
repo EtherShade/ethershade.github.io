@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/ROU-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>ROU visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/ROU-files/logo.png" />
+	<img class="preload-hidden" src="/sets/ROU-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="ROU"><img src="/sets/ROU-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/ROU-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\ROU-files\img\41_RW01 The Shield of Belief.png" id="41_RW01 The Shield of Belief" data-flag="@X" onclick="openSidebar('41_RW01 The Shield of Belief',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\72_MU01 The Visiting Balancer.png" id="72_MU01 The Visiting Balancer" data-flag="@X" onclick="openSidebar('72_MU01 The Visiting Balancer',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\104_RB01 The Crown of Doomsday.png" id="104_RB01 The Crown of Doomsday" data-flag="@X" onclick="openSidebar('104_RB01 The Crown of Doomsday',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\135_RR01 The Sword of Aeons.png" id="135_RR01 The Sword of Aeons" data-flag="@X" onclick="openSidebar('135_RR01 The Sword of Aeons',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\166_RG01 The Stave of Eternity.png" id="166_RG01 The Stave of Eternity" data-flag="@X" onclick="openSidebar('166_RG01 The Stave of Eternity',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\42_RW02 Soulbond.png" id="42_RW02 Soulbond" data-flag="@X" onclick="openSidebar('42_RW02 Soulbond',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\73_RU01 The Pan Flute of Ages.png" id="73_RU01 The Pan Flute of Ages" data-flag="@X" onclick="openSidebar('73_RU01 The Pan Flute of Ages',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\105_RB02 Mysterious Parasitism.png" id="105_RB02 Mysterious Parasitism" data-flag="@X" onclick="openSidebar('105_RB02 Mysterious Parasitism',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\136_RR02 Prism Hoard.png" id="136_RR02 Prism Hoard" data-flag="@X" onclick="openSidebar('136_RR02 Prism Hoard',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\167_RG02 The Woodqueen.png" id="167_RG02 The Woodqueen" data-flag="@X" onclick="openSidebar('167_RG02 The Woodqueen',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\43_RW03 Invulnerable Chromageist.png" id="43_RW03 Invulnerable Chromageist" data-flag="@X" onclick="openSidebar('43_RW03 Invulnerable Chromageist',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\74_RU02 Infinity Visions.png" id="74_RU02 Infinity Visions" data-flag="@X" onclick="openSidebar('74_RU02 Infinity Visions',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\106_RB03 Amorphous Wish.png" id="106_RB03 Amorphous Wish" data-flag="@X" onclick="openSidebar('106_RB03 Amorphous Wish',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\137_RR03 Imperfection.png" id="137_RR03 Imperfection" data-flag="@X" onclick="openSidebar('137_RR03 Imperfection',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\168_RG03 Prismwood Caretaker.png" id="168_RG03 Prismwood Caretaker" data-flag="@X" onclick="openSidebar('168_RG03 Prismwood Caretaker',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\44_UW01 Tangiblade Chromageist.png" id="44_UW01 Tangiblade Chromageist" data-flag="@X" onclick="openSidebar('44_UW01 Tangiblade Chromageist',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\75_RU03 Perfection.png" id="75_RU03 Perfection" data-flag="@X" onclick="openSidebar('75_RU03 Perfection',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\107_UB01 Plague Swarm.png" id="107_UB01 Plague Swarm" data-flag="@X" onclick="openSidebar('107_UB01 Plague Swarm',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\138_UR01 Flamefilth Rat.png" id="138_UR01 Flamefilth Rat" data-flag="@X" onclick="openSidebar('138_UR01 Flamefilth Rat',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\169_UG01 Voidrot Resummoner.png" id="169_UG01 Voidrot Resummoner" data-flag="@X" onclick="openSidebar('169_UG01 Voidrot Resummoner',false)"></div>
+			<div class="container"><img data-alt_src="/sets\ROU-files\img\45_UW02 Cyclic Combatant_back.png" alt="/sets\ROU-files\img\45_UW02 Cyclic Combatant_front.png" id="45_UW02 Cyclic Combatant" data-flag="@XD" onclick="openSidebar('45_UW02 Cyclic Combatant',false)"><button class="flip-btn" onclick="imgFlip('45_UW02 Cyclic Combatant')"></button></div>
+			<div class="container"><img alt="/sets\ROU-files\img\76_UU01 Vessel of Imagination.png" id="76_UU01 Vessel of Imagination" data-flag="@X" onclick="openSidebar('76_UU01 Vessel of Imagination',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\108_UB02 Soulless Bodies.png" id="108_UB02 Soulless Bodies" data-flag="@X" onclick="openSidebar('108_UB02 Soulless Bodies',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\139_UR02 Manachain Wrecker.png" id="139_UR02 Manachain Wrecker" data-flag="@X" onclick="openSidebar('139_UR02 Manachain Wrecker',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\170_UG02 Giant Chromageist.png" id="170_UG02 Giant Chromageist" data-flag="@X" onclick="openSidebar('170_UG02 Giant Chromageist',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\46_UW03 Vermin Medic.png" id="46_UW03 Vermin Medic" data-flag="@X" onclick="openSidebar('46_UW03 Vermin Medic',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\77_UU02 Death Analyzer.png" id="77_UU02 Death Analyzer" data-flag="@X" onclick="openSidebar('77_UU02 Death Analyzer',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\109_UB03 Void-Warped Corpse.png" id="109_UB03 Void-Warped Corpse" data-flag="@X" onclick="openSidebar('109_UB03 Void-Warped Corpse',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\140_UR03 Book Burner.png" id="140_UR03 Book Burner" data-flag="@X" onclick="openSidebar('140_UR03 Book Burner',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\171_UG03 Great Wildebeast.png" id="171_UG03 Great Wildebeast" data-flag="@X" onclick="openSidebar('171_UG03 Great Wildebeast',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\47_UW04 Automated Imbuer.png" id="47_UW04 Automated Imbuer" data-flag="@X" onclick="openSidebar('47_UW04 Automated Imbuer',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\78_UU03 Annoying Amphibian.png" id="78_UU03 Annoying Amphibian" data-flag="@X" onclick="openSidebar('78_UU03 Annoying Amphibian',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\110_UB04 Cycleshifter.png" id="110_UB04 Cycleshifter" data-flag="@X" onclick="openSidebar('110_UB04 Cycleshifter',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\141_UR04 Fireborn Asheater.png" id="141_UR04 Fireborn Asheater" data-flag="@X" onclick="openSidebar('141_UR04 Fireborn Asheater',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\172_UG04 Lightblossom Hamadryad.png" id="172_UG04 Lightblossom Hamadryad" data-flag="@X" onclick="openSidebar('172_UG04 Lightblossom Hamadryad',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\48_UW05 Dreamlight Steed.png" id="48_UW05 Dreamlight Steed" data-flag="@X" onclick="openSidebar('48_UW05 Dreamlight Steed',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\79_UU04 Skilled Impersonator.png" id="79_UU04 Skilled Impersonator" data-flag="@X" onclick="openSidebar('79_UU04 Skilled Impersonator',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\111_UB05 Bloodstained Ritekeeper.png" id="111_UB05 Bloodstained Ritekeeper" data-flag="@X" onclick="openSidebar('111_UB05 Bloodstained Ritekeeper',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\142_UR05 Stampede Mother.png" id="142_UR05 Stampede Mother" data-flag="@X" onclick="openSidebar('142_UR05 Stampede Mother',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\173_UG05 Spirit Eater.png" id="173_UG05 Spirit Eater" data-flag="@X" onclick="openSidebar('173_UG05 Spirit Eater',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\49_UW06 Stern Librarian.png" id="49_UW06 Stern Librarian" data-flag="@X" onclick="openSidebar('49_UW06 Stern Librarian',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\80_UU05 Mightflow Optimizer.png" id="80_UU05 Mightflow Optimizer" data-flag="@X" onclick="openSidebar('80_UU05 Mightflow Optimizer',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\112_UB06 Filth Blob.png" id="112_UB06 Filth Blob" data-flag="@X" onclick="openSidebar('112_UB06 Filth Blob',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\143_UR06 Death Lightning.png" id="143_UR06 Death Lightning" data-flag="@X" onclick="openSidebar('143_UR06 Death Lightning',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\174_UG06 Ultraemerald Guardian.png" id="174_UG06 Ultraemerald Guardian" data-flag="@X" onclick="openSidebar('174_UG06 Ultraemerald Guardian',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\50_UW07 Prismatic Angel.png" id="50_UW07 Prismatic Angel" data-flag="@X" onclick="openSidebar('50_UW07 Prismatic Angel',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\81_UU06 Clock Thing.png" id="81_UU06 Clock Thing" data-flag="@X" onclick="openSidebar('81_UU06 Clock Thing',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\113_UB07 Ultrajet Guardian.png" id="113_UB07 Ultrajet Guardian" data-flag="@X" onclick="openSidebar('113_UB07 Ultrajet Guardian',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\144_UR07 Ultraruby Guardian.png" id="144_UR07 Ultraruby Guardian" data-flag="@X" onclick="openSidebar('144_UR07 Ultraruby Guardian',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\175_UG07 Crusher of Men.png" id="175_UG07 Crusher of Men" data-flag="@X" onclick="openSidebar('175_UG07 Crusher of Men',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\51_UW08 Ultrapearl Guardian.png" id="51_UW08 Ultrapearl Guardian" data-flag="@X" onclick="openSidebar('51_UW08 Ultrapearl Guardian',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\82_UU07 Ultrasapphire Guardian.png" id="82_UU07 Ultrasapphire Guardian" data-flag="@X" onclick="openSidebar('82_UU07 Ultrasapphire Guardian',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\114_UB08 Rotting Prismtheft.png" id="114_UB08 Rotting Prismtheft" data-flag="@X" onclick="openSidebar('114_UB08 Rotting Prismtheft',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\145_UR08 Phoenix's Reckoning.png" id="145_UR08 Phoenixs Reckoning" data-flag="@X" onclick="openSidebar('145_UR08 Phoenixs Reckoning',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\176_UG08 Prismneck Hydra.png" id="176_UG08 Prismneck Hydra" data-flag="@X" onclick="openSidebar('176_UG08 Prismneck Hydra',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\52_UW09 Piercelight Smashing.png" id="52_UW09 Piercelight Smashing" data-flag="@X" onclick="openSidebar('52_UW09 Piercelight Smashing',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\83_UU08 Great Prismification.png" id="83_UU08 Great Prismification" data-flag="@X" onclick="openSidebar('83_UU08 Great Prismification',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\115_UB09 Bloodstained Ritual.png" id="115_UB09 Bloodstained Ritual" data-flag="@X" onclick="openSidebar('115_UB09 Bloodstained Ritual',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\146_UR09 Thunderboom.png" id="146_UR09 Thunderboom" data-flag="@X" onclick="openSidebar('146_UR09 Thunderboom',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\177_UG09 Megamorphose.png" id="177_UG09 Megamorphose" data-flag="@X" onclick="openSidebar('177_UG09 Megamorphose',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\53_UW10 Prismic Alliance.png" id="53_UW10 Prismic Alliance" data-flag="@X" onclick="openSidebar('53_UW10 Prismic Alliance',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\84_UU09 Exchange Rate.png" id="84_UU09 Exchange Rate" data-flag="@X" onclick="openSidebar('84_UU09 Exchange Rate',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\116_UB10 Council Disolving.png" id="116_UB10 Council Disolving" data-flag="@X" onclick="openSidebar('116_UB10 Council Disolving',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\147_UR10 Pyrotechnic Ritual.png" id="147_UR10 Pyrotechnic Ritual" data-flag="@X" onclick="openSidebar('147_UR10 Pyrotechnic Ritual',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\178_UG10 Exponential Growth.png" id="178_UG10 Exponential Growth" data-flag="@X" onclick="openSidebar('178_UG10 Exponential Growth',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\23_CW01 Freerunning Foal.png" id="23_CW01 Freerunning Foal" data-flag="@X" onclick="openSidebar('23_CW01 Freerunning Foal',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\85_UU10 Disperse Identity.png" id="85_UU10 Disperse Identity" data-flag="@X" onclick="openSidebar('85_UU10 Disperse Identity',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\86_CB01 Shapeshifter Spawn.png" id="86_CB01 Shapeshifter Spawn" data-flag="@X" onclick="openSidebar('86_CB01 Shapeshifter Spawn',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\117_CR01 Deathbite Rat.png" id="117_CR01 Deathbite Rat" data-flag="@X" onclick="openSidebar('117_CR01 Deathbite Rat',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\148_CG01 Lively Chromageist.png" id="148_CG01 Lively Chromageist" data-flag="@X" onclick="openSidebar('148_CG01 Lively Chromageist',false)"></div>
+			<div class="container"><img data-alt_src="/sets\ROU-files\img\24_CW02 Piercelight Trainee_back.png" alt="/sets\ROU-files\img\24_CW02 Piercelight Trainee_front.png" id="24_CW02 Piercelight Trainee" data-flag="@XD" onclick="openSidebar('24_CW02 Piercelight Trainee',false)"><button class="flip-btn" onclick="imgFlip('24_CW02 Piercelight Trainee')"></button></div>
+			<div class="container"><img data-alt_src="/sets\ROU-files\img\54_CU01 Young Owl_back.png" alt="/sets\ROU-files\img\54_CU01 Young Owl_front.png" id="54_CU01 Young Owl" data-flag="@XD" onclick="openSidebar('54_CU01 Young Owl',false)"><button class="flip-btn" onclick="imgFlip('54_CU01 Young Owl')"></button></div>
+			<div class="container"><img alt="/sets\ROU-files\img\87_CB02 Lightvoid Vermin.png" id="87_CB02 Lightvoid Vermin" data-flag="@X" onclick="openSidebar('87_CB02 Lightvoid Vermin',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\118_CR02 Swiftfoot Steed.png" id="118_CR02 Swiftfoot Steed" data-flag="@X" onclick="openSidebar('118_CR02 Swiftfoot Steed',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\149_CG02 Prismwood Tusker.png" id="149_CG02 Prismwood Tusker" data-flag="@X" onclick="openSidebar('149_CG02 Prismwood Tusker',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\25_CW03 Prism-Eyed Familiar.png" id="25_CW03 Prism-Eyed Familiar" data-flag="@X" onclick="openSidebar('25_CW03 Prism-Eyed Familiar',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\55_CU02 Shiftling.png" id="55_CU02 Shiftling" data-flag="@X" onclick="openSidebar('55_CU02 Shiftling',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\88_CB03 Raven of Light's End.png" id="88_CB03 Raven of Lights End" data-flag="@X" onclick="openSidebar('88_CB03 Raven of Lights End',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\119_CR03 Chaos Remnant.png" id="119_CR03 Chaos Remnant" data-flag="@X" onclick="openSidebar('119_CR03 Chaos Remnant',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\150_CG03 Druid of the Prismwood.png" id="150_CG03 Druid of the Prismwood" data-flag="@X" onclick="openSidebar('150_CG03 Druid of the Prismwood',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\26_CW04 Swiftbite Wingrat.png" id="26_CW04 Swiftbite Wingrat" data-flag="@X" onclick="openSidebar('26_CW04 Swiftbite Wingrat',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\56_CU03 Manachain Seer.png" id="56_CU03 Manachain Seer" data-flag="@X" onclick="openSidebar('56_CU03 Manachain Seer',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\89_CB04 Cutthroat Librarian.png" id="89_CB04 Cutthroat Librarian" data-flag="@X" onclick="openSidebar('89_CB04 Cutthroat Librarian',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\120_CR04 Trophy Hunter.png" id="120_CR04 Trophy Hunter" data-flag="@X" onclick="openSidebar('120_CR04 Trophy Hunter',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\151_CG04 Lightened Guardian.png" id="151_CG04 Lightened Guardian" data-flag="@X" onclick="openSidebar('151_CG04 Lightened Guardian',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\27_CW05 Death Trainee.png" id="27_CW05 Death Trainee" data-flag="@X" onclick="openSidebar('27_CW05 Death Trainee',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\57_CU04 Bewinged Frog.png" id="57_CU04 Bewinged Frog" data-flag="@X" onclick="openSidebar('57_CU04 Bewinged Frog',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\90_CB05 Doomed Rats.png" id="90_CB05 Doomed Rats" data-flag="@X" onclick="openSidebar('90_CB05 Doomed Rats',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\121_CR05 Spiritrot Vessel.png" id="121_CR05 Spiritrot Vessel" data-flag="@X" onclick="openSidebar('121_CR05 Spiritrot Vessel',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\152_CG05 Corrupted Chromageist.png" id="152_CG05 Corrupted Chromageist" data-flag="@X" onclick="openSidebar('152_CG05 Corrupted Chromageist',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\28_CW06 Stalwart Librarian.png" id="28_CW06 Stalwart Librarian" data-flag="@X" onclick="openSidebar('28_CW06 Stalwart Librarian',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\58_CU05 Tome Hunter.png" id="58_CU05 Tome Hunter" data-flag="@X" onclick="openSidebar('58_CU05 Tome Hunter',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\91_CB06 Shifting Slayer.png" id="91_CB06 Shifting Slayer" data-flag="@X" onclick="openSidebar('91_CB06 Shifting Slayer',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\122_CR06 Manachain Wurm.png" id="122_CR06 Manachain Wurm" data-flag="@X" onclick="openSidebar('122_CR06 Manachain Wurm',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\153_CG06 Helpful Chromageist.png" id="153_CG06 Helpful Chromageist" data-flag="@X" onclick="openSidebar('153_CG06 Helpful Chromageist',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\29_CW07 Cart Horse.png" id="29_CW07 Cart Horse" data-flag="@X" onclick="openSidebar('29_CW07 Cart Horse',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\59_CU06 Fearful Fisherman.png" id="59_CU06 Fearful Fisherman" data-flag="@X" onclick="openSidebar('59_CU06 Fearful Fisherman',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\92_CB07 Reflection of the Void.png" id="92_CB07 Reflection of the Void" data-flag="@X" onclick="openSidebar('92_CB07 Reflection of the Void',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\123_CR07 Loyal Rodents.png" id="123_CR07 Loyal Rodents" data-flag="@X" onclick="openSidebar('123_CR07 Loyal Rodents',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\154_CG07 Great Lightbeast.png" id="154_CG07 Great Lightbeast" data-flag="@X" onclick="openSidebar('154_CG07 Great Lightbeast',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\30_CW08 Chromageist Lightcaller.png" id="30_CW08 Chromageist Lightcaller" data-flag="@X" onclick="openSidebar('30_CW08 Chromageist Lightcaller',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\60_CU07 Limb Gifter.png" id="60_CU07 Limb Gifter" data-flag="@X" onclick="openSidebar('60_CU07 Limb Gifter',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\93_CB08 Warped Chromageist.png" id="93_CB08 Warped Chromageist" data-flag="@X" onclick="openSidebar('93_CB08 Warped Chromageist',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\124_CR08 Flaming Charger.png" id="124_CR08 Flaming Charger" data-flag="@X" onclick="openSidebar('124_CR08 Flaming Charger',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\155_CG08 Void Worshipper.png" id="155_CG08 Void Worshipper" data-flag="@X" onclick="openSidebar('155_CG08 Void Worshipper',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\31_CW09 Reflective Angel.png" id="31_CW09 Reflective Angel" data-flag="@X" onclick="openSidebar('31_CW09 Reflective Angel',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\61_CU08 Symmetry Seeker.png" id="61_CU08 Symmetry Seeker" data-flag="@X" onclick="openSidebar('61_CU08 Symmetry Seeker',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\94_CB09 Piercelight Crusader.png" id="94_CB09 Piercelight Crusader" data-flag="@X" onclick="openSidebar('94_CB09 Piercelight Crusader',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\125_CR09 Vermin Rider.png" id="125_CR09 Vermin Rider" data-flag="@X" onclick="openSidebar('125_CR09 Vermin Rider',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\156_CG09 Might-Granting Chromageist.png" id="156_CG09 Might-Granting Chromageist" data-flag="@X" onclick="openSidebar('156_CG09 Might-Granting Chromageist',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\32_CW10 Disparate Council.png" id="32_CW10 Disparate Council" data-flag="@X" onclick="openSidebar('32_CW10 Disparate Council',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\62_CU09 Prismic Sapphire Entity.png" id="62_CU09 Prismic Sapphire Entity" data-flag="@X" onclick="openSidebar('62_CU09 Prismic Sapphire Entity',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\95_CB10 Prismic Jet Entity.png" id="95_CB10 Prismic Jet Entity" data-flag="@X" onclick="openSidebar('95_CB10 Prismic Jet Entity',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\126_CR10 Prismic Ruby Entity.png" id="126_CR10 Prismic Ruby Entity" data-flag="@X" onclick="openSidebar('126_CR10 Prismic Ruby Entity',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\157_CG10 Mightflow Tusker.png" id="157_CG10 Mightflow Tusker" data-flag="@X" onclick="openSidebar('157_CG10 Mightflow Tusker',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\33_CW11 Short-Lived Hero.png" id="33_CW11 Short-Lived Hero" data-flag="@X" onclick="openSidebar('33_CW11 Short-Lived Hero',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\63_CU10 Fishy Thing.png" id="63_CU10 Fishy Thing" data-flag="@X" onclick="openSidebar('63_CU10 Fishy Thing',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\96_CB11 Prismatic Death.png" id="96_CB11 Prismatic Death" data-flag="@X" onclick="openSidebar('96_CB11 Prismatic Death',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\127_CR11 Firelight Blast.png" id="127_CR11 Firelight Blast" data-flag="@X" onclick="openSidebar('127_CR11 Firelight Blast',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\158_CG11 Prismic Emerald Entity.png" id="158_CG11 Prismic Emerald Entity" data-flag="@X" onclick="openSidebar('158_CG11 Prismic Emerald Entity',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\34_CW12 Prismic Pearl Entity.png" id="34_CW12 Prismic Pearl Entity" data-flag="@X" onclick="openSidebar('34_CW12 Prismic Pearl Entity',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\64_CU11 Antipurity Force.png" id="64_CU11 Antipurity Force" data-flag="@X" onclick="openSidebar('64_CU11 Antipurity Force',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\97_CB12 Cull Vermin.png" id="97_CB12 Cull Vermin" data-flag="@X" onclick="openSidebar('97_CB12 Cull Vermin',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\128_CR12 Manachain Fervor.png" id="128_CR12 Manachain Fervor" data-flag="@X" onclick="openSidebar('128_CR12 Manachain Fervor',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\159_CG12 Prismclaim Battle.png" id="159_CG12 Prismclaim Battle" data-flag="@X" onclick="openSidebar('159_CG12 Prismclaim Battle',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\35_CW13 Exverminate.png" id="35_CW13 Exverminate" data-flag="@X" onclick="openSidebar('35_CW13 Exverminate',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\65_CU12 Creation Pierce.png" id="65_CU12 Creation Pierce" data-flag="@X" onclick="openSidebar('65_CU12 Creation Pierce',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\98_CB13 Seep Through.png" id="98_CB13 Seep Through" data-flag="@X" onclick="openSidebar('98_CB13 Seep Through',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\129_CR13 Mana Overflow.png" id="129_CR13 Mana Overflow" data-flag="@X" onclick="openSidebar('129_CR13 Mana Overflow',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\160_CG13 Cyclical Growth.png" id="160_CG13 Cyclical Growth" data-flag="@X" onclick="openSidebar('160_CG13 Cyclical Growth',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\36_CW14 Remnant of True Pacifism.png" id="36_CW14 Remnant of True Pacifism" data-flag="@X" onclick="openSidebar('36_CW14 Remnant of True Pacifism',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\66_CU13 Comfortable Stasis.png" id="66_CU13 Comfortable Stasis" data-flag="@X" onclick="openSidebar('66_CU13 Comfortable Stasis',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\99_CB14 Corrupted Victory.png" id="99_CB14 Corrupted Victory" data-flag="@X" onclick="openSidebar('99_CB14 Corrupted Victory',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\130_CR14 Prismatic Creation.png" id="130_CR14 Prismatic Creation" data-flag="@X" onclick="openSidebar('130_CR14 Prismatic Creation',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\161_CG14 Natural Accumulation.png" id="161_CG14 Natural Accumulation" data-flag="@X" onclick="openSidebar('161_CG14 Natural Accumulation',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\37_CW15 Rise Up for Honor.png" id="37_CW15 Rise Up for Honor" data-flag="@X" onclick="openSidebar('37_CW15 Rise Up for Honor',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\67_CU14 Studificate.png" id="67_CU14 Studificate" data-flag="@X" onclick="openSidebar('67_CU14 Studificate',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\100_CB15 Prismic Blood Rites.png" id="100_CB15 Prismic Blood Rites" data-flag="@X" onclick="openSidebar('100_CB15 Prismic Blood Rites',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\131_CR15 Prismatic Strength.png" id="131_CR15 Prismatic Strength" data-flag="@X" onclick="openSidebar('131_CR15 Prismatic Strength',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\162_CG15 Prismic Might.png" id="162_CG15 Prismic Might" data-flag="@X" onclick="openSidebar('162_CG15 Prismic Might',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\38_CW16 Council Meeting.png" id="38_CW16 Council Meeting" data-flag="@X" onclick="openSidebar('38_CW16 Council Meeting',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\68_CU15 Seek Answers.png" id="68_CU15 Seek Answers" data-flag="@X" onclick="openSidebar('68_CU15 Seek Answers',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\101_CB16 Return Unscathed.png" id="101_CB16 Return Unscathed" data-flag="@X" onclick="openSidebar('101_CB16 Return Unscathed',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\132_CR16 Lightsurge.png" id="132_CR16 Lightsurge" data-flag="@X" onclick="openSidebar('132_CR16 Lightsurge',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\163_CG16 Prismic Reclamation.png" id="163_CG16 Prismic Reclamation" data-flag="@X" onclick="openSidebar('163_CG16 Prismic Reclamation',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\39_CW17 Battle Cry.png" id="39_CW17 Battle Cry" data-flag="@X" onclick="openSidebar('39_CW17 Battle Cry',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\69_CU16 Odd Mannerisms.png" id="69_CU16 Odd Mannerisms" data-flag="@X" onclick="openSidebar('69_CU16 Odd Mannerisms',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\102_CB17 Lightrot Thoughts.png" id="102_CB17 Lightrot Thoughts" data-flag="@X" onclick="openSidebar('102_CB17 Lightrot Thoughts',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\133_CR17 Lightning Shatter.png" id="133_CR17 Lightning Shatter" data-flag="@X" onclick="openSidebar('133_CR17 Lightning Shatter',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\164_CG17 Extreme Wildgrowth.png" id="164_CG17 Extreme Wildgrowth" data-flag="@X" onclick="openSidebar('164_CG17 Extreme Wildgrowth',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\40_CW18 Prismic Purification.png" id="40_CW18 Prismic Purification" data-flag="@X" onclick="openSidebar('40_CW18 Prismic Purification',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\70_CU17 Varying Skills.png" id="70_CU17 Varying Skills" data-flag="@X" onclick="openSidebar('70_CU17 Varying Skills',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\103_CB18 On Wings of Death.png" id="103_CB18 On Wings of Death" data-flag="@X" onclick="openSidebar('103_CB18 On Wings of Death',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\134_CR18 Library Stockpile.png" id="134_CR18 Library Stockpile" data-flag="@X" onclick="openSidebar('134_CR18 Library Stockpile',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\165_CG18 Accumulate Might.png" id="165_CG18 Accumulate Might" data-flag="@X" onclick="openSidebar('165_CG18 Accumulate Might',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\71_CU18 Hatch a Plan.png" id="71_CU18 Hatch a Plan" data-flag="@X" onclick="openSidebar('71_CU18 Hatch a Plan',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="gold" class="anchor"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\189_RM11 The Mind of Truth.png" id="189_RM11 The Mind of Truth" data-flag="@X" onclick="openSidebar('189_RM11 The Mind of Truth',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\180_RM02 The Amorphous Star.png" id="180_RM02 The Amorphous Star" data-flag="@X" onclick="openSidebar('180_RM02 The Amorphous Star',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\191_RM13 The Hand of Execution.png" id="191_RM13 The Hand of Execution" data-flag="@X" onclick="openSidebar('191_RM13 The Hand of Execution',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\192_RM14 The Ear of Subjectivity.png" id="192_RM14 The Ear of Subjectivity" data-flag="@X" onclick="openSidebar('192_RM14 The Ear of Subjectivity',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\183_RM05 The Chromat.png" id="183_RM05 The Chromat" data-flag="@X" onclick="openSidebar('183_RM05 The Chromat',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\199_UM01 Archive Naysayer.png" id="199_UM01 Archive Naysayer" data-flag="@X" onclick="openSidebar('199_UM01 Archive Naysayer',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\190_RM12 The Eye of Perception.png" id="190_RM12 The Eye of Perception" data-flag="@X" onclick="openSidebar('190_RM12 The Eye of Perception',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\203_UM05 Rataclysm.png" id="203_UM05 Rataclysm" data-flag="@X" onclick="openSidebar('203_UM05 Rataclysm',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\205_UM07 Lightflame Shaman.png" id="205_UM07 Lightflame Shaman" data-flag="@X" onclick="openSidebar('205_UM07 Lightflame Shaman',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\193_RM15 The Nose of Memory.png" id="193_RM15 The Nose of Memory" data-flag="@X" onclick="openSidebar('193_RM15 The Nose of Memory',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\200_UM02 Archive Enforcer.png" id="200_UM02 Archive Enforcer" data-flag="@X" onclick="openSidebar('200_UM02 Archive Enforcer',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\202_UM04 Wingform Shapecrafter.png" id="202_UM04 Wingform Shapecrafter" data-flag="@X" onclick="openSidebar('202_UM04 Wingform Shapecrafter',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\204_UM06 Honored Swarmsinger.png" id="204_UM06 Honored Swarmsinger" data-flag="@X" onclick="openSidebar('204_UM06 Honored Swarmsinger',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\206_UM08 Prismatic Blessing.png" id="206_UM08 Prismatic Blessing" data-flag="@X" onclick="openSidebar('206_UM08 Prismatic Blessing',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\207_UM09 Chromageist Guide.png" id="207_UM09 Chromageist Guide" data-flag="@X" onclick="openSidebar('207_UM09 Chromageist Guide',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\208_UM10 Chromageist Caretaker.png" id="208_UM10 Chromageist Caretaker" data-flag="@X" onclick="openSidebar('208_UM10 Chromageist Caretaker',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\184_RM06 The Piercelight Dawn.png" id="184_RM06 The Piercelight Dawn" data-flag="@X" onclick="openSidebar('184_RM06 The Piercelight Dawn',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\185_RM07 Areneloth, Creative Transcendant.png" id="185_RM07 Areneloth, Creative Transcendant" data-flag="@X" onclick="openSidebar('185_RM07 Areneloth, Creative Transcendant',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\186_RM08 Raktro Voidlistener.png" id="186_RM08 Raktro Voidlistener" data-flag="@X" onclick="openSidebar('186_RM08 Raktro Voidlistener',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\187_RM09 The Lord High Stallion.png" id="187_RM09 The Lord High Stallion" data-flag="@X" onclick="openSidebar('187_RM09 The Lord High Stallion',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\188_RM10 Lemira, Mightflow Progenitor.png" id="188_RM10 Lemira, Mightflow Progenitor" data-flag="@X" onclick="openSidebar('188_RM10 Lemira, Mightflow Progenitor',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\194_RM16 The Skull of Lies.png" id="194_RM16 The Skull of Lies" data-flag="@X" onclick="openSidebar('194_RM16 The Skull of Lies',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\195_RM17 The Eye of Information.png" id="195_RM17 The Eye of Information" data-flag="@X" onclick="openSidebar('195_RM17 The Eye of Information',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\196_RM18 The Hand of Judgment.png" id="196_RM18 The Hand of Judgment" data-flag="@X" onclick="openSidebar('196_RM18 The Hand of Judgment',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\197_RM19 The Heart of Morality.png" id="197_RM19 The Heart of Morality" data-flag="@X" onclick="openSidebar('197_RM19 The Heart of Morality',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\198_RM20 The Mouth of Philosophy.png" id="198_RM20 The Mouth of Philosophy" data-flag="@X" onclick="openSidebar('198_RM20 The Mouth of Philosophy',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\209_UM11 Piercelight Ritekeeper.png" id="209_UM11 Piercelight Ritekeeper" data-flag="@X" onclick="openSidebar('209_UM11 Piercelight Ritekeeper',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\211_UM13 Wingshedder Phoenix.png" id="211_UM13 Wingshedder Phoenix" data-flag="@X" onclick="openSidebar('211_UM13 Wingshedder Phoenix',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\213_UM15 Voidseep Behemoth.png" id="213_UM15 Voidseep Behemoth" data-flag="@X" onclick="openSidebar('213_UM15 Voidseep Behemoth',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\215_UM17 Equine Combatant.png" id="215_UM17 Equine Combatant" data-flag="@X" onclick="openSidebar('215_UM17 Equine Combatant',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\217_UM19 Mightflow Improver.png" id="217_UM19 Mightflow Improver" data-flag="@X" onclick="openSidebar('217_UM19 Mightflow Improver',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\210_UM12 Being of Piercelight.png" id="210_UM12 Being of Piercelight" data-flag="@X" onclick="openSidebar('210_UM12 Being of Piercelight',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\212_UM14 Incarnation Malleation.png" id="212_UM14 Incarnation Malleation" data-flag="@X" onclick="openSidebar('212_UM14 Incarnation Malleation',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\214_UM16 Swamp-Rite Chanter.png" id="214_UM16 Swamp-Rite Chanter" data-flag="@X" onclick="openSidebar('214_UM16 Swamp-Rite Chanter',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\216_UM18 Stampeding Stallion.png" id="216_UM18 Stampeding Stallion" data-flag="@X" onclick="openSidebar('216_UM18 Stampeding Stallion',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\218_UM20 Mightflow Druid.png" id="218_UM20 Mightflow Druid" data-flag="@X" onclick="openSidebar('218_UM20 Mightflow Druid',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\181_RM03 The Chittering Voice.png" id="181_RM03 The Chittering Voice" data-flag="@X" onclick="openSidebar('181_RM03 The Chittering Voice',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\182_RM04 The Ultraprism Regent.png" id="182_RM04 The Ultraprism Regent" data-flag="@X" onclick="openSidebar('182_RM04 The Ultraprism Regent',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\179_RM01 Malaktior, High Curator.png" id="179_RM01 Malaktior, High Curator" data-flag="@X" onclick="openSidebar('179_RM01 Malaktior, High Curator',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="colorless" class="anchor"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\12_MC01 Prismatic Lever.png" id="12_MC01 Prismatic Lever" data-flag="@X" onclick="openSidebar('12_MC01 Prismatic Lever',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\13_MC02 Prismatic Wheel.png" id="13_MC02 Prismatic Wheel" data-flag="@X" onclick="openSidebar('13_MC02 Prismatic Wheel',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\14_MC03 Prismatic Screw.png" id="14_MC03 Prismatic Screw" data-flag="@X" onclick="openSidebar('14_MC03 Prismatic Screw',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\15_MC04 Prismatic Button.png" id="15_MC04 Prismatic Button" data-flag="@X" onclick="openSidebar('15_MC04 Prismatic Button',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\16_MC05 Prismatic Wedge.png" id="16_MC05 Prismatic Wedge" data-flag="@X" onclick="openSidebar('16_MC05 Prismatic Wedge',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\17_MC06 Ultraprismic Lightform.png" id="17_MC06 Ultraprismic Lightform" data-flag="@X" onclick="openSidebar('17_MC06 Ultraprismic Lightform',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\223_MA01 The Ultraprism.png" id="223_MA01 The Ultraprism" data-flag="@X" onclick="openSidebar('223_MA01 The Ultraprism',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\18_RC01 Etchings of Anticipation.png" id="18_RC01 Etchings of Anticipation" data-flag="@X" onclick="openSidebar('18_RC01 Etchings of Anticipation',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\224_RA01 The Lantern of Alignment.png" id="224_RA01 The Lantern of Alignment" data-flag="@X" onclick="openSidebar('224_RA01 The Lantern of Alignment',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\225_RA02 Doubling Sphere.png" id="225_RA02 Doubling Sphere" data-flag="@X" onclick="openSidebar('225_RA02 Doubling Sphere',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\226_RA03 The Balancer's Helm.png" id="226_RA03 The Balancers Helm" data-flag="@X" onclick="openSidebar('226_RA03 The Balancers Helm',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\227_RA04 Font of Prisms.png" id="227_RA04 Font of Prisms" data-flag="@X" onclick="openSidebar('227_RA04 Font of Prisms',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\19_UC01 Essence of Heartbeat.png" id="19_UC01 Essence of Heartbeat" data-flag="@X" onclick="openSidebar('19_UC01 Essence of Heartbeat',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\20_UC02 Micromanage.png" id="20_UC02 Micromanage" data-flag="@X" onclick="openSidebar('20_UC02 Micromanage',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\21_UC03 Miscroscopic Tutelage.png" id="21_UC03 Miscroscopic Tutelage" data-flag="@X" onclick="openSidebar('21_UC03 Miscroscopic Tutelage',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\22_UC04 Miniscule Tutelage.png" id="22_UC04 Miniscule Tutelage" data-flag="@X" onclick="openSidebar('22_UC04 Miniscule Tutelage',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\228_UA01 Ultraprismite Bruteling.png" id="228_UA01 Ultraprismite Bruteling" data-flag="@X" onclick="openSidebar('228_UA01 Ultraprismite Bruteling',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\229_UA02 Guarded Guardian.png" id="229_UA02 Guarded Guardian" data-flag="@X" onclick="openSidebar('229_UA02 Guarded Guardian',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\230_UA03 Bookstack Golem.png" id="230_UA03 Bookstack Golem" data-flag="@X" onclick="openSidebar('230_UA03 Bookstack Golem',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\231_UA04 Prismic Core.png" id="231_UA04 Prismic Core" data-flag="@X" onclick="openSidebar('231_UA04 Prismic Core',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\232_UA05 Prismatic Wellspring.png" id="232_UA05 Prismatic Wellspring" data-flag="@X" onclick="openSidebar('232_UA05 Prismatic Wellspring',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\1_CC01 Archival Lightform.png" id="1_CC01 Archival Lightform" data-flag="@X" onclick="openSidebar('1_CC01 Archival Lightform',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\3_CC03 Chittering Lightform.png" id="3_CC03 Chittering Lightform" data-flag="@X" onclick="openSidebar('3_CC03 Chittering Lightform',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\4_CC04 Burning Lightform.png" id="4_CC04 Burning Lightform" data-flag="@X" onclick="openSidebar('4_CC04 Burning Lightform',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\5_CC05 Glimmering Lightform.png" id="5_CC05 Glimmering Lightform" data-flag="@X" onclick="openSidebar('5_CC05 Glimmering Lightform',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\6_CC06 Piercing Lightform.png" id="6_CC06 Piercing Lightform" data-flag="@X" onclick="openSidebar('6_CC06 Piercing Lightform',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\7_CC07 Encrypted Lightform.png" id="7_CC07 Encrypted Lightform" data-flag="@X" onclick="openSidebar('7_CC07 Encrypted Lightform',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\8_CC08 Oozing Lightform.png" id="8_CC08 Oozing Lightform" data-flag="@X" onclick="openSidebar('8_CC08 Oozing Lightform',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\9_CC09 Stampeding Lightform.png" id="9_CC09 Stampeding Lightform" data-flag="@X" onclick="openSidebar('9_CC09 Stampeding Lightform',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\10_CC10 Incremental Lightform.png" id="10_CC10 Incremental Lightform" data-flag="@X" onclick="openSidebar('10_CC10 Incremental Lightform',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\11_CC11 Minimorphose.png" id="11_CC11 Minimorphose" data-flag="@X" onclick="openSidebar('11_CC11 Minimorphose',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\219_CA01 Ultraprismite.png" id="219_CA01 Ultraprismite" data-flag="@X" onclick="openSidebar('219_CA01 Ultraprismite',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\220_CA02 Accumulation Golem.png" id="220_CA02 Accumulation Golem" data-flag="@X" onclick="openSidebar('220_CA02 Accumulation Golem',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\221_CA03 Prismic Vessel.png" id="221_CA03 Prismic Vessel" data-flag="@X" onclick="openSidebar('221_CA03 Prismic Vessel',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\222_CA04 Cyclilith.png" id="222_CA04 Cyclilith" data-flag="@X" onclick="openSidebar('222_CA04 Cyclilith',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\233_CL01 Rift of Frost.png" id="233_CL01 Rift of Frost" data-flag="@X" onclick="openSidebar('233_CL01 Rift of Frost',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\234_CL02 Rift of Darkness.png" id="234_CL02 Rift of Darkness" data-flag="@X" onclick="openSidebar('234_CL02 Rift of Darkness',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\235_CL03 Rift of Blood.png" id="235_CL03 Rift of Blood" data-flag="@X" onclick="openSidebar('235_CL03 Rift of Blood',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\236_CL04 Rift of Fire.png" id="236_CL04 Rift of Fire" data-flag="@X" onclick="openSidebar('236_CL04 Rift of Fire',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\237_CL05 Rift of Life.png" id="237_CL05 Rift of Life" data-flag="@X" onclick="openSidebar('237_CL05 Rift of Life',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\243_CL11 Lighthouse of Frost.png" id="243_CL11 Lighthouse of Frost" data-flag="@X" onclick="openSidebar('243_CL11 Lighthouse of Frost',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\244_CL12 Lighthouse of Darkness.png" id="244_CL12 Lighthouse of Darkness" data-flag="@X" onclick="openSidebar('244_CL12 Lighthouse of Darkness',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\245_CL13 Lighthouse of Blood.png" id="245_CL13 Lighthouse of Blood" data-flag="@X" onclick="openSidebar('245_CL13 Lighthouse of Blood',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\246_CL14 Lighthouse of Fire.png" id="246_CL14 Lighthouse of Fire" data-flag="@X" onclick="openSidebar('246_CL14 Lighthouse of Fire',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\247_CL15 Lighthouse of Life.png" id="247_CL15 Lighthouse of Life" data-flag="@X" onclick="openSidebar('247_CL15 Lighthouse of Life',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\238_CL06 Rift of Bone.png" id="238_CL06 Rift of Bone" data-flag="@X" onclick="openSidebar('238_CL06 Rift of Bone',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\239_CL07 Rift of Thunder.png" id="239_CL07 Rift of Thunder" data-flag="@X" onclick="openSidebar('239_CL07 Rift of Thunder',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\240_CL08 Rift of Death.png" id="240_CL08 Rift of Death" data-flag="@X" onclick="openSidebar('240_CL08 Rift of Death',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\241_CL09 Rift of Light.png" id="241_CL09 Rift of Light" data-flag="@X" onclick="openSidebar('241_CL09 Rift of Light',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\242_CL10 Rift of Water.png" id="242_CL10 Rift of Water" data-flag="@X" onclick="openSidebar('242_CL10 Rift of Water',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\248_CL16 Lighthouse of Bone.png" id="248_CL16 Lighthouse of Bone" data-flag="@X" onclick="openSidebar('248_CL16 Lighthouse of Bone',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\249_CL17 Lighthouse of Thunder.png" id="249_CL17 Lighthouse of Thunder" data-flag="@X" onclick="openSidebar('249_CL17 Lighthouse of Thunder',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\250_CL18 Lighthouse of Death.png" id="250_CL18 Lighthouse of Death" data-flag="@X" onclick="openSidebar('250_CL18 Lighthouse of Death',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\251_CL19 Lighthouse of Light.png" id="251_CL19 Lighthouse of Light" data-flag="@X" onclick="openSidebar('251_CL19 Lighthouse of Light',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\252_CL20 Lighthouse of Water.png" id="252_CL20 Lighthouse of Water" data-flag="@X" onclick="openSidebar('252_CL20 Lighthouse of Water',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\253_RL01 Ultraprismatic Vista.png" id="253_RL01 Ultraprismatic Vista" data-flag="@X" onclick="openSidebar('253_RL01 Ultraprismatic Vista',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\254_RL02 Tales of the Fae.png" id="254_RL02 Tales of the Fae" data-flag="@X" onclick="openSidebar('254_RL02 Tales of the Fae',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="token" class="anchor"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\1t_Prism Reminder.png" id="1t_Prism Reminder" data-flag="@X" onclick="openSidebar('1t_Prism Reminder',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\2t_CC02 Amorphous Lightform.png" id="2t_CC02 Amorphous Lightform" data-flag="@X" onclick="openSidebar('2t_CC02 Amorphous Lightform',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\7t_Treasure.png" id="7t_Treasure" data-flag="@X" onclick="openSidebar('7t_Treasure',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\2t_Spirit Token.png" id="2t_Spirit Token" data-flag="@X" onclick="openSidebar('2t_Spirit Token',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\3t_Frog Token.png" id="3t_Frog Token" data-flag="@X" onclick="openSidebar('3t_Frog Token',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\4t_Nontargeted Aura.png" id="4t_Nontargeted Aura" data-flag="@X" onclick="openSidebar('4t_Nontargeted Aura',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\5t_Rat Token.png" id="5t_Rat Token" data-flag="@X" onclick="openSidebar('5t_Rat Token',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\6t_Buff Aura.png" id="6t_Buff Aura" data-flag="@X" onclick="openSidebar('6t_Buff Aura',false)"></div>
+			<div class="container"><img alt="/sets\ROU-files\img\201t_UM03 Amorphous Starlight.png" id="201t_UM03 Amorphous Starlight" data-flag="@X" onclick="openSidebar('201t_UM03 Amorphous Starlight',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>

@@ -30,7 +30,7 @@
 		max-height: 200px;
 		display: block;
 		margin: auto;
-		padding-bottom: 20px;
+		padding: 20px 0;
 	}
 	select {
 		position: absolute;
@@ -213,20 +213,8 @@
 										<div class="set-group"></div>
 							<div class="preview-container">
 		<div class="set-icon-container">
-									<a href="previews/DOU"><div class="set-icon"><img src="sets/DOU-files/icon.png" title="Domain of the Ultraprism"></img></div>
-									<div class="set-icon-name">Domain of the Ultraprism</div></a>
-								</div>
-				<div class="set-icon-container">
-									<a href="previews/ECP"><div class="set-icon"><img src="sets/ECP-files/icon.png" title="Ether Chill Power"></img></div>
-									<div class="set-icon-name">Ether Chill Power</div></a>
-								</div>
-				<div class="set-icon-container">
-									<a href="previews/TSU"><div class="set-icon"><img src="sets/TSU-files/icon.png" title="Tsundoku"></img></div>
-									<div class="set-icon-name">Tsundoku</div></a>
-								</div>
-				<div class="set-icon-container">
-									<a href="previews/TVV"><div class="set-icon"><img src="sets/TVV-files/icon.png" title="The Village in the Void"></img></div>
-									<div class="set-icon-name">The Village in the Void</div></a>
+									<a href="previews/ROU"><div class="set-icon"><img src="sets/ROU-files/icon.png" title="Realm of the Ultraprism"></img></div>
+									<div class="set-icon-name">Realm of the Ultraprism</div></a>
 								</div>
 									</div>
 		
@@ -241,6 +229,7 @@
 			let gradients = [];
 			let card_list_arrayified = [];
 			let specialchars = "";
+			let initial_gradient = true;
 
 			document.addEventListener("DOMContentLoaded", async function () {
 				try {
@@ -373,7 +362,12 @@
 			}
 
 			function setGradient() {
-				gradient = document.getElementById("color-select").value;
+				if (!initial_gradient || !localStorage.getItem("gradient"))
+				{
+					localStorage.setItem("gradient", document.getElementById("color-select").value);
+				}
+				
+				gradient = localStorage.getItem("gradient");
 
 				gradTop = "#000000";
 				gradBottom = "#FFFFFF";
@@ -385,7 +379,13 @@
 						gradBottom = grad.color2;
 					}
 				}
+				
+				if (initial_gradient)
+				{
+					document.getElementById("color-select").value = gradient;
+				}
 
+				initial_gradient = false;
 				document.body.style.backgroundImage = `linear-gradient(to bottom, ${gradTop}, ${gradBottom})`;
 			}
 
