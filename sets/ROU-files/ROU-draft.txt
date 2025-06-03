@@ -27,7 +27,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/ROU-files/img/1_Prism Reminder.png"
+				"en": "https://ethershade.github.io/sets/ROU-files/img/1t_Prism Reminder.png"
 			}
 		},
 		{
@@ -2889,3 +2889,5 @@
 	15 CL18 Lighthouse of Death
 	15 CL19 Lighthouse of Light
 	15 CL20 Lighthouse of Water
+[reminderslot(1)]
+	60 Prism Reminder
