@@ -2683,7 +2683,7 @@
 		},
 	]
 
-[rare(2)]
+[rare1(1)]
 	1 MA01 The Ultraprism
 	5 RL01 Ultraprismatic Vista
 	5 RW01 The Shield of Belief
@@ -2716,6 +2716,43 @@
 	5 RG01 The Stave of Eternity
 	5 RG02 The Woodqueen
 	1 MU01 The Visiting Balancer
+	5 RC01 Etchings of Anticipation
+	5 RR01 The Sword of Aeons
+	1 MC01 Prismatic Lever
+	1 MC03 Prismatic Screw
+	1 MC04 Prismatic Button
+	1 MC05 Prismatic Wedge
+	5 RB03 Amorphous Wish
+	5 RM07 Areneloth, Creative Transcendant
+[rare2(1)]
+	5 RL01 Ultraprismatic Vista
+	5 RW01 The Shield of Belief
+	5 RW02 Soulbond
+	5 RM09 The Lord High Stallion
+	5 RW03 Invulnerable Chromageist
+	5 RU02 Infinity Visions
+	5 RU03 Perfection
+	5 RM01 Malaktior, High Curator
+	5 RB02 Mysterious Parasitism
+	5 RR03 Imperfection
+	5 RM08 Raktro Voidlistener
+	5 RM06 The Piercelight Dawn
+	5 RR02 Prism Hoard
+	5 RM03 The Chittering Voice
+	5 RM04 The Ultraprism Regent
+	5 RM05 The Chromat
+	5 RM10 Lemira, Mightflow Progenitor
+	5 RA01 The Lantern of Alignment
+	5 RA04 Font of Prisms
+	5 RM02 The Amorphous Star
+	5 RU01 The Pan Flute of Ages
+	5 RB01 The Crown of Doomsday
+	5 RL02 Tales of the Fae
+	5 RA03 The Balancer's Helm
+	5 RA02 Doubling Sphere
+	5 RG03 Prismwood Caretaker
+	5 RG01 The Stave of Eternity
+	5 RG02 The Woodqueen
 	2 RM11 The Mind of Truth
 	2 RM13 The Hand of Execution
 	2 RM15 The Nose of Memory
@@ -2728,10 +2765,6 @@
 	2 RM18 The Hand of Judgment
 	2 RM19 The Heart of Morality
 	2 RM20 The Mouth of Philosophy
-	1 MC01 Prismatic Lever
-	1 MC03 Prismatic Screw
-	1 MC04 Prismatic Button
-	1 MC05 Prismatic Wedge
 	5 RB03 Amorphous Wish
 	5 RM07 Areneloth, Creative Transcendant
 [uncommon(4)]
