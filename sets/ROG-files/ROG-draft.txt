@@ -1,0 +1,1395 @@
+[CustomCards]
+	[
+		{
+			"name": "UW12 Arkira, Whiteflame Warrior",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Planeswalker — Arkira",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/24_UW12 Arkira, Whiteflame Warrior.png"
+			}
+		},
+		{
+			"name": "MM02 The Balancer's Multiplicity",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/100_MM02 The Balancer's Multiplicity.png"
+			}
+		},
+		{
+			"name": "MM01 The True Puppeteer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Planeswalker — Puppeteer",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/99_MM01 The True Puppeteer.png"
+			}
+		},
+		{
+			"name": "RM01 Ghaster, Spiteful Judge",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Demon Advisor",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/102_RM01 Ghaster, Spiteful Judge.png"
+			}
+		},
+		{
+			"name": "RM02 Klaus, Scorned Brother",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Demon Warrior",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/103_RM02 Klaus, Scorned Brother.png"
+			}
+		},
+		{
+			"name": "RU05 Copy Skillset",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/39_RU05 Copy Skillset.png"
+			}
+		},
+		{
+			"name": "CW03 Tournament of Loyalty",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Battle — Tournament",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/4_CW03 Tournament of Loyalty.png"
+			}
+		},
+		{
+			"name": "CW01 Feline Hunter",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat",
+			"collector_number": "2",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ROG-files/img/2_CW01 Feline Hunter_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/2_CW01 Feline Hunter_front.png"
+			}
+		},
+		{
+			"name": "RU04 Mana Leech",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/38_RU04 Mana Leech.png"
+			}
+		},
+		{
+			"name": "CW16 Kinship from Hardship",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/17_CW16 Kinship from Hardship.png"
+			}
+		},
+		{
+			"name": "CW02 Team Player",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/3_CW02 Team Player.png"
+			}
+		},
+		{
+			"name": "CW04 Registration Automaton",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/5_CW04 Registration Automaton.png"
+			}
+		},
+		{
+			"name": "CW05 Ambitious Contestant",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/6_CW05 Ambitious Contestant.png"
+			}
+		},
+		{
+			"name": "CW06 Stranded Familiar",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/7_CW06 Stranded Familiar.png"
+			}
+		},
+		{
+			"name": "RL01 The Beacon of the Games",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/116_RL01 The Beacon of the Games.png"
+			}
+		},
+		{
+			"name": "CU01 Oracle of the Games",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/26_CU01 Oracle of the Games.png"
+			}
+		},
+		{
+			"name": "CR02 Falsely Destined Champion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/63_CR02 Falsely Destined Champion.png"
+			}
+		},
+		{
+			"name": "CB17 Gannam's Mind Plague",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/52_CB17 Gannam's Mind Plague.png"
+			}
+		},
+		{
+			"name": "UR10 Maddening Pursuit",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/76_UR10 Maddening Pursuit.png"
+			}
+		},
+		{
+			"name": "UW13 Veletir, Hand of Order",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Planeswalker — Veletir",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/25_UW13 Veletir, Hand of Order.png"
+			}
+		},
+		{
+			"name": "CU04 Opinionated Theorycrafter",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/29_CU04 Opinionated Theorycrafter.png"
+			}
+		},
+		{
+			"name": "UW01 Organized Theorist",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/22_UW01 Organized Theorist.png"
+			}
+		},
+		{
+			"name": "CW14 Safety Capsule",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/15_CW14 Safety Capsule.png"
+			}
+		},
+		{
+			"name": "CW17 Improvised Equipment",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/18_CW17 Improvised Equipment.png"
+			}
+		},
+		{
+			"name": "CU14 Research Bubble",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/34_CU14 Research Bubble.png"
+			}
+		},
+		{
+			"name": "CG15 Ambitious Revival",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/88_CG15 Ambitious Revival.png"
+			}
+		},
+		{
+			"name": "CW10 Game Enforcers",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/11_CW10 Game Enforcers.png"
+			}
+		},
+		{
+			"name": "CW08 Skilled Competitor",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/9_CW08 Skilled Competitor.png"
+			}
+		},
+		{
+			"name": "CW09 Amnesic Contestant",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "10",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ROG-files/img/10_CW09 Amnesic Contestant_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/10_CW09 Amnesic Contestant_front.png"
+			}
+		},
+		{
+			"name": "CB07 Strategic Saboteur",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/48_CB07 Strategic Saboteur.png"
+			}
+		},
+		{
+			"name": "CU18 Tournament of Knowledge",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Battle — Tournament",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/36_CU18 Tournament of Knowledge.png"
+			}
+		},
+		{
+			"name": "CR15 Tournament of Courage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Battle — Tournament",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/70_CR15 Tournament of Courage.png"
+			}
+		},
+		{
+			"name": "CW13 Arkira's Purification",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/14_CW13 Arkira's Purification.png"
+			}
+		},
+		{
+			"name": "CW15 Veletir's Banishment",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/16_CW15 Veletir's Banishment.png"
+			}
+		},
+		{
+			"name": "CG02 Druid of Instinct",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/80_CG02 Druid of Instinct.png"
+			}
+		},
+		{
+			"name": "UR12 Raphael, Carnelian Flare",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Planeswalker — Raphael",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/78_UR12 Raphael, Carnelian Flare.png"
+			}
+		},
+		{
+			"name": "UR13 Shaena, Bolt of Chaos",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Planeswalker — Shaena",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/79_UR13 Shaena, Bolt of Chaos.png"
+			}
+		},
+		{
+			"name": "Servo",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Servo",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/2_Servo.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/1_Human.png"
+			}
+		},
+		{
+			"name": "CG07 Tournament of Strength",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Battle — Tournament",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/83_CG07 Tournament of Strength.png"
+			}
+		},
+		{
+			"name": "UU13 Layna, Edge of Knowledge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Planeswalker — Layna",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/46_UU13 Layna, Edge of Knowledge.png"
+			}
+		},
+		{
+			"name": "CB16 Tournament of Persistence",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Battle — Tournament",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/51_CB16 Tournament of Persistence.png"
+			}
+		},
+		{
+			"name": "UU12 Esra, Azure Blaze",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Legendary Planeswalker — Esra",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/45_UU12 Esra, Azure Blaze.png"
+			}
+		},
+		{
+			"name": "CG09 Venom-Edge Blademaster",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/85_CG09 Venom-Edge Blademaster.png"
+			}
+		},
+		{
+			"name": "CR01 Eager Contestant",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/62_CR01 Eager Contestant.png"
+			}
+		},
+		{
+			"name": "RM03 Pentafold Ignition",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/104_RM03 Pentafold Ignition.png"
+			}
+		},
+		{
+			"name": "UG12 Therum, Emerald Flame",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Planeswalker — Therum",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/97_UG12 Therum, Emerald Flame.png"
+			}
+		},
+		{
+			"name": "UG13 Grefar, Commander of Masses",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Planeswalker — Grefar",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/98_UG13 Grefar, Commander of Masses.png"
+			}
+		},
+		{
+			"name": "UB13 Gannam, Seeker of Power",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Planeswalker — Gannam",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/61_UB13 Gannam, Seeker of Power.png"
+			}
+		},
+		{
+			"name": "UB12 Spinel, Obsidian Pyre",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Planeswalker — Spinel",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/60_UB12 Spinel, Obsidian Pyre.png"
+			}
+		},
+		{
+			"name": "CU11 Esra's Reversal",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/33_CU11 Esra's Reversal.png"
+			}
+		},
+		{
+			"name": "CU17 Layna's Curiosity",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/35_CU17 Layna's Curiosity.png"
+			}
+		},
+		{
+			"name": "CB11 Spinel's Backstab",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/50_CB11 Spinel's Backstab.png"
+			}
+		},
+		{
+			"name": "CR11 Raphael's Inferno",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/68_CR11 Raphael's Inferno.png"
+			}
+		},
+		{
+			"name": "CR12 Contested Conflagration",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/69_CR12 Contested Conflagration.png"
+			}
+		},
+		{
+			"name": "CR17 Shaena's Luck",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/71_CR17 Shaena's Luck.png"
+			}
+		},
+		{
+			"name": "CG08 Therum's Sentinel",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/84_CG08 Therum's Sentinel.png"
+			}
+		},
+		{
+			"name": "CG13 Grefar's Might",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/87_CG13 Grefar's Might.png"
+			}
+		},
+		{
+			"name": "UU08 Cacophony of Knowledge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/42_UU08 Cacophony of Knowledge.png"
+			}
+		},
+		{
+			"name": "UU09 Efficient Denial",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/43_UU09 Efficient Denial.png"
+			}
+		},
+		{
+			"name": "UB02 Bloody Imitator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/58_UB02 Bloody Imitator.png"
+			}
+		},
+		{
+			"name": "UB01 Third Death Ghoul",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/57_UB01 Third Death Ghoul.png"
+			}
+		},
+		{
+			"name": "RB05 Nonexistent Stab",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/54_RB05 Nonexistent Stab.png"
+			}
+		},
+		{
+			"name": "UG05 Scaling Imitator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/95_UG05 Scaling Imitator.png"
+			}
+		},
+		{
+			"name": "RU06 Return Again",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/40_RU06 Return Again.png"
+			}
+		},
+		{
+			"name": "UR08 Ruination",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/75_UR08 Ruination.png"
+			}
+		},
+		{
+			"name": "CG17 Echoing Worlds",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/89_CG17 Echoing Worlds.png"
+			}
+		},
+		{
+			"name": "RL02 Puzzling Wilds",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/117_RL02 Puzzling Wilds.png"
+			}
+		},
+		{
+			"name": "RG04 Spawning Rites",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/92_RG04 Spawning Rites.png"
+			}
+		},
+		{
+			"name": "RW05 Puppeteer's Scorn",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/21_RW05 Puppeteer's Scorn.png"
+			}
+		},
+		{
+			"name": "RG05 Balancer's Solution",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/93_RG05 Balancer's Solution.png"
+			}
+		},
+		{
+			"name": "RA01 Mirrored Room",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "105",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ROG-files/img/105_RA01 Mirrored Room_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/105_RA01 Mirrored Room_front.png"
+			}
+		},
+		{
+			"name": "RU07 Echotwiddle",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/41_RU07 Echotwiddle.png"
+			}
+		},
+		{
+			"name": "RC01 Freedom from the Games",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Enchantment — Aura",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/1_RC01 Freedom from the Games.png"
+			}
+		},
+		{
+			"name": "CW07 Tournament Tinkerer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/8_CW07 Tournament Tinkerer.png"
+			}
+		},
+		{
+			"name": "CW12 Quartz Judge",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/13_CW12 Quartz Judge.png"
+			}
+		},
+		{
+			"name": "CG11 Emerald Judge",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/86_CG11 Emerald Judge.png"
+			}
+		},
+		{
+			"name": "CU09 Sapphire Judge",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/32_CU09 Sapphire Judge.png"
+			}
+		},
+		{
+			"name": "CB10 Onyx Judge",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/49_CB10 Onyx Judge.png"
+			}
+		},
+		{
+			"name": "CR10 Ruby Judge",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/67_CR10 Ruby Judge.png"
+			}
+		},
+		{
+			"name": "CW11 Titan of the Contest",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/12_CW11 Titan of the Contest.png"
+			}
+		},
+		{
+			"name": "RB06 Shattered Sparkbox",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/55_RB06 Shattered Sparkbox.png"
+			}
+		},
+		{
+			"name": "RB07 Intangible Assassin",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Avatar Assassin",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/56_RB07 Intangible Assassin.png"
+			}
+		},
+		{
+			"name": "UR11 Tournament of Ruby",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Battle — Tournament",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/77_UR11 Tournament of Ruby.png"
+			}
+		},
+		{
+			"name": "CW18 One-Round Truce",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/19_CW18 One-Round Truce.png"
+			}
+		},
+		{
+			"name": "UU11 Tournament of Sapphire",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Battle — Tournament",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/44_UU11 Tournament of Sapphire.png"
+			}
+		},
+		{
+			"name": "UG11 Tournament of Emerald",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Battle — Tournament",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/96_UG11 Tournament of Emerald.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/118_Wastes.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/119_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/120_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/121_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/122_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/123_Forest.png"
+			}
+		},
+		{
+			"name": "UB11 Tournament of Onyx",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Battle — Tournament",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/59_UB11 Tournament of Onyx.png"
+			}
+		},
+		{
+			"name": "MM03 Embodiment of the Games",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{U}{B}{R}{G}",
+			"type": "Creature — Avatar",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/101_MM03 Embodiment of the Games.png"
+			}
+		},
+		{
+			"name": "UW11 Tournament of Quartz",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Battle — Tournament",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/23_UW11 Tournament of Quartz.png"
+			}
+		},
+		{
+			"name": "RU01 Sapphire Balancer",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Planeswalker — Balancer",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/37_RU01 Sapphire Balancer.png"
+			}
+		},
+		{
+			"name": "RW01 Quartz Balancer",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Planeswalker — Balancer",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/20_RW01 Quartz Balancer.png"
+			}
+		},
+		{
+			"name": "RB01 Onyx Balancer",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Planeswalker — Balancer",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/53_RB01 Onyx Balancer.png"
+			}
+		},
+		{
+			"name": "RR01 Ruby Balancer",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Planeswalker — Balancer",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/72_RR01 Ruby Balancer.png"
+			}
+		},
+		{
+			"name": "RG01 Emerald Balancer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Planeswalker — Balancer",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/90_RG01 Emerald Balancer.png"
+			}
+		},
+		{
+			"name": "CL01 Checkpoint of Frost",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/106_CL01 Checkpoint of Frost.png"
+			}
+		},
+		{
+			"name": "CL02 Checkpoint of Darkness",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/107_CL02 Checkpoint of Darkness.png"
+			}
+		},
+		{
+			"name": "CL03 Checkpoint of Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/108_CL03 Checkpoint of Blood.png"
+			}
+		},
+		{
+			"name": "CL04 Checkpoint of Fire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/109_CL04 Checkpoint of Fire.png"
+			}
+		},
+		{
+			"name": "CL05 Checkpoint of Life",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/110_CL05 Checkpoint of Life.png"
+			}
+		},
+		{
+			"name": "CL06 Checkpoint of Bone",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/111_CL06 Checkpoint of Bone.png"
+			}
+		},
+		{
+			"name": "CL07 Checkpoint of Thunder",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/112_CL07 Checkpoint of Thunder.png"
+			}
+		},
+		{
+			"name": "CL08 Checkpoint of Death",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/113_CL08 Checkpoint of Death.png"
+			}
+		},
+		{
+			"name": "CL09 Checkpoint of Light",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/114_CL09 Checkpoint of Light.png"
+			}
+		},
+		{
+			"name": "CL10 Checkpoint of Water",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/115_CL10 Checkpoint of Water.png"
+			}
+		},
+		{
+			"name": "CU02 Animated Arrow",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/27_CU02 Animated Arrow.png"
+			}
+		},
+		{
+			"name": "CU05 Plummeting Windmage",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/30_CU05 Plummeting Windmage.png"
+			}
+		},
+		{
+			"name": "CU03 Sparkening Aspirant",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/28_CU03 Sparkening Aspirant.png"
+			}
+		},
+		{
+			"name": "RR04 Gamble Infinitum",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/73_RR04 Gamble Infinitum.png"
+			}
+		},
+		{
+			"name": "RR05 Firefall",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/74_RR05 Firefall.png"
+			}
+		},
+		{
+			"name": "CR05 Flameshot Archer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Archer",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/65_CR05 Flameshot Archer.png"
+			}
+		},
+		{
+			"name": "UG04 Challenge Tuner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/94_UG04 Challenge Tuner.png"
+			}
+		},
+		{
+			"name": "CG04 Contestant Crusher",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/82_CG04 Contestant Crusher.png"
+			}
+		},
+		{
+			"name": "CB05 Ambitious Craftsman",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/47_CB05 Ambitious Craftsman.png"
+			}
+		},
+		{
+			"name": "CG03 Void Aspirant",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/81_CG03 Void Aspirant.png"
+			}
+		},
+		{
+			"name": "CU06 Voidcaller Contestant",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/31_CU06 Voidcaller Contestant.png"
+			}
+		},
+		{
+			"name": "RG03 Supressed Leyline",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/91_RG03 Supressed Leyline.png"
+			}
+		},
+		{
+			"name": "CR07 Flamestrike Challenger",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/66_CR07 Flamestrike Challenger.png"
+			}
+		},
+		{
+			"name": "CR03 Extreme Speedrunner",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROG-files/img/64_CR03 Extreme Speedrunner.png"
+			}
+		},
+	]
+
+[rare(1)]
+	5 MM02 The Balancer's Multiplicity
+	5 MM01 The True Puppeteer
+	5 RM01 Ghaster, Spiteful Judge
+	5 RM02 Klaus, Scorned Brother
+	5 RU05 Copy Skillset
+	5 RU04 Mana Leech
+	5 RL01 The Beacon of the Games
+	5 RM03 Pentafold Ignition
+	5 RB05 Nonexistent Stab
+	5 RU06 Return Again
+	5 RL02 Puzzling Wilds
+	5 RG04 Spawning Rites
+	5 RW05 Puppeteer's Scorn
+	5 RG05 Balancer's Solution
+	5 RA01 Mirrored Room
+	5 RU07 Echotwiddle
+	5 RC01 Freedom from the Games
+	5 RB06 Shattered Sparkbox
+	5 RB07 Intangible Assassin
+	5 MM03 Embodiment of the Games
+	5 RU01 Sapphire Balancer
+	5 RW01 Quartz Balancer
+	5 RB01 Onyx Balancer
+	5 RR01 Ruby Balancer
+	5 RG01 Emerald Balancer
+	5 RR04 Gamble Infinitum
+	5 RR05 Firefall
+	5 RG03 Supressed Leyline
+[uncommon(3)]
+	5 UW12 Arkira, Whiteflame Warrior
+	5 UR10 Maddening Pursuit
+	5 UW13 Veletir, Hand of Order
+	5 UW01 Organized Theorist
+	5 UR12 Raphael, Carnelian Flare
+	5 UR13 Shaena, Bolt of Chaos
+	5 UU13 Layna, Edge of Knowledge
+	5 UU12 Esra, Azure Blaze
+	5 UG12 Therum, Emerald Flame
+	5 UG13 Grefar, Commander of Masses
+	5 UB13 Gannam, Seeker of Power
+	5 UB12 Spinel, Obsidian Pyre
+	5 UU08 Cacophony of Knowledge
+	5 UU09 Efficient Denial
+	5 UB02 Bloody Imitator
+	5 UB01 Third Death Ghoul
+	5 UG05 Scaling Imitator
+	5 UR11 Tournament of Ruby
+	5 UU11 Tournament of Sapphire
+	5 UG11 Tournament of Emerald
+	5 UB11 Tournament of Onyx
+	5 UW11 Tournament of Quartz
+	5 UG04 Challenge Tuner
+[common(10)]
+	5 CW03 Tournament of Loyalty
+	5 CW01 Feline Hunter
+	5 CW16 Kinship from Hardship
+	5 CW02 Team Player
+	5 CW04 Registration Automaton
+	5 CW05 Ambitious Contestant
+	5 CW06 Stranded Familiar
+	5 CU01 Oracle of the Games
+	5 CR02 Falsely Destined Champion
+	5 CB17 Gannam's Mind Plague
+	5 CU04 Opinionated Theorycrafter
+	5 CW14 Safety Capsule
+	5 CW17 Improvised Equipment
+	5 CU14 Research Bubble
+	5 CG15 Ambitious Revival
+	5 CW10 Game Enforcers
+	5 CW08 Skilled Competitor
+	5 CW09 Amnesic Contestant
+	5 CB07 Strategic Saboteur
+	5 CU18 Tournament of Knowledge
+	5 CR15 Tournament of Courage
+	5 CW13 Arkira's Purification
+	5 CW15 Veletir's Banishment
+	5 CG02 Druid of Instinct
+	5 CG07 Tournament of Strength
+	5 CB16 Tournament of Persistence
+	5 CG09 Venom-Edge Blademaster
+	5 CR01 Eager Contestant
+	5 CU11 Esra's Reversal
+	5 CU17 Layna's Curiosity
+	5 CB11 Spinel's Backstab
+	5 CR11 Raphael's Inferno
+	5 CR12 Contested Conflagration
+	5 CR17 Shaena's Luck
+	5 CG08 Therum's Sentinel
+	5 CG13 Grefar's Might
+	5 UR08 Ruination
+	5 CG17 Echoing Worlds
+	5 CW07 Tournament Tinkerer
+	5 CW12 Quartz Judge
+	5 CG11 Emerald Judge
+	5 CU09 Sapphire Judge
+	5 CB10 Onyx Judge
+	5 CR10 Ruby Judge
+	5 CW11 Titan of the Contest
+	5 CW18 One-Round Truce
+	5 CL01 Checkpoint of Frost
+	5 CL02 Checkpoint of Darkness
+	5 CL03 Checkpoint of Blood
+	5 CL04 Checkpoint of Fire
+	5 CL05 Checkpoint of Life
+	5 CL06 Checkpoint of Bone
+	5 CL07 Checkpoint of Thunder
+	5 CL08 Checkpoint of Death
+	5 CL09 Checkpoint of Light
+	5 CL10 Checkpoint of Water
+	5 CU02 Animated Arrow
+	5 CU05 Plummeting Windmage
+	5 CU03 Sparkening Aspirant
+	5 CR05 Flameshot Archer
+	5 CG04 Contestant Crusher
+	5 CB05 Ambitious Craftsman
+	5 CG03 Void Aspirant
+	5 CU06 Voidcaller Contestant
+	5 CR07 Flamestrike Challenger
+	5 CR03 Extreme Speedrunner

@@ -535,7 +535,7 @@
 			"name": "RU02 Infinity Visions",
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
-			"type": "Enchantment",
+			"type": "Enchantment — Aura",
 			"collector_number": "87",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/ROU-files/img/87_RU02 Infinity Visions.png"
@@ -1858,7 +1858,7 @@
 		{
 			"name": "RG02 The Woodqueen",
 			"rarity": "rare",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Dryad Noble",
 			"collector_number": "186",
 			"image_uris": {
@@ -2650,9 +2650,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "277",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/ROU-files/img/277_Plains.png"
+				"en": "https://ethershade.github.io/sets/ROU-files/img/278_Plains.png"
 			}
 		},
 		{
@@ -2660,9 +2660,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "278",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/ROU-files/img/278_Island.png"
+				"en": "https://ethershade.github.io/sets/ROU-files/img/279_Island.png"
 			}
 		},
 		{
@@ -2670,9 +2670,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "279",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/ROU-files/img/279_Swamp.png"
+				"en": "https://ethershade.github.io/sets/ROU-files/img/280_Swamp.png"
 			}
 		},
 		{
@@ -2680,9 +2680,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "280",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/ROU-files/img/280_Mountain.png"
+				"en": "https://ethershade.github.io/sets/ROU-files/img/281_Mountain.png"
 			}
 		},
 		{
@@ -2690,9 +2690,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "281",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/ROU-files/img/281_Forest.png"
+				"en": "https://ethershade.github.io/sets/ROU-files/img/282_Forest.png"
 			}
 		},
 		{
@@ -2913,6 +2913,16 @@
 			"collector_number": "25",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/ROU-files/img/25_RC07 Thunder Lightform.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ROU-files/img/277_Wastes.png"
 			}
 		},
 	]
