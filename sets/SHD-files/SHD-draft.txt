@@ -1,0 +1,1901 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "RM07 Prismatic Blessing",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/94_RM07 Prismatic Blessing.png"
+			}
+		},
+		{
+			"name": "CC01 Voidborn Hydra",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Enchantment Creature — Hydra",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/1_CC01 Voidborn Hydra.png"
+			}
+		},
+		{
+			"name": "CZ21 Rift of Frost",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/124_CZ21 Rift of Frost.png"
+			}
+		},
+		{
+			"name": "CZ22 Rift of Darkness",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/125_CZ22 Rift of Darkness.png"
+			}
+		},
+		{
+			"name": "CZ23 Rift of Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/126_CZ23 Rift of Blood.png"
+			}
+		},
+		{
+			"name": "CZ24 Rift of Fire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/127_CZ24 Rift of Fire.png"
+			}
+		},
+		{
+			"name": "CZ25 Rift of Life",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/128_CZ25 Rift of Life.png"
+			}
+		},
+		{
+			"name": "CZ26 Rift of Bone",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/129_CZ26 Rift of Bone.png"
+			}
+		},
+		{
+			"name": "CZ27 Rift of Thunder",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/130_CZ27 Rift of Thunder.png"
+			}
+		},
+		{
+			"name": "CZ28 Rift of Death",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/131_CZ28 Rift of Death.png"
+			}
+		},
+		{
+			"name": "CZ29 Rift of Light",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/132_CZ29 Rift of Light.png"
+			}
+		},
+		{
+			"name": "CZ30 Rift of Water",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/133_CZ30 Rift of Water.png"
+			}
+		},
+		{
+			"name": "RL01 Siege of the Tomb",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Battle Land",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/134_RL01 Siege of the Tomb.png"
+			}
+		},
+		{
+			"name": "UZ01 Authorized Gateway",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Portal",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/135_UZ01 Authorized Gateway.png"
+			}
+		},
+		{
+			"name": "UZ02 Optimized Gateway",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Portal",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/136_UZ02 Optimized Gateway.png"
+			}
+		},
+		{
+			"name": "UZ03 Dominated Gateway",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Portal",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/137_UZ03 Dominated Gateway.png"
+			}
+		},
+		{
+			"name": "UZ04 Randomized Gateway",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Portal",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/138_UZ04 Randomized Gateway.png"
+			}
+		},
+		{
+			"name": "UZ05 Challenging Gateway",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Portal",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/139_UZ05 Challenging Gateway.png"
+			}
+		},
+		{
+			"name": "UZ06 Quartz Sparkgate",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Planeswalker Land — Portal",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/140_UZ06 Quartz Sparkgate.png"
+			}
+		},
+		{
+			"name": "UZ07 Sapphire Sparkgate",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Planeswalker Land — Portal",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/141_UZ07 Sapphire Sparkgate.png"
+			}
+		},
+		{
+			"name": "UZ08 Onyx Sparkgate",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Planeswalker Land — Portal",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/142_UZ08 Onyx Sparkgate.png"
+			}
+		},
+		{
+			"name": "UZ09 Ruby Sparkgate",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Planeswalker Land — Portal",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/143_UZ09 Ruby Sparkgate.png"
+			}
+		},
+		{
+			"name": "UZ10 Emerald Sparkgate",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Planeswalker Land — Portal",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/144_UZ10 Emerald Sparkgate.png"
+			}
+		},
+		{
+			"name": "CL01 Haven of Anticipation",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/123_CL01 Haven of Anticipation.png"
+			}
+		},
+		{
+			"name": "CW14 Cease Conflict",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura Saga",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/19_CW14 Cease Conflict.png"
+			}
+		},
+		{
+			"name": "UZ11 Stronghold of Frost",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/145_UZ11 Stronghold of Frost.png"
+			}
+		},
+		{
+			"name": "CC04 Void Ritual",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/4_CC04 Void Ritual.png"
+			}
+		},
+		{
+			"name": "CZ01 Flag of Frost",
+			"rarity": "common",
+			"mana_cost": "{W/U}",
+			"type": "Artifact",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/100_CZ01 Flag of Frost.png"
+			}
+		},
+		{
+			"name": "CW19 Dimensional Ruin",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/24_CW19 Dimensional Ruin.png"
+			}
+		},
+		{
+			"name": "CU10 Suppress Creativity",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/38_CU10 Suppress Creativity.png"
+			}
+		},
+		{
+			"name": "CZ11 Emblem of Frost",
+			"rarity": "common",
+			"mana_cost": "{W/U}",
+			"type": "Enchantment",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/110_CZ11 Emblem of Frost.png"
+			}
+		},
+		{
+			"name": "CZ02 Flag of Darkness",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Artifact",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/101_CZ02 Flag of Darkness.png"
+			}
+		},
+		{
+			"name": "CZ03 Flag of Blood",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Artifact",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/102_CZ03 Flag of Blood.png"
+			}
+		},
+		{
+			"name": "CZ04 Flag of Fire",
+			"rarity": "common",
+			"mana_cost": "{R/G}",
+			"type": "Artifact",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/103_CZ04 Flag of Fire.png"
+			}
+		},
+		{
+			"name": "CZ05 Flag of Life",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Artifact",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/104_CZ05 Flag of Life.png"
+			}
+		},
+		{
+			"name": "CZ06 Flag of Bone",
+			"rarity": "common",
+			"mana_cost": "{W/B}",
+			"type": "Artifact",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/105_CZ06 Flag of Bone.png"
+			}
+		},
+		{
+			"name": "CZ07 Flag of Thunder",
+			"rarity": "common",
+			"mana_cost": "{U/R}",
+			"type": "Artifact",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/106_CZ07 Flag of Thunder.png"
+			}
+		},
+		{
+			"name": "CZ08 Flag of Death",
+			"rarity": "common",
+			"mana_cost": "{B/G}",
+			"type": "Artifact",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/107_CZ08 Flag of Death.png"
+			}
+		},
+		{
+			"name": "CZ09 Flag of Light",
+			"rarity": "common",
+			"mana_cost": "{R/W}",
+			"type": "Artifact",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/108_CZ09 Flag of Light.png"
+			}
+		},
+		{
+			"name": "CZ10 Flag of Water",
+			"rarity": "common",
+			"mana_cost": "{G/U}",
+			"type": "Artifact",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/109_CZ10 Flag of Water.png"
+			}
+		},
+		{
+			"name": "CZ12 Emblem of Darkness",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Enchantment",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/111_CZ12 Emblem of Darkness.png"
+			}
+		},
+		{
+			"name": "CZ13 Emblem of Blood",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Enchantment",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/112_CZ13 Emblem of Blood.png"
+			}
+		},
+		{
+			"name": "CZ14 Emblem of Fire",
+			"rarity": "common",
+			"mana_cost": "{R/G}",
+			"type": "Enchantment",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/113_CZ14 Emblem of Fire.png"
+			}
+		},
+		{
+			"name": "CZ15 Emblem of Life",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Enchantment",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/114_CZ15 Emblem of Life.png"
+			}
+		},
+		{
+			"name": "CZ16 Emblem of Bone",
+			"rarity": "common",
+			"mana_cost": "{W/B}",
+			"type": "Enchantment",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/115_CZ16 Emblem of Bone.png"
+			}
+		},
+		{
+			"name": "CZ17 Emblem of Thunder",
+			"rarity": "common",
+			"mana_cost": "{U/R}",
+			"type": "Enchantment",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/116_CZ17 Emblem of Thunder.png"
+			}
+		},
+		{
+			"name": "CZ18 Emblem of Death",
+			"rarity": "common",
+			"mana_cost": "{B/G}",
+			"type": "Enchantment",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/117_CZ18 Emblem of Death.png"
+			}
+		},
+		{
+			"name": "CZ19 Emblem of Frost",
+			"rarity": "common",
+			"mana_cost": "{R/W}",
+			"type": "Enchantment",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/118_CZ19 Emblem of Frost.png"
+			}
+		},
+		{
+			"name": "CZ20 Emblem of Frost",
+			"rarity": "common",
+			"mana_cost": "{G/U}",
+			"type": "Enchantment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/119_CZ20 Emblem of Frost.png"
+			}
+		},
+		{
+			"name": "CC02 Nyxling",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Enchantment Creature — Spawn",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/2_CC02 Nyxling.png"
+			}
+		},
+		{
+			"name": "UZ12 Stronghold of Darkness",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/146_UZ12 Stronghold of Darkness.png"
+			}
+		},
+		{
+			"name": "UZ13 Stronghold of Blood",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/147_UZ13 Stronghold of Blood.png"
+			}
+		},
+		{
+			"name": "UZ14 Stronghold of Fire",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/148_UZ14 Stronghold of Fire.png"
+			}
+		},
+		{
+			"name": "UZ15 Stronghold of Life",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/149_UZ15 Stronghold of Life.png"
+			}
+		},
+		{
+			"name": "UZ16 Stronghold of Bone",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/150_UZ16 Stronghold of Bone.png"
+			}
+		},
+		{
+			"name": "UZ17 Stronghold of Thunder",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/151_UZ17 Stronghold of Thunder.png"
+			}
+		},
+		{
+			"name": "UZ18 Stronghold of Death",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/152_UZ18 Stronghold of Death.png"
+			}
+		},
+		{
+			"name": "UZ19 Stronghold of Light",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/153_UZ19 Stronghold of Light.png"
+			}
+		},
+		{
+			"name": "UZ20 Stronghold of Water",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/154_UZ20 Stronghold of Water.png"
+			}
+		},
+		{
+			"name": "UZ21 Zone of Frost",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/155_UZ21 Zone of Frost.png"
+			}
+		},
+		{
+			"name": "CA01 Vexling",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/120_CA01 Vexling.png"
+			}
+		},
+		{
+			"name": "UZ22 Zone of Darkness",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/156_UZ22 Zone of Darkness.png"
+			}
+		},
+		{
+			"name": "UZ23 Zone of Blood",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/157_UZ23 Zone of Blood.png"
+			}
+		},
+		{
+			"name": "UZ24 Zone of Fire",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/158_UZ24 Zone of Fire.png"
+			}
+		},
+		{
+			"name": "UZ25 Zone of Life",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/159_UZ25 Zone of Life.png"
+			}
+		},
+		{
+			"name": "UZ26 Zone of Bone",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/160_UZ26 Zone of Bone.png"
+			}
+		},
+		{
+			"name": "UZ27 Zone of Thunder",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/161_UZ27 Zone of Thunder.png"
+			}
+		},
+		{
+			"name": "UZ28 Zone of Death",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/162_UZ28 Zone of Death.png"
+			}
+		},
+		{
+			"name": "UZ29 Zone of Light",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/163_UZ29 Zone of Light.png"
+			}
+		},
+		{
+			"name": "UZ30 Zone of Water",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/164_UZ30 Zone of Water.png"
+			}
+		},
+		{
+			"name": "UU10 Once More",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/51_UU10 Once More.png"
+			}
+		},
+		{
+			"name": "MU01 Returned Master",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/48_MU01 Returned Master.png"
+			}
+		},
+		{
+			"name": "Once More [Conjured]",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/165_Once More [Conjured].png"
+			}
+		},
+		{
+			"name": "Vex Opal [Conjured]",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/168_Vex Opal [Conjured].png"
+			}
+		},
+		{
+			"name": "Vex Amber [Conjured]",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/166_Vex Amber [Conjured].png"
+			}
+		},
+		{
+			"name": "Vex Jasper [Conjured]",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/167_Vex Jasper [Conjured].png"
+			}
+		},
+		{
+			"name": "CC03 Indicative Choice",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/3_CC03 Indicative Choice.png"
+			}
+		},
+		{
+			"name": "CU01 Phantasmal Frog",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Frog Illusion",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/29_CU01 Phantasmal Frog.png"
+			}
+		},
+		{
+			"name": "MA01 The Vexenvault",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/121_MA01 The Vexenvault.png"
+			}
+		},
+		{
+			"name": "RC01 Strained Evolver",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Creature — Human Mutant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/5_RC01 Strained Evolver.png"
+			}
+		},
+		{
+			"name": "RM11 Triple Tempest",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{U}{R}{R}{R}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/98_RM11 Triple Tempest.png"
+			}
+		},
+		{
+			"name": "RM09 Omniscient Blessing",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/96_RM09 Omniscient Blessing.png"
+			}
+		},
+		{
+			"name": "CW02 Forceful Inspector",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Construct Warrior",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/7_CW02 Forceful Inspector.png"
+			}
+		},
+		{
+			"name": "CW03 Overequipped Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/8_CW03 Overequipped Hunter.png"
+			}
+		},
+		{
+			"name": "CW01 Village Traditions",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/6_CW01 Village Traditions.png"
+			}
+		},
+		{
+			"name": "CW17 Evolved Blessing",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/22_CW17 Evolved Blessing.png"
+			}
+		},
+		{
+			"name": "CW04 Friendly Pigeon",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/9_CW04 Friendly Pigeon.png"
+			}
+		},
+		{
+			"name": "RB02 Undead Rookie",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/72_RB02 Undead Rookie.png"
+			}
+		},
+		{
+			"name": "RR01 Ezeria, Maddened Queen",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/85_RR01 Ezeria, Maddened Queen.png"
+			}
+		},
+		{
+			"name": "UU05 Enhanced Investigator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Detective",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/49_UU05 Enhanced Investigator.png"
+			}
+		},
+		{
+			"name": "CW05 Adept Aeronaut",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/10_CW05 Adept Aeronaut.png"
+			}
+		},
+		{
+			"name": "CW06 Sharer of Wealth",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Spirit Merchant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/11_CW06 Sharer of Wealth.png"
+			}
+		},
+		{
+			"name": "CW07 Predestined Prophet",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/12_CW07 Predestined Prophet.png"
+			}
+		},
+		{
+			"name": "RM05 Simplistic Blessing",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/92_RM05 Simplistic Blessing.png"
+			}
+		},
+		{
+			"name": "UW01 Tithe Taker",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/27_UW01 Tithe Taker.png"
+			}
+		},
+		{
+			"name": "UB01 Tithe Slayer",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Archer",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/73_UB01 Tithe Slayer.png"
+			}
+		},
+		{
+			"name": "RW02 Shattered Path",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/26_RW02 Shattered Path.png"
+			}
+		},
+		{
+			"name": "CW08 Auric Endurer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/13_CW08 Auric Endurer.png"
+			}
+		},
+		{
+			"name": "CW09 Friendly Bartender",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/14_CW09 Friendly Bartender.png"
+			}
+		},
+		{
+			"name": "CW10 Fragment Caretaker",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/15_CW10 Fragment Caretaker.png"
+			}
+		},
+		{
+			"name": "CW11 Tithing Angel",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel Advisor",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/16_CW11 Tithing Angel.png"
+			}
+		},
+		{
+			"name": "CW12 Data Titan",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Artifact Creature — Giant Construct",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/17_CW12 Data Titan.png"
+			}
+		},
+		{
+			"name": "CW13 Embedded Blade",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/18_CW13 Embedded Blade.png"
+			}
+		},
+		{
+			"name": "CW15 Cull Dissenters",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/20_CW15 Cull Dissenters.png"
+			}
+		},
+		{
+			"name": "CW16 Safety Stratagem",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/21_CW16 Safety Stratagem.png"
+			}
+		},
+		{
+			"name": "CW18 Brilliant Charge",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/23_CW18 Brilliant Charge.png"
+			}
+		},
+		{
+			"name": "RM01 Paradoxical Blessing",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/88_RM01 Paradoxical Blessing.png"
+			}
+		},
+		{
+			"name": "RM03 Obsessive Blessing",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/90_RM03 Obsessive Blessing.png"
+			}
+		},
+		{
+			"name": "RM08 Eternal Blessing",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/95_RM08 Eternal Blessing.png"
+			}
+		},
+		{
+			"name": "CU02 Bewinged Earth",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Golem Angel",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/30_CU02 Bewinged Earth.png"
+			}
+		},
+		{
+			"name": "CR18 Tears of War",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/84_CR18 Tears of War.png"
+			}
+		},
+		{
+			"name": "CU04 Nyx Drake",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Drake",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/32_CU04 Nyx Drake.png"
+			}
+		},
+		{
+			"name": "CU03 Cognitogeist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/31_CU03 Cognitogeist.png"
+			}
+		},
+		{
+			"name": "CU05 Mirror Keeper",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/33_CU05 Mirror Keeper.png"
+			}
+		},
+		{
+			"name": "CU06 Wizard Elitist",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/34_CU06 Wizard Elitist.png"
+			}
+		},
+		{
+			"name": "CU07 Soil Refresh Bot",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/35_CU07 Soil Refresh Bot.png"
+			}
+		},
+		{
+			"name": "CU08 Runic Savant",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/36_CU08 Runic Savant.png"
+			}
+		},
+		{
+			"name": "CU09 Serpent of Mind's Depths",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Serpent Illusion",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/37_CU09 Serpent of Mind's Depths.png"
+			}
+		},
+		{
+			"name": "CU11 Steal Reflections",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/39_CU11 Steal Reflections.png"
+			}
+		},
+		{
+			"name": "CU12 Nyx and Void",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/40_CU12 Nyx and Void.png"
+			}
+		},
+		{
+			"name": "CU13 Null Slumber",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/41_CU13 Null Slumber.png"
+			}
+		},
+		{
+			"name": "CU14 Book of Wings",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/42_CU14 Book of Wings.png"
+			}
+		},
+		{
+			"name": "CU15 Scattered Thoughts",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/43_CU15 Scattered Thoughts.png"
+			}
+		},
+		{
+			"name": "RM12 Curious Ritual",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{R}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/99_RM12 Curious Ritual.png"
+			}
+		},
+		{
+			"name": "CU16 Derealize",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/44_CU16 Derealize.png"
+			}
+		},
+		{
+			"name": "CU17 Overwhelming Curiosity",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/45_CU17 Overwhelming Curiosity.png"
+			}
+		},
+		{
+			"name": "CU18 Equilibrium Lock",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/46_CU18 Equilibrium Lock.png"
+			}
+		},
+		{
+			"name": "CU19 Timely Vigil",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/47_CU19 Timely Vigil.png"
+			}
+		},
+		{
+			"name": "CB01 Shimmerfang Vermin",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Rat",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/52_CB01 Shimmerfang Vermin.png"
+			}
+		},
+		{
+			"name": "CB02 Bloodhex Veteran",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/53_CB02 Bloodhex Veteran.png"
+			}
+		},
+		{
+			"name": "CB03 Ambush Veindrinker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/54_CB03 Ambush Veindrinker.png"
+			}
+		},
+		{
+			"name": "CB04 Omenous Vulture",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/55_CB04 Omenous Vulture.png"
+			}
+		},
+		{
+			"name": "CB05 Earth Shatterer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/56_CB05 Earth Shatterer.png"
+			}
+		},
+		{
+			"name": "CB06 Prince of Fallen Loyalty",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Noble",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/57_CB06 Prince of Fallen Loyalty.png"
+			}
+		},
+		{
+			"name": "CB07 Mournful Canine",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Dog",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/58_CB07 Mournful Canine.png"
+			}
+		},
+		{
+			"name": "CB08 Mournful Feline",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment Creature — Cat",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/59_CB08 Mournful Feline.png"
+			}
+		},
+		{
+			"name": "CB09 Great Rotbeast",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie Beast",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/60_CB09 Great Rotbeast.png"
+			}
+		},
+		{
+			"name": "CB10 Prismatic Lich",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/61_CB10 Prismatic Lich.png"
+			}
+		},
+		{
+			"name": "CB11 Shatter Flesh",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/62_CB11 Shatter Flesh.png"
+			}
+		},
+		{
+			"name": "RW01 Chains of Competition",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/25_RW01 Chains of Competition.png"
+			}
+		},
+		{
+			"name": "CB12 Bloodstained Numbers",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/63_CB12 Bloodstained Numbers.png"
+			}
+		},
+		{
+			"name": "RB01 Demon of Loathed Script",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/71_RB01 Demon of Loathed Script.png"
+			}
+		},
+		{
+			"name": "UG03 Question Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/87_UG03 Question Beast.png"
+			}
+		},
+		{
+			"name": "MA02 0-1, Numerical Ruin",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Legendary Artifact Creature",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/122_MA02 0-1, Numerical Ruin.png"
+			}
+		},
+		{
+			"name": "UW09 Swords to Integers",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/28_UW09 Swords to Integers.png"
+			}
+		},
+		{
+			"name": "UU08 Calculify",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/50_UU08 Calculify.png"
+			}
+		},
+		{
+			"name": "RM02 Archival Blessing",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/89_RM02 Archival Blessing.png"
+			}
+		},
+		{
+			"name": "CB13 Archival Edict",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/64_CB13 Archival Edict.png"
+			}
+		},
+		{
+			"name": "CB14 Whispering Touch",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/65_CB14 Whispering Touch.png"
+			}
+		},
+		{
+			"name": "CB15 Bloodsworn Teachings",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/66_CB15 Bloodsworn Teachings.png"
+			}
+		},
+		{
+			"name": "CB16 Persistent Vengeance",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/67_CB16 Persistent Vengeance.png"
+			}
+		},
+		{
+			"name": "CB17 Disputed Diplomacy",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/68_CB17 Disputed Diplomacy.png"
+			}
+		},
+		{
+			"name": "CB18 Enshrouded Aggression",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/69_CB18 Enshrouded Aggression.png"
+			}
+		},
+		{
+			"name": "CB19 Soul Relic",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/70_CB19 Soul Relic.png"
+			}
+		},
+		{
+			"name": "CR02 Mirror Thief",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/75_CR02 Mirror Thief.png"
+			}
+		},
+		{
+			"name": "CR01 Blood Druid",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Druid",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/74_CR01 Blood Druid.png"
+			}
+		},
+		{
+			"name": "CG01 Peaceful Caretaker",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/86_CG01 Peaceful Caretaker.png"
+			}
+		},
+		{
+			"name": "RM04 Beastial Blessing",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/91_RM04 Beastial Blessing.png"
+			}
+		},
+		{
+			"name": "RM10 Restorative Blessing",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/97_RM10 Restorative Blessing.png"
+			}
+		},
+		{
+			"name": "RM06 Glorified Blessing",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/93_RM06 Glorified Blessing.png"
+			}
+		},
+		{
+			"name": "CR03 Elite Flameblade",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/76_CR03 Elite Flameblade.png"
+			}
+		},
+		{
+			"name": "CR04 Heartsblood Flamecaller",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/77_CR04 Heartsblood Flamecaller.png"
+			}
+		},
+		{
+			"name": "CR05 Burning-Bush Incanter",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Shaman",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/78_CR05 Burning-Bush Incanter.png"
+			}
+		},
+		{
+			"name": "CR06 Walking Trebuchet",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Construct Archer",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/79_CR06 Walking Trebuchet.png"
+			}
+		},
+		{
+			"name": "CR07 Cutthroat Captain",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/80_CR07 Cutthroat Captain.png"
+			}
+		},
+		{
+			"name": "CR08 Ironfisted Ruiner",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Construct Warrior",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/81_CR08 Ironfisted Ruiner.png"
+			}
+		},
+		{
+			"name": "CR09 Meltedbrain Troll",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Troll Horror",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/82_CR09 Meltedbrain Troll.png"
+			}
+		},
+		{
+			"name": "CR10 Flamethrower Bot",
+			"rarity": "common",
+			"mana_cost": "{6}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/83_CR10 Flamethrower Bot.png"
+			}
+		},
+		{
+			"name": "Human [Token]",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/1_Human [Token].png"
+			}
+		},
+		{
+			"name": "Food [Token]",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/4_Food [Token].png"
+			}
+		},
+		{
+			"name": "Shard [Token]",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Shard",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/2_Shard [Token].png"
+			}
+		},
+		{
+			"name": "Mirror [Token]",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Mirror",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/5_Mirror [Token].png"
+			}
+		},
+		{
+			"name": "Sorcerer [Role Token]",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura Role",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/SHD-files/img/3_Sorcerer [Role Token].png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 RM07 Prismatic Blessing
+	5 RL01 Siege of the Tomb
+	5 MU01 Returned Master
+	5 MA01 The Vexenvault
+	5 RC01 Strained Evolver
+	5 RM11 Triple Tempest
+	5 RM09 Omniscient Blessing
+	5 RB02 Undead Rookie
+	5 RR01 Ezeria, Maddened Queen
+	5 RM05 Simplistic Blessing
+	5 RW02 Shattered Path
+	5 RM01 Paradoxical Blessing
+	5 RM03 Obsessive Blessing
+	5 RM08 Eternal Blessing
+	5 RM12 Curious Ritual
+	5 RW01 Chains of Competition
+	5 RB01 Demon of Loathed Script
+	5 MA02 0-1, Numerical Ruin
+	5 RM02 Archival Blessing
+	5 RM04 Beastial Blessing
+	5 RM10 Restorative Blessing
+	5 RM06 Glorified Blessing
+[uncommon(3)]
+	5 UZ01 Authorized Gateway
+	5 UZ02 Optimized Gateway
+	5 UZ03 Dominated Gateway
+	5 UZ04 Randomized Gateway
+	5 UZ05 Challenging Gateway
+	5 UZ06 Quartz Sparkgate
+	5 UZ07 Sapphire Sparkgate
+	5 UZ08 Onyx Sparkgate
+	5 UZ09 Ruby Sparkgate
+	5 UZ10 Emerald Sparkgate
+	5 UZ11 Stronghold of Frost
+	5 UZ12 Stronghold of Darkness
+	5 UZ13 Stronghold of Blood
+	5 UZ14 Stronghold of Fire
+	5 UZ15 Stronghold of Life
+	5 UZ16 Stronghold of Bone
+	5 UZ17 Stronghold of Thunder
+	5 UZ18 Stronghold of Death
+	5 UZ19 Stronghold of Light
+	5 UZ20 Stronghold of Water
+	5 UZ21 Zone of Frost
+	5 UZ22 Zone of Darkness
+	5 UZ23 Zone of Blood
+	5 UZ24 Zone of Fire
+	5 UZ25 Zone of Life
+	5 UZ26 Zone of Bone
+	5 UZ27 Zone of Thunder
+	5 UZ28 Zone of Death
+	5 UZ29 Zone of Light
+	5 UZ30 Zone of Water
+	5 UU10 Once More
+	5 UU05 Enhanced Investigator
+	5 UW01 Tithe Taker
+	5 UB01 Tithe Slayer
+	5 UG03 Question Beast
+	5 UW09 Swords to Integers
+	5 UU08 Calculify
+[common(10)]
+	5 CC01 Voidborn Hydra
+	5 CZ21 Rift of Frost
+	5 CZ22 Rift of Darkness
+	5 CZ23 Rift of Blood
+	5 CZ24 Rift of Fire
+	5 CZ25 Rift of Life
+	5 CZ26 Rift of Bone
+	5 CZ27 Rift of Thunder
+	5 CZ28 Rift of Death
+	5 CZ29 Rift of Light
+	5 CZ30 Rift of Water
+	5 CL01 Haven of Anticipation
+	5 CW14 Cease Conflict
+	5 CC04 Void Ritual
+	5 CZ01 Flag of Frost
+	5 CW19 Dimensional Ruin
+	5 CU10 Suppress Creativity
+	5 CZ11 Emblem of Frost
+	5 CZ02 Flag of Darkness
+	5 CZ03 Flag of Blood
+	5 CZ04 Flag of Fire
+	5 CZ05 Flag of Life
+	5 CZ06 Flag of Bone
+	5 CZ07 Flag of Thunder
+	5 CZ08 Flag of Death
+	5 CZ09 Flag of Light
+	5 CZ10 Flag of Water
+	5 CZ12 Emblem of Darkness
+	5 CZ13 Emblem of Blood
+	5 CZ14 Emblem of Fire
+	5 CZ15 Emblem of Life
+	5 CZ16 Emblem of Bone
+	5 CZ17 Emblem of Thunder
+	5 CZ18 Emblem of Death
+	5 CZ19 Emblem of Frost
+	5 CZ20 Emblem of Frost
+	5 CC02 Nyxling
+	5 CA01 Vexling
+	5 CC03 Indicative Choice
+	5 CU01 Phantasmal Frog
+	5 CW02 Forceful Inspector
+	5 CW03 Overequipped Hunter
+	5 CW01 Village Traditions
+	5 CW17 Evolved Blessing
+	5 CW04 Friendly Pigeon
+	5 CW05 Adept Aeronaut
+	5 CW06 Sharer of Wealth
+	5 CW07 Predestined Prophet
+	5 CW08 Auric Endurer
+	5 CW09 Friendly Bartender
+	5 CW10 Fragment Caretaker
+	5 CW11 Tithing Angel
+	5 CW12 Data Titan
+	5 CW13 Embedded Blade
+	5 CW15 Cull Dissenters
+	5 CW16 Safety Stratagem
+	5 CW18 Brilliant Charge
+	5 CU02 Bewinged Earth
+	5 CR18 Tears of War
+	5 CU04 Nyx Drake
+	5 CU03 Cognitogeist
+	5 CU05 Mirror Keeper
+	5 CU06 Wizard Elitist
+	5 CU07 Soil Refresh Bot
+	5 CU08 Runic Savant
+	5 CU09 Serpent of Mind's Depths
+	5 CU11 Steal Reflections
+	5 CU12 Nyx and Void
+	5 CU13 Null Slumber
+	5 CU14 Book of Wings
+	5 CU15 Scattered Thoughts
+	5 CU16 Derealize
+	5 CU17 Overwhelming Curiosity
+	5 CU18 Equilibrium Lock
+	5 CU19 Timely Vigil
+	5 CB01 Shimmerfang Vermin
+	5 CB02 Bloodhex Veteran
+	5 CB03 Ambush Veindrinker
+	5 CB04 Omenous Vulture
+	5 CB05 Earth Shatterer
+	5 CB06 Prince of Fallen Loyalty
+	5 CB07 Mournful Canine
+	5 CB08 Mournful Feline
+	5 CB09 Great Rotbeast
+	5 CB10 Prismatic Lich
+	5 CB11 Shatter Flesh
+	5 CB12 Bloodstained Numbers
+	5 CB13 Archival Edict
+	5 CB14 Whispering Touch
+	5 CB15 Bloodsworn Teachings
+	5 CB16 Persistent Vengeance
+	5 CB17 Disputed Diplomacy
+	5 CB18 Enshrouded Aggression
+	5 CB19 Soul Relic
+	5 CR02 Mirror Thief
+	5 CR01 Blood Druid
+	5 CG01 Peaceful Caretaker
+	5 CR03 Elite Flameblade
+	5 CR04 Heartsblood Flamecaller
+	5 CR05 Burning-Bush Incanter
+	5 CR06 Walking Trebuchet
+	5 CR07 Cutthroat Captain
+	5 CR08 Ironfisted Ruiner
+	5 CR09 Meltedbrain Troll
+	5 CR10 Flamethrower Bot

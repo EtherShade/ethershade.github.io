@@ -1,1 +1,9 @@
-﻿{"sets": [{"set_code": "ROG", "set_name": "Realm of the Games", "formats": "ESC"}, {"set_code": "ROU", "set_name": "Realm of the Ultraprism", "formats": "ESC"}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "SHD",
+            "set_name": "Shattered Draft",
+            "formats": ""
+        }
+    ]
+}
