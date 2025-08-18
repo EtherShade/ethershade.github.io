@@ -19,13 +19,13 @@
     },
     {
         "card_name": "RR01 Ezeria, Maddened Queen",
-        "number": 85,
+        "number": 93,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UG03 Question Beast",
-        "number": 87,
+        "number": 95,
         "shape": "normal",
         "set": "SHD"
     },
@@ -55,7 +55,7 @@
     },
     {
         "card_name": "CG01 Peaceful Caretaker",
-        "number": 86,
+        "number": 94,
         "shape": "normal",
         "set": "SHD"
     },
@@ -321,7 +321,7 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR18 Tears of War",
+        "card_name": "CR11 Controlled Shock",
         "number": 84,
         "shape": "normal",
         "set": "SHD"
@@ -348,7 +348,10 @@
         "set": "SHD"
     },
     {
-        "card_name": "e"
+        "card_name": "CR12 Explosive Possibility",
+        "number": 85,
+        "shape": "normal",
+        "set": "SHD"
     },
     {
         "card_name": "e"
@@ -372,7 +375,10 @@
         "set": "SHD"
     },
     {
-        "card_name": "e"
+        "card_name": "CR13 Orb of Betrayal",
+        "number": 86,
+        "shape": "normal",
+        "set": "SHD"
     },
     {
         "card_name": "e"
@@ -396,7 +402,10 @@
         "set": "SHD"
     },
     {
-        "card_name": "e"
+        "card_name": "CR14 Worldchurn",
+        "number": 87,
+        "shape": "normal",
+        "set": "SHD"
     },
     {
         "card_name": "e"
@@ -420,7 +429,10 @@
         "set": "SHD"
     },
     {
-        "card_name": "e"
+        "card_name": "CR15 Gibbering Prophecy",
+        "number": 88,
+        "shape": "normal",
+        "set": "SHD"
     },
     {
         "card_name": "e"
@@ -444,7 +456,10 @@
         "set": "SHD"
     },
     {
-        "card_name": "e"
+        "card_name": "CR16 Bloodthirsty Pitchfork",
+        "number": 89,
+        "shape": "normal",
+        "set": "SHD"
     },
     {
         "card_name": "e"
@@ -468,7 +483,10 @@
         "set": "SHD"
     },
     {
-        "card_name": "e"
+        "card_name": "CR17 Shields to Swords",
+        "number": 90,
+        "shape": "normal",
+        "set": "SHD"
     },
     {
         "card_name": "e"
@@ -492,7 +510,10 @@
         "set": "SHD"
     },
     {
-        "card_name": "e"
+        "card_name": "CR18 Tears of War",
+        "number": 91,
+        "shape": "normal",
+        "set": "SHD"
     },
     {
         "card_name": "e"
@@ -516,7 +537,10 @@
         "set": "SHD"
     },
     {
-        "card_name": "e"
+        "card_name": "CR19 Liquimetal Plague",
+        "number": 92,
+        "shape": "normal",
+        "set": "SHD"
     },
     {
         "card_name": "e"
@@ -605,61 +629,61 @@
     "a->gold",
     {
         "card_name": "CZ01 Flag of Frost",
-        "number": 100,
+        "number": 108,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CZ02 Flag of Darkness",
-        "number": 101,
+        "number": 109,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CZ03 Flag of Blood",
-        "number": 102,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "CZ04 Flag of Fire",
-        "number": 103,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "CZ05 Flag of Life",
-        "number": 104,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "CZ11 Emblem of Frost",
         "number": 110,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ12 Emblem of Darkness",
+        "card_name": "CZ04 Flag of Fire",
         "number": 111,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ13 Emblem of Blood",
+        "card_name": "CZ05 Flag of Life",
         "number": 112,
         "shape": "normal",
         "set": "SHD"
     },
     {
+        "card_name": "CZ11 Emblem of Frost",
+        "number": 118,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "CZ12 Emblem of Darkness",
+        "number": 119,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "CZ13 Emblem of Blood",
+        "number": 120,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
         "card_name": "CZ14 Emblem of Fire",
-        "number": 113,
+        "number": 121,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CZ15 Emblem of Life",
-        "number": 114,
+        "number": 122,
         "shape": "normal",
         "set": "SHD"
     },
@@ -680,61 +704,61 @@
     },
     {
         "card_name": "CZ06 Flag of Bone",
-        "number": 105,
+        "number": 113,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "RM11 Triple Tempest",
-        "number": 98,
+        "number": 106,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CZ08 Flag of Death",
-        "number": 107,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "CZ09 Flag of Light",
-        "number": 108,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "CZ10 Flag of Water",
-        "number": 109,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "CZ16 Emblem of Bone",
         "number": 115,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "RM12 Curious Ritual",
-        "number": 99,
+        "card_name": "CZ09 Flag of Light",
+        "number": 116,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ18 Emblem of Death",
+        "card_name": "CZ10 Flag of Water",
         "number": 117,
         "shape": "normal",
         "set": "SHD"
     },
     {
+        "card_name": "CZ16 Emblem of Bone",
+        "number": 123,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "RM12 Curious Ritual",
+        "number": 107,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "CZ18 Emblem of Death",
+        "number": 125,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
         "card_name": "CZ19 Emblem of Frost",
-        "number": 118,
+        "number": 126,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CZ20 Emblem of Frost",
-        "number": 119,
+        "number": 127,
         "shape": "normal",
         "set": "SHD"
     },
@@ -743,7 +767,7 @@
     },
     {
         "card_name": "CZ07 Flag of Thunder",
-        "number": 106,
+        "number": 114,
         "shape": "normal",
         "set": "SHD"
     },
@@ -761,7 +785,7 @@
     },
     {
         "card_name": "CZ17 Emblem of Thunder",
-        "number": 116,
+        "number": 124,
         "shape": "normal",
         "set": "SHD"
     },
@@ -791,31 +815,31 @@
     },
     {
         "card_name": "RM02 Archival Blessing",
-        "number": 89,
+        "number": 97,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "RM03 Obsessive Blessing",
-        "number": 90,
+        "number": 98,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "RM04 Beastial Blessing",
-        "number": 91,
+        "number": 99,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "RM05 Simplistic Blessing",
-        "number": 92,
+        "number": 100,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "RM01 Paradoxical Blessing",
-        "number": 88,
+        "number": 96,
         "shape": "normal",
         "set": "SHD"
     },
@@ -836,7 +860,7 @@
     },
     {
         "card_name": "RM06 Glorified Blessing",
-        "number": 93,
+        "number": 101,
         "shape": "normal",
         "set": "SHD"
     },
@@ -845,19 +869,19 @@
     },
     {
         "card_name": "RM08 Eternal Blessing",
-        "number": 95,
+        "number": 103,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "RM09 Omniscient Blessing",
-        "number": 96,
+        "number": 104,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "RM10 Restorative Blessing",
-        "number": 97,
+        "number": 105,
         "shape": "normal",
         "set": "SHD"
     },
@@ -878,7 +902,7 @@
     },
     {
         "card_name": "RM07 Prismatic Blessing",
-        "number": 94,
+        "number": 102,
         "shape": "normal",
         "set": "SHD"
     },
@@ -909,13 +933,13 @@
     "a->colorless",
     {
         "card_name": "MA01 The Vexenvault",
-        "number": 121,
+        "number": 129,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "MA02 0-1, Numerical Ruin",
-        "number": 122,
+        "number": 130,
         "shape": "normal",
         "set": "SHD"
     },
@@ -951,7 +975,7 @@
     },
     {
         "card_name": "CA01 Vexling",
-        "number": 120,
+        "number": 128,
         "shape": "normal",
         "set": "SHD"
     },
@@ -976,62 +1000,32 @@
     "a->land",
     {
         "card_name": "UZ01 Authorized Gateway",
-        "number": 135,
+        "number": 143,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UZ02 Optimized Gateway",
-        "number": 136,
+        "number": 144,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UZ03 Dominated Gateway",
-        "number": 137,
+        "number": 145,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UZ04 Randomized Gateway",
-        "number": 138,
+        "number": 146,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UZ05 Challenging Gateway",
-        "number": 139,
+        "number": 147,
         "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UZ06 Quartz Sparkgate",
-        "number": 140,
-        "shape": "planeswalker",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UZ07 Sapphire Sparkgate",
-        "number": 141,
-        "shape": "planeswalker",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UZ08 Onyx Sparkgate",
-        "number": 142,
-        "shape": "planeswalker",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UZ09 Ruby Sparkgate",
-        "number": 143,
-        "shape": "planeswalker",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UZ10 Emerald Sparkgate",
-        "number": 144,
-        "shape": "planeswalker",
         "set": "SHD"
     },
     {
@@ -1051,91 +1045,91 @@
     },
     {
         "card_name": "UZ11 Stronghold of Frost",
-        "number": 145,
+        "number": 153,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UZ12 Stronghold of Darkness",
-        "number": 146,
+        "number": 154,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UZ13 Stronghold of Blood",
-        "number": 147,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UZ14 Stronghold of Fire",
-        "number": 148,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UZ15 Stronghold of Life",
-        "number": 149,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UZ21 Zone of Frost",
         "number": 155,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ22 Zone of Darkness",
+        "card_name": "UZ14 Stronghold of Fire",
         "number": 156,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ23 Zone of Blood",
+        "card_name": "UZ15 Stronghold of Life",
         "number": 157,
         "shape": "normal",
         "set": "SHD"
     },
     {
+        "card_name": "UZ21 Zone of Frost",
+        "number": 163,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "UZ22 Zone of Darkness",
+        "number": 164,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "UZ23 Zone of Blood",
+        "number": 165,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
         "card_name": "UZ24 Zone of Fire",
-        "number": 158,
+        "number": 166,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UZ25 Zone of Life",
-        "number": 159,
+        "number": 167,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CZ21 Rift of Frost",
-        "number": 124,
+        "number": 132,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CZ22 Rift of Darkness",
-        "number": 125,
+        "number": 133,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CZ23 Rift of Blood",
-        "number": 126,
+        "number": 134,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CZ24 Rift of Fire",
-        "number": 127,
+        "number": 135,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CZ25 Rift of Life",
-        "number": 128,
+        "number": 136,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1156,91 +1150,91 @@
     },
     {
         "card_name": "UZ16 Stronghold of Bone",
-        "number": 150,
+        "number": 158,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UZ17 Stronghold of Thunder",
-        "number": 151,
+        "number": 159,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UZ18 Stronghold of Death",
-        "number": 152,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UZ19 Stronghold of Light",
-        "number": 153,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UZ20 Stronghold of Water",
-        "number": 154,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UZ26 Zone of Bone",
         "number": 160,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ27 Zone of Thunder",
+        "card_name": "UZ19 Stronghold of Light",
         "number": 161,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ28 Zone of Death",
+        "card_name": "UZ20 Stronghold of Water",
         "number": 162,
         "shape": "normal",
         "set": "SHD"
     },
     {
+        "card_name": "UZ26 Zone of Bone",
+        "number": 168,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "UZ27 Zone of Thunder",
+        "number": 169,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "UZ28 Zone of Death",
+        "number": 170,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
         "card_name": "UZ29 Zone of Light",
-        "number": 163,
+        "number": 171,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UZ30 Zone of Water",
-        "number": 164,
+        "number": 172,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CZ26 Rift of Bone",
-        "number": 129,
+        "number": 137,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CZ27 Rift of Thunder",
-        "number": 130,
+        "number": 138,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CZ28 Rift of Death",
-        "number": 131,
+        "number": 139,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CZ29 Rift of Light",
-        "number": 132,
+        "number": 140,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CZ30 Rift of Water",
-        "number": 133,
+        "number": 141,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1261,13 +1255,43 @@
     },
     {
         "card_name": "RL01 Siege of the Tomb",
-        "number": 134,
+        "number": 142,
         "shape": "normal split",
         "set": "SHD"
     },
     {
+        "card_name": "UZ06 Mining Village",
+        "number": 148,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "UZ07 Archway of Sparks",
+        "number": 149,
+        "shape": "planeswalker",
+        "set": "SHD"
+    },
+    {
+        "card_name": "UZ08 Maniacal Laboratory",
+        "number": 150,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "UZ09 Energized Earth",
+        "number": 151,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "UZ10 Scoured Scourgelands",
+        "number": 152,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
         "card_name": "CL01 Haven of Anticipation",
-        "number": 123,
+        "number": 131,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1325,25 +1349,25 @@
     },
     {
         "card_name": "Vex Amber [Conjured]",
-        "number": 166,
+        "number": 174,
         "shape": "token",
         "set": "SHD"
     },
     {
         "card_name": "Vex Jasper [Conjured]",
-        "number": 167,
+        "number": 175,
         "shape": "token",
         "set": "SHD"
     },
     {
         "card_name": "Vex Opal [Conjured]",
-        "number": 168,
+        "number": 176,
         "shape": "token",
         "set": "SHD"
     },
     {
         "card_name": "Once More [Conjured]",
-        "number": 165,
+        "number": 173,
         "shape": "token",
         "set": "SHD"
     },
