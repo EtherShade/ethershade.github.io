@@ -1,4 +1,430 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+MU02 Returned Master added.
+RR02 Ezeria, Maddened Queen added.
+RW04 Chains of Competition added.
+RB03 Demon of Loathed Script added.
+RW03 Swords to Integers added.
+UR10 Liquimetal Plague added.
+CG03 Ferocious Elemental added.
+CG02 Burnish-Bush Viper added.
+RC02 Vile Anticipation added.
+CG04 Nyxborn Woodling added.
+CG05 Earth-Pusher Mage added.
+UB02 Minimalist Reassembler added.
+MB01 Omnipotence added.
+MU01 Omniscience added.
+MG01 Omnipresence added.
+MR01 Omnichaos added.
+MW01 Omnitheos added.
+RW01 The Shield of Belief added.
+RU01 The Pan Flute of Ages added.
+RB01 The Crown of Doomsday added.
+RR01 The Sword of Aeons added.
+RG01 The Stave of Eternity added.
+CR19 Beastial Ritual added.
+RU02 Odd Ritual added.
+RR04 Numerical Ritual added.
+CG06 Size Sage added.
+
+MU01 Returned Master removed.
+RR01 Ezeria, Maddened Queen removed.
+RM12 Curious Ritual removed.
+RW01 Chains of Competition removed.
+RB01 Demon of Loathed Script removed.
+UW09 Swords to Integers removed.
+CR19 Liquimetal Plague removed.
+
+RM07 Prismatic Blessing
+
+CC01 Voidborn Hydra
+
+CZ21 Rift of Frost
+
+CZ22 Rift of Darkness
+
+CZ23 Rift of Blood
+
+CZ24 Rift of Fire
+
+CZ25 Rift of Life
+
+CZ26 Rift of Bone
+
+CZ27 Rift of Thunder
+
+CZ28 Rift of Death
+
+CZ29 Rift of Light
+
+CZ30 Rift of Water
+
+RL01 Siege of the Tomb
+
+UZ01 Authorized Gateway
+
+UZ02 Optimized Gateway
+
+UZ03 Dominated Gateway
+
+UZ04 Randomized Gateway
+
+UZ05 Challenging Gateway
+
+UZ07 Archway of Sparks
+rules_text:  => [+1]: Scry 1.
+[-1]: Draw a card, then discard a card.
+
+CL01 Haven of Anticipation
+
+CW14 Cease Conflict
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — Cease Conflict gains “Enchanted creature can't attack or block.”
+II — Create a 1/1 colorless Human creature token.
+III — Create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this enchantment: Scry 1, then draw a card.”)[/i]
+
+UZ11 Stronghold of Frost
+
+CC04 Void Ritual
+
+CZ01 Flag of Frost
+
+CW19 Dimensional Ruin
+
+CU10 Suppress Creativity
+
+CZ11 Emblem of Frost
+
+CZ02 Flag of Darkness
+
+CZ03 Flag of Blood
+
+CZ04 Flag of Fire
+
+CZ05 Flag of Life
+
+CZ06 Flag of Bone
+
+CZ07 Flag of Thunder
+
+CZ08 Flag of Death
+
+CZ09 Flag of Light
+
+CZ10 Flag of Water
+
+CZ12 Emblem of Darkness
+
+CZ13 Emblem of Blood
+
+CZ14 Emblem of Fire
+
+CZ15 Emblem of Life
+
+CZ16 Emblem of Bone
+
+CZ17 Emblem of Thunder
+
+CZ18 Emblem of Death
+
+CZ19 Emblem of Frost
+
+CZ20 Emblem of Frost
+
+CC02 Nyxling
+
+UZ12 Stronghold of Darkness
+
+UZ13 Stronghold of Blood
+
+UZ14 Stronghold of Fire
+
+UZ15 Stronghold of Life
+
+UZ16 Stronghold of Bone
+
+UZ17 Stronghold of Thunder
+
+UZ18 Stronghold of Death
+
+UZ19 Stronghold of Light
+
+UZ20 Stronghold of Water
+
+UZ21 Zone of Frost
+
+CA01 Vexling
+
+UZ22 Zone of Darkness
+
+UZ23 Zone of Blood
+
+UZ24 Zone of Fire
+
+UZ25 Zone of Life
+
+UZ26 Zone of Bone
+
+UZ27 Zone of Thunder
+
+UZ28 Zone of Death
+
+UZ29 Zone of Light
+
+UZ30 Zone of Water
+
+UU10 Once More
+
+Once More [Conjured]
+
+Vex Opal [Conjured]
+
+Vex Amber [Conjured]
+
+Vex Jasper [Conjured]
+
+CC03 Indicative Choice
+
+CU01 Phantasmal Frog
+
+MA01 The Vexenvault
+
+RC01 Strained Evolver
+
+RM11 Triple Tempest
+
+RM09 Omniscient Blessing
+
+CW02 Forceful Inspector
+
+CW03 Overequipped Hunter
+
+CW01 Village Traditions
+rules_text:  => 
+You gain 1 life.
+Create a 1/1 colorless Human creature token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You gain 1 life.
+II, III — Create a 1/1 colorless Human creature token.
+​ => 
+You gain 1 life.
+Create a 1/1 colorless Human creature token.
+
+CW17 Evolved Blessing
+
+CW04 Friendly Pigeon
+
+RB02 Undead Rookie
+
+UU05 Enhanced Investigator
+
+CW05 Adept Aeronaut
+
+CW06 Sharer of Wealth
+
+CW07 Predestined Prophet
+
+RM05 Simplistic Blessing
+
+UW01 Tithe Taker
+
+UB01 Tithe Slayer
+
+RW02 Shattered Path
+
+CW08 Auric Endurer
+
+CW09 Friendly Bartender
+
+CW10 Fragment Caretaker
+
+CW11 Tithing Angel
+
+CW12 Data Titan
+
+CW13 Embedded Blade
+
+CW15 Cull Dissenters
+
+CW16 Safety Stratagem
+
+CW18 Brilliant Charge
+
+RM01 Paradoxical Blessing
+
+RM03 Obsessive Blessing
+
+RM08 Eternal Blessing
+
+CU02 Bewinged Earth
+
+CR18 Tears of War
+
+CU04 Nyx Drake
+
+CU03 Cognitogeist
+type: Creature — Spirit => Enchantment Creature — Spirit
+
+CU05 Mirror Keeper
+rules_text: String Variable— {enters},{leaves the battlefield} [i](Put one text segment in each square bracket.)[/i]
+When Mirror Keeper [], draw a card.
+When Mirror Keeper [], create a Mirror token. [i](It's an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i] => String Variable— {enters},{leaves the battlefield} [i](Distrubute the text segments among the square brackets.)[/i]
+When Mirror Keeper [], draw a card.
+When Mirror Keeper [], create a Mirror token. [i](It's an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i]
+
+CU06 Wizard Elitist
+
+CU07 Soil Refresh Bot
+
+CU08 Runic Savant
+
+CU09 Serpent of Mind's Depths
+type: Creature — Serpent Illusion => Enchantment Creature — Serpent Illusion
+
+CU11 Steal Reflections
+
+CU12 Nyx and Void
+
+CU13 Null Slumber
+
+CU14 Book of Wings
+
+CU15 Scattered Thoughts
+
+CU16 Derealize
+
+CU17 Overwhelming Curiosity
+
+CU18 Equilibrium Lock
+
+CU19 Timely Vigil
+
+CB01 Shimmerfang Vermin
+
+CB02 Bloodhex Veteran
+
+CB03 Ambush Veindrinker
+
+CB04 Omenous Vulture
+
+CB05 Earth Shatterer
+
+CB06 Prince of Fallen Loyalty
+
+CB07 Mournful Canine
+
+CB08 Mournful Feline
+
+CB09 Great Rotbeast
+
+CB10 Prismatic Lich
+
+CB11 Shatter Flesh
+
+CB12 Bloodstained Numbers
+rules_text: Integer Variable—{4},{2} [i](Put one number in each square bracket.)[/i]
+Destroy target creature with total power and toughness [] or less.
+You gain half [] life, rounded up. => Integer Variable—{4},{2} [i](Distrubute the numbers among the square brackets.)[/i]
+Destroy target creature with total power and toughness [] or less.
+You gain half [] life, rounded up.
+
+UG03 Question Beast
+rules_text: String Variable— {deathtouch},{vigilance} [i](Put one text segment in each square bracket.)[/i]
+[]
+When Question Beast enters, put a [] counter on another target creature. => String Variable— {deathtouch},{vigilance} [i](Distrubute the text segments among the square brackets.)[/i]
+[]
+When Question Beast enters, put a [] counter on another target creature.
+
+MA02 0-1, Numerical Ruin
+
+UU08 Calculify
+rules_text: Integer Variable—{2},{5} [i](Put one number in each square bracket.)[/i]
+Draw [] cards.
+Discard X cards, where X is 8 minus twice []. [i](Discarding 0 or fewer cards means nothing.)[/i] => Integer Variable—{2},{5} [i](Distrubute the numbers among the square brackets.)[/i]
+Draw [] cards.
+Discard X cards, where X is 8 minus twice []. [i](Discarding 0 or fewer cards means nothing.)[/i]
+
+RM02 Archival Blessing
+
+CB13 Archival Edict
+
+CB14 Whispering Touch
+
+CB15 Bloodsworn Teachings
+
+CB16 Persistent Vengeance
+
+CB17 Disputed Diplomacy
+
+CB18 Enshrouded Aggression
+
+CB19 Soul Relic
+
+CR02 Mirror Thief
+
+CR01 Blood Druid
+
+CG01 Peaceful Caretaker
+
+RM04 Beastial Blessing
+
+RM10 Restorative Blessing
+
+RM06 Glorified Blessing
+
+CR03 Elite Flameblade
+
+CR04 Heartsblood Flamecaller
+
+CR05 Burning-Bush Incanter
+
+CR06 Walking Trebuchet
+
+CR07 Cutthroat Captain
+
+CR08 Ironfisted Ruiner
+
+CR09 Meltedbrain Troll
+
+CR10 Flamethrower Bot
+
+Human [Token]
+
+Food [Token]
+
+Shard [Token]
+
+Mirror [Token]
+
+Sorcerer [Role Token]
+
+CR11 Controlled Shock
+
+CR12 Explosive Possibility
+
+UZ06 Mining Village
+
+UZ08 Maniacal Laboratory
+pt:  => 1/1
+
+UZ09 Energized Earth
+
+UZ10 Scoured Scourgelands
+
+CR13 Orb of Betrayal
+
+CR14 Worldchurn
+
+CR15 Gibbering Prophecy
+
+CR16 Bloodthirsty Pitchfork
+
+CR17 Shields to Swords
+
+
+VERSION 2 CHANGELOG
 ====================
 
 UZ07 Archway of Sparks added.
