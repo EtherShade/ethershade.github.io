@@ -1,4 +1,41 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+UC01 Void Ritual added.
+CG07 Deep-Rot Predator added.
+CG08 Stalker of the Horizon added.
+CG09 Nyxian Wilderwind added.
+CG11 Mirrorbark Woodling added.
+CG10 Deep-Rot Wurm added.
+CG12 Defend the Title added.
+CG13 Ferocious Growth added.
+CG14 Beastial Intellect added.
+CG15 Caretaker's Call added.
+CG16 Remnants of Strength added.
+CG17 Wilderwind Blast added.
+CG18 Uncover the Ruins added.
+CG19 Nature's Purge added.
+CA02 Vex Golem added.
+CA03 Mirrored Monolith added.
+
+CC04 Void Ritual removed.
+
+Human [Token]
+
+Shard [Token]
+
+Mirror [Token]
+
+CG05 Earth-Pusher Mage
+rules_text: When Earth-Pusher Mage enters, sacrifice a land. Search your library for a land card, put it onto the battlefield tapped, then shuffle. => Reach
+When Earth-Pusher Mage enters, sacrifice a land. Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+
+CG06 Size Sage
+rules_text: When Size Sage enters or dies, if you control a creature with power 4 or greater, draw a card. => Vigilance
+When Size Sage enters or dies, if you control a creature with power 4 or greater, draw a card.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 MU02 Returned Master added.
