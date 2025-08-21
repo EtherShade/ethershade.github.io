@@ -1,4 +1,13 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Human [Token]
+pt:  => 1/1
+
+
+VERSION 4 CHANGELOG
 ====================
 
 UC01 Void Ritual added.

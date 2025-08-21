@@ -3113,7 +3113,7 @@
             "cost": "",
             "rules_text": "",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "1/1",
             "special_text": "",
             "shape": "token",
             "set": "SHD",
@@ -4092,5 +4092,5 @@
             "notes": ""
         }
     ],
-    "version": 4
+    "version": 5
 }

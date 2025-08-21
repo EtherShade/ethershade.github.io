@@ -2151,119 +2151,13 @@
 			}
 		}
 	]
-
-[rare(1)]
-	5 RM07 Prismatic Blessing
-	5 RL01 Siege of the Tomb
-	5 MU02 Returned Master
-	5 MA01 The Vexenvault
-	5 RC01 Strained Evolver
-	5 RM11 Triple Tempest
-	5 RM09 Omniscient Blessing
-	5 RB02 Undead Rookie
-	5 RR02 Ezeria, Maddened Queen
-	5 RM05 Simplistic Blessing
-	5 RW02 Shattered Path
-	5 RM01 Paradoxical Blessing
-	5 RM03 Obsessive Blessing
-	5 RM08 Eternal Blessing
-	5 RW04 Chains of Competition
-	5 RB03 Demon of Loathed Script
-	5 MA02 0-1, Numerical Ruin
-	5 RW03 Swords to Integers
-	5 RM02 Archival Blessing
-	5 RM04 Beastial Blessing
-	5 RM10 Restorative Blessing
-	5 RM06 Glorified Blessing
-	5 RC02 Vile Anticipation
-	5 MB01 Omnipotence
-	5 MU01 Omniscience
-	5 MG01 Omnipresence
-	5 MR01 Omnichaos
-	5 MW01 Omnitheos
-	5 RW01 The Shield of Belief
-	5 RU01 The Pan Flute of Ages
-	5 RB01 The Crown of Doomsday
-	5 RR01 The Sword of Aeons
-	5 RG01 The Stave of Eternity
-	5 RU02 Odd Ritual
-	5 RR04 Numerical Ritual
-[uncommon(3)]
-	5 UZ01 Authorized Gateway
-	5 UZ02 Optimized Gateway
-	5 UZ03 Dominated Gateway
-	5 UZ04 Randomized Gateway
-	5 UZ05 Challenging Gateway
-	5 UZ07 Archway of Sparks
-	5 UZ11 Stronghold of Frost
-	5 UC01 Void Ritual
-	5 UZ12 Stronghold of Darkness
-	5 UZ13 Stronghold of Blood
-	5 UZ14 Stronghold of Fire
-	5 UZ15 Stronghold of Life
-	5 UZ16 Stronghold of Bone
-	5 UZ17 Stronghold of Thunder
-	5 UZ18 Stronghold of Death
-	5 UZ19 Stronghold of Light
-	5 UZ20 Stronghold of Water
-	5 UZ21 Zone of Frost
-	5 UZ22 Zone of Darkness
-	5 UZ23 Zone of Blood
-	5 UZ24 Zone of Fire
-	5 UZ25 Zone of Life
-	5 UZ26 Zone of Bone
-	5 UZ27 Zone of Thunder
-	5 UZ28 Zone of Death
-	5 UZ29 Zone of Light
-	5 UZ30 Zone of Water
-	5 UU10 Once More
-	5 UU05 Enhanced Investigator
-	5 UW01 Tithe Taker
-	5 UB01 Tithe Slayer
-	5 UG03 Question Beast
-	5 UU08 Calculify
-	5 UZ06 Mining Village
-	5 UZ08 Maniacal Laboratory
-	5 UZ09 Energized Earth
-	5 UZ10 Scoured Scourgelands
-	5 UR10 Liquimetal Plague
-	5 UB02 Minimalist Reassembler
-[common(10)]
+	
+[common(14)]
 	5 CC01 Voidborn Hydra
-	5 CZ21 Rift of Frost
-	5 CZ22 Rift of Darkness
-	5 CZ23 Rift of Blood
-	5 CZ24 Rift of Fire
-	5 CZ25 Rift of Life
-	5 CZ26 Rift of Bone
-	5 CZ27 Rift of Thunder
-	5 CZ28 Rift of Death
-	5 CZ29 Rift of Light
-	5 CZ30 Rift of Water
 	5 CL01 Haven of Anticipation
 	5 CW14 Cease Conflict
-	5 CZ01 Flag of Frost
 	5 CW19 Dimensional Ruin
 	5 CU10 Suppress Creativity
-	5 CZ11 Emblem of Frost
-	5 CZ02 Flag of Darkness
-	5 CZ03 Flag of Blood
-	5 CZ04 Flag of Fire
-	5 CZ05 Flag of Life
-	5 CZ06 Flag of Bone
-	5 CZ07 Flag of Thunder
-	5 CZ08 Flag of Death
-	5 CZ09 Flag of Light
-	5 CZ10 Flag of Water
-	5 CZ12 Emblem of Darkness
-	5 CZ13 Emblem of Blood
-	5 CZ14 Emblem of Fire
-	5 CZ15 Emblem of Life
-	5 CZ16 Emblem of Bone
-	5 CZ17 Emblem of Thunder
-	5 CZ18 Emblem of Death
-	5 CZ19 Emblem of Frost
-	5 CZ20 Emblem of Frost
 	5 CC02 Nyxling
 	5 CA01 Vexling
 	5 CC03 Indicative Choice
@@ -2361,3 +2255,65 @@
 	5 CG19 Nature's Purge
 	5 CA02 Vex Golem
 	5 CA03 Mirrored Monolith
+[land(1)]
+	5 CZ21 Rift of Frost
+	5 CZ22 Rift of Darkness
+	5 CZ23 Rift of Blood
+	5 CZ24 Rift of Fire
+	5 CZ25 Rift of Life
+	5 CZ26 Rift of Bone
+	5 CZ27 Rift of Thunder
+	5 CZ28 Rift of Death
+	5 CZ29 Rift of Light
+	5 CZ30 Rift of Water
+	5 CZ11 Emblem of Frost
+	5 CZ02 Flag of Darkness
+	5 CZ03 Flag of Blood
+	5 CZ04 Flag of Fire
+	5 CZ05 Flag of Life
+	5 CZ06 Flag of Bone
+	5 CZ07 Flag of Thunder
+	5 CZ08 Flag of Death
+	5 CZ09 Flag of Light
+	5 CZ10 Flag of Water
+	5 CZ12 Emblem of Darkness
+	5 CZ13 Emblem of Blood
+	5 CZ14 Emblem of Fire
+	5 CZ15 Emblem of Life
+	5 CZ16 Emblem of Bone
+	5 CZ17 Emblem of Thunder
+	5 CZ18 Emblem of Death
+	5 CZ19 Emblem of Frost
+	5 CZ20 Emblem of Frost
+	5 CZ01 Flag of Frost
+
+	2 UZ01 Authorized Gateway
+	2 UZ02 Optimized Gateway
+	2 UZ03 Dominated Gateway
+	2 UZ04 Randomized Gateway
+	2 UZ05 Challenging Gateway
+	2 UZ07 Archway of Sparks
+	2 UZ11 Stronghold of Frost
+	2 UZ12 Stronghold of Darkness
+	2 UZ13 Stronghold of Blood
+	2 UZ14 Stronghold of Fire
+	2 UZ15 Stronghold of Life
+	2 UZ16 Stronghold of Bone
+	2 UZ17 Stronghold of Thunder
+	2 UZ18 Stronghold of Death
+	2 UZ19 Stronghold of Light
+	2 UZ20 Stronghold of Water
+	2 UZ21 Zone of Frost
+	2 UZ22 Zone of Darkness
+	2 UZ23 Zone of Blood
+	2 UZ24 Zone of Fire
+	2 UZ25 Zone of Life
+	2 UZ26 Zone of Bone
+	2 UZ27 Zone of Thunder
+	2 UZ28 Zone of Death
+	2 UZ29 Zone of Light
+	2 UZ30 Zone of Water
+	2 UZ06 Mining Village
+	2 UZ08 Maniacal Laboratory
+	2 UZ09 Energized Earth
+	2 UZ10 Scoured Scourgelands
