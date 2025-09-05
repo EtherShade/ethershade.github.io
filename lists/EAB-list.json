@@ -1,0 +1,132 @@
+﻿[
+    {
+        "card_name": "RW03 Swords to Integers",
+        "number": 2,
+        "shape": "normal",
+        "set": "EAB"
+    },
+    {
+        "card_name": "UU08 Calculify",
+        "number": 4,
+        "shape": "normal",
+        "set": "EAB"
+    },
+    {
+        "card_name": "RB03 Demon of Loathed Script",
+        "number": 6,
+        "shape": "normal",
+        "set": "EAB"
+    },
+    {
+        "card_name": "MR02 Vakdor the Numeromancer",
+        "number": 7,
+        "shape": "planeswalker",
+        "set": "EAB"
+    },
+    {
+        "card_name": "UG03 Question Beast",
+        "number": 11,
+        "shape": "normal",
+        "set": "EAB"
+    },
+    {
+        "card_name": "RW05 Wrath and Mercy",
+        "number": 3,
+        "shape": "normal",
+        "set": "EAB"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CB12 Bloodstained Numbers",
+        "number": 5,
+        "shape": "normal",
+        "set": "EAB"
+    },
+    {
+        "card_name": "RR03 Numerical Ritual",
+        "number": 8,
+        "shape": "normal",
+        "set": "EAB"
+    },
+    {
+        "card_name": "CG15 Caretaker's Call",
+        "number": 10,
+        "shape": "normal",
+        "set": "EAB"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UR11 Maddening Infinity",
+        "number": 9,
+        "shape": "normal",
+        "set": "EAB"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "MC01 The Grand Cipher",
+        "number": 1,
+        "shape": "normal",
+        "set": "EAB"
+    },
+    {
+        "card_name": "MA01 Vex Numeral",
+        "number": 12,
+        "shape": "normal",
+        "set": "EAB"
+    },
+    {
+        "card_name": "MA02 Vex Rune",
+        "number": 13,
+        "shape": "normal",
+        "set": "EAB"
+    },
+    {
+        "card_name": "MA03 0-1, Numerical Ruin",
+        "number": 14,
+        "shape": "normal",
+        "set": "EAB"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

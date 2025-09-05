@@ -212,6 +212,10 @@
 										<div class="set-group"></div>
 							<div class="preview-container">
 		<div class="set-icon-container">
+									<a href="previews/EAB"><div class="set-icon"><img src="sets/EAB-files/icon.png" title="Encrypted and Betrayed"></img></div>
+									<div class="set-icon-name">Encrypted and Betrayed</div></a>
+								</div>
+				<div class="set-icon-container">
 									<a href="previews/SHD"><div class="set-icon"><img src="sets/SHD-files/icon.png" title="Shattered Draft"></img></div>
 									<div class="set-icon-name">Shattered Draft</div></a>
 								</div>
@@ -402,21 +406,21 @@
 			}
 
 			function randomCard() {
-				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
-				let random_card = card_list_arrayified[i];
+			let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+			let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
-				const params = {
-					set: random_card.set,
-					num: random_card.number,
-					name: random_card.card_name
-				}
-				for (const key in params) {
-					url.searchParams.append(key, params[key]);
-				}
-
-				window.location.href = url;
+			const url = new URL('card', window.location.origin);
+			const params = {
+				set: random_card.set,
+				num: random_card.number,
+				name: random_card.card_name
 			}
+			for (const key in params) {
+				url.searchParams.append(key, params[key]);
+			}
+
+			window.location.href = url;
+		}
 		</script>
 	</body>
 	</html>

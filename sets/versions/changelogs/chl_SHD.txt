@@ -1,4 +1,228 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+UC03 Void Ritual added.
+CZ19 Emblem of Light added.
+CZ20 Emblem of Water added.
+RM14 Triple Tempest added.
+CR19 Bestial Ritual added.
+CA02 Vexite Golem added.
+RC03 Voidsunder Titan added.
+UU09 Counteract added.
+UW10 Strength of Loyalty added.
+UW03 Delivery Dove added.
+RM13 Eternal Alliance added.
+UW05 Fatewoven Guardian added.
+UW04 Friendly Blacksmith added.
+UW06 Automatic Warcaller added.
+UW02 Arbiter of Perfection added.
+UW07 Selfless Angel added.
+UW08 Prismatic Giant added.
+UW11 Infinite Teachings added.
+UW09 Diligent Purge added.
+UB10 History Repeats added.
+UW13 Physicality Tax added.
+UW12 Boisterous Anthem added.
+UB11 Trace the Bloodline added.
+CB12 Soulshock added.
+CG15 Confusing Quest added.
+RW03 Holy Betrayal added.
+MA02 Jewel of Repetition added.
+UR02 Liberator of Perfection added.
+MU03 The Moon Turns Silver added.
+RL02 Wretched Fields added.
+RL03 Vex Fields added.
+RM15 Ruinous Decision added.
+UU02 Negation Arcanite added.
+UU01 History Regent added.
+UU03 Lively Powerstone added.
+UU04 Worldmind Druid added.
+UU06 Illustrious Nobility added.
+UU07 Portal Winder added.
+UG02 Sage of Portals added.
+UU08 Rotting Ingenuity added.
+UU11 Geared Up added.
+UU12 Greatness on Strings added.
+UU13 Rewinding Clock added.
+CL02 Haven of Prophecy added.
+UB04 Infected Crow added.
+UB05 Darkspeed Rider added.
+UB03 Collecter of Destruction added.
+UB06 Voice of Reanimation added.
+UB07 Rotmight Goliath added.
+RM11 Dissipation Slash added.
+UB08 Lifeforce Funneling added.
+UB09 Gibbering Tutor added.
+RW05 Unburial Festival added.
+UB12 Visions of Ruin added.
+UB13 Macabre Will added.
+UR01 Vexian Hatchling added.
+MC01 Mirrored Fracturing added.
+UR03 Favored of Ezeria added.
+UR04 Burning-Bush Flameblade added.
+RM12 Exterrestrial Stomper added.
+UR05 Dualhammerarm added.
+UR06 Replacer Beast added.
+UR07 Wary Thug added.
+UR08 Burning-Bush Flames added.
+UR09 Pyrospasm added.
+UR11 Molded Spellcraft added.
+UR12 Stare Down Death added.
+RR03 Burning-Bush Moon added.
+UR13 Soul Tremors added.
+UG01 Nyxborn Viper added.
+RA01 Creation of Madness added.
+UG03 Burning-Bush Dreadmawling added.
+UG04 Nyxian Windrunner added.
+Wilderwind Blast [Conjured] added.
+UG08 Rotting Hermit added.
+UG05 Bestial Arcanite added.
+UG06 Burning-Bush Woodling added.
+UG07 Nyxborn Titan added.
+UG09 Multiverse Mapping added.
+UG10 Planned Resurgence added.
+UG11 Strength of Death and Life added.
+RR04 Aeon Whisperer added.
+RU03 Aeon Minds added.
+UG12 Doublemight added.
+UG13 Ferocity Stone added.
+UC02 Voidslay added.
+UA01 Maddened Vexling added.
+UC01 Delirious Nyxling added.
+UA02 Data Drone added.
+UA03 Powerstone Transport added.
+
+UC01 Void Ritual removed.
+CZ19 Emblem of Frost removed.
+CZ20 Emblem of Frost removed.
+RM11 Triple Tempest removed.
+CB12 Bloodstained Numbers removed.
+RB03 Demon of Loathed Script removed.
+UG03 Question Beast removed.
+MA02 0-1, Numerical Ruin removed.
+RW03 Swords to Integers removed.
+UU08 Calculify removed.
+CR19 Beastial Ritual removed.
+RR04 Numerical Ritual removed.
+CG15 Caretaker's Call removed.
+CA02 Vex Golem removed.
+
+RL01 Siege of the Tomb
+rules_text: {T}: Add {C}{C}. Siege of the Tomb deals 2 damage to you or itself. => Siege of the Tomb enters tapped.
+{T}: Add {C}{C}. Siege of the Tomb deals 2 damage to you or itself.
+
+CW14 Cease Conflict
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — Cease Conflict gains “Enchanted creature can't attack or block.”
+II — Create a 1/1 colorless Human creature token.
+III — Create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this enchantment: Scry 1, then draw a card.”)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — Cease Conflict gains “Enchanted creature can't attack or block.”
+II — Create a 1/1 colorless Human creature token.
+III — Create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — Cease Conflict gains “Enchanted creature can't attack or block.”
+II — Create a 1/1 colorless Human creature token.
+III — Create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this enchantment: Scry 1, then draw a card.”)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — Cease Conflict gains “Enchanted creature can't attack or block.”
+II — Create a 1/1 colorless Human creature token.
+III — Create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)[/i]
+
+MU02 Returned Master
+rules_text: Whenever you cast your second spell each turn, conjure a card named Once More into your hand.
+Spells you cast named Once More cost {1} less to cast.
+Whenever you cast a spell from exile, until end of turn, Returned Master gets +1/+1 and can't be blocked. => Whenever you cast your second spell each turn, conjure a card named Once More into your hand.
+Spells you cast named Once More cost {1} less to cast.
+Whenever you cast a spell from exile, until end of turn, Returned Master gets +1/+1 and can't be blocked until end of turn.
+
+Once More [Conjured]
+
+Vex Opal [Conjured]
+
+Vex Jasper [Conjured]
+
+CW02 Forceful Inspector
+rules_text: When Forceful Inspector enters, you may put a stun counter on it. If you do, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => When Forceful Inspector enters, you may put a stun counter on it. If you do, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+
+UU05 Enhanced Investigator
+rules_text: Whenever you cast a spell, if it's not your turn or that spell isn't the first spell you've cast this turn, investigate.
+Enhanced Investigator gets +3/+0 as long as you control four or more artifacts. => Whenever you cast a spell, if it's not your turn or that spell isn't the first spell you've cast this turn, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Enhanced Investigator gets +3/+0 as long as you control four or more artifacts.
+
+CW10 Fragment Caretaker
+rules_text: When Fragment Caretaker enters, create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this enchantment: Scry 1, then draw a card.”)[/i]
+Whenever you sacrifice an enchantment, put a +1/+1 counter on Fragment Caretaker. => When Fragment Caretaker enters, create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)[/i]
+Whenever you sacrifice an enchantment, put a +1/+1 counter on Fragment Caretaker.
+
+CW12 Data Titan
+rules_text: Whenever Data Titan or another artifact you control enters, create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this enchantment: Scry 1, then draw a card.”)[/i] => Whenever Data Titan or another artifact you control enters, create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)[/i]
+
+CU05 Mirror Keeper
+rules_text: String Variable— {enters},{leaves the battlefield} [i](Distrubute the text segments among the square brackets.)[/i]
+When Mirror Keeper [], draw a card.
+When Mirror Keeper [], create a Mirror token. [i](It's an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i] => String Variable—{enters}, {leaves the battlefield} [i](Distrubute the text segments among the square brackets.)[/i]
+When Mirror Keeper [], draw a card.
+When Mirror Keeper [], create a Mirror token. [i](It's an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i]
+
+CB08 Mournful Feline
+rules_text: When Mournful Feline enters, create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this enchantment: Scry 1, then draw a card.”)[/i]
+{2}{B}, Sacrifice an enchantment: Each opponent loses 2 life and you gain 2 life. => When Mournful Feline enters, create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)[/i]
+{2}{B}, Sacrifice an enchantment: Each opponent loses 2 life and you gain 2 life.
+
+CB11 Shatter Flesh
+cost: {1}{B}{B} => {2}{B}{B}
+rules_text: Destroy target creature or planeswalker. Create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this enchantment: Scry 1, then draw a card.”)[/i] => Destroy target creature or planeswalker. Create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)[/i]
+
+RM02 Archival Blessing
+rules_text: Once during each turn, if Archival Blessing didn't enter this turn, you may cast a spell with mana value 5 or less without paying its mana cost. => At the beginning of your upkeep, each player draws two cards.
+
+CB19 Soul Relic
+cost: {B} => {1}{B}
+
+CR05 Burning-Bush Incanter
+type: Creature — Goblin Shaman => Creature — Human Shaman
+
+Human [Token]
+
+Shard [Token]
+
+UZ06 Mining Village
+rules_text: At the beginning of each player's upkeep, as long as Mining Village is untapped, that player draws a card, then discards a card. => At the beginning of your upkeep, each player draws a card, then discards a card.
+
+CR14 Worldchurn
+rules_text: Cleave {3}{R} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+Destroy target land. Draw a card if it wasn't basic. [[b]Its controller searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.[/b]] => Cleave {4}{R} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+Destroy target land. Draw a card if it wasn't basic. [[b]Its controller searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.[/b]]
+
+MW01 Omnitheos
+rules_text: You may cast spells from the battlefield by sacrificing a permanent instead of paying their mana costs. => You may cast spells from the battlefield by sacrificing a nontoken permanent instead of paying their mana costs.
+
+CG11 Mirrorbark Woodling
+rules_text: Integer Variable—{5}{3} [i](Distrubute the numbers among the square brackets.)[/i]
+Mirrorbark Woodling enters with [] +1/+1 counters.
+When Mirrorbark Woodling enters, create [] Mirror tokens. [i](They're artifacts with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i] => When Mirrorbark Woodling enters, create three Mirror tokens. [i](They're artifacts with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i]
+pt: 0/0 => 5/5
+
+CG13 Ferocious Growth
+rules_text: When you cast this spell, if you control a creature with power 4 or greater, copy it. You may choose new targets for the copy.
+Target creatures gets +4/+4 until end of turn. => When you cast this spell, if you control a creature with power 4 or greater, copy it. You may choose new targets for the copy.
+Target creatures gets +3/+3 until end of turn.
+
+CG17 Wilderwind Blast
+rules_text: Choose one —
+• Counter target spell with flying.
+• Destroy target creature with flying.
+• Counter target spell that targets you or a permanent or spell you control. => Choose one —
+• Counter target spell with flying.
+• Destroy target creature with flying.
+• Counter target spell that targets you or a permanent or spell you control.
+• Draw a card.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

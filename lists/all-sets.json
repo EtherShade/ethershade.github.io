@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "EAB",
+            "set_name": "Encrypted and Betrayed",
+            "formats": ""
+        },
+        {
             "set_code": "SHD",
             "set_name": "Shattered Draft",
             "formats": ""
