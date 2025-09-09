@@ -25,12 +25,12 @@
     },
     {
         "card_name": "MG01 Omnipresence",
-        "number": 178,
+        "number": 179,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "RW01 The Shield of Belief",
+        "card_name": "RW01 The Shield of History",
         "number": 31,
         "shape": "normal",
         "set": "SHD"
@@ -55,7 +55,7 @@
     },
     {
         "card_name": "RG01 The Stave of Eternity",
-        "number": 179,
+        "number": 180,
         "shape": "normal",
         "set": "SHD"
     },
@@ -66,9 +66,9 @@
         "set": "SHD"
     },
     {
-        "card_name": "MU03 The Moon Turns Silver",
+        "card_name": "RU01 The Pan Flute of Ages",
         "number": 70,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "SHD"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
         "card_name": "UG01 Nyxborn Viper",
-        "number": 180,
+        "number": 181,
         "shape": "normal",
         "set": "SHD"
     },
@@ -96,7 +96,7 @@
         "set": "SHD"
     },
     {
-        "card_name": "RU01 The Pan Flute of Ages",
+        "card_name": "RU02 Odd Ritual",
         "number": 71,
         "shape": "normal",
         "set": "SHD"
@@ -115,7 +115,7 @@
     },
     {
         "card_name": "UG02 Sage of Portals",
-        "number": 181,
+        "number": 182,
         "shape": "normal",
         "set": "SHD"
     },
@@ -126,7 +126,7 @@
         "set": "SHD"
     },
     {
-        "card_name": "RU02 Odd Ritual",
+        "card_name": "RU03 Aeon Minds",
         "number": 72,
         "shape": "normal",
         "set": "SHD"
@@ -145,7 +145,7 @@
     },
     {
         "card_name": "UG03 Burning-Bush Dreadmawling",
-        "number": 182,
+        "number": 183,
         "shape": "normal",
         "set": "SHD"
     },
@@ -156,7 +156,7 @@
         "set": "SHD"
     },
     {
-        "card_name": "RU03 Aeon Minds",
+        "card_name": "RU04 Verstil, Scrap Scholar",
         "number": 73,
         "shape": "normal",
         "set": "SHD"
@@ -168,14 +168,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "UR01 Vexian Hatchling",
+        "card_name": "RR05 Scrap Deinfuser",
         "number": 146,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UG04 Nyxian Windrunner",
-        "number": 183,
+        "number": 184,
         "shape": "normal",
         "set": "SHD"
     },
@@ -198,14 +198,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "UR02 Liberator of Perfection",
+        "card_name": "UR01 Vexian Hatchling",
         "number": 147,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UG05 Bestial Arcanite",
-        "number": 184,
+        "number": 185,
         "shape": "normal",
         "set": "SHD"
     },
@@ -228,14 +228,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "UR03 Favored of Ezeria",
+        "card_name": "UR02 Liberator of Perfection",
         "number": 148,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UG06 Burning-Bush Woodling",
-        "number": 185,
+        "number": 186,
         "shape": "normal",
         "set": "SHD"
     },
@@ -258,14 +258,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "UR04 Burning-Bush Flameblade",
+        "card_name": "UR03 Favored of Ezeria",
         "number": 149,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UG07 Nyxborn Titan",
-        "number": 186,
+        "number": 187,
         "shape": "normal",
         "set": "SHD"
     },
@@ -288,14 +288,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "UR05 Dualhammerarm",
+        "card_name": "UR04 Burning-Bush Flameblade",
         "number": 150,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UG08 Rotting Hermit",
-        "number": 187,
+        "number": 188,
         "shape": "normal",
         "set": "SHD"
     },
@@ -318,14 +318,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "UR06 Replacer Beast",
+        "card_name": "UR05 Dualhammerarm",
         "number": 151,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UG09 Multiverse Mapping",
-        "number": 188,
+        "number": 189,
         "shape": "normal",
         "set": "SHD"
     },
@@ -348,14 +348,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "UR07 Wary Thug",
+        "card_name": "UR06 Replacer Beast",
         "number": 152,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UG10 Planned Resurgence",
-        "number": 189,
+        "number": 190,
         "shape": "normal",
         "set": "SHD"
     },
@@ -378,14 +378,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "UR08 Burning-Bush Flames",
+        "card_name": "UR07 Wary Thug",
         "number": 153,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UG11 Strength of Death and Life",
-        "number": 190,
+        "number": 191,
         "shape": "normal",
         "set": "SHD"
     },
@@ -408,14 +408,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "UR09 Pyrospasm",
+        "card_name": "UR08 Burning-Bush Flames",
         "number": 154,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UG12 Doublemight",
-        "number": 191,
+        "number": 192,
         "shape": "normal",
         "set": "SHD"
     },
@@ -438,14 +438,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "UR10 Liquimetal Plague",
+        "card_name": "UR09 Pyrospasm",
         "number": 155,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UG13 Ferocity Stone",
-        "number": 192,
+        "number": 193,
         "shape": "normal",
         "set": "SHD"
     },
@@ -468,14 +468,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "UR11 Molded Spellcraft",
+        "card_name": "UR10 Liquimetal Plague",
         "number": 156,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG01 Peaceful Caretaker",
-        "number": 159,
+        "number": 160,
         "shape": "normal",
         "set": "SHD"
     },
@@ -498,14 +498,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "UR12 Stare Down Death",
+        "card_name": "UR11 Molded Spellcraft",
         "number": 157,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG02 Burnish-Bush Viper",
-        "number": 160,
+        "number": 161,
         "shape": "normal",
         "set": "SHD"
     },
@@ -528,14 +528,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "UR13 Soul Tremors",
+        "card_name": "UR12 Stare Down Death",
         "number": 158,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG03 Ferocious Elemental",
-        "number": 161,
+        "number": 162,
         "shape": "normal",
         "set": "SHD"
     },
@@ -558,14 +558,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR01 Blood Druid",
-        "number": 122,
+        "card_name": "UR13 Soul Tremors",
+        "number": 159,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG04 Nyxborn Woodling",
-        "number": 162,
+        "number": 163,
         "shape": "normal",
         "set": "SHD"
     },
@@ -588,14 +588,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR02 Mirror Thief",
-        "number": 123,
+        "card_name": "CR01 Blood Druid",
+        "number": 122,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG05 Earth-Pusher Mage",
-        "number": 163,
+        "number": 164,
         "shape": "normal",
         "set": "SHD"
     },
@@ -618,14 +618,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR03 Elite Flameblade",
-        "number": 124,
+        "card_name": "CR02 Mirror Thief",
+        "number": 123,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG06 Size Sage",
-        "number": 164,
+        "number": 165,
         "shape": "normal",
         "set": "SHD"
     },
@@ -648,14 +648,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR04 Heartsblood Flamecaller",
-        "number": 125,
+        "card_name": "CR03 Elite Flameblade",
+        "number": 124,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG07 Deep-Rot Predator",
-        "number": 165,
+        "number": 166,
         "shape": "normal",
         "set": "SHD"
     },
@@ -678,14 +678,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR05 Burning-Bush Incanter",
-        "number": 126,
+        "card_name": "CR04 Heartsblood Flamecaller",
+        "number": 125,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG08 Stalker of the Horizon",
-        "number": 166,
+        "number": 167,
         "shape": "normal",
         "set": "SHD"
     },
@@ -708,14 +708,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR06 Walking Trebuchet",
-        "number": 127,
+        "card_name": "CR05 Burning-Bush Incanter",
+        "number": 126,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG09 Nyxian Wilderwind",
-        "number": 167,
+        "number": 168,
         "shape": "normal",
         "set": "SHD"
     },
@@ -738,14 +738,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR07 Cutthroat Captain",
-        "number": 128,
+        "card_name": "CR06 Walking Trebuchet",
+        "number": 127,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG10 Deep-Rot Wurm",
-        "number": 168,
+        "number": 169,
         "shape": "normal",
         "set": "SHD"
     },
@@ -768,14 +768,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR08 Ironfisted Ruiner",
-        "number": 129,
+        "card_name": "CR07 Cutthroat Captain",
+        "number": 128,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG11 Mirrorbark Woodling",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "SHD"
     },
@@ -798,14 +798,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR09 Meltedbrain Troll",
-        "number": 130,
+        "card_name": "CR08 Ironfisted Ruiner",
+        "number": 129,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG12 Defend the Title",
-        "number": 170,
+        "number": 171,
         "shape": "normal",
         "set": "SHD"
     },
@@ -828,14 +828,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR10 Flamethrower Bot",
-        "number": 131,
+        "card_name": "CR09 Meltedbrain Troll",
+        "number": 130,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG13 Ferocious Growth",
-        "number": 171,
+        "number": 172,
         "shape": "normal",
         "set": "SHD"
     },
@@ -858,14 +858,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR11 Controlled Shock",
-        "number": 132,
+        "card_name": "CR10 Flamethrower Bot",
+        "number": 131,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CG14 Beastial Intellect",
-        "number": 172,
+        "card_name": "CG14 Bestial Intellect",
+        "number": 173,
         "shape": "normal",
         "set": "SHD"
     },
@@ -888,14 +888,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR12 Explosive Possibility",
-        "number": 133,
+        "card_name": "CR11 Controlled Shock",
+        "number": 132,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG15 Confusing Quest",
-        "number": 173,
+        "number": 174,
         "shape": "normal",
         "set": "SHD"
     },
@@ -918,14 +918,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR13 Orb of Betrayal",
-        "number": 134,
+        "card_name": "CR12 Explosive Possibility",
+        "number": 133,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG16 Remnants of Strength",
-        "number": 174,
+        "number": 175,
         "shape": "normal",
         "set": "SHD"
     },
@@ -948,14 +948,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR14 Worldchurn",
-        "number": 135,
+        "card_name": "CR13 Orb of Betrayal",
+        "number": 134,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG17 Wilderwind Blast",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "SHD"
     },
@@ -978,14 +978,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR15 Gibbering Prophecy",
-        "number": 136,
+        "card_name": "CR14 Worldchurn",
+        "number": 135,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG18 Uncover the Ruins",
-        "number": 176,
+        "number": 177,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1008,14 +1008,14 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR16 Bloodthirsty Pitchfork",
-        "number": 137,
+        "card_name": "CR15 Gibbering Prophecy",
+        "number": 136,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CG19 Nature's Purge",
-        "number": 177,
+        "number": 178,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1038,8 +1038,8 @@
         "set": "SHD"
     },
     {
-        "card_name": "CR17 Shields to Swords",
-        "number": 138,
+        "card_name": "CR16 Bloodthirsty Pitchfork",
+        "number": 137,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1062,8 +1062,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "CR18 Tears of War",
-        "number": 139,
+        "card_name": "CR17 Shields to Swords",
+        "number": 138,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1086,8 +1086,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "CR19 Bestial Ritual",
-        "number": 140,
+        "card_name": "CR18 Tears of War",
+        "number": 139,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1110,7 +1110,10 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "CR19 Bestial Ritual",
+        "number": 140,
+        "shape": "normal",
+        "set": "SHD"
     },
     {
         "card_name": "e"
@@ -1130,61 +1133,61 @@
     "a->gold",
     {
         "card_name": "CZ01 Flag of Frost",
-        "number": 208,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "RM11 Dissipation Slash",
-        "number": 203,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "CZ03 Flag of Blood",
-        "number": 210,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "RM12 Exterrestrial Stomper",
-        "number": 204,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "CZ05 Flag of Life",
-        "number": 212,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "CZ11 Emblem of Frost",
-        "number": 218,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "CZ02 Flag of Darkness",
         "number": 209,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ13 Emblem of Blood",
-        "number": 220,
+        "card_name": "RM11 Dissipation Slash",
+        "number": 204,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ04 Flag of Fire",
+        "card_name": "CZ03 Flag of Blood",
         "number": 211,
         "shape": "normal",
         "set": "SHD"
     },
     {
+        "card_name": "RM12 Exterrestrial Stomper",
+        "number": 205,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "CZ05 Flag of Life",
+        "number": 213,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "CZ11 Emblem of Frost",
+        "number": 219,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "CZ02 Flag of Darkness",
+        "number": 210,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "CZ13 Emblem of Blood",
+        "number": 221,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "CZ04 Flag of Fire",
+        "number": 212,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
         "card_name": "CZ15 Emblem of Life",
-        "number": 222,
+        "number": 223,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1193,7 +1196,7 @@
     },
     {
         "card_name": "CZ12 Emblem of Darkness",
-        "number": 219,
+        "number": 220,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1202,7 +1205,7 @@
     },
     {
         "card_name": "CZ14 Emblem of Fire",
-        "number": 221,
+        "number": 222,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1226,79 +1229,79 @@
     },
     {
         "card_name": "RM13 Eternal Alliance",
-        "number": 205,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "RM14 Triple Tempest",
         "number": 206,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "RM15 Ruinous Decision",
+        "card_name": "RM14 Triple Tempest",
         "number": 207,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ09 Flag of Light",
-        "number": 216,
+        "card_name": "RM15 Ruinous Decision",
+        "number": 208,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ10 Flag of Water",
+        "card_name": "CZ09 Flag of Light",
         "number": 217,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ06 Flag of Bone",
-        "number": 213,
+        "card_name": "CZ10 Flag of Water",
+        "number": 218,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ07 Flag of Thunder",
+        "card_name": "CZ06 Flag of Bone",
         "number": 214,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ08 Flag of Death",
+        "card_name": "CZ07 Flag of Thunder",
         "number": 215,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ19 Emblem of Light",
-        "number": 226,
+        "card_name": "CZ08 Flag of Death",
+        "number": 216,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ20 Emblem of Water",
+        "card_name": "CZ19 Emblem of Light",
         "number": 227,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ16 Emblem of Bone",
-        "number": 223,
+        "card_name": "CZ20 Emblem of Water",
+        "number": 228,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ17 Emblem of Thunder",
+        "card_name": "CZ16 Emblem of Bone",
         "number": 224,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ18 Emblem of Death",
+        "card_name": "CZ17 Emblem of Thunder",
         "number": 225,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "CZ18 Emblem of Death",
+        "number": 226,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1325,31 +1328,31 @@
     },
     {
         "card_name": "RM02 Archival Blessing",
-        "number": 194,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "RM03 Obsessive Blessing",
         "number": 195,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "RM04 Beastial Blessing",
+        "card_name": "RM03 Obsessive Blessing",
         "number": 196,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "RM05 Simplistic Blessing",
+        "card_name": "RM04 Beastial Blessing",
         "number": 197,
         "shape": "normal",
         "set": "SHD"
     },
     {
+        "card_name": "RM05 Simplistic Blessing",
+        "number": 198,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
         "card_name": "RM01 Paradoxical Blessing",
-        "number": 193,
+        "number": 194,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1370,7 +1373,7 @@
     },
     {
         "card_name": "RM06 Glorified Blessing",
-        "number": 198,
+        "number": 199,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1379,19 +1382,19 @@
     },
     {
         "card_name": "RM08 Eternal Blessing",
-        "number": 200,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "RM09 Omniscient Blessing",
         "number": 201,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "RM10 Restorative Blessing",
+        "card_name": "RM09 Omniscient Blessing",
         "number": 202,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "RM10 Restorative Blessing",
+        "number": 203,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1412,7 +1415,7 @@
     },
     {
         "card_name": "RM07 Prismatic Blessing",
-        "number": 199,
+        "number": 200,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1449,13 +1452,13 @@
     },
     {
         "card_name": "MA01 The Vexenvault",
-        "number": 231,
+        "number": 232,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "MA02 Jewel of Repetition",
-        "number": 232,
+        "number": 233,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1479,7 +1482,7 @@
     },
     {
         "card_name": "RA01 Creation of Madness",
-        "number": 233,
+        "number": 234,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1503,19 +1506,19 @@
     },
     {
         "card_name": "UA01 Maddened Vexling",
-        "number": 235,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UA02 Data Drone",
         "number": 236,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UA03 Powerstone Transport",
+        "card_name": "UA02 Data Drone",
         "number": 237,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "UA03 Powerstone Transport",
+        "number": 238,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1539,19 +1542,19 @@
     },
     {
         "card_name": "CA01 Vexling",
-        "number": 228,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "CA02 Vexite Golem",
         "number": 229,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CA03 Mirrored Monolith",
+        "card_name": "CA02 Vexite Golem",
         "number": 230,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "CA03 Mirrored Monolith",
+        "number": 231,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1573,31 +1576,31 @@
     "a->land",
     {
         "card_name": "UZ01 Authorized Gateway",
-        "number": 252,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UZ02 Optimized Gateway",
         "number": 253,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ03 Dominated Gateway",
+        "card_name": "UZ02 Optimized Gateway",
         "number": 254,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ04 Randomized Gateway",
+        "card_name": "UZ03 Dominated Gateway",
         "number": 255,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ05 Challenging Gateway",
+        "card_name": "UZ04 Randomized Gateway",
         "number": 256,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "UZ05 Challenging Gateway",
+        "number": 257,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1618,91 +1621,91 @@
     },
     {
         "card_name": "UZ11 Stronghold of Frost",
-        "number": 262,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UZ12 Stronghold of Darkness",
         "number": 263,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ13 Stronghold of Blood",
+        "card_name": "UZ12 Stronghold of Darkness",
         "number": 264,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ14 Stronghold of Fire",
+        "card_name": "UZ13 Stronghold of Blood",
         "number": 265,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ15 Stronghold of Life",
+        "card_name": "UZ14 Stronghold of Fire",
         "number": 266,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ21 Zone of Frost",
-        "number": 272,
+        "card_name": "UZ15 Stronghold of Life",
+        "number": 267,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ22 Zone of Darkness",
+        "card_name": "UZ21 Zone of Frost",
         "number": 273,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ23 Zone of Blood",
+        "card_name": "UZ22 Zone of Darkness",
         "number": 274,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ24 Zone of Fire",
+        "card_name": "UZ23 Zone of Blood",
         "number": 275,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ25 Zone of Life",
+        "card_name": "UZ24 Zone of Fire",
         "number": 276,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ21 Rift of Frost",
-        "number": 240,
+        "card_name": "UZ25 Zone of Life",
+        "number": 277,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ22 Rift of Darkness",
+        "card_name": "CZ21 Rift of Frost",
         "number": 241,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ23 Rift of Blood",
+        "card_name": "CZ22 Rift of Darkness",
         "number": 242,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ24 Rift of Fire",
+        "card_name": "CZ23 Rift of Blood",
         "number": 243,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ25 Rift of Life",
+        "card_name": "CZ24 Rift of Fire",
         "number": 244,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "CZ25 Rift of Life",
+        "number": 245,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1723,91 +1726,91 @@
     },
     {
         "card_name": "UZ16 Stronghold of Bone",
-        "number": 267,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UZ17 Stronghold of Thunder",
         "number": 268,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ18 Stronghold of Death",
+        "card_name": "UZ17 Stronghold of Thunder",
         "number": 269,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ19 Stronghold of Light",
+        "card_name": "UZ18 Stronghold of Death",
         "number": 270,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ20 Stronghold of Water",
+        "card_name": "UZ19 Stronghold of Light",
         "number": 271,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ26 Zone of Bone",
-        "number": 277,
+        "card_name": "UZ20 Stronghold of Water",
+        "number": 272,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ27 Zone of Thunder",
+        "card_name": "UZ26 Zone of Bone",
         "number": 278,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ28 Zone of Death",
+        "card_name": "UZ27 Zone of Thunder",
         "number": 279,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ29 Zone of Light",
+        "card_name": "UZ28 Zone of Death",
         "number": 280,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ30 Zone of Water",
+        "card_name": "UZ29 Zone of Light",
         "number": 281,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ26 Rift of Bone",
-        "number": 245,
+        "card_name": "UZ30 Zone of Water",
+        "number": 282,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ27 Rift of Thunder",
+        "card_name": "CZ26 Rift of Bone",
         "number": 246,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ28 Rift of Death",
+        "card_name": "CZ27 Rift of Thunder",
         "number": 247,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ29 Rift of Light",
+        "card_name": "CZ28 Rift of Death",
         "number": 248,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "CZ30 Rift of Water",
+        "card_name": "CZ29 Rift of Light",
         "number": 249,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "CZ30 Rift of Water",
+        "number": 250,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1828,61 +1831,61 @@
     },
     {
         "card_name": "RL03 Vex Fields",
-        "number": 234,
+        "number": 235,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "RL01 Siege of the Tomb",
-        "number": 250,
+        "number": 251,
         "shape": "normal split",
         "set": "SHD"
     },
     {
         "card_name": "RL02 Wretched Fields",
-        "number": 251,
+        "number": 252,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UZ06 Mining Village",
-        "number": 257,
+        "number": 258,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "UZ07 Archway of Sparks",
-        "number": 258,
+        "number": 259,
         "shape": "planeswalker",
         "set": "SHD"
     },
     {
         "card_name": "UZ08 Maniacal Laboratory",
-        "number": 259,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "UZ09 Energized Earth",
         "number": 260,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "UZ10 Scoured Scourgelands",
+        "card_name": "UZ09 Energized Earth",
         "number": 261,
         "shape": "normal",
         "set": "SHD"
     },
     {
+        "card_name": "UZ10 Scoured Scourgelands",
+        "number": 262,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
         "card_name": "CL01 Haven of Anticipation",
-        "number": 238,
+        "number": 239,
         "shape": "normal",
         "set": "SHD"
     },
     {
         "card_name": "CL02 Haven of Prophecy",
-        "number": 239,
+        "number": 240,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1903,37 +1906,37 @@
     },
     {
         "card_name": "Wastes",
-        "number": 282,
-        "shape": "normal",
-        "set": "SHD"
-    },
-    {
-        "card_name": "Plains",
         "number": 283,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "Island",
+        "card_name": "Plains",
         "number": 284,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "Swamp",
+        "card_name": "Island",
         "number": 285,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "Mountain",
+        "card_name": "Swamp",
         "number": 286,
         "shape": "normal",
         "set": "SHD"
     },
     {
-        "card_name": "Forest",
+        "card_name": "Mountain",
         "number": 287,
+        "shape": "normal",
+        "set": "SHD"
+    },
+    {
+        "card_name": "Forest",
+        "number": 288,
         "shape": "normal",
         "set": "SHD"
     },
@@ -1994,31 +1997,31 @@
     },
     {
         "card_name": "Vex Amber [Conjured]",
-        "number": 290,
-        "shape": "token",
-        "set": "SHD"
-    },
-    {
-        "card_name": "Vex Jasper [Conjured]",
         "number": 291,
         "shape": "token",
         "set": "SHD"
     },
     {
-        "card_name": "Vex Opal [Conjured]",
+        "card_name": "Vex Jasper [Conjured]",
         "number": 292,
         "shape": "token",
         "set": "SHD"
     },
     {
+        "card_name": "Vex Opal [Conjured]",
+        "number": 293,
+        "shape": "token",
+        "set": "SHD"
+    },
+    {
         "card_name": "Once More [Conjured]",
-        "number": 288,
+        "number": 289,
         "shape": "token",
         "set": "SHD"
     },
     {
         "card_name": "Wilderwind Blast [Conjured]",
-        "number": 289,
+        "number": 290,
         "shape": "token",
         "set": "SHD"
     },

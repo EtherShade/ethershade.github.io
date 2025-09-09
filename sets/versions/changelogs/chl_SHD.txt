@@ -1,4 +1,85 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+RW01 The Shield of History added.
+CG14 Bestial Intellect added.
+RR05 Scrap Deinfuser added.
+RU04 Verstil, Scrap Scholar added.
+
+RW01 The Shield of Belief removed.
+CG14 Beastial Intellect removed.
+MU03 The Moon Turns Silver removed.
+
+MU02 Returned Master
+rules_text: Whenever you cast your second spell each turn, conjure a card named Once More into your hand.
+Spells you cast named Once More cost {1} less to cast.
+Whenever you cast a spell from exile, until end of turn, Returned Master gets +1/+1 and can't be blocked until end of turn. => Whenever you cast your second spell each turn, conjure a card named Once More into your hand.
+Spells you cast named Once More cost {1} less to cast.
+Whenever you cast a spell from exile, until end of turn, Returned Master gets +1/+1 and can't be blocked.
+
+CW01 Village Traditions
+rules_text: 
+You gain 1 life.
+Create a 1/1 colorless Human creature token. => 
+I — You gain 1 life.
+II, III — Create a 1/1 colorless Human creature token.
+special_text: 
+You gain 1 life.
+Create a 1/1 colorless Human creature token. => 
+I — You gain 1 life.
+II, III — Create a 1/1 colorless Human creature token.
+
+UB01 Tithe Slayer
+rules_text: Flash
+When Tithe Slayer enters, it deals 1 damage to target creature. Create a Mirror token. [i](It's an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i] => Flash
+When Tithe Slayer enters, it deals 1 damage to up to one target creature. Create a Mirror token. [i](It's an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i]
+
+CU05 Mirror Keeper
+rules_text: String Variable—{enters}, {leaves the battlefield} [i](Distrubute the text segments among the square brackets.)[/i]
+When Mirror Keeper [], draw a card.
+When Mirror Keeper [], create a Mirror token. [i](It's an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i] => String Variable—{enters}, {leaves the battlefield}
+When Mirror Keeper [], draw a card.
+When Mirror Keeper [], create a Mirror token. [i](It's an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i]
+
+CR11 Controlled Shock
+rules_text: Controlled Shock deals 2 damage to any target. If that target is a creature, you may discard a card. When you do, draw a card. => Controlled Shock deals 2 damage to any target. If that target is a creature, scry 1.
+
+MB01 Omnipotence
+rules_text: You may cast spells from your sideboard without paying their mana costs. => Once during each of your turns, you may cast a spell with mana value 9 or less from your sideboard without paying its mana cost.
+
+RB01 The Crown of Doomsday
+type: Legendary Artifact => Legendary Artifact — Equipment
+rules_text: Equipped creature has “If an opponent would lose life from a source other than combat damage, that player loses twice that much life instead.”
+Equip {2}{B} => Equipped creature has “If a permanent being sacrificed would cause a triggered ability of a permanent you control to trigger, that ability triggers an additional time.”
+Equip {2}{B}
+
+UB03 Collecter of Destruction
+rules_text: Lifelink
+Sacrifice Collecter of Destruction: Draw a card for each card type among permanents you've sacrificed this turn. You lose life equal to the amount of cards drawn this way. Activate only as a sorcery. => Lifelink
+{1}, Sacrifice Collecter of Destruction: Draw a card for each card type among permanents you've sacrificed this turn. You lose life equal to the amount of cards drawn this way. Activate only as a sorcery.
+
+UB06 Voice of Reanimation
+rules_text: Madness {0} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+Voice of Reanimation enters with 3 +1/+1 counters if it was cast from your hand.
+{7}{B}, Sacrifice Voice of Reanimation: Return target creature card from your graveyard to the battlefield tapped. This ability costs {X} less to activate, where X is Voice of Reanimation's power. => Madness {0} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+Voice of Reanimation enters with three +1/+1 counters if it was cast from your hand.
+{7}{B}, Sacrifice Voice of Reanimation: Return target creature card from your graveyard to the battlefield tapped. This ability costs {X} less to activate, where X is Voice of Reanimation's power.
+
+UB07 Rotmight Goliath
+pt: 7/3 => 7/4
+
+UR08 Burning-Bush Flames
+cost: {1}{R} => {R}
+rules_text: Burning-Bush Flames deals 3 damage to any target.
+If there are four or more differently named lands among lands you control, exile the top card of your library. You may play it until your next end step. => Burning-Bush Flames deals 2 damage target creature. If there are four or more differently named lands among lands you control, Burning-Bush Flames deals 4 damage to the targeted creature instead.
+
+RA01 Creation of Madness
+rules_text: When Creation of Madness enters, draw a card.
+Discard a card: Creation of Madness deals 2 damage to each opponent. => When Creation of Madness enters, draw a card.
+{2}, Discard a card: Creation of Madness deals 2 damage to each opponent.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 UC03 Void Ritual added.

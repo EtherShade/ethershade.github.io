@@ -1,0 +1,836 @@
+﻿[
+    {
+        "card_name": "MW01 Avatar of the White Immortal",
+        "number": 20,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "MU01 Avatar of the Blue Immortal",
+        "number": 21,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "MB01 Avatar of the Black Immortal",
+        "number": 25,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "MR01 Avatar of the Red Immortal",
+        "number": 26,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "MG01 Avatar of the Green Immortal",
+        "number": 29,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "CW01 Young Geist",
+        "number": 1,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "MU02 Valla, Eternal Observer",
+        "number": 22,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "MR02 Melesei, the Godslayer",
+        "number": 27,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW02 Automatic Inspector",
+        "number": 2,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "RU01 Valla, Master Historian",
+        "number": 23,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "RR01 Melesei, Crimson Vengeance",
+        "number": 28,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW03 Unimportant Quest",
+        "number": 3,
+        "shape": "saga",
+        "set": "TEL"
+    },
+    {
+        "card_name": "RU02 The Moon Turns Silver",
+        "number": 24,
+        "shape": "transform double faced",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW04 Reappearing Medic",
+        "number": 4,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW05 Watching Whitebird",
+        "number": 5,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW06 Battery Carrier",
+        "number": 6,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW07 Weakened Soulwalker",
+        "number": 7,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW08 Auric Returner",
+        "number": 8,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW09 Bird Connoisseur",
+        "number": 9,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW10 Devout Scribe",
+        "number": 10,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW11 Holy Soulwalker",
+        "number": 11,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW12 Angelic Emissary",
+        "number": 12,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW13 Phoenix Flare",
+        "number": 13,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW14 Integrated Arcana",
+        "number": 14,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW15 Desoul",
+        "number": 15,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW16 Dryadic Eminence",
+        "number": 16,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW17 Inventor's Armor",
+        "number": 17,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW18 Crusade of Past and Future",
+        "number": 18,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW19 Essenceshift",
+        "number": 19,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "UM01 Valla, Amateur Scribe",
+        "number": 32,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM02 Vecdak, Soulwalker Adept",
+        "number": 33,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM03 Melesei, Lone Stalkerknight",
+        "number": 34,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM04 Murella, Essence Trafficker",
+        "number": 35,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM05 Jallia, Dryad's Voice",
+        "number": 36,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM11 The Path of History",
+        "number": 42,
+        "shape": "saga",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM12 Forbidden Soulwalking",
+        "number": 43,
+        "shape": "saga",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM13 Legend of the Godhunter",
+        "number": 44,
+        "shape": "saga",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM14 Undying Greed",
+        "number": 45,
+        "shape": "saga",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM15 Voices of the Woods",
+        "number": 46,
+        "shape": "saga",
+        "set": "TEL"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "UM06 Bureg, Priest of Angelicism",
+        "number": 37,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "RM07 Kzaandapocl, Uncapturable",
+        "number": 30,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM08 Bahab, Lich Returner",
+        "number": 39,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM09 Agrares, Aggressive Bodyguard",
+        "number": 40,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM10 Vasgar the Duplicitous",
+        "number": 41,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM16 The Angelic Chronicles",
+        "number": 47,
+        "shape": "saga",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM07 Holgar, Devout Industrialist",
+        "number": 38,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM18 Reanimation Rites",
+        "number": 49,
+        "shape": "saga",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM19 Visions in the Flames",
+        "number": 50,
+        "shape": "saga",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UM20 Tale of the Enchanted Ocean",
+        "number": 51,
+        "shape": "saga",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM17 Artificial Tempest",
+        "number": 48,
+        "shape": "saga",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RM17 Zrakelia, Mother of Thunder",
+        "number": 31,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "RA01 AnimaTech Living Battery",
+        "number": 52,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL01 Spire of Frost",
+        "number": 53,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "CL02 Spire of Darkness",
+        "number": 54,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "CL03 Spire of Blood",
+        "number": 55,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "CL04 Spire of Fire",
+        "number": 56,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "CL05 Spire of Life",
+        "number": 57,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL06 Spire of Bone",
+        "number": 58,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "CL07 Spire of Thunder",
+        "number": 59,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "CL08 Spire of Death",
+        "number": 60,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "CL09 Spire of Light",
+        "number": 61,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "CL10 Spire of Water",
+        "number": 62,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "UL01 Quartzpull Factory",
+        "number": 63,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UL02 Sapphirepull Factory",
+        "number": 64,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UL03 Onyxpull Factory",
+        "number": 65,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UL04 Rubypull Factory",
+        "number": 66,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UL05 Emeraldpull Factory",
+        "number": 67,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UL06 Quartzpush Factory",
+        "number": 68,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UL07 Sapphirepush Factory",
+        "number": 69,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UL08 Onyxpush Factory",
+        "number": 70,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UL09 Rubypush Factory",
+        "number": 71,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "UL10 Emeraldpush Factory",
+        "number": 72,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Human [Token]",
+        "number": 1,
+        "shape": "token",
+        "set": "TEL"
+    },
+    {
+        "card_name": "Clue [Token]",
+        "number": 2,
+        "shape": "token",
+        "set": "TEL"
+    },
+    {
+        "card_name": "Treasure [Token]",
+        "number": 3,
+        "shape": "token",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
