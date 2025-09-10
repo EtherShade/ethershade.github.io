@@ -1,4 +1,49 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+CW02 Automata Trainee added.
+RM04 Bestial Blessing added.
+RM16 Helix Processor added.
+
+CW02 Forceful Inspector removed.
+RM04 Beastial Blessing removed.
+Food [Token] removed.
+
+Vex Opal [Conjured]
+
+Vex Amber [Conjured]
+
+Vex Jasper [Conjured]
+
+CW01 Village Traditions
+rules_text: 
+I — You gain 1 life.
+II, III — Create a 1/1 colorless Human creature token. => 
+You gain 1 life.
+I, II, III — Create a 1/1 colorless Human creature token.
+special_text: 
+I — You gain 1 life.
+II, III — Create a 1/1 colorless Human creature token. => 
+You gain 1 life.
+I, II, III — Create a 1/1 colorless Human creature token.
+
+MC01 Mirrored Fracturing
+type: Legendary Enchantment => Enchantment
+rules_text: As Mirrored Fracturing enters, choose a card type.
+The “legend rule” doesn't apply to permanents you control of the chosen type.
+{6}, Sacrifice a legendary permanent of the chosen type: Create two tokens that are copies of it. => As Mirrored Fracturing enters, choose a card type.
+The “legend rule” doesn't apply to permanents you control of the chosen type.
+{6}, Sacrifice a nontoken legendary permanent of the chosen type: Create two tokens that are copies of it.
+
+RR05 Scrap Deinfuser
+rules_text: Whenever you sacrifice an artifact, add one mana of any color. => Menace
+Whenever an artifact you control leaves the battlefield, add one mana of any color.
+
+RU04 Verstil, Scrap Scholar
+pt:  => 1/4
+
+
+VERSION 7 CHANGELOG
 ====================
 
 RW01 The Shield of History added.

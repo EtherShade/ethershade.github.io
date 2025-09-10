@@ -1,4 +1,242 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CW14 Integrated Purity added.
+CU01 Inverted Soulwalker added.
+CU02 AnimaTech OmenBirdBot added.
+CU12 Schemes and Counterschemes added.
+CU04 Opting Arcanite added.
+CU03 Eye-for-Eyeling added.
+RU02 Wanderer of Endless Stories added.
+UU02 Tuning Arcanite added.
+CU05 AnimaTech SifterBot added.
+CU06 Wingspan Prodigy added.
+RM20 Leviatron, Augmented added.
+CU07 Ruin Delver added.
+CU08 Arcanite Absorber added.
+CU09 Prototype Projector added.
+CU10 Flickering Bauble added.
+CU11 Fabled Negation added.
+CU13 Integrated Arcana added.
+CU14 Monotone Research added.
+CU15 Trifold Choice added.
+CU16 Illegal Investigation added.
+
+CW14 Integrated Arcana removed.
+
+MR02 Melesei, the Godslayer
+rules_text: When Melesei, the Godslayer enters, she deals 7 damage to another target creature. If that creature is an Avatar, Transmortal, Elder, or God, discard your hand, then draw seven cards. => [i]To Slay a God [/i]— When Melesei, the Godslayer enters, she deals 7 damage to another target creature. If that creature is an Avatar, Transmortal, Elder, or God, discard your hand, then draw seven cards.
+
+UM13 Legend of the Godhunter
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Choose one —
+• Draw a card, then discard a card.
+• Search your library for a card named Melesei, Lone Stalkerknight, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Melesei, Crimson Vengeance, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Melesei, the Godslayer, reveal it, put it into your hand, then shuffle.
+​
+​ => 
+Choose one —
+• Draw a card, then discard a card.
+• Search your library for a card named Melesei, Lone Stalkerknight, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Melesei, Crimson Vengeance, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Melesei, the Godslayer, reveal it, put it into your hand, then shuffle.
+​
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Choose one —
+• Draw a card, then discard a card.
+• Search your library for a card named Melesei, Lone Stalkerknight, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Melesei, Crimson Vengeance, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Melesei, the Godslayer, reveal it, put it into your hand, then shuffle.
+​
+​ => 
+Choose one —
+• Draw a card, then discard a card.
+• Search your library for a card named Melesei, Lone Stalkerknight, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Melesei, Crimson Vengeance, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Melesei, the Godslayer, reveal it, put it into your hand, then shuffle.
+​
+​
+
+RU01 Valla, Master Historian
+rules_text: Whenever Valla, Master Historian attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever an opponent attacks, target attacking creature gets -2/-0 until end of turn. => {T}: Add {C}{C}. Spend this mana only to cast historic spells or activate abilities of historic permanents. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Whenever an opponent attacks, target attacking creature gets -2/-0 until end of turn.
+
+MU02 Valla, Eternal Observer
+rules_text: [i]History Repeats[/i] — Whenever you cast your first historic spell each turn, copy it, then exile the spell you cast with three time counters on it. If it doesn't have suspend, it gains suspend. [i](Artifacts, legendaries, and Sagas are historic. At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it's a creature, it has haste.)[/i] => [i]History Repeats[/i] — Whenever you cast a historic spell, investigate. [i](Artifacts, legendaries, and Sagas are historic. To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+UM11 The Path of History
+rules_text: 
+Choose one —
+• Investigate.
+• Search your library for a card named Valla, Amateur Scribe, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Valla, Master Historian, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Valla, Eternal Observer, reveal it, put it into your hand, then shuffle.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Choose one —
+• Investigate.
+• Search your library for a card named Valla, Amateur Scribe, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Valla, Master Historian, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Valla, Eternal Observer, reveal it, put it into your hand, then shuffle.
+​
+​
+special_text: 
+Choose one —
+• Investigate.
+• Search your library for a card named Valla, Amateur Scribe, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Valla, Master Historian, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Valla, Eternal Observer, reveal it, put it into your hand, then shuffle.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Choose one —
+• Investigate.
+• Search your library for a card named Valla, Amateur Scribe, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Valla, Master Historian, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Valla, Eternal Observer, reveal it, put it into your hand, then shuffle.
+​
+​
+
+UM12 Forbidden Soulwalking
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You lose 4 life.
+II — Draw two cards.
+III — Projection costs you pay this turn cost {1} less. => 
+I — You lose 4 life.
+II — Draw two cards.
+III — Projection costs you pay this turn cost {1} less.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You lose 4 life.
+II — Draw two cards.
+III — Projection costs you pay this turn cost {1} less. => 
+I — You lose 4 life.
+II — Draw two cards.
+III — Projection costs you pay this turn cost {1} less.
+
+UM14 Undying Greed
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You gain X life, where X is the number of Transmortals you control.
+II — Undying Greed deals X damage to each opponent, where X is the number of Tranmortals you control.
+III — Transmortal creatures you control get +2/+2 until end of turn. => 
+I — You gain X life, where X is the number of Transmortals you control.
+II — Undying Greed deals X damage to each opponent, where X is the number of Tranmortals you control.
+III — Transmortal creatures you control get +2/+2 until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You gain X life, where X is the number of Transmortals you control.
+II — Undying Greed deals X damage to each opponent, where X is the number of Tranmortals you control.
+III — Transmortal creatures you control get +2/+2 until end of turn. => 
+I — You gain X life, where X is the number of Transmortals you control.
+II — Undying Greed deals X damage to each opponent, where X is the number of Tranmortals you control.
+III — Transmortal creatures you control get +2/+2 until end of turn.
+
+UM15 Voices of the Woods
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You gain 4 life.
+Create a 1/1 colorless Human creature token.
+I — Put X +1/+1 counters on target creature, where X is the number of enchantments you control. => 
+You gain 4 life.
+Create a 1/1 colorless Human creature token.
+Put X +1/+1 counters on target creature, where X is the number of enchantments you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You gain 4 life.
+Create a 1/1 colorless Human creature token.
+I — Put X +1/+1 counters on target creature, where X is the number of enchantments you control. => 
+You gain 4 life.
+Create a 1/1 colorless Human creature token.
+Put X +1/+1 counters on target creature, where X is the number of enchantments you control.
+
+Clue [Token]
+
+UM16 The Angelic Chronicles
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — You may sacrifice an enchantment. If you do, create two 1/1 colorless Human creature tokens.
+​
+​ => 
+You may sacrifice an enchantment. If you do, create two 1/1 colorless Human creature tokens.
+​
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — You may sacrifice an enchantment. If you do, create two 1/1 colorless Human creature tokens.
+​
+​ => 
+You may sacrifice an enchantment. If you do, create two 1/1 colorless Human creature tokens.
+​
+​
+
+UM17 Artificial Tempest
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You get {E} [i](an energy counter)[/i].
+You get {E}{E}.
+I — You may pay any amount of {E}. Artificial Tempest deals twice that much damage to each opponent. Draw that many cards, then discard that many cards. => 
+You get {E} [i](an energy counter)[/i].
+You get {E}{E}.
+You may pay any amount of {E}. Artificial Tempest deals twice that much damage to each opponent. Draw that many cards, then discard that many cards.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You get {E} [i](an energy counter)[/i].
+You get {E}{E}.
+I — You may pay any amount of {E}. Artificial Tempest deals twice that much damage to each opponent. Draw that many cards, then discard that many cards. => 
+You get {E} [i](an energy counter)[/i].
+You get {E}{E}.
+You may pay any amount of {E}. Artificial Tempest deals twice that much damage to each opponent. Draw that many cards, then discard that many cards.
+
+UM18 Reanimation Rites
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put two +1/+1 counters on target creature.
+II — Return target noncreature card from your graveyard to your hand.
+III — Return target creature card from your graveyard to the battlefield. => 
+Put two +1/+1 counters on target creature.
+Return target noncreature card from your graveyard to your hand.
+Return target creature card from your graveyard to the battlefield.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put two +1/+1 counters on target creature.
+II — Return target noncreature card from your graveyard to your hand.
+III — Return target creature card from your graveyard to the battlefield. => 
+Put two +1/+1 counters on target creature.
+Return target noncreature card from your graveyard to your hand.
+Return target creature card from your graveyard to the battlefield.
+
+UM19 Visions in the Flames
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature, then return it to the battlefield under its owner's control.
+II — Visions in the Flames deals 1 damage to any target and you gain 1 life.
+III — You may sacrifice a creature. If you do, draw a card. => 
+Exile target creature, then return it to the battlefield under its owner's control.
+Visions in the Flames deals 1 damage to any target and you gain 1 life.
+You may sacrifice a creature. If you do, draw a card.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature, then return it to the battlefield under its owner's control.
+II — Visions in the Flames deals 1 damage to any target and you gain 1 life.
+III — You may sacrifice a creature. If you do, draw a card. => 
+Exile target creature, then return it to the battlefield under its owner's control.
+Visions in the Flames deals 1 damage to any target and you gain 1 life.
+You may sacrifice a creature. If you do, draw a card.
+
+UM20 Tale of the Enchanted Ocean
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards.
+Return target card from your graveyard to your hand.
+II — Draw two cards. => 
+Mill five cards.
+Return target card from your graveyard to your hand.
+Draw two cards.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards.
+Return target card from your graveyard to your hand.
+II — Draw two cards. => 
+Mill five cards.
+Return target card from your graveyard to your hand.
+Draw two cards.
+
+CW01 Young Geist
+
+CW02 Automatic Inspector
+
+CW04 Reappearing Medic
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

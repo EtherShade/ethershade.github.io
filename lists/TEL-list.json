@@ -7,25 +7,25 @@
     },
     {
         "card_name": "MU01 Avatar of the Blue Immortal",
-        "number": 21,
+        "number": 37,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "MB01 Avatar of the Black Immortal",
-        "number": 25,
+        "number": 43,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "MR01 Avatar of the Red Immortal",
-        "number": 26,
+        "number": 44,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "MG01 Avatar of the Green Immortal",
-        "number": 29,
+        "number": 47,
         "shape": "normal",
         "set": "TEL"
     },
@@ -37,7 +37,7 @@
     },
     {
         "card_name": "MU02 Valla, Eternal Observer",
-        "number": 22,
+        "number": 38,
         "shape": "normal",
         "set": "TEL"
     },
@@ -46,7 +46,7 @@
     },
     {
         "card_name": "MR02 Melesei, the Godslayer",
-        "number": 27,
+        "number": 45,
         "shape": "normal",
         "set": "TEL"
     },
@@ -61,7 +61,7 @@
     },
     {
         "card_name": "RU01 Valla, Master Historian",
-        "number": 23,
+        "number": 39,
         "shape": "normal",
         "set": "TEL"
     },
@@ -70,7 +70,7 @@
     },
     {
         "card_name": "RR01 Melesei, Crimson Vengeance",
-        "number": 28,
+        "number": 46,
         "shape": "normal",
         "set": "TEL"
     },
@@ -85,7 +85,7 @@
     },
     {
         "card_name": "RU02 The Moon Turns Silver",
-        "number": 24,
+        "number": 40,
         "shape": "transform double faced",
         "set": "TEL"
     },
@@ -105,7 +105,10 @@
         "set": "TEL"
     },
     {
-        "card_name": "e"
+        "card_name": "RU02 Wanderer of Endless Stories",
+        "number": 41,
+        "shape": "normal",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -123,7 +126,10 @@
         "set": "TEL"
     },
     {
-        "card_name": "e"
+        "card_name": "UU02 Tuning Arcanite",
+        "number": 42,
+        "shape": "normal",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -141,7 +147,10 @@
         "set": "TEL"
     },
     {
-        "card_name": "e"
+        "card_name": "CU01 Inverted Soulwalker",
+        "number": 21,
+        "shape": "normal",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -159,7 +168,10 @@
         "set": "TEL"
     },
     {
-        "card_name": "e"
+        "card_name": "CU02 AnimaTech OmenBirdBot",
+        "number": 22,
+        "shape": "normal",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -177,7 +189,10 @@
         "set": "TEL"
     },
     {
-        "card_name": "e"
+        "card_name": "CU03 Eye-for-Eyeling",
+        "number": 23,
+        "shape": "normal",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -195,7 +210,10 @@
         "set": "TEL"
     },
     {
-        "card_name": "e"
+        "card_name": "CU04 Opting Arcanite",
+        "number": 24,
+        "shape": "normal",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -213,7 +231,10 @@
         "set": "TEL"
     },
     {
-        "card_name": "e"
+        "card_name": "CU05 AnimaTech SifterBot",
+        "number": 25,
+        "shape": "normal",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -231,7 +252,10 @@
         "set": "TEL"
     },
     {
-        "card_name": "e"
+        "card_name": "CU06 Wingspan Prodigy",
+        "number": 26,
+        "shape": "normal",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -249,7 +273,10 @@
         "set": "TEL"
     },
     {
-        "card_name": "e"
+        "card_name": "CU07 Ruin Delver",
+        "number": 27,
+        "shape": "normal",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -267,25 +294,31 @@
         "set": "TEL"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CW14 Integrated Arcana",
-        "number": 14,
+        "card_name": "CU08 Arcanite Absorber",
+        "number": 28,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW14 Integrated Purity",
+        "number": 14,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "CU09 Prototype Projector",
+        "number": 29,
+        "shape": "normal",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -303,7 +336,10 @@
         "set": "TEL"
     },
     {
-        "card_name": "e"
+        "card_name": "CU10 Flickering Bauble",
+        "number": 30,
+        "shape": "normal",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -321,7 +357,10 @@
         "set": "TEL"
     },
     {
-        "card_name": "e"
+        "card_name": "CU11 Fabled Negation",
+        "number": 31,
+        "shape": "normal",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -339,7 +378,10 @@
         "set": "TEL"
     },
     {
-        "card_name": "e"
+        "card_name": "CU12 Schemes and Counterschemes",
+        "number": 32,
+        "shape": "saga",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -357,7 +399,10 @@
         "set": "TEL"
     },
     {
-        "card_name": "e"
+        "card_name": "CU13 Integrated Arcana",
+        "number": 33,
+        "shape": "normal",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -375,7 +420,46 @@
         "set": "TEL"
     },
     {
+        "card_name": "CU14 Monotone Research",
+        "number": 34,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
         "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU15 Trifold Choice",
+        "number": 35,
+        "shape": "normal",
+        "set": "TEL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU16 Illegal Investigation",
+        "number": 36,
+        "shape": "normal",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -401,61 +485,61 @@
     "a->gold",
     {
         "card_name": "UM01 Valla, Amateur Scribe",
-        "number": 32,
+        "number": 51,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UM02 Vecdak, Soulwalker Adept",
-        "number": 33,
+        "number": 52,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UM03 Melesei, Lone Stalkerknight",
-        "number": 34,
+        "number": 53,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UM04 Murella, Essence Trafficker",
-        "number": 35,
+        "number": 54,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UM05 Jallia, Dryad's Voice",
-        "number": 36,
+        "number": 55,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UM11 The Path of History",
-        "number": 42,
+        "number": 61,
         "shape": "saga",
         "set": "TEL"
     },
     {
         "card_name": "UM12 Forbidden Soulwalking",
-        "number": 43,
+        "number": 62,
         "shape": "saga",
         "set": "TEL"
     },
     {
         "card_name": "UM13 Legend of the Godhunter",
-        "number": 44,
+        "number": 63,
         "shape": "saga",
         "set": "TEL"
     },
     {
         "card_name": "UM14 Undying Greed",
-        "number": 45,
+        "number": 64,
         "shape": "saga",
         "set": "TEL"
     },
     {
         "card_name": "UM15 Voices of the Woods",
-        "number": 46,
+        "number": 65,
         "shape": "saga",
         "set": "TEL"
     },
@@ -476,61 +560,61 @@
     },
     {
         "card_name": "UM06 Bureg, Priest of Angelicism",
-        "number": 37,
+        "number": 56,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "RM07 Kzaandapocl, Uncapturable",
-        "number": 30,
+        "number": 48,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UM08 Bahab, Lich Returner",
-        "number": 39,
+        "number": 58,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UM09 Agrares, Aggressive Bodyguard",
-        "number": 40,
+        "number": 59,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UM10 Vasgar the Duplicitous",
-        "number": 41,
+        "number": 60,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UM16 The Angelic Chronicles",
-        "number": 47,
+        "number": 66,
         "shape": "saga",
         "set": "TEL"
     },
     {
         "card_name": "UM07 Holgar, Devout Industrialist",
-        "number": 38,
+        "number": 57,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UM18 Reanimation Rites",
-        "number": 49,
+        "number": 68,
         "shape": "saga",
         "set": "TEL"
     },
     {
         "card_name": "UM19 Visions in the Flames",
-        "number": 50,
+        "number": 69,
         "shape": "saga",
         "set": "TEL"
     },
     {
         "card_name": "UM20 Tale of the Enchanted Ocean",
-        "number": 51,
+        "number": 70,
         "shape": "saga",
         "set": "TEL"
     },
@@ -539,7 +623,7 @@
     },
     {
         "card_name": "UM17 Artificial Tempest",
-        "number": 48,
+        "number": 67,
         "shape": "saga",
         "set": "TEL"
     },
@@ -569,12 +653,15 @@
     },
     {
         "card_name": "RM17 Zrakelia, Mother of Thunder",
-        "number": 31,
+        "number": 49,
         "shape": "normal",
         "set": "TEL"
     },
     {
-        "card_name": "e"
+        "card_name": "RM20 Leviatron, Augmented",
+        "number": 50,
+        "shape": "normal",
+        "set": "TEL"
     },
     {
         "card_name": "e"
@@ -600,7 +687,7 @@
     "a->colorless",
     {
         "card_name": "RA01 AnimaTech Living Battery",
-        "number": 52,
+        "number": 71,
         "shape": "normal",
         "set": "TEL"
     },
@@ -633,31 +720,31 @@
     },
     {
         "card_name": "CL01 Spire of Frost",
-        "number": 53,
+        "number": 72,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "CL02 Spire of Darkness",
-        "number": 54,
+        "number": 73,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "CL03 Spire of Blood",
-        "number": 55,
+        "number": 74,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "CL04 Spire of Fire",
-        "number": 56,
+        "number": 75,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "CL05 Spire of Life",
-        "number": 57,
+        "number": 76,
         "shape": "normal",
         "set": "TEL"
     },
@@ -678,31 +765,31 @@
     },
     {
         "card_name": "CL06 Spire of Bone",
-        "number": 58,
+        "number": 77,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "CL07 Spire of Thunder",
-        "number": 59,
+        "number": 78,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "CL08 Spire of Death",
-        "number": 60,
+        "number": 79,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "CL09 Spire of Light",
-        "number": 61,
+        "number": 80,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "CL10 Spire of Water",
-        "number": 62,
+        "number": 81,
         "shape": "normal",
         "set": "TEL"
     },
@@ -723,61 +810,61 @@
     },
     {
         "card_name": "UL01 Quartzpull Factory",
-        "number": 63,
+        "number": 82,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UL02 Sapphirepull Factory",
-        "number": 64,
+        "number": 83,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UL03 Onyxpull Factory",
-        "number": 65,
+        "number": 84,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UL04 Rubypull Factory",
-        "number": 66,
+        "number": 85,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UL05 Emeraldpull Factory",
-        "number": 67,
+        "number": 86,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UL06 Quartzpush Factory",
-        "number": 68,
+        "number": 87,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UL07 Sapphirepush Factory",
-        "number": 69,
+        "number": 88,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UL08 Onyxpush Factory",
-        "number": 70,
+        "number": 89,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UL09 Rubypush Factory",
-        "number": 71,
+        "number": 90,
         "shape": "normal",
         "set": "TEL"
     },
     {
         "card_name": "UL10 Emeraldpush Factory",
-        "number": 72,
+        "number": 91,
         "shape": "normal",
         "set": "TEL"
     },

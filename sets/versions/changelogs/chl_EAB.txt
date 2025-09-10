@@ -1,4 +1,98 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+RW05 Wrath and Mercy
+rules_text: String variable—{creature}, {artifact}, {enchantment}
+Destroy all []s.
+Exile target [].
+Return target [] card from your graveyard to the battlefield. => String variable—{creature}, {artifact}, {enchantment} [i](Distrubute the text segments among the square brackets.)[/i]
+Destroy all []s.
+Exile target [].
+Return target [] card from your graveyard to the battlefield.
+
+RW03 Swords to Integers
+rules_text: Integer Variable—{5},{4},{3}
+Swords to Integers costs {X} more to cast, where X is half [], rounded down.
+Exile target creature with mana value [] or greater. Its controller gains [] life. => Integer Variable—{5},{4},{3} [i](Distrubute the numbers among the square brackets.)[/i]
+Swords to Integers costs {X} more to cast, where X is half [], rounded down.
+Exile target creature with mana value [] or greater. Its controller gains [] life.
+
+UU08 Calculify
+rules_text: Integer Variable—{2},{5}
+Draw [] cards.
+Discard X cards, where X is 8 minus twice []. [i](Discarding 0 or fewer cards means nothing.)[/i] => Integer Variable—{2},{5} [i](Distrubute the numbers among the square brackets.)[/i]
+Draw [] cards.
+Discard X cards, where X is 8 minus twice []. [i](Discarding 0 or fewer cards means nothing.)[/i]
+
+CB12 Bloodstained Numbers
+rules_text: Integer Variable—{4},{2}
+Destroy target creature with total power and toughness [] or less.
+You gain half [] life, rounded up. => Integer Variable—{4},{2} [i](Distrubute the numbers among the square brackets.)[/i]
+Destroy target creature with total power and toughness [] or less.
+You gain half [] life, rounded up.
+
+RB03 Demon of Loathed Script
+rules_text: String Variable—{enters}, {dies}
+When Demon of Loathed Script [], destroy target creature.
+When Demon of Loathed Script [], return target non-Demon creature from a graveyard to the battlefield under your control. => String Variable—{enters}, {dies} [i](Distrubute the text segments among the square brackets.)[/i]
+When Demon of Loathed Script [], destroy target creature.
+When Demon of Loathed Script [], return target non-Demon creature card from a graveyard to the battlefield under your control.
+
+MR02 Vakdor the Numeromancer
+rules_text: Integer Variable—{5},{3},{2}
+[+1]: Discard a card, then draw a card.
+[-[]]: Vakdor the Numeromancer deals X damage to target creature, where X is the number of loyalty counters you've removed from Vakdor the Numeromancer this turn.
+[-7]: You get an emblem with “Spells you cast with integer variable get +[] to each of their integer variable numbers.” => Integer Variable—{5},{3},{2} [i](Distrubute the numbers among the square brackets.)[/i]
+[+1]: Discard a card, then draw a card.
+[-[]]: Vakdor the Numeromancer deals X damage to target creature, where X is the number of loyalty counters you've removed from Vakdor the Numeromancer this turn.
+[-7]: You get an emblem with “Spells you cast with integer variable get +[] to each of their integer variable numbers.” [i](Distrubute the numbers among the square brackets.)[/i]
+special_text: Integer Variable—{5},{3},{2}
+[+1]: Discard a card, then draw a card.
+[-[]]: Vakdor the Numeromancer deals X damage to target creature, where X is the number of loyalty counters you've removed from Vakdor the Numeromancer this turn.
+[-7]: You get an emblem with “Spells you cast with integer variable get +[] to each of their integer variable numbers.” => Integer Variable—{5},{3},{2} [i](Distrubute the numbers among the square brackets.)[/i]
+[+1]: Discard a card, then draw a card.
+[-[]]: Vakdor the Numeromancer deals X damage to target creature, where X is the number of loyalty counters you've removed from Vakdor the Numeromancer this turn.
+[-7]: You get an emblem with “Spells you cast with integer variable get +[] to each of their integer variable numbers.” [i](Distrubute the numbers among the square brackets.)[/i]
+
+RR03 Numerical Ritual
+rules_text: Integer Variable—{X},{X+1},{X+2}
+Add [] {R}.
+Add twice [] {R}. Numerical Ritual deals that much damage to you.
+Numerical Ritual deals 5 minus [] damage to you. => Integer Variable—{X},{X+1},{X+2} [i](Distrubute the numbers among the square brackets.)[/i]
+Add [] {R}.
+Add twice [] {R}. Numerical Ritual deals that much damage to you.
+Numerical Ritual deals 5 minus [] damage to you.
+
+UR11 Maddening Infinity
+rules_text: Integer Variable—{2},{1}
+Exile the top [] cards of your library. You may play them this turn.
+Maddening Infinity deals [] damage to any target. => Integer Variable—{2},{1} [i](Distrubute the numbers among the square brackets.)[/i]
+Exile the top [] cards of your library. You may play them this turn.
+Maddening Infinity deals [] damage to any target.
+
+CG15 Caretaker's Call
+rules_text: Integer Variable—{6}{3}
+Look at the top [] cards of your library. You may reveal a creature or land card from among them. Put it into your hand and the rest on the bottom of your library in a random order.
+You gain [] life. => Integer Variable—{6}{3} [i](Distrubute the numbers among the square brackets.)[/i]
+Look at the top [] cards of your library. You may reveal a creature or land card from among them. Put it into your hand and the rest on the bottom of your library in a random order.
+You gain [] life.
+
+MA03 0-1, Numerical Ruin
+rules_text: Indestructible
+Spells you cast with integer variable have 10 instead of one of their integer variable numbers of your choice. => Indestructible
+Spells you cast with integer variable have 6 instead of one of their integer variable numbers of your choice.
+
+UG03 Question Beast
+rules_text: String Variable—{deathtouch}, {vigilance}
+[]
+When Question Beast enters, put a [] counter on another target creature. => String Variable—{deathtouch}, {vigilance} [i](Distrubute the text segments among the square brackets.)[/i]
+[]
+When Question Beast enters, put a [] counter on another target creature.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
