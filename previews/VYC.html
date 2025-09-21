@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/VYC-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>VYC visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/VYC-files/logo.png" />
+	<img class="preload-hidden" src="/sets/VP1-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VYC-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="VYC"><img src="/sets/VYC-files/icon.png">Visionary Core</a>
+	
+		<a class="set-bar inactive" href="VP1"><img src="/sets/VP1-files/icon.png">Visionary Precons 1</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/VYC-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\4_UU01 Blown Away.png" id="4_UU01 Blown Away" data-flag="@X" onclick="openSidebar('4_UU01 Blown Away',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\5_CR01 Controlled Shock.png" id="5_CR01 Controlled Shock" data-flag="@X" onclick="openSidebar('5_CR01 Controlled Shock',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\1_CU01 Masked Seer.png" id="1_CU01 Masked Seer" data-flag="@X" onclick="openSidebar('1_CU01 Masked Seer',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\6_CR02 Untold Riches.png" id="6_CR02 Untold Riches" data-flag="@X" onclick="openSidebar('6_CR02 Untold Riches',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\2_CU02 Sudden Abjuration.png" id="2_CU02 Sudden Abjuration" data-flag="@X" onclick="openSidebar('2_CU02 Sudden Abjuration',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\3_CU03 Counteract.png" id="3_CU03 Counteract" data-flag="@X" onclick="openSidebar('3_CU03 Counteract',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\49_UL01 Authorized Gateway.png" id="49_UL01 Authorized Gateway" data-flag="@X" onclick="openSidebar('49_UL01 Authorized Gateway',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\50_UL02 Optimized Gateway.png" id="50_UL02 Optimized Gateway" data-flag="@X" onclick="openSidebar('50_UL02 Optimized Gateway',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\51_UL03 Dominated Gateway.png" id="51_UL03 Dominated Gateway" data-flag="@X" onclick="openSidebar('51_UL03 Dominated Gateway',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\52_UL04 Randomized Gateway.png" id="52_UL04 Randomized Gateway" data-flag="@X" onclick="openSidebar('52_UL04 Randomized Gateway',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\53_UL05 Challenging Gateway.png" id="53_UL05 Challenging Gateway" data-flag="@X" onclick="openSidebar('53_UL05 Challenging Gateway',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\7_CL01 Courtyard of Frost.png" id="7_CL01 Courtyard of Frost" data-flag="@X" onclick="openSidebar('7_CL01 Courtyard of Frost',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\8_CL02 Courtyard of Darkness.png" id="8_CL02 Courtyard of Darkness" data-flag="@X" onclick="openSidebar('8_CL02 Courtyard of Darkness',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\9_CL03 Courtyard of Blood.png" id="9_CL03 Courtyard of Blood" data-flag="@X" onclick="openSidebar('9_CL03 Courtyard of Blood',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\10_CL04 Courtyard of Fire.png" id="10_CL04 Courtyard of Fire" data-flag="@X" onclick="openSidebar('10_CL04 Courtyard of Fire',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\11_CL05 Courtyard of Life.png" id="11_CL05 Courtyard of Life" data-flag="@X" onclick="openSidebar('11_CL05 Courtyard of Life',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\17_CL11 Pinnacle of Frost.png" id="17_CL11 Pinnacle of Frost" data-flag="@X" onclick="openSidebar('17_CL11 Pinnacle of Frost',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\18_CL12 Pinnacle of Darkness.png" id="18_CL12 Pinnacle of Darkness" data-flag="@X" onclick="openSidebar('18_CL12 Pinnacle of Darkness',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\19_CL13 Pinnacle of Blood.png" id="19_CL13 Pinnacle of Blood" data-flag="@X" onclick="openSidebar('19_CL13 Pinnacle of Blood',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\20_CL14 Pinnacle of Fire.png" id="20_CL14 Pinnacle of Fire" data-flag="@X" onclick="openSidebar('20_CL14 Pinnacle of Fire',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\21_CL15 Pinnacle of Life.png" id="21_CL15 Pinnacle of Life" data-flag="@X" onclick="openSidebar('21_CL15 Pinnacle of Life',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\27_CL21 City of Frost.png" id="27_CL21 City of Frost" data-flag="@X" onclick="openSidebar('27_CL21 City of Frost',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\28_CL22 City of Darkness.png" id="28_CL22 City of Darkness" data-flag="@X" onclick="openSidebar('28_CL22 City of Darkness',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\29_CL23 City of Blood.png" id="29_CL23 City of Blood" data-flag="@X" onclick="openSidebar('29_CL23 City of Blood',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\30_CL24 City of Fire.png" id="30_CL24 City of Fire" data-flag="@X" onclick="openSidebar('30_CL24 City of Fire',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\31_CL25 City of Life.png" id="31_CL25 City of Life" data-flag="@X" onclick="openSidebar('31_CL25 City of Life',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\37_CL31 Pit of Frost.png" id="37_CL31 Pit of Frost" data-flag="@X" onclick="openSidebar('37_CL31 Pit of Frost',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\38_CL32 Pit of Darkness.png" id="38_CL32 Pit of Darkness" data-flag="@X" onclick="openSidebar('38_CL32 Pit of Darkness',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\39_CL33 Pit of Blood.png" id="39_CL33 Pit of Blood" data-flag="@X" onclick="openSidebar('39_CL33 Pit of Blood',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\40_CL34 Pit of Fire.png" id="40_CL34 Pit of Fire" data-flag="@X" onclick="openSidebar('40_CL34 Pit of Fire',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\41_CL35 Pit of Life.png" id="41_CL35 Pit of Life" data-flag="@X" onclick="openSidebar('41_CL35 Pit of Life',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\12_CL06 Courtyard of Bone.png" id="12_CL06 Courtyard of Bone" data-flag="@X" onclick="openSidebar('12_CL06 Courtyard of Bone',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\13_CL07 Courtyard of Thunder.png" id="13_CL07 Courtyard of Thunder" data-flag="@X" onclick="openSidebar('13_CL07 Courtyard of Thunder',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\14_CL08 Courtyard of Death.png" id="14_CL08 Courtyard of Death" data-flag="@X" onclick="openSidebar('14_CL08 Courtyard of Death',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\15_CL09 Courtyard of Light.png" id="15_CL09 Courtyard of Light" data-flag="@X" onclick="openSidebar('15_CL09 Courtyard of Light',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\16_CL10 Courtyard of Water.png" id="16_CL10 Courtyard of Water" data-flag="@X" onclick="openSidebar('16_CL10 Courtyard of Water',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\22_CL16 Pinnacle of Bone.png" id="22_CL16 Pinnacle of Bone" data-flag="@X" onclick="openSidebar('22_CL16 Pinnacle of Bone',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\23_CL17 Pinnacle of Thunder.png" id="23_CL17 Pinnacle of Thunder" data-flag="@X" onclick="openSidebar('23_CL17 Pinnacle of Thunder',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\24_CL18 Pinnacle of Death.png" id="24_CL18 Pinnacle of Death" data-flag="@X" onclick="openSidebar('24_CL18 Pinnacle of Death',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\25_CL19 Pinnacle of Light.png" id="25_CL19 Pinnacle of Light" data-flag="@X" onclick="openSidebar('25_CL19 Pinnacle of Light',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\26_CL20 Pinnacle of Water.png" id="26_CL20 Pinnacle of Water" data-flag="@X" onclick="openSidebar('26_CL20 Pinnacle of Water',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\32_CL26 City of Bone.png" id="32_CL26 City of Bone" data-flag="@X" onclick="openSidebar('32_CL26 City of Bone',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\33_CL27 City of Thunder.png" id="33_CL27 City of Thunder" data-flag="@X" onclick="openSidebar('33_CL27 City of Thunder',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\34_CL28 City of Death.png" id="34_CL28 City of Death" data-flag="@X" onclick="openSidebar('34_CL28 City of Death',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\35_CL29 City of Light.png" id="35_CL29 City of Light" data-flag="@X" onclick="openSidebar('35_CL29 City of Light',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\36_CL30 City of Water.png" id="36_CL30 City of Water" data-flag="@X" onclick="openSidebar('36_CL30 City of Water',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\42_CL36 Pit of Bone.png" id="42_CL36 Pit of Bone" data-flag="@X" onclick="openSidebar('42_CL36 Pit of Bone',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\43_CL37 Pit of Thunder.png" id="43_CL37 Pit of Thunder" data-flag="@X" onclick="openSidebar('43_CL37 Pit of Thunder',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\44_CL38 Pit of Death.png" id="44_CL38 Pit of Death" data-flag="@X" onclick="openSidebar('44_CL38 Pit of Death',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\45_CL39 Pit of Light.png" id="45_CL39 Pit of Light" data-flag="@X" onclick="openSidebar('45_CL39 Pit of Light',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\46_CL40 Pit of Water.png" id="46_CL40 Pit of Water" data-flag="@X" onclick="openSidebar('46_CL40 Pit of Water',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\47_RL01 Void Rift.png" id="47_RL01 Void Rift" data-flag="@X" onclick="openSidebar('47_RL01 Void Rift',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\48_RL02 Equalization Center.png" id="48_RL02 Equalization Center" data-flag="@X" onclick="openSidebar('48_RL02 Equalization Center',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\54_UL06 Disastrous Cyclone.png" id="54_UL06 Disastrous Cyclone" data-flag="@X" onclick="openSidebar('54_UL06 Disastrous Cyclone',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\55_UL07 Disastrous Tsunami.png" id="55_UL07 Disastrous Tsunami" data-flag="@X" onclick="openSidebar('55_UL07 Disastrous Tsunami',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\56_UL08 Disastrous Eruption.png" id="56_UL08 Disastrous Eruption" data-flag="@X" onclick="openSidebar('56_UL08 Disastrous Eruption',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\57_UL09 Disastrous Wildfire.png" id="57_UL09 Disastrous Wildfire" data-flag="@X" onclick="openSidebar('57_UL09 Disastrous Wildfire',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\58_UL10 Disastrous Earthquake.png" id="58_UL10 Disastrous Earthquake" data-flag="@X" onclick="openSidebar('58_UL10 Disastrous Earthquake',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\59_Wastes.png" id="59_Wastes" data-flag="@X" onclick="openSidebar('59_Wastes',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\60_Plains.png" id="60_Plains" data-flag="@X" onclick="openSidebar('60_Plains',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\61_Island.png" id="61_Island" data-flag="@X" onclick="openSidebar('61_Island',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\62_Swamp.png" id="62_Swamp" data-flag="@X" onclick="openSidebar('62_Swamp',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\63_Mountain.png" id="63_Mountain" data-flag="@X" onclick="openSidebar('63_Mountain',false)"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\64_Forest.png" id="64_Forest" data-flag="@X" onclick="openSidebar('64_Forest',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img alt="/sets\VYC-files\img\1t_Treasure [Token].png" id="1t_Treasure [Token]" data-flag="@X" onclick="openSidebar('1t_Treasure [Token]',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+			let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+			let random_card = card_list_arrayified[i];
+
+			const url = new URL('card', window.location.origin);
+			const params = {
+				set: random_card.set,
+				num: random_card.number,
+				name: random_card.card_name
+			}
+			for (const key in params) {
+				url.searchParams.append(key, params[key]);
+			}
+
+			window.location.href = url;
+		}
+	</script>
+</body>
+</html>

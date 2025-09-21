@@ -1,18 +1,13 @@
 ﻿{
     "sets": [
         {
-            "set_code": "EAB",
-            "set_name": "Encrypted and Betrayed",
+            "set_code": "VP1",
+            "set_name": "Visionary Precons 1",
             "formats": ""
         },
         {
-            "set_code": "SHD",
-            "set_name": "Shattered Draft",
-            "formats": ""
-        },
-        {
-            "set_code": "TEL",
-            "set_name": "Histories of Teladraan",
+            "set_code": "VYC",
+            "set_name": "Visionary Core",
             "formats": ""
         }
     ]
