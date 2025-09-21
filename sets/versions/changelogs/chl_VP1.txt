@@ -1,4 +1,11 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+UB01 Rogue Reclaimer removed.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 UA03 Sanity Vessel added.
