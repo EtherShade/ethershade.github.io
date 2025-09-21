@@ -1,4 +1,14 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CB01 Calculated Coercion added.
+CG01 Naturalization Sage added.
+UM01 Devolution Sage added.
+CB02 Merciless Slaughter added.
+
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

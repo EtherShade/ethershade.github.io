@@ -1,4 +1,36 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+UA03 Sanity Vessel added.
+UU03 Shieldback Swarm added.
+UB01 Rogue Reclaimer added.
+UU02 Relic Scanner added.
+UR02 Scrapyard Savant added.
+Treasure [Token] added.
+UA02 Forge of Dreams added.
+
+UA02 Sanity Vessel removed.
+UU02 Rune-Tale Shieldback removed.
+UB01 Relicmaw Glutton removed.
+RB02 Decaying Dreadnought removed.
+
+MA01 The Grand Engine
+rules_text: When The Grand Engine enters, mill four cards.
+You may play artifact cards from your graveyard.
+You can't play more than five cards from your graveyard each turn. => When The Grand Engine enters, mill four cards.
+Artifact cards in your graveyard have escape. The escape cost is equal to the card's mana cost plus exile three other cards from your graveyard. [i](You may cast cards from your graveyard for their escape cost.)[/i]
+
+Clue [Token]
+
+RM03 Rotclaw Nightmare
+cost: {2}{B}{G}{U} => {3}{B}{G}
+rules_text: When Rotclaw Nightmare enters or dies, destroy target nonland permanent. Draw a card. => When Rotclaw Nightmare enters or dies, destroy target nonland permanent.
+
+RG01 Rotmask Behemoth
+pt: 5/4 => 6/6
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

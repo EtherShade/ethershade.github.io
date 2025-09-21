@@ -10,7 +10,7 @@
     },
     {
         "card_name": "RB01 Rot Festival",
-        "number": 5,
+        "number": 6,
         "shape": "normal",
         "set": "VP1"
     },
@@ -22,7 +22,7 @@
     },
     {
         "card_name": "RG01 Rotmask Behemoth",
-        "number": 10,
+        "number": 11,
         "shape": "normal",
         "set": "VP1"
     },
@@ -36,8 +36,8 @@
         "set": "VP1"
     },
     {
-        "card_name": "RB02 Decaying Dreadnought",
-        "number": 6,
+        "card_name": "UB01 Rogue Reclaimer",
+        "number": 7,
         "shape": "normal",
         "set": "VP1"
     },
@@ -49,7 +49,7 @@
     },
     {
         "card_name": "UG01 Rebirther Ouroboros",
-        "number": 11,
+        "number": 12,
         "shape": "normal",
         "set": "VP1"
     },
@@ -63,8 +63,23 @@
         "set": "VP1"
     },
     {
-        "card_name": "UB01 Relicmaw Glutton",
-        "number": 7,
+        "card_name": "e"
+    },
+    {
+        "card_name": "UR02 Scrapyard Savant",
+        "number": 10,
+        "shape": "normal",
+        "set": "VP1"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UU02 Relic Scanner",
+        "number": 4,
         "shape": "normal",
         "set": "VP1"
     },
@@ -78,9 +93,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "UU02 Rune-Tale Shieldback",
-        "number": 4,
-        "shape": "saga",
+        "card_name": "e"
+    },
+    {
+        "card_name": "UU03 Shieldback Swarm",
+        "number": 5,
+        "shape": "normal",
         "set": "VP1"
     },
     {
@@ -112,7 +130,13 @@
     },
     {
         "card_name": "RM01 Vaxos, Guardian of the Engine",
-        "number": 13,
+        "number": 14,
+        "shape": "normal",
+        "set": "VP1"
+    },
+    {
+        "card_name": "RM03 Rotclaw Nightmare",
+        "number": 16,
         "shape": "normal",
         "set": "VP1"
     },
@@ -126,11 +150,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "RM02 Steam Visions",
-        "number": 14,
+        "number": 15,
         "shape": "normal",
         "set": "VP1"
     },
@@ -160,15 +181,12 @@
     },
     {
         "card_name": "MM01 Altar of Evolution",
-        "number": 12,
+        "number": 13,
         "shape": "normal",
         "set": "VP1"
     },
     {
-        "card_name": "RM03 Rotclaw Nightmare",
-        "number": 15,
-        "shape": "normal",
-        "set": "VP1"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -194,54 +212,57 @@
     "a->colorless",
     {
         "card_name": "MA01 The Grand Engine",
-        "number": 18,
-        "shape": "normal",
-        "set": "VP1"
-    },
-    {
-        "card_name": "RA01 Opal Shard",
         "number": 19,
         "shape": "normal",
         "set": "VP1"
     },
     {
-        "card_name": "RA02 Maniac's Guidebook",
+        "card_name": "RA01 Opal Shard",
         "number": 20,
         "shape": "normal",
         "set": "VP1"
     },
     {
-        "card_name": "RA03 Disruption Bell",
+        "card_name": "RA02 Maniac's Guidebook",
         "number": 21,
         "shape": "normal",
         "set": "VP1"
     },
     {
-        "card_name": "UA01 Magnificent Furnace",
+        "card_name": "RA03 Disruption Bell",
         "number": 22,
         "shape": "normal",
         "set": "VP1"
     },
     {
-        "card_name": "UA02 Sanity Vessel",
+        "card_name": "UA01 Magnificent Furnace",
         "number": 23,
         "shape": "normal",
         "set": "VP1"
     },
     {
-        "card_name": "CA01 Broken Automite",
-        "number": 16,
+        "card_name": "UA02 Forge of Dreams",
+        "number": 24,
         "shape": "normal",
         "set": "VP1"
     },
     {
-        "card_name": "CA02 Engine Lever",
+        "card_name": "UA03 Sanity Vessel",
+        "number": 25,
+        "shape": "normal",
+        "set": "VP1"
+    },
+    {
+        "card_name": "CA01 Broken Automite",
         "number": 17,
         "shape": "normal",
         "set": "VP1"
     },
     {
-        "card_name": "e"
+        "card_name": "CA02 Engine Lever",
+        "number": 18,
+        "shape": "normal",
+        "set": "VP1"
     },
     {
         "card_name": "e"
@@ -263,7 +284,7 @@
     },
     {
         "card_name": "RL01 Opal Sanctuary",
-        "number": 24,
+        "number": 26,
         "shape": "normal",
         "set": "VP1"
     },
@@ -299,7 +320,10 @@
         "set": "VP1"
     },
     {
-        "card_name": "e"
+        "card_name": "Treasure [Token]",
+        "number": 2,
+        "shape": "token",
+        "set": "VP1"
     },
     {
         "card_name": "e"
