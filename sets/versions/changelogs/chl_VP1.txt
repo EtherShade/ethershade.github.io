@@ -1,4 +1,35 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+UU04 Vision Monitor added.
+UB01 Mind Bug added.
+UA04 Duplispear added.
+UG02 Wilderwarper added.
+
+
+UU01 Artificial Aristocrat
+cost: {1}{U} => {U}
+rules_text: Flying
+Whenever Artificial Aristocrat attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Flying
+When Artificial Aristocrat enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+UA03 Sanity Vessel
+cost: {2} => {1}
+rules_text: When Sanity Vessel enters, draw a card.
+{T}: Shuffle target card from a graveyard into its owner's library. => Kicker—1 or discard a card. [i](You may 1 or discard a card in addition to any other costs as you cast this spell.)[/i]
+{T}: Shuffle up to two target cards from graveyards into their owners' library.
+
+UU03 Shieldback Swarm
+rules_text: When Shieldback Swarm enters, if its not a token, create a token that's a copy of it.
+Whenever an opponent attacks, target attacking creature gets -4/-0 until end of turn. => When Shieldback Swarm enters, if its not a token, create a token that's a copy of it.
+Whenever an opponent attacks, target attacking creature gets -2/-0 until end of turn.
+
+UR02 Scrapyard Savant
+cost: {1}{R} => {2}{R}
+pt: 1/1 => 2/2
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
