@@ -1,4 +1,30 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+ML01 Sanctum of Lost Memories added.
+UB03 Memory Parasite added.
+UB02 Shadowphase Slayer added.
+UG03 History Parasite added.
+RC01 Underworld Minimalism added.
+UC01 Voidfire Tendrils added.
+UR03 Predator of Bloodied Fang added.
+UR04 Scrawny Scavenger added.
+RM04 Parasite Farmer added.
+UG04 Vinewinder Parasite added.
+UB04 Mindwinder Parasite added.
+UC02 Void Wormhole added.
+RG02 Gravebound Cleansing added.
+RB02 Unthinkable Memories added.
+UC03 Mildly Unthinkable added.
+
+
+UA03 Sanity Vessel
+rules_text: Kicker—1 or discard a card. [i](You may 1 or discard a card in addition to any other costs as you cast this spell.)[/i]
+{T}: Shuffle up to two target cards from graveyards into their owners' library. => Kicker—Pay {1} or discard a card. [i](You may pay 1 or discard a card in addition to any other costs as you cast this spell.)[/i]
+{T}: Shuffle up to two target cards from graveyards into their owners' library.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 UU04 Vision Monitor added.

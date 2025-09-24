@@ -1,4 +1,13 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+UG01 Naturalization Sage added.
+UB02 Minimalist Murder added.
+
+CG01 Naturalization Sage removed.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 UB01 Rogue Reclaimer added.
