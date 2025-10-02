@@ -1,0 +1,187 @@
+﻿[
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR05 Planar Fracture",
+        "number": 1,
+        "shape": "normal",
+        "set": "COV",
+        "position": "12"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "UM01 Lawful Manipulator",
+        "number": 2,
+        "shape": "normal",
+        "set": "COV",
+        "position": "7"
+    },
+    {
+        "card_name": "UM03 Assassin Outfitter",
+        "number": 4,
+        "shape": "normal",
+        "set": "COV",
+        "position": "9"
+    },
+    {
+        "card_name": "UM05 Magnetics Scrapper",
+        "number": 6,
+        "shape": "normal",
+        "set": "COV",
+        "position": "11"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM02 Study in Diplomacy",
+        "number": 3,
+        "shape": "normal",
+        "set": "COV",
+        "position": "8"
+    },
+    {
+        "card_name": "UM04 Tenacious Curiosity",
+        "number": 5,
+        "shape": "normal",
+        "set": "COV",
+        "position": "10"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL01 Decaying Mine",
+        "number": 7,
+        "shape": "normal",
+        "set": "COV",
+        "position": "0"
+    },
+    {
+        "card_name": "CL02 Decaying Tomb",
+        "number": 8,
+        "shape": "normal",
+        "set": "COV",
+        "position": "1"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Decaying Plains",
+        "number": 9,
+        "shape": "normal",
+        "set": "COV",
+        "position": "2"
+    },
+    {
+        "card_name": "Decaying Island",
+        "number": 10,
+        "shape": "normal",
+        "set": "COV",
+        "position": "3"
+    },
+    {
+        "card_name": "Decaying Swamp",
+        "number": 11,
+        "shape": "normal",
+        "set": "COV",
+        "position": "4"
+    },
+    {
+        "card_name": "Decaying Mountain",
+        "number": 12,
+        "shape": "normal",
+        "set": "COV",
+        "position": "5"
+    },
+    {
+        "card_name": "Decaying Forest",
+        "number": 13,
+        "shape": "normal",
+        "set": "COV",
+        "position": "6"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
