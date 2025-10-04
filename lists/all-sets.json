@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "AKA",
+            "set_name": "Ars Kairdia alphatest",
+            "formats": ""
+        },
+        {
             "set_code": "COV",
             "set_name": "Callings of Venturia",
             "formats": "Fractured Pie"

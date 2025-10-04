@@ -1,4 +1,12 @@
 ﻿{
+    "name": "Ars Kairdia alphatest",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "png",
+    "draft_structure": "none",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Red Duelist Gauntlet",
@@ -18,9 +26,7 @@
             "artist": "",
             "alias": "",
             "position": "0",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Lone Eternal",
@@ -40,9 +46,7 @@
             "artist": "",
             "alias": "",
             "position": "1",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Amulet of Skill",
@@ -62,9 +66,7 @@
             "artist": "",
             "alias": "",
             "position": "2",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Stone of Card Pitching",
@@ -84,9 +86,7 @@
             "artist": "",
             "alias": "",
             "position": "3",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Pendant of the Mind",
@@ -106,9 +106,7 @@
             "artist": "",
             "alias": "",
             "position": "4",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Amulet of Providence",
@@ -128,9 +126,7 @@
             "artist": "",
             "alias": "",
             "position": "5",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Amulet of Logic",
@@ -150,9 +146,7 @@
             "artist": "",
             "alias": "",
             "position": "6",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Research",
@@ -172,15 +166,13 @@
             "artist": "",
             "alias": "",
             "position": "7",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Capybara",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Capybara",
+            "type": "Creature \u2014 Capybara",
             "number": 10,
             "color_identity": "C",
             "cost": "",
@@ -194,9 +186,7 @@
             "artist": "",
             "alias": "",
             "position": "8",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Prism of Repetition",
@@ -216,9 +206,7 @@
             "artist": "",
             "alias": "",
             "position": "9",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Kairdite Imprint",
@@ -238,9 +226,7 @@
             "artist": "",
             "alias": "",
             "position": "10",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Profession",
@@ -260,9 +246,7 @@
             "artist": "",
             "alias": "",
             "position": "11",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Inheritance",
@@ -282,9 +266,7 @@
             "artist": "",
             "alias": "",
             "position": "12",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Reputation",
@@ -304,15 +286,13 @@
             "artist": "",
             "alias": "",
             "position": "13",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Careful Capybara",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Capybara",
+            "type": "Creature \u2014 Capybara",
             "number": 12,
             "color_identity": "C",
             "cost": "",
@@ -326,15 +306,13 @@
             "artist": "",
             "alias": "",
             "position": "14",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Swift Capybara",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Capybara",
+            "type": "Creature \u2014 Capybara",
             "number": 51,
             "color_identity": "C",
             "cost": "",
@@ -348,15 +326,13 @@
             "artist": "",
             "alias": "",
             "position": "15",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Mighty Capybara",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Capybara",
+            "type": "Creature \u2014 Capybara",
             "number": 26,
             "color_identity": "C",
             "cost": "",
@@ -370,9 +346,7 @@
             "artist": "",
             "alias": "",
             "position": "16",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Doomed Loans",
@@ -392,9 +366,7 @@
             "artist": "",
             "alias": "",
             "position": "17",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Controlled Flame Attack",
@@ -414,9 +386,7 @@
             "artist": "",
             "alias": "",
             "position": "18",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Capybara Tamer",
@@ -436,9 +406,7 @@
             "artist": "",
             "alias": "",
             "position": "19",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Blue Duelist Gauntlet",
@@ -458,9 +426,7 @@
             "artist": "",
             "alias": "",
             "position": "20",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Yellow Duelist Gauntlet",
@@ -480,9 +446,7 @@
             "artist": "",
             "alias": "",
             "position": "21",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Grey Duelist Gauntlet",
@@ -502,9 +466,7 @@
             "artist": "",
             "alias": "",
             "position": "22",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Reprocess",
@@ -514,7 +476,7 @@
             "number": 42,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Cost = 5 Logic\nReactive [i](May be played or activated anytime you have priority.)[/i]\nReturn any number of target nontoken creatures and/or assets you control to your hand. Repeat the following choice for each card returned to your hand this way \u2013\n\u2022 Draw a card, then discard a card.\n\u2022 Create a Vision token.",
+            "rules_text": "Cost = 5 Logic\nReactive [i](May be played or activated anytime you have priority.)[/i]\nReturn any number of target nontoken creatures and/or assets you control to your hand. Repeat the following choice for each card returned to your hand this way \u2014\n\u2022 Draw a card, then discard a card.\n\u2022 Create a Vision token.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -524,9 +486,7 @@
             "artist": "",
             "alias": "",
             "position": "23",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Vision [Token]",
@@ -546,9 +506,7 @@
             "artist": "",
             "alias": "",
             "position": "24",
-            "notes": "!token\n!related Reprocess",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "!token\n!related Reprocess"
         },
         {
             "card_name": "Refuse",
@@ -568,9 +526,7 @@
             "artist": "",
             "alias": "",
             "position": "25",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Negate",
@@ -590,9 +546,7 @@
             "artist": "",
             "alias": "",
             "position": "26",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Swine Hag",
@@ -612,15 +566,13 @@
             "artist": "",
             "alias": "",
             "position": "27",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Bartered Boar",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Pig",
+            "type": "Creature \u2014 Pig",
             "number": 6,
             "color_identity": "C",
             "cost": "",
@@ -634,15 +586,13 @@
             "artist": "",
             "alias": "",
             "position": "28",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Raven",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 36,
             "color_identity": "C",
             "cost": "",
@@ -656,15 +606,13 @@
             "artist": "",
             "alias": "",
             "position": "29",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Crow",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 15,
             "color_identity": "C",
             "cost": "",
@@ -678,15 +626,13 @@
             "artist": "",
             "alias": "",
             "position": "30",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Vulture",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 57,
             "color_identity": "C",
             "cost": "",
@@ -700,9 +646,7 @@
             "artist": "",
             "alias": "",
             "position": "31",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Looping Hourglass",
@@ -722,9 +666,7 @@
             "artist": "",
             "alias": "",
             "position": "32",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Impulsive Decision",
@@ -744,9 +686,7 @@
             "artist": "",
             "alias": "",
             "position": "33",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Cursed Flames",
@@ -766,9 +706,7 @@
             "artist": "",
             "alias": "",
             "position": "34",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Baneful Flames",
@@ -788,9 +726,7 @@
             "artist": "",
             "alias": "",
             "position": "35",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Pyre",
@@ -810,9 +746,7 @@
             "artist": "",
             "alias": "",
             "position": "36",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Unholy Flames",
@@ -832,9 +766,7 @@
             "artist": "",
             "alias": "",
             "position": "37",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Sudden Strength",
@@ -854,9 +786,7 @@
             "artist": "",
             "alias": "",
             "position": "38",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Sudden Endurance",
@@ -876,15 +806,13 @@
             "artist": "",
             "alias": "",
             "position": "39",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Bleakfeather Trinity Imprint",
             "color": "",
             "rarity": "rare",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 7,
             "color_identity": "C",
             "cost": "",
@@ -898,9 +826,7 @@
             "artist": "",
             "alias": "",
             "position": "40",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Strength of Command",
@@ -920,9 +846,7 @@
             "artist": "",
             "alias": "",
             "position": "41",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Reflex Mirror",
@@ -942,9 +866,7 @@
             "artist": "",
             "alias": "",
             "position": "42",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Archer",
@@ -964,9 +886,7 @@
             "artist": "",
             "alias": "",
             "position": "43",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Minnow",
@@ -986,9 +906,7 @@
             "artist": "",
             "alias": "",
             "position": "44",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Spark",
@@ -1008,9 +926,7 @@
             "artist": "",
             "alias": "",
             "position": "45",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Inverter of Time",
@@ -1030,9 +946,7 @@
             "artist": "",
             "alias": "",
             "position": "46",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Confusing Lockbox",
@@ -1052,9 +966,7 @@
             "artist": "",
             "alias": "",
             "position": "47",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Lightning Rod",
@@ -1074,9 +986,7 @@
             "artist": "",
             "alias": "",
             "position": "48",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Temporal Dilation",
@@ -1096,9 +1006,7 @@
             "artist": "",
             "alias": "",
             "position": "49",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Outthink",
@@ -1118,9 +1026,7 @@
             "artist": "",
             "alias": "",
             "position": "50",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Mistake",
@@ -1140,9 +1046,7 @@
             "artist": "",
             "alias": "",
             "position": "51",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Reflexive Flames",
@@ -1162,9 +1066,7 @@
             "artist": "",
             "alias": "",
             "position": "52",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Refocus",
@@ -1184,9 +1086,7 @@
             "artist": "",
             "alias": "",
             "position": "53",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Repurpose Thoughts",
@@ -1206,9 +1106,7 @@
             "artist": "",
             "alias": "",
             "position": "54",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Veil of Luck",
@@ -1228,9 +1126,7 @@
             "artist": "",
             "alias": "",
             "position": "55",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Tax",
@@ -1250,9 +1146,7 @@
             "artist": "",
             "alias": "",
             "position": "56",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Prophecy",
@@ -1272,9 +1166,7 @@
             "artist": "",
             "alias": "",
             "position": "57",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Cancel",
@@ -1294,295 +1186,7 @@
             "artist": "",
             "alias": "",
             "position": "58",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
-        },
-        {
-            "card_name": "CL01 Decaying Mine",
-            "color": "",
-            "rarity": "common",
-            "type": "Land",
-            "number": 7,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "Depleting 3 [i](This permanent enters with three time counters. If it has none, sacrifice it.)[/i]\n{T}, Remove a time counter from Decaying Mine: Add {C}.\n{T}, Remove two time counters from Decaying Mine: Remove two time counters from target land.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "COV",
-            "loyalty": "",
-            "artist": "EtherShade",
-            "alias": "",
-            "position": "0",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
-        },
-        {
-            "card_name": "CL02 Decaying Tomb",
-            "color": "",
-            "rarity": "common",
-            "type": "Land",
-            "number": 8,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "Depleting 2 [i](This permanent enters with two time counters. If it has none, sacrifice it.)[/i]\n{T}, Remove a time counter from Decaying Mine: Add {C}.\n{T}, Remove two time counters from Decaying Mine: Add {C}{C}.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "COV",
-            "loyalty": "",
-            "artist": "EtherShade",
-            "alias": "",
-            "position": "1",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
-        },
-        {
-            "card_name": "Decaying Plains",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2013 Plains",
-            "number": 9,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "[i]({T}: Add {W}.)[/i]\nDepleting 3 [i](This permanent enters with three time counters. If it has none, sacrifice it.)[/i]\nAs an additional cost to activate Decaying Plains's abilities, remove a time counter from it.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "COV",
-            "loyalty": "",
-            "artist": "EtherShade",
-            "alias": "",
-            "position": "2",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
-        },
-        {
-            "card_name": "Decaying Island",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2013 Island",
-            "number": 10,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "[i]({T}: Add {U}.)[/i]\nDepleting 3 [i](This permanent enters with three time counters. If it has none, sacrifice it.)[/i]\nAs an additional cost to activate Decaying Island's abilities, remove a time counter from it.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "COV",
-            "loyalty": "",
-            "artist": "EtherShade",
-            "alias": "",
-            "position": "3",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
-        },
-        {
-            "card_name": "Decaying Swamp",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2013 Swamp",
-            "number": 11,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "[i]({T}: Add {B}.)[/i]\nDepleting 3 [i](This permanent enters with three time counters. If it has none, sacrifice it.)[/i]\nAs an additional cost to activate Decaying Swamp's abilities, remove a time counter from it.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "COV",
-            "loyalty": "",
-            "artist": "EtherShade",
-            "alias": "",
-            "position": "4",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
-        },
-        {
-            "card_name": "Decaying Mountain",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2013 Mountain",
-            "number": 12,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "[i]({T}: Add {R}.)[/i]\nDepleting 3 [i](This permanent enters with three time counters. If it has none, sacrifice it.)[/i]\nAs an additional cost to activate Decaying Mountain's abilities, remove a time counter from it.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "COV",
-            "loyalty": "",
-            "artist": "EtherShade",
-            "alias": "",
-            "position": "5",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
-        },
-        {
-            "card_name": "Decaying Forest",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2013 Forest",
-            "number": 13,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "[i]({T}: Add {G}.)[/i]\nDepleting 3 [i](This permanent enters with three time counters. If it has none, sacrifice it.)[/i]\nAs an additional cost to activate Decaying Forest's abilities, remove a time counter from it.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "COV",
-            "loyalty": "",
-            "artist": "EtherShade",
-            "alias": "",
-            "position": "6",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
-        },
-        {
-            "card_name": "UM01 Lawful Manipulator",
-            "color": "WU",
-            "rarity": "uncommon",
-            "type": "Creature \u2013 Human Advisor",
-            "number": 2,
-            "color_identity": "WU",
-            "cost": "{W}{U}",
-            "rules_text": "Whenever you draw your second card each turn, shuffle up to three target cards from your graveyard into your library. You gain 2 life. If you control exactly two paragons, draw a card.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/3",
-            "special_text": "",
-            "shape": "normal",
-            "set": "COV",
-            "loyalty": "",
-            "artist": "EtherShade",
-            "alias": "",
-            "position": "7",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
-        },
-        {
-            "card_name": "UM02 Study in Diplomacy",
-            "color": "WU",
-            "rarity": "uncommon",
-            "type": "Kindred Instant \u2013 Advisor",
-            "number": 3,
-            "color_identity": "WU",
-            "cost": "{1}{W}{U}",
-            "rules_text": "Draw two cards. Exemplify Advisor. [i](Choose an Advisor you control. It becomes your Advisor paragon. As long as you control exactly two paragons, spells you cast of one of your paragon types cost {1} less to cast.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "COV",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "8",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
-        },
-        {
-            "card_name": "UM03 Assassin Outfitter",
-            "color": "UB",
-            "rarity": "uncommon",
-            "type": "Creature \u2013 Human Rogue",
-            "number": 4,
-            "color_identity": "UB",
-            "cost": "{2}{U}{B}",
-            "rules_text": "Other creatures you control have skulk. [i](This creature can't be blocked by creatures with greater power.)[/i]\nOther creatures you control can't be blocked as long as you control exactly two paragons.",
-            "flavor_text": "[i][/i]",
-            "pt": "4/4",
-            "special_text": "",
-            "shape": "normal",
-            "set": "COV",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "9",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
-        },
-        {
-            "card_name": "UM04 Tenacious Curiosity",
-            "color": "UB",
-            "rarity": "uncommon",
-            "type": "Kindred Enchantment \u2013 Rogue Aura",
-            "number": 5,
-            "color_identity": "UB",
-            "cost": "{U}{B}",
-            "rules_text": "Flash\nEnchant creature\nWhenever equipped creature deals combat damage to a player, draw a card.\nWhen enchanted creature dies, return it to the battlefield and exemplify Rogue. [i](Choose a Rogue you control. It becomes your Rogue paragon. As long as you control exactly two paragons, spells you cast of one of your paragon types cost {1} less to cast.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "COV",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "10",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
-        },
-        {
-            "card_name": "UM05 Magnetics Scrapper",
-            "color": "BR",
-            "rarity": "uncommon",
-            "type": "Creature \u2013 Human Artificer",
-            "number": 6,
-            "color_identity": "BR",
-            "cost": "{1}{B}{R}",
-            "rules_text": "Menace\nWhen Magnetics Scrapper enters, create a Compass token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Look at the top card of your library. If it's a land, you may put it onto the battlefield tapped. Otherwise, put it into your hand.\u201d)[/i]\nWhenever you sacrifice an artifact, exile the top card of your library. You may it during any turn you've sacrificed an artifact.",
-            "flavor_text": "[i][/i]",
-            "pt": "3/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "COV",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "11",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
-        },
-        {
-            "card_name": "CR05 Planar Fracture",
-            "color": "R",
-            "rarity": "rare",
-            "type": "Enchantment",
-            "number": 1,
-            "color_identity": "R",
-            "cost": "{R}",
-            "rules_text": "Depleting 3 [i](This permanent enters with three time counters. If it has none, sacrifice it.)[/i]\nAt the beginning of each players' upkeep, that player removes a counter from a permanent they control.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "COV",
-            "loyalty": "",
-            "artist": "EtherShade",
-            "alias": "",
-            "position": "12",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         }
     ]
 }
