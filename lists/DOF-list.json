@@ -1,0 +1,150 @@
+﻿[
+    {
+        "card_name": "MW01 Elspeth, Radiant Wrath",
+        "number": 3,
+        "shape": "planeswalker",
+        "set": "DOF",
+        "position": "1"
+    },
+    {
+        "card_name": "MU01 Urza, Lord Destroyer",
+        "number": 5,
+        "shape": "planeswalker",
+        "set": "DOF",
+        "position": "2"
+    },
+    {
+        "card_name": "MB01 Sorin, Last to Fall",
+        "number": 7,
+        "shape": "planeswalker",
+        "set": "DOF",
+        "position": "3"
+    },
+    {
+        "card_name": "MR01 Laora, Pyre of the Lotus",
+        "number": 10,
+        "shape": "planeswalker",
+        "set": "DOF",
+        "position": "4"
+    },
+    {
+        "card_name": "MG01 Wrenn, Realmbroken",
+        "number": 12,
+        "shape": "planeswalker",
+        "set": "DOF",
+        "position": "5"
+    },
+    {
+        "card_name": "RW01 The Unfeeling",
+        "number": 4,
+        "shape": "normal",
+        "set": "DOF",
+        "position": "7"
+    },
+    {
+        "card_name": "RU01 The Unseeing",
+        "number": 6,
+        "shape": "normal",
+        "set": "DOF",
+        "position": "9"
+    },
+    {
+        "card_name": "RB01 The Untasting",
+        "number": 8,
+        "shape": "normal",
+        "set": "DOF",
+        "position": "10"
+    },
+    {
+        "card_name": "RR01 The Unhearing",
+        "number": 11,
+        "shape": "normal",
+        "set": "DOF",
+        "position": "11"
+    },
+    {
+        "card_name": "RG01 The Unsmelling",
+        "number": 13,
+        "shape": "normal",
+        "set": "DOF",
+        "position": "12"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CA01 Ruk, Thief of Kher Keep",
+        "number": 9,
+        "shape": "planeswalker",
+        "set": "DOF",
+        "position": "0"
+    },
+    {
+        "card_name": "UG01 Gore Tyrant",
+        "number": 14,
+        "shape": "normal",
+        "set": "DOF",
+        "position": "14"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "MC01 The Torturer",
+        "number": 1,
+        "shape": "planeswalker",
+        "set": "DOF",
+        "position": "6"
+    },
+    {
+        "card_name": "RC01 The Unliving",
+        "number": 2,
+        "shape": "normal",
+        "set": "DOF",
+        "position": "13"
+    },
+    {
+        "card_name": "CA02 Mox DNA",
+        "number": 15,
+        "shape": "normal",
+        "set": "DOF",
+        "position": "8"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
