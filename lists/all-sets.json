@@ -1,23 +1,8 @@
 ﻿{
     "sets": [
         {
-            "set_code": "DOF",
-            "set_name": "Dooms of the Five",
-            "formats": ""
-        },
-        {
-            "set_code": "GVC",
-            "set_name": "Garbage Vintage Core",
-            "formats": ""
-        },
-        {
-            "set_code": "GVP",
-            "set_name": "Garbage Vintage Precons",
-            "formats": ""
-        },
-        {
-            "set_code": "PLE",
-            "set_name": "Planes of the Lost Era",
+            "set_code": "GOU",
+            "set_name": "Glory of the Ultraprism",
             "formats": ""
         }
     ]
