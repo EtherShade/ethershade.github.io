@@ -63,7 +63,7 @@
         "position": "134"
     },
     {
-        "card_name": "RG04 Questing Yeast",
+        "card_name": "RG04 Questgiver Glassguard",
         "number": 111,
         "shape": "normal",
         "set": "GOU",
@@ -161,7 +161,7 @@
         "position": "85"
     },
     {
-        "card_name": "CR03 Frightful Breadguard",
+        "card_name": "CR03 Frightful Glassguard",
         "number": 71,
         "shape": "normal",
         "set": "GOU",
@@ -175,7 +175,7 @@
         "position": "125"
     },
     {
-        "card_name": "CW06 Swiftblade Breadguard",
+        "card_name": "CW06 Swiftblade Glassguard",
         "number": 12,
         "shape": "normal",
         "set": "GOU",
@@ -217,7 +217,7 @@
         "position": "50"
     },
     {
-        "card_name": "CU06 Twisted Seabeast",
+        "card_name": "CU06 Twisted Seabeast#",
         "number": 32,
         "shape": "normal",
         "set": "GOU",
@@ -511,7 +511,7 @@
         "position": "95"
     },
     {
-        "card_name": "CR13 Thrill of Consumption",
+        "card_name": "CR13 Thrill of Ruin",
         "number": 81,
         "shape": "normal",
         "set": "GOU",
@@ -525,7 +525,7 @@
         "position": "135"
     },
     {
-        "card_name": "CW16 Baguette Blade",
+        "card_name": "CW16 Shatterblade",
         "number": 22,
         "shape": "normal",
         "set": "GOU",
@@ -595,7 +595,7 @@
         "position": "137"
     },
     {
-        "card_name": "CW18 Breadguard Alarm",
+        "card_name": "CW18 Glassguard Alarm",
         "number": 24,
         "shape": "normal",
         "set": "GOU",
@@ -616,14 +616,14 @@
         "position": "97"
     },
     {
-        "card_name": "CR16 Edible Ferocity",
+        "card_name": "CR16 Shattering Ferocity",
         "number": 84,
         "shape": "normal",
         "set": "GOU",
         "position": "119"
     },
     {
-        "card_name": "CG15 Might of the Round Loaf",
+        "card_name": "CG15 Might of the Glassguards",
         "number": 105,
         "shape": "normal",
         "set": "GOU",
@@ -665,7 +665,7 @@
         "position": "140"
     },
     {
-        "card_name": "CW20 Repel the Unholy",
+        "card_name": "CW20 Repel the Unholy#",
         "number": 26,
         "shape": "normal",
         "set": "GOU",
@@ -717,7 +717,7 @@
         "position": "144"
     },
     {
-        "card_name": "CR19 Overbaked",
+        "card_name": "CR19 Overkill Glassblowing",
         "number": 87,
         "shape": "normal",
         "set": "GOU",
@@ -927,7 +927,7 @@
         "position": "26"
     },
     {
-        "card_name": "UM17 Breadguard Hero",
+        "card_name": "UM17 Glassguard Hero",
         "number": 140,
         "shape": "normal",
         "set": "GOU",
@@ -962,7 +962,7 @@
         "position": "27"
     },
     {
-        "card_name": "UM18 Lightning Baguette",
+        "card_name": "UM18 Lightning Shards",
         "number": 141,
         "shape": "normal",
         "set": "GOU",
@@ -997,7 +997,7 @@
         "position": "40"
     },
     {
-        "card_name": "CM09 Pure Breadguard",
+        "card_name": "CM09 Pure Glassguard",
         "number": 122,
         "shape": "normal",
         "set": "GOU",
@@ -1066,7 +1066,7 @@
         "position": "151"
     },
     {
-        "card_name": "CA01 Defensive Loaf",
+        "card_name": "CA01 Defensive Shard",
         "number": 144,
         "shape": "normal",
         "set": "GOU",
@@ -1140,7 +1140,7 @@
         "position": "15"
     },
     {
-        "card_name": "Bread Knight [Token]",
+        "card_name": "Glass Knight [Token]",
         "number": 5,
         "shape": "token",
         "set": "GOU",
@@ -1200,7 +1200,7 @@
         "position": "2"
     },
     {
-        "card_name": "SC02 Malleate",
+        "card_name": "SC02 Malleate#",
         "number": 2,
         "shape": "normal",
         "set": "GOU",
