@@ -1,0 +1,264 @@
+﻿[
+    {
+        "card_name": "Puppetear",
+        "number": 5,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "7"
+    },
+    {
+        "card_name": "The Ink Stares Back",
+        "number": 10,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "12"
+    },
+    {
+        "card_name": "Inkwell",
+        "number": 19,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "0"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Roosterror",
+        "number": 6,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "10"
+    },
+    {
+        "card_name": "Accelerate",
+        "number": 8,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "15"
+    },
+    {
+        "card_name": "Comedy Mask",
+        "number": 17,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "1"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Antagonor",
+        "number": 1,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "9"
+    },
+    {
+        "card_name": "Forbidden Knowledge",
+        "number": 9,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "14"
+    },
+    {
+        "card_name": "Tragedy Mask",
+        "number": 20,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Consumtoad",
+        "number": 2,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "20"
+    },
+    {
+        "card_name": "Purchase Mediums",
+        "number": 11,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "18"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Inkeye",
+        "number": 3,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "6"
+    },
+    {
+        "card_name": "Research",
+        "number": 12,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "13"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Protagonor",
+        "number": 4,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "8"
+    },
+    {
+        "card_name": "Ruin",
+        "number": 13,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "19"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Venumar",
+        "number": 7,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "5"
+    },
+    {
+        "card_name": "Search",
+        "number": 14,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "17"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Study",
+        "number": 15,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "11"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wrath and Ruin",
+        "number": 16,
+        "shape": "normal",
+        "set": "WQA",
+        "position": "16"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Comedy Mask [Token]",
+        "number": 18,
+        "shape": "token",
+        "set": "WQA",
+        "position": "3"
+    },
+    {
+        "card_name": "Tragedy Mask [Token]",
+        "number": 21,
+        "shape": "token",
+        "set": "WQA",
+        "position": "4"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

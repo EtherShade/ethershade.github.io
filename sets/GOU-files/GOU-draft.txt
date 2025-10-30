@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "SC01 Chromatica",
-			"rarity": "special",
+			"rarity": "masterpiece",
 			"mana_cost": "{1}P",
 			"type": "Instant",
 			"collector_number": "1",
@@ -32,7 +32,7 @@
 		},
 		{
 			"name": "SC02 Malleate",
-			"rarity": "special",
+			"rarity": "masterpiece",
 			"mana_cost": "{2}PP",
 			"type": "Sorcery",
 			"collector_number": "2",
@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "SC03 Prismify",
-			"rarity": "special",
+			"rarity": "masterpiece",
 			"mana_cost": "{3}PPP",
 			"type": "Instant",
 			"collector_number": "3",
@@ -1572,7 +1572,37 @@
 		}
 	]
 
-[common(16)]
+[rare(1)]
+	5 SZ01 Moldabear
+	5 MR01 Prismatic Ritual
+	5 MB01 Iron Ideals
+	5 RU05 Hydrokinetic Visionary
+	5 RR05 Treasured Ritual
+	5 RG05 Wrath of the Wilds
+	5 RG04 Questing Yeast
+	5 RC01 Unspeakable Edict
+[uncommon(3)]
+	5 UM01 Amplifying Chromageist
+	5 UM02 Dormant Chromageist
+	5 UM03 Omenous Ironclaw
+	5 UM04 Ironclaw Occultist
+	5 UM05 Omenous Ironfang
+	5 UM06 Ironfang Trickster
+	5 UM07 Caller of Inspiration
+	5 UM08 Vibrant Ritual
+	5 UM09 Glorykeeper Dryad
+	5 UM10 Vessel of Glory
+	5 UM11 Omenous Ironwing
+	5 UM12 Ironwing Devotee
+	5 UM13 Tuning Drake
+	5 UM14 Tuned Adapter
+	5 UM15 Omenous Ironsilk
+	5 UM16 Ironsilk Trapper
+	5 UM17 Breadguard Hero
+	5 UM18 Lightning Baguette
+	5 UM19 Communal Evolver
+	5 UM20 Spontaneous Evolution
+[common(10)]
 	5 CG03 Vel, Poison Prodigy
 	5 CU12 Attune to Glory
 	5 CW01 Fused Creation
