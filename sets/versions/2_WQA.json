@@ -1,7 +1,7 @@
 ﻿{
     "name": "Wars of the Quill alphatest",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "none",
     "unpreviewed": "card back",
@@ -1008,6 +1008,5 @@
             "position": "49",
             "notes": ""
         }
-    ],
-    "version": 2
+    ]
 }

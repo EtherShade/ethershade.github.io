@@ -1,4 +1,87 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Stock Up added.
+Consumptoad added.
+Prevent added.
+Retrieve added.
+Defensive Stance added.
+Calculaw added.
+Expensive Research added.
+Squirius added.
+Inksight added.
+Banneroar added.
+Blessink added.
+Curtainyx added.
+Plausiblade added.
+Flittercrew added.
+Pacifism added.
+Earthbound added.
+Inkseep added.
+Trickery added.
+Fair Play added.
+Imperfection added.
+Artmorphing added.
+Inky Aggression added.
+Inky Ascendance added.
+Inky Balance added.
+Meaningless Search added.
+Blunder added.
+Forgetoad added.
+Forgotten Inkwell added.
+Calculated Blunder added.
+Mimesislug added.
+Remembrain added.
+
+Study removed.
+Consumtoad removed.
+
+Venumar
+rules_text: Transcend Ability: 2 Ink: Put a Transcendence counter on Venumar.
+Attack Ability: 3 Ink: Venumar deals 2 damage to target attackable creation. Then if that creation has no Transcendence counters on it, Venumar deals 1 more damage to it. => Transcend Ability: 2 Ink: Put a Transcendence counter on Venumar.
+Attack Ability: 3 Ink: Venumar deals 1 damage to target attackable creation. Then if that creation has no Transcendence counters on it, Venumar deals 1 more damage to it.
+
+Puppetear
+rules_text: 
+Transcend Ability: 1 Comedy: Put a Transcendence counter on Puppetear. Trigger the end of turn ability of a Comedy attached to Puppetear.
+Transcend Ability: 3 Comedy: Put two Transcendence counters on Puppetear.
+Attack Ability: 1 Tragedy: Puppetear deals 1 damage to target attackable creation. Trigger the end of turn ability of a Comedy attached to Puppetear.
+Attack Ability: 3 Tragedy: Puppetear deals 3 damage to target attackable creation. => 
+Transcend Ability: 1 Comedy: Put a Transcendence counter on Puppetear. Trigger the end of turn ability of a Comedy.
+Transcend Ability: 3 Comedy: Put two Transcendence counters on Puppetear.
+Attack Ability: 1 Tragedy: Puppetear deals 1 damage to target attackable creation. Trigger the end of turn ability of a Tragedy.
+Attack Ability: 3 Tragedy: Puppetear deals 3 damage to target attackable creation.
+
+Protagonor
+rules_text: Transcend Ability: 2 Ink: Put two Transcendence counters on Protagonor.
+Attack Ability: 2 Ink: Protagonor deals 1 damage to target attackable creation. => Ascendant [i](This creation can use a transcend ability the turn it's played.)[/i]
+Transcend Ability: 2 Ink: Put two Transcendence counters on Protagonor.
+Attack Ability: 2 Ink: Protagonor deals 1 damage to target attackable creation.
+
+Antagonor
+rules_text: Transcend Ability: 2 Ink: Put a Transcendence counter on Antagonor.
+Attack Ability: 2 Ink: Antagonor deals 2 damage to target attackable creation. => Aggressive [i](This creation can use an attack ability the turn it's played.)[/i]
+Transcend Ability: 2 Ink: Put a Transcendence counter on Antagonor.
+Attack Ability: 2 Ink: Antagonor deals 2 damage to target attackable creation.
+
+Forbidden Knowledge
+
+Accelerate
+rules_text: Put a transcendence counter on target creation you control. It can't fully transcend from counters put on it this turn. [i](They still count towards full transcendence later.)[/i] => Put a Transcendence counter on target creation you control that didn't enter this turn. It can't fully transcend from counters put on it this turn. [i](They still count towards full transcendence later.)[/i]
+
+Wrath and Ruin
+
+Search
+
+Purchase Mediums
+
+Ruin
+rules_text: Destroy two target Mediums. => Destroy target Medium.
+
+Research
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
