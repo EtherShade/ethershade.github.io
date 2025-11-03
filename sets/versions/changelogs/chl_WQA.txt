@@ -1,4 +1,343 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Necrestore added.
+Interrupt added.
+Mask of Life added.
+Mask of Death added.
+Troupe Call added.
+Dual Masks added.
+Mask Crafting added.
+Bassdrop added.
+Soniclasm added.
+Remix added.
+Revitalize added.
+Symphonor added.
+Drummaton added.
+Sonic Flare added.
+Crafty Composition added.
+Trebbletrash added.
+Notate added.
+Voidce added.
+Voidblade added.
+Voidbrush added.
+Noterat added.
+Musical Stockpile added.
+Rhythmaster added.
+Knightigrand added.
+Knightivile added.
+Impyre added.
+Zombir added.
+Walkestalk added.
+Zombug added.
+Lichisect added.
+Ghoulog added.
+Golochet added.
+Golemouth added.
+Alchemic Balance added.
+Alchemic Combativeness added.
+Alchemic Vision added.
+Reanimate added.
+Vampyre added.
+Sanguink added.
+Sanguilord added.
+Inkidrain added.
+Chaos Ritual added.
+
+Wrath and Ruin removed.
+Research removed.
+Meaningless Search removed.
+Forgetoad removed.
+Forgotten Inkwell removed.
+Calculated Blunder removed.
+Mimesislug removed.
+Remembrain removed.
+Necrink removed.
+
+Venumar
+rules_text: Transcend Ability: 2 Ink: Put a Transcendence counter on Venumar.
+Transcend Ability: 4 Ink: Put two Transcendence counters on Venumar.
+Attack Ability: 3 Ink: Venumar deals 1 damage to target attackable creation. Then if that creation has no Transcendence counters on it, Venumar deals 1 more damage to it. => Transcend Ability: {A}I: Venumar transcends 1.
+Transcend Ability: {A}{A}II: Venumar transcends 2.
+Attack Ability: {A}{A}I: Venumar deals 1 damage to target attackable creation. Then if that creation has no Transcendence counters on it, Venumar deals 1 more damage to it.
+
+Inkeye
+rules_text: Transcend Ability: 2 Ink: Put a Transcendence counter on Inkeye. Look at the top card of your deck. You may put it on the bottom of your deck.
+Transcend Ability: 4 Ink: Put two Transcendence counters on Inkeye. Draw a card. => Transcend Ability: {A}I: Inkeye transcends 1. Look at the top card of your deck. You may put it on the bottom of your deck.
+Transcend Ability: {A}{A}II: Inkeye transcends 2. Draw a card.
+
+Puppetear
+rules_text: 
+Transcend Ability: 1 Comedy: Put a Transcendence counter on Puppetear. Trigger the end of turn ability of a ComedyMask.
+Transcend Ability: 5 Comedy: Put two Transcendence counters on Puppetear.
+Attack Ability: 1 Tragedy: Puppetear deals 1 damage to target attackable creation. Trigger the end of turn ability of a TragedyMask.
+Attack Ability: 5 Tragedy: Puppetear deals 2 damage to target attackable creation. => 
+Transcend Ability: {C}: Puppetear transcends 1. You may trigger the start of turn ability of a ComedyMask.
+Transcend Ability: {C}{C}{C}{C}{C}: Puppetear transcends 2.
+Attack Ability: {T}: Puppetear attacks 1. You may trigger the start of turn ability of a TragedyMask.
+Attack Ability: {T}{T}{T}{T}{T}: Puppetear attacks 2.
+
+Protagonor
+rules_text: Ascendant [i](This creation can use a transcend ability the turn it's played.)[/i]
+Transcend Ability: 2 Ink: Put a Transcendence counter on Protagonor.
+Transcend Ability: 4 Ink: Put two Transcendence counters on Protagonor.
+Attack Ability: 2 Ink: Protagonor deals 1 damage to target attackable creation. => Ascendant [i](This creation can use a transcend ability the turn it's played.)[/i]
+Transcend Ability: {A}I: Protagonor transcends 1.
+Transcend Ability: {A}{A}II: Protagonor transcends 2.
+Attack Ability: {A}I: Protagonor attacks 1.
+
+Antagonor
+rules_text: Aggressive [i](This creation can use an attack ability the turn it's played.)[/i]
+Transcend Ability: 2 Ink: Put a Transcendence counter on Antagonor.
+Attack Ability: 2 Ink: Antagonor deals 1 damage to target attackable creation.
+Attack Ability: 4 Ink: Antagonor deals 2 damage to target attackable creation. => Aggressive [i](This creation can use an attack ability the turn it's played.)[/i]
+Transcend Ability: {A}I: Antagonor transcends 1.
+Attack Ability: {A}I: Antagonor attacks 1.
+Attack Ability: {A}{A}II: Antagonor attacks 2.
+
+Roosterror
+rules_text: As long as there are four or more mediums attached to Roosterror, if another creation you control would deal damage to a creation, it deals that much damage plus 1 instead.
+Transcend Ability: 2 Ink: Put a Transcendence counter on Roosterror.
+Attack Ability: 2 Ink: Roosterror deals 1 damage to target attackable creation. => As long as there are four or more mediums attached to Roosterror, if another creation you control would deal damage to a creation, it deals that much damage plus 1 instead.
+Transcend Ability: {A}I: Roosterror transcends 1.
+Attack Ability: {A}I: Roosterror attacks 1.
+
+Stock Up
+rules_text: Reserve the top three cards of your deck. => Reserve the top two cards of your deck.
+
+The Ink Stares Back
+
+Forbidden Knowledge
+
+Accelerate
+
+Search
+rules_text: Look at the top three cards of your deck. Reserve one of them and put the rest on the bottom of your deck in any order. => Look at the top two cards of your deck. Reserve one of them and put the rest on the bottom of your deck in any order.
+
+Purchase Mediums
+rules_text: As a cost to play this card, discard a card.
+Search your deck for up to two Medium cards, reveal them, and put them into your hand. => As a cost to play this card, discard a card.
+Search your deck for up to two medium cards, reveal them, and put them into your hand.
+
+Ruin
+
+Consumptoad
+rules_text: Transcend Ability: 1 Ink: As a cost to activate this ability, destroy any number of mediums attached to Consumptoad. Put a Transcendence counter on Consumptoad for every second medium destroyed this way.
+Attack Ability: 2 Ink: Consumptoad deals 1 damage to target attackable creation. => Transcend Ability: I: As a cost to activate this ability, destroy any number of mediums attached to Consumptoad. Consumptoad transcends 1 for each medium destroyed this way.
+Attack Ability: {A}I: Consumptoad attacks 1.
+
+Prevent
+rules_text: Reactive [i](May be played or activated anytime you have priority.)[/i]
+Target non-Medium card being played is put into its owner's discard pile. => Reactive [i](May be played or activated anytime you have priority.)[/i]
+As a cost to play Prevent, discard two cards.
+Target non-Medium card being played is put into its owner's discard pile.
+
+Retrieve
+rules_text: Put three cards from your reserve into your hand. => Put two cards from your reserve into your hand.
+
+Defensive Stance
+
+Calculaw
+rules_text: Transcend abilities can't put more than one Transcendence counter on a creation.
+Transcend Ability: 2 Ink: Put a Transcendence counter on Calculaw.
+Attack Ability: 2 Ink: Calculaw deals 1 damage to target attackable creation. => Transcend abilities can't put more than one Transcendence counter on a creation.
+Transcend Ability: {A}I: Calculaw transcends 1.
+Attack Ability: {A}I: Calculaw attacks 1.
+
+Expensive Research
+rules_text: As a cost to play this card, put two cards from your reserve into your discard pile.
+Draw three cards. => As a cost to play this card, put four cards from your reserve into your discard pile.
+Draw two cards.
+
+Squirius
+rules_text: Transcend Ability: 2 Ink: Put a Transcendence counter on Squirius. Reserve the top card of your deck.
+Transcend Ability: 4 Ink: Put two Transcendence counters on Squirius. Reserve the top card of your deck.
+Attack Ability: 3 Ink: Squirius deals 1 damage to target attackable creation. Put a card from your reserves into your hand. => Transcend Ability: {A}I: Squirius transcends 1. Reserve the top card of your deck.
+Transcend Ability: {A}{A}II: Squirius transcends 2. Reserve the top card of your deck.
+Attack Ability: {A}{A}I: Squirius attacks 1. Put a card from your reserves into your hand.
+
+Inksight
+rules_text: Tempo [i](You can't play cards with tempo if you've played a card that shares a card name with them this turn.)[/i]
+Play Inksight only if you control two or more Inkwells.
+Draw two cards. => Play Inksight only if you control two or more Inkwells.
+Play Inksight only if you control four or more Mediums.
+Draw two cards.
+
+Banneroar
+rules_text: Transcend Ability: 4 Ink: Put a Transcendence counter on each other creation you control.
+Attack Ability: 2 Ink: Banneroar deals 1 damage to target attackable creation. => Transcend Ability: {A}{A}II: Put a Transcendence counter on each other creation you control.
+Attack Ability: {A}I: Each other creation you control transcends 1.
+
+Blessink
+rules_text: Transcend Ability: 1 Ink: Put a Transcendence counter on another creation you control.
+Transcend Ability: 3 Ink: Put a Transcendence counter on Blessink and another creation you control.
+Attack Ability: 2 Ink: Blessink deals 1 damage to target attackable creation. => Transcend Ability: I: Another creation you control transcends 1.
+Transcend Ability: {A}{A}I: Blessink and another creation you control each transcend 1.
+Attack Ability: {A}I: Blessink attacks 1.
+
+Curtainyx
+rules_text: 
+Transcend Ability: 2 Comedy: Put a Transcendence counter on Curtainyx.
+Transcend Ability: 4 Comedy: Put two Transcendence counters on Curtainyx.
+Attack Ability: 2 Tragedy: Curtainyx deals 1 damage to target attackable creation. Trigger the end of turn ability of a ComedyMask. => 
+Transcend Ability: {C}{C}: Curtainyx transcends 1.
+Transcend Ability: {C}{C}{C}{C}: Curtainyx transcends 2.
+Attack Ability: {T}{T}: Curtainyx attacks 1. You may trigger the start of turn ability of a ComedyMask.
+
+Plausiblade
+rules_text: Ascendant [i](This creation can use a transcend ability the turn it's played.)[/i]
+Plausiblade can't fully transcend.
+Transcend Ability: 2 Ink: Put three Transcendence counters on Plausiblade.
+Attack Ability: 4 Ink: Plausiblade deals X damage to target attackable creation, where X is the number of Transcendence counters on it. => Ascendant [i](This creation can use a transcend ability the turn it's played.)[/i]
+Plausiblade can't fully transcend.
+Transcend Ability: {A}I: Put three Transcendence counters on Plausiblade.
+Attack Ability: {A}{A}II: Plausiblade attacks X, where X is the number of Transcendence counters on it.
+
+Flittercrew
+rules_text: 
+Transcend Ability: 2 Comedy: Put a Transcendence counter on another creation you control.
+Transcend Ability: 3 Comedy: Put a Transcendence counter on another creation you control.
+Attack Ability: 2 Tragedy: Trigger the end of turn ability of a TragedyMask. => 
+Transcend Ability: {C}{C}: Another creation you control transcends 1.
+Transcend Ability: {C}{C}{C}: Another creation you control transcends 1.
+Attack Ability: {T}{T}: You may trigger the start of turn ability of a TragedyMask.
+
+Pacifism
+
+Earthbound
+
+Inkseep
+rules_text: Reactive [i](May be played or activated anytime you have priority.)[/i]
+Play Inkseep only if you control two or more Inkwells.
+Target non-Medium non-Creation card being played is put into its owner's discard pile.
+Draw a card. => Reactive [i](May be played or activated anytime you have priority.)[/i]
+Play Inkseep only if you control two or more Inkwells.
+Play Inkseep only if you control four or more Mediums.
+Target non-Medium non-Creation card being played is put into its owner's discard pile.
+Draw a card.
+
+Trickery
+
+Fair Play
+
+Imperfection
+
+Artmorphing
+rules_text: Tempo [i](You can't play cards with tempo if you've played a card that shares a card name with them this turn.)[/i]
+Modifies medium
+When Artmorphing enters a play zone, draw a card.
+Modified medium is every medium subtype. => Modifies medium
+When Artmorphing enters a play zone, reserve the top card of your deck.
+Modified medium is every medium subtype.
+
+Inky Combativeness
+rules_text: Modifies creation
+Modified creation's attack abilities require 2 less Ink. => Modifies creation
+Inky Combativeness provides II to modified creation. Use this I only for attack abilities.
+
+Inky Vision
+rules_text: Modifies creation
+Modified creation's transcend abilities require 2 less Ink. => Modifies creation
+Inky Vision provides II to modified creation. Use this I only for transcend abilities.
+
+Inky Balance
+rules_text: Modifies creation
+Modified creation's transcend and attack abilities require 1 less Ink. => Modifies creation
+Inky Balance provides I to modified creation.
+
+Blunder
+rules_text: Amnesia [i](You may play this card from your discard pile if it was put there from your deck this turn.)[/i]
+Put the top four cards of your deck into your discard pile. => Put the top four cards of your deck into your discard pile.
+
+Malore
+rules_text: Malore requires 1 more Transcendence counters to fully transcend.
+Whenever a tactic you control resolves, put a Transcendence counter on Malore.
+At the start of your turn, remove all Transcendence counters from Malore.
+Transcend Ability: 2 Ink: Draw a card. => Malore requires 1 more Transcendence counters to fully transcend.
+Whenever a tactic you control resolves, if there are five or more Inkwells attached to Malore, put a Transcendence counter on Malore.
+At the start of your turn, remove all Transcendence counters from Malore.
+Transcend Ability: {A}I: Draw a card.
+
+Doublix
+rules_text: If you would create one or more non-ComedyMask non-TragedyMask tokens, you may create twice that many of those tokens instead.
+Transcend Ability: 1 Ink: Put a Transcendence counter on another creation you control. => If you would create one or more tokens, you may create that many plus one of those tokens instead.
+Transcend Ability: I: Another creation you control transcends 1.
+
+Duplicate
+
+Bloodwell
+rules_text: Bloodwell provides 2 Ink instead of 1.
+As a cost for Bloodwell to provide Ink, destroy a creation you control. => Bloodwell provides II instead of I.
+As a cost for Bloodwell to provide Ink, destroy a creation you control.
+
+Inferno
+rules_text: 
+Play Inferno only if you control four or more Mediums.
+As a cost to play Inferno, return two mediums you control to your hand.
+Destroy all creatures. => 
+Play Inferno only if you control four or more mediums.
+As a cost to play Inferno, return two mediums you control to your hand.
+Destroy all creatures.
+
+Studio Fire
+
+Normalize
+
+Exitask
+rules_text: 
+Transcend Ability: 2 Comedy: Put a Transcendence counter on Exitask. Trigger the end of turn ability of a TragedyMask.
+Transcend Ability: 4 Comedy: Put a Transcendence counter on Exitask and another creation you control. Discard two cards, then draw two cards.
+Attack Ability: 2 Tragedy: Exitask deals 1 damage to target attackable creation. => 
+Transcend Ability: {C}{C}: Exitask transcends 1.
+Transcend Ability: {C}{C}{C}{C}: Exitask and another creation you control each transcend 1. and Discard two cards, then draw two cards.
+Attack Ability: {T}{T}: Exitask deals 1 damage to target attackable creation.
+
+Maskraft
+rules_text: 
+Transcend Ability: 2 Comedy: Put a Transcendence counter on Maskraft. Trigger the end of turn ability of a Tragedy.
+Transcend Ability: 4 Comedy: Put a Transcendence counter on Maskraft and another creation you control. Put target ComedyMask or TragedyMask from your discard pile into your play zone. => 
+Transcend Ability: {C}{C}: Maskraft transcends 1. You may trigger the start of turn ability of a Tragedy.
+Transcend Ability: {C}{C}{C}{C}: Maskraft and another creation you control each transcend 1. Put up to one Mask from your hand into your play zone.
+
+Exeunt
+
+Leadette
+rules_text: Whenever one or more Transcendence counters are put on Leadette from an ability of another creation, put a Transcendence counter on Leadette for every third ComedyMask attached to it.
+Attack Ability: 2 Tragedy: Leadette deals 1 damage to target attackable creation. => Whenever one or more Transcendence counters are put on Leadette from an ability of another creation, put a Transcendence counter on Leadette for every third ComedyMask attached to it.
+Attack Ability: {T}{T}: Leadette attacks 1.
+
+Anthemask
+rules_text: Act [i](You may play this card with Act. If you do, it gains Aggressive and Ascendant and is returned to your hand at end of turn.)[/i]
+Transcend Ability: 4 Comedy: Put a Transcendence counter on each other creation you control. => Act [i](You may play this card with Act. If you do, it gains Aggressive and Ascendant and is returned to your hand at end of turn.)[/i]
+Transcend Ability: {C}{C}{C}{C}: Each other creation you control transcends 1.
+
+Comedeus
+rules_text: When Comedeus enters your play zone, trigger the end of turn abilities of each TragedyMask you control.
+Transcend Ability: 3 Comedy: Put a Transcendence counter on Comedeus, then create a Tragedeus token and move all Transcendence counters from Comedeus to the created token. Destroy Comedeus. => When Comedeus enters your play zone, trigger the start of turn abilities of each TragedyMask you control.
+Transcend Ability: {C}{C}{C}: Comedeus transcends 1, then create a Tragedeus token and move all Transcendence counters from Comedeus to the created token. Destroy Comedeus.
+
+Comedeus [Token]
+rules_text: When Comedeus enters your play zone, trigger the end of turn abilities of each TragedyMask you control.
+Transcend Ability: 3 Comedy: Put a Transcendence counter on Comedeus, then create a Tragedeus token and move all Transcendence counters from Comedeus to the created token. Destroy Comedeus. => When Comedeus enters your play zone, trigger the start of turn abilities of each TragedyMask you control.
+Transcend Ability: {C}{C}{C}: Comedeus transcends 1, then create a Tragedeus token and move all Transcendence counters from Comedeus to the created token. Destroy Comedeus.
+
+Tragedeus
+rules_text: When Tragedeus enters your play zone, trigger the end of turn abilities of each ComedyMask you control.
+Attack Ability: 3 Tragedy: Tragedeus deals 1 damage to target attackable creation, then create a Comedeus token and move all Transcendence counters from Tragedeus to the created token. Destroy Tragedeus. => When Tragedeus enters your play zone, trigger the start of turn abilities of each ComedyMask you control.
+Attack Ability: {T}{T}{T}: Tragedeus attacks 1, then create a Comedeus token and move all Transcendence counters from Tragedeus to the created token. Destroy Tragedeus.
+
+Tragedeus [Token]
+rules_text: When Tragedeus enters your play zone, trigger the end of turn abilities of each ComedyMask you control.
+Attack Ability: 3 Tragedy: Tragedeus deals 1 damage to target attackable creation, then create a Comedeus token and move all Transcendence counters from Tragedeus to the created token. Destroy Tragedeus. => When Tragedeus enters your play zone, trigger the start of turn abilities of each ComedyMask you control.
+Attack Ability: {T}{T}{T}: Tragedeus attacks 1, then create a Comedeus token and move all Transcendence counters from Tragedeus to the created token. Destroy Tragedeus.
+
+Used Inkwell
+rules_text: Used Inkwell provides 2 Ink instead of 1.
+As a cost for Used Inkwell to provide Ink, destroy Used Inkwell. => Used Inkwell provides II instead of I.
+At the end of your turn, destroy Used Inkwell if it's attached to a creation.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Inky Combativeness added.
