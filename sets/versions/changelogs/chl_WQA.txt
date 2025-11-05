@@ -1,4 +1,180 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Songuard added.
+
+Venumar removed.
+Inkeye removed.
+Protagonor removed.
+Antagonor removed.
+Stock Up removed.
+Forbidden Knowledge removed.
+Search removed.
+Purchase Mediums removed.
+Prevent removed.
+Retrieve removed.
+Blessink removed.
+Curtainyx removed.
+Flittercrew removed.
+Pacifism removed.
+Earthbound removed.
+Trickery removed.
+Studio Fire removed.
+Normalize removed.
+Exitask removed.
+Interrupt removed.
+Troupe Call removed.
+Mask Crafting removed.
+Remix removed.
+Drummaton removed.
+Sonic Flare removed.
+Voidce removed.
+Voidblade removed.
+Voidbrush removed.
+Noterat removed.
+Zombir removed.
+Walkestalk removed.
+Golochet removed.
+Golemouth removed.
+
+Puppetear
+
+Roosterror
+
+The Ink Stares Back
+
+Accelerate
+
+Ruin
+
+Consumptoad
+
+Defensive Stance
+
+Calculaw
+
+Expensive Research
+
+Squirius
+
+Inksight
+
+Banneroar
+
+Plausiblade
+
+Inkseep
+
+Fair Play
+
+Imperfection
+
+Artmorphing
+
+Inky Combativeness
+
+Inky Vision
+
+Inky Balance
+
+Blunder
+
+Malore
+
+Doublix
+
+Duplicate
+
+Necrestore
+
+Bloodwell
+
+Maskraft
+
+Exeunt
+
+Leadette
+
+Anthemask
+
+Comedeus
+
+Comedeus [Token]
+
+Tragedeus
+
+Tragedeus [Token]
+
+Used Inkwell
+
+Mask of Life
+
+Mask of Death
+
+Bassdrop
+
+Soniclasm
+rules_text: When Soniclasm enters a play zone, you may trash two of your composed notes. If you do, it gains aggressive. [i](This creation can use an attack ability the turn it's played.)[/i]
+Attack Ability: {A}{N}{N}: Soniclasm attacks 2. => When Soniclasm enters a play zone, you may trash one of your composed notes. If you do, it gains aggressive. [i](This creation can use an attack ability the turn it's played.)[/i]
+Attack Ability: {A}{N}{N}: Soniclasm attacks 2.
+
+Symphonor
+
+Crafty Composition
+rules_text: As a cost to play this card, reveal two MusicNote cards from your hand and reserve them.
+Draw two cards. => As a cost to play this card, reveal two MusicNote cards from your hand and reserve them.
+Draw three cards.
+
+Trebbletrash
+
+Notate
+rules_text: As a cost to play this, reserve a MusicNote you control.
+Look at the top three cards of your deck. Put one of them into your hand and put the rest on the bottom of your deck in any order. => As a cost to play this, reserve a MusicNote you control.
+Look at the top four cards of your deck. Put one of them into your hand and put the rest on the bottom of your deck in any order.
+
+Musical Stockpile
+rules_text: Reveal the top five cards of your deck. Reserve up to two note cards from among them and put the rest on the bottom of your deck in a random order. => Reveal the top five cards of your deck. Reserve up to two MusicNote cards from among them and put the rest on the bottom of your deck in a random order. Then if no MusicNote cards were revealed this way, reserve the top card of your deck.
+
+Rhythmaster
+
+Knightigrand
+
+Knightivile
+
+Impyre
+
+Zombug
+
+Lichisect
+
+Ghoulog
+
+Alchemic Balance
+
+Alchemic Combativeness
+
+Alchemic Vision
+
+Reanimate
+
+Vampyre
+
+Sanguink
+
+Sanguilord
+
+Inkidrain
+
+Chaos Ritual
+
+Revitalize
+
+Dual Masks
+
+Inferno
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Necrestore added.

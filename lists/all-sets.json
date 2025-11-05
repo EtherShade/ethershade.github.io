@@ -4,6 +4,11 @@
             "set_code": "WQA",
             "set_name": "Wars of the Quill alphatest",
             "formats": ""
+        },
+        {
+            "set_code": "WQF",
+            "set_name": "Wars of the Quill Foundations",
+            "formats": ""
         }
     ]
 }
