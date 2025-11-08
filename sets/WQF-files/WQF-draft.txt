@@ -5,7 +5,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "40",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/0.jpg"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Medium — Elixir",
-			"collector_number": "49",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/1.jpg"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Medium — Inkwell",
-			"collector_number": "50",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/2.jpg"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Medium — MusicNote",
-			"collector_number": "51",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/3.jpg"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Medium — Potion",
-			"collector_number": "52",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/4.jpg"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Medium — Mask",
-			"collector_number": "53",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/5.jpg"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "19",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/7.jpg"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "5",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/8.jpg"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "21",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/9.jpg"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "15",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/10.jpg"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "22",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/11.jpg"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "23",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/12.jpg"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "6",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/13.jpg"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "4",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/15.jpg"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "11",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/16.jpg"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "8",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/17.jpg"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "10",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/18.jpg"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "12",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/20.jpg"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "9",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/21.jpg"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "7",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/22.jpg"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "16",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/23.jpg"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "20",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/24.jpg"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "13",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/25.jpg"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "14",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/26.jpg"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "24",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/27.jpg"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "25",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/28.jpg"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "17",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/29.jpg"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creation",
-			"collector_number": "18",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/30.jpg"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Modifier",
-			"collector_number": "54",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/31.jpg"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Modifier",
-			"collector_number": "55",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/32.jpg"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "37",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/33.jpg"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "44",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/34.jpg"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "45",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/35.jpg"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "46",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/36.jpg"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "34",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/37.jpg"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "35",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/38.jpg"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "31",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/39.jpg"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "27",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/40.jpg"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "42",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/41.jpg"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "29",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/42.jpg"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "48",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/43.jpg"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "32",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/44.jpg"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "47",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/45.jpg"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "30",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/46.jpg"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "36",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/47.jpg"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "38",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/48.jpg"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "43",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/49.jpg"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "33",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/50.jpg"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "41",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/51.jpg"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "28",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/52.jpg"
 			}
@@ -535,7 +535,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "26",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/53.jpg"
 			}
@@ -545,7 +545,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Modifier",
-			"collector_number": "56",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/54.jpg"
 			}
@@ -555,14 +555,740 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Tactic",
-			"collector_number": "39",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/WQF-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Roosterror",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Squirius",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Consumptoad",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Inkidrain",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Leadette",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Maskraft",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Songuard",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Soniclasm",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Slaughtrestage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Spectract",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Trebbletrash",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Rhythmoss",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Vampyre",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Zombug",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Ghoulog",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Impyre",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Expensive Research",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Inferno",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Blunder",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Bond Through Time",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Bond Through Space",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Flare of Choice",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Flare of Void",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Flare of Flexibility",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Negate",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Stifle",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Inkseep",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Inksight",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Author's Vengeance",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Exeunt",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Party Scene",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Battle Scene",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Bassdrop",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Crafty Composition",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Musical Stockpile",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Chaos Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Reanimate",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Blasphemous Choice",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Duplicate",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Chains of the Void",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Stupor",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Modifier",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Wisdom",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Sequence Fracture",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Calculaw",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Banneroar",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Doublix",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Anticipact",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Comedeus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Comedeus [Token]",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Puppetear",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Tragedeus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Tragedeus [Token]",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Rhythmaster",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Symphonor",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Temporage",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Lichisect",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Necrestore",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Ascendighoul",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creation",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "All the World's a Stage",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "The Ink Stares Back",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Obsessive Perfection",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Masquerade",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "March of the Undead",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Sonic Boom",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Ultimate Rhythm",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "The Great Mistake",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Tactic",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/WQF-files/img/121.jpg"
 			}
 		}
 	]
 
-[common(15)]
+[rare(2)]
+	5 Duplicate
+	5 Chains of the Void
+	5 Stupor
+	5 Wisdom
+	5 Sequence Fracture
+	5 Calculaw
+	5 Banneroar
+	5 Doublix
+	5 Anticipact
+	5 Comedeus
+	5 Puppetear
+	5 Tragedeus
+	5 Rhythmaster
+	5 Symphonor
+	5 Temporage
+	5 Lichisect
+	5 Necrestore
+	5 Ascendighoul
+	5 All the World's a Stage
+	5 The Ink Stares Back
+	5 Obsessive Perfection
+	5 Masquerade
+	5 March of the Undead
+	5 Sonic Boom
+	5 Ultimate Rhythm
+	5 The Great Mistake
+[uncommon(4)]
+	5 Roosterror
+	5 Squirius
+	5 Consumptoad
+	5 Inkidrain
+	5 Leadette
+	5 Maskraft
+	5 Songuard
+	5 Soniclasm
+	5 Slaughtrestage
+	5 Spectract
+	5 Trebbletrash
+	5 Rhythmoss
+	5 Vampyre
+	5 Zombug
+	5 Ghoulog
+	5 Impyre
+	5 Expensive Research
+	5 Inferno
+	5 Blunder
+	5 Bond Through Time
+	5 Bond Through Space
+	5 Flare of Choice
+	5 Flare of Void
+	5 Flare of Flexibility
+	5 Negate
+	5 Stifle
+	5 Inkseep
+	5 Inksight
+	5 Author's Vengeance
+	5 Exeunt
+	5 Party Scene
+	5 Battle Scene
+	5 Bassdrop
+	5 Crafty Composition
+	5 Musical Stockpile
+	5 Chaos Ritual
+	5 Reanimate
+	5 Blasphemous Choice
+[common(8)]
 	5 Search
 	5 Antagonor
 	5 Protagonor
