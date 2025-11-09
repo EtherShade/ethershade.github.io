@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "ANP",
+            "set_name": "Anticipation pile",
+            "formats": ""
+        },
+        {
             "set_code": "WQF",
             "set_name": "Wars of the Quill Foundations",
             "formats": ""

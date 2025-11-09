@@ -1222,7 +1222,7 @@
 		}
 	]
 
-[rare(2)]
+[rare(1)]
 	5 Duplicate
 	5 Chains of the Void
 	5 Stupor
@@ -1249,7 +1249,7 @@
 	5 Sonic Boom
 	5 Ultimate Rhythm
 	5 The Great Mistake
-[uncommon(4)]
+[uncommon(3)]
 	5 Roosterror
 	5 Squirius
 	5 Consumptoad
@@ -1288,7 +1288,7 @@
 	5 Chaos Ritual
 	5 Reanimate
 	5 Blasphemous Choice
-[common(8)]
+[common(10)]
 	5 Search
 	5 Antagonor
 	5 Protagonor
