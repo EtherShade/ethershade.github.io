@@ -1,4 +1,577 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+No changes.
+
+VERSION 2 CHANGELOG
+====================
+
+
+
+Antagonor
+rules_text: Artform: Writing
+
+Aggressive [i](This creation can use an attack ability the turn it's played.)[/i]
+Transcend Ability: {A}I: Antagonor transcends 1.
+Attack Ability: {A}I: Antagonor attacks 1.
+Attack Ability: {A}{A}II: Antagonor attacks 2. => Artform: Writing
+
+Aggressive [i](This creation can use abilities that would cause it to attack even while its spectral.)[/i]
+{A}I: Antagonor transcends 1.
+{A}I: Antagonor attacks 1.
+{A}{A}II: Antagonor attacks 2.
+
+Protagonor
+rules_text: Artform: Writing
+
+Ascendant [i](This creation can use a transcend ability the turn it's played.)[/i]
+Transcend Ability: {A}I: Protagonor transcends 1.
+Transcend Ability: {A}{A}II: Protagonor transcends 2.
+Attack Ability: {A}I: Protagonor attacks 1. => Artform: Writing
+
+Ascendant [i](This creation can use abilities that would cause it to transcend even while its spectral.)[/i]
+{A}I: Protagonor transcends 1.
+{A}{A}II: Protagonor transcends 2.
+{A}I: Protagonor attacks 1.
+
+Blessink
+rules_text: Artform: Writing
+
+Transcend Ability: I: Another creation you control transcends 1.
+Transcend Ability: {A}{A}I: Blessink and another creation you control each transcend 1.
+Attack Ability: {A}I: Blessink attacks 1. => Artform: Writing
+
+I: Another creation you control transcends 1.
+{A}{A}I: Blessink and another creation you control each transcend 1.
+{A}I: Blessink attacks 1.
+
+Venumar
+rules_text: Artform: Writing
+
+Transcend Ability: {A}I: Venumar transcends 1.
+Transcend Ability: {A}{A}II: Venumar transcends 2.
+Attack Ability: {A}{A}I: Venumar attacks 1. Then if the attacked creation has no Transcendence counters on it, Venumar deals 1 damage to it. => Artform: Writing
+
+{A}I: Venumar transcends 1.
+{A}{A}II: Venumar transcends 2.
+Attack Ability: {A}{A}I: Venumar attacks 1. Then if the attacked creation has no Transcendence counters on it, Venumar deals 1 damage to it.
+
+Inkeye
+rules_text: Artform: Writing
+
+Transcend Ability: {A}I: Inkeye transcends 1. Look at the top card of your deck. You may put it on the bottom of your deck.
+Transcend Ability: {A}{A}II: Inkeye transcends 2. Draw a card. => Artform: Writing
+
+{A}I: Inkeye transcends 1. Look at the top card of your deck. You may put it on the bottom of your deck.
+{A}{A}II: Inkeye transcends 2. Draw a card.
+
+Voidblade
+rules_text: Artform: None
+
+Transcend Ability: {A}{A}: Voidblade transcends 1.
+Attack Ability: {A}{A}: Voidblade attacks 1.
+Attack Ability: {A}{A}{A}{A}: Voidblade attacks 2. => Artform: None
+
+{A}{A}: Voidblade transcends 1.
+{A}{A}: Voidblade attacks 1.
+{A}{A}{A}{A}: Voidblade attacks 2.
+
+Voidbrush
+rules_text: Artform: None
+
+Transcend Ability: {A}{A}: Voidbrush transcends 1.
+Transcend Ability: {A}{A}{A}{A}: Voidbrush transcends 2.
+Attack Ability: {A}{A}: Voidbrush attacks 1. => Artform: None
+
+{A}{A}: Voidbrush transcends 1.
+{A}{A}{A}{A}: Voidbrush transcends 2.
+{A}{A}: Voidbrush attacks 1.
+
+Blessivoid
+rules_text: Artform: None
+
+Transcend Ability: {A}{A}: Another creation you control transcends 1.
+Transcend Ability: {A}{A}{A}: Another creation you control transcends 2.
+Attack Ability: {A}{A}{A}: Blessivoid attacks 1. => Artform: None
+
+{A}{A}: Another creation you control transcends 1.
+{A}{A}{A}: Another creation you control transcends 2.
+{A}{A}{A}: Blessivoid attacks 1.
+
+Aggressivoid
+rules_text: Artform: None
+
+Aggressive [i](This creation can use an attack ability the turn it's played.)[/i]
+Transcend Ability: {A}{A}{A}{A}: Aggressivoid transcends 2.
+Attack Ability: {A}{A}: Aggressivoid attacks 1. => Artform: None
+
+Aggressive [i](This creation can use abilities that would cause it to attack even while its spectral.)[/i]
+{A}{A}{A}{A}: Aggressivoid transcends 2.
+{A}{A}: Aggressivoid attacks 1.
+
+Ascendivoid
+rules_text: Artform: None
+
+Ascendant [i](This creation can use a transcend ability the turn it's played.)[/i]
+Transcend Ability: {A}{A}: Ascendivoid transcends 1.
+Attack Ability: {A}{A}{A}{A}: Ascendivoid attacks 2. => Artform: None
+
+Ascendant [i](This creation can use abilities that would cause it to transcend even while its spectral.)[/i]
+{A}{A}: Ascendivoid transcends 1.
+{A}{A}{A}{A}: Ascendivoid attacks 2.
+
+Flittercrew
+rules_text: Artform: Theater
+
+Transcend Ability: {C}{C}: Another creation you control transcends 1.
+Transcend Ability: {C}{C}{C}: Another creation you control transcends 1. You may trigger the start of turn ability of a TragedyMask. => Artform: Theater
+
+{C}{C}: Another creation you control transcends 1.
+{C}{C}{C}: Another creation you control transcends 1. You may trigger the start of turn ability of a TragedyMask.
+
+Curtainyx
+rules_text: Artform: Theater
+
+Transcend Ability: {C}{C}: Curtainyx transcends 1.
+Transcend Ability: {C}{C}{C}{C}: Curtainyx transcends 2.
+Attack Ability: {T}{T}: Curtainyx attacks 1. => Artform: Theater
+
+{C}{C}: Curtainyx transcends 1.
+{C}{C}{C}{C}: Curtainyx transcends 2.
+{T}{T}: Curtainyx attacks 1.
+
+Exitask
+rules_text: Artform: Theater
+
+Transcend Ability: {C}{C}: Exitask transcends 1.
+Transcend Ability: {C}{C}{C}{C}{C}: Exitask and another creation you control each transcend 1. and Discard two cards, then draw two cards.
+Attack Ability: {T}{T}{T}: Exitask attacks 1. => Artform: Theater
+
+{C}{C}: Exitask transcends 1.
+{C}{C}{C}{C}{C}: Exitask and another creation you control each transcend 1. and Discard two cards, then draw two cards.
+{T}{T}{T}: Exitask attacks 1.
+
+Actorialle
+rules_text: Artform: Theater
+
+Transcend Ability: {C}{C}: Actorialle transcends 1. If it has transcended already this turn, it transcends 2 instead.
+Attack Ability: {T}{T}: Actorialle attacks 1. If it has transcended this turn, it attacks 2 instead. => Artform: Theater
+
+{C}{C}: Actorialle transcends 1. If it has transcended already this turn, it transcends 2 instead.
+{T}{T}: Actorialle attacks 1. If it has transcended this turn, it attacks 2 instead.
+
+Glamora
+rules_text: Artform: Theater
+
+Transcend Ability: {C}{C}: Glamora transcends 1. Move up to one Transcendence counter from another creation you control onto Glamora.
+Attack Ability: {T}{T}: Glamora attacks 1. => Artform: Theater
+
+{C}{C}: Glamora transcends 1. Move up to one Transcendence counter from another creation you control onto Glamora.
+{T}{T}: Glamora attacks 1.
+
+Drummaton
+rules_text: Artform: Music
+
+Transcend Ability: {A}{N}: You may reserve a MusicNote card from your discard pile. If you do, Drummaton transcends 1.
+Transcend Ability: {A}{A}{N}: You may reserve two MusicNote cards from your discard pile. If you do, Drummaton and another creation you control each transcend 1. => Artform: Music
+
+{A}{N}: You may reserve a MusicNote card from your discard pile. If you do, Drummaton transcends 1.
+{A}{A}{N}: You may reserve two MusicNote cards from your discard pile. If you do, Drummaton and another creation you control each transcend 1.
+
+Composivoice
+rules_text: Artform: Music
+
+At the end of your turn, if you have two or more composed notes, Composivoice transcends 1.
+Attack Ability: {A}{N}: Composivoice attacks 1. => Artform: Music
+
+At the end of your turn, if you have two or more composed notes, Composivoice transcends 1.
+{A}{N}: Composivoice attacks 1.
+
+Loudeling
+rules_text: Artform: Music
+
+At the end of your turn, if you have two or more composed notes, Loudeling attacks 1.
+Transcend Ability: {A}{N}: Loudeling transcends 1.
+Transcend Ability: {A}{A}{N}: Loudeling transcends 1. You may put a card from your reserves into your hand. => Artform: Music
+
+At the end of your turn, if you have two or more composed notes, Loudeling attacks 1.
+{A}{N}: Loudeling transcends 1.
+{A}{A}{N}: Loudeling transcends 1. You may put a card from your reserves into your hand.
+
+Squirrecord
+rules_text: Artform: Music
+
+Transcend Ability: {A}{N}: Squirrecord transcends 1. If you've taken reserve action this turn, Squirrecord transcends 2 instead.
+Attack Ability: {A}{N}: Squirrecord attacks 1. => Artform: Music
+
+{A}{N}: Squirrecord transcends 1. If you've taken reserve action this turn, Squirrecord transcends 2 instead.
+{A}{N}: Squirrecord attacks 1.
+
+Golemouth
+rules_text: 
+Artform: Alchemy
+
+Transcend Ability: {A}{A}L: Golemouth transcends 1. You may destroy a medium or creation you control. If you do, Golemouth transcends 1 again.
+Transcend Ability: {A}{A}{A}LL: Golemouth transcends 2.
+Attack Ability: {A}L: Golemouth attacks 1. => 
+Artform: Alchemy
+
+{A}{A}L: Golemouth transcends 1. You may destroy a medium or creation you control. If you do, Golemouth transcends 1 again.
+{A}{A}{A}LL: Golemouth transcends 2.
+{A}L: Golemouth attacks 1.
+
+Golochet
+rules_text: Artform: Alchemy
+
+Transcend Ability: {A}L: Golochet transcends 1.
+Transcend Ability: {A}{A}{A}L: Golochet transcends 2.
+Attack Ability: {A}{A}L: Destroy any number of mediums and/or creations you control. Golochet attacks X, where X is the number of permanents destroyed this way. => Artform: Alchemy
+
+{A}L: Golochet transcends 1.
+{A}{A}{A}L: Golochet transcends 2.
+{A}{A}L: Destroy any number of mediums and/or creations you control. Golochet attacks X, where X is the number of permanents destroyed this way.
+
+Walkestalk
+rules_text: Artform: Alchemy
+
+Transcend + Attack Ability: {A}LL: Walkestalk transcends 1 and attacks 1.
+Transcend + Attack Ability: {A}{A}LLL: Walkestalk transcends 2 and attacks 2. => Artform: Alchemy
+
+{A}LL: Walkestalk transcends 1 and attacks 1.
+{A}{A}LLL: Walkestalk transcends 2 and attacks 2.
+
+Zombir
+rules_text: Artform: Alchemy
+
+Transcend + Attack Ability: {A}{A}L: Zombir transcends 1 and attacks 1.
+Attack Ability: {A}L: Zombir attacks 1. => Artform: Alchemy
+
+{A}{A}L: Zombir transcends 1 and attacks 1.
+{A}L: Zombir attacks 1.
+
+Noterat
+rules_text: Artform: Music
+
+Transcend Ability: {A}{A}{N}: Noterat transcends 1. Put a card from your reserves into your hand.
+Attack Ability: {A}{A}{N}: Noterat attacks 1. Reserve up to two cards from the top of your deck. => Artform: Music
+
+{A}{A}{N}: Noterat transcends 1. Put a card from your reserves into your hand.
+{A}{A}{N}: Noterat attacks 1. Reserve up to two cards from the top of your deck.
+
+Pactithorn
+rules_text: Artform: Alchemy
+
+Transcend Ability: {A}L: You may discard a card. If you do, Pactithorn transcends 1.
+Transcend Ability: {A}{A}{A}L: You may discard a card. If you do, Pactithorn transcends 2.
+Attack Ability: {A}{A}L: Pactithorn attacks 1. => Artform: Alchemy
+
+{A}L: You may discard a card. If you do, Pactithorn transcends 1.
+{A}{A}{A}L: You may discard a card. If you do, Pactithorn transcends 2.
+{A}{A}L: Pactithorn attacks 1.
+
+Roosterror
+rules_text: Artform: Writing
+
+As long as there are four or more mediums attached to Roosterror, if another creation you control would deal damage to a creation, it deals that much damage plus 1 instead.
+Transcend Ability: {A}I: Roosterror transcends 1.
+Attack Ability: {A}I: Roosterror attacks 1. => Artform: Writing
+
+As long as there are four or more mediums attached to Roosterror, if another creation you control would deal damage to a creation, it deals that much damage plus 1 instead.
+{A}I: Roosterror transcends 1.
+{A}I: Roosterror attacks 1.
+
+Squirius
+rules_text: Artform: Writing
+
+Transcend Ability: {A}I: Squirius transcends 1. Reserve the top card of your deck.
+Transcend Ability: {A}{A}II: Squirius transcends 2. Reserve the top card of your deck.
+Attack Ability: {A}{A}I: Squirius attacks 1. Put a card from your reserves into your hand. => Artform: Writing
+
+{A}I: Squirius transcends 1. Reserve the top card of your deck.
+{A}{A}II: Squirius transcends 2. Reserve the top card of your deck.
+{A}{A}I: Squirius attacks 1. Put a card from your reserves into your hand.
+
+Consumptoad
+rules_text: Artform: Writing
+
+Transcend Ability: I: As a cost to activate this ability, destroy any number of mediums attached to Consumptoad. Consumptoad transcends 1 for each medium destroyed this way.
+Attack Ability: {A}I: Consumptoad attacks 1. => Artform: Writing
+
+I: As a cost to activate this ability, destroy any number of mediums attached to Consumptoad. Consumptoad transcends 1 for each medium destroyed this way.
+{A}I: Consumptoad attacks 1.
+
+Inkidrain
+rules_text: Artform: Writing
+
+Transcend Ability: {A}{A}I: Inkidrain transcends 1. Draw a card.
+Transcend Ability: {A}{A}{A}II: Inkidrain transcends 1. Draw a card. Each opponent discards a card.
+Attack Ability: {A}{A}I: Inkidrain attacks 1. Each opponent discards a card. => Artform: Writing
+
+{A}{A}I: Inkidrain transcends 1. Draw a card.
+{A}{A}{A}II: Inkidrain transcends 1. Draw a card. Each opponent discards a card.
+{A}{A}I: Inkidrain attacks 1. Each opponent discards a card.
+
+Leadette
+rules_text: Artform: Theater
+
+Whenever one or more Transcendence counters are put on Leadette from an ability of another creation, put a Transcendence counter on Leadette for every second ComedyMask attached to it.
+Attack Ability: {T}{T}: Leadette attacks 1. => Artform: Theater
+
+Whenever one or more Transcendence counters are put on Leadette from an ability of another creation, put a Transcendence counter on Leadette for every second ComedyMask attached to it.
+{T}{T}: Leadette attacks 1.
+
+Maskraft
+rules_text: Artform: Theater
+
+Transcend Ability: {C}{C}: Maskraft transcends 1. You may trigger the start of turn ability of a Tragedy.
+Transcend Ability: {C}{C}{C}{C}: Maskraft and another creation you control each transcend 1. Put up to one Mask from your hand into your play zone. => Artform: Theater
+
+{C}{C}: Maskraft transcends 1. You may trigger the start of turn ability of a Tragedy.
+{C}{C}{C}{C}: Maskraft and another creation you control each transcend 1. Put up to one Mask from your hand into your play zone.
+
+Songuard
+rules_text: Artform: Music
+
+The first time Songuard would take damage each turn, if you have two or more composed notes, Songuard doesn't take that damage.
+Transcend Ability: {A}{N}: Songuard transcends 1.
+Transcend Ability: {A}{A}{A}{N}: Songuard transcends 2.
+Attack Ability: {A}{A}{N}: Songuard attacks 1. If you have two or more composed notes, Songuard attacks 2 instead. => Artform: Music
+
+The first time Songuard would take damage each turn, if you have two or more composed notes, Songuard doesn't take that damage.
+{A}{N}: Songuard transcends 1.
+{A}{A}{A}{N}: Songuard transcends 2.
+{A}{A}{N}: Songuard attacks 1. If you have two or more composed notes, Songuard attacks 2 instead.
+
+Soniclasm
+rules_text: Artform: Music
+
+When Soniclasm enters a play zone, you may trash one of your composed notes. If you do, it gains aggressive. [i](If it has aggressive, a creation can use an attack ability the turn it's played.)[/i]
+Attack Ability: {A}{N}{N}: Soniclasm attacks 2. => Artform: Music
+
+When Soniclasm enters a play zone, you may trash one of your composed notes. If you do, it gains aggressive. [i](If it has aggressive, a creation can use an attack ability the turn it's played.)[/i]
+{A}{N}{N}: Soniclasm attacks 2.
+
+Slaughtrestage
+rules_text: Artform: Theater
+
+Attack Ability: {T}{T}: Slaughtrestage transcends 1. You may trigger the start of turn ability of a Comedy.
+Attack Ability: {T}{T}{T}{T}: Slaughtrestage and another creation you control each attack 1. => Artform: Theater
+
+{T}{T}: Slaughtrestage transcends 1. You may trigger the start of turn ability of a Comedy.
+{T}{T}{T}{T}: Slaughtrestage and another creation you control each attack 1.
+
+Spectract
+rules_text: Artform: Theater
+
+Transcend Ability: {C}{C}: Spectract transcends 1.
+Attack Ability: {T}{T}: Spectract attacks 1. Then if the attacked creation is still in play, put it into its owner's hand. => Artform: Theater
+
+{C}{C}: Spectract transcends 1.
+{T}{T}: Spectract attacks 1. Then if the attacked creation is still in play, put it into its owner's hand.
+
+Trebbletrash
+rules_text: Artform: Music
+
+Transcend Ability: {A}{A}{N}: Trash any number of your composed notes. Trebbletrash transcends X, where X is half the number of cards trashed this way, rounded down.
+Attack Ability: {A}{N}: Trash any number of your composed notes. Trebbletrash attacks X, where X is half the number of cards trashed this way, rounded down. => Artform: Music
+
+{A}{A}{N}: Trash any number of your composed notes. Trebbletrash transcends X, where X is half the number of cards trashed this way, rounded down.
+{A}{N}: Trash any number of your composed notes. Trebbletrash attacks X, where X is half the number of cards trashed this way, rounded down.
+
+Rhythmoss
+rules_text: Artform: Music
+
+Transcend Ability: {A}{N}: Rhythmoss transcends 1. If you have two or more composed notes, Rhythmoss transcends 2 instead.
+Transcend Ability: {A}{A}{A}{N}{N}: Rhythmoss transcends 2.
+Attack Ability: {A}{N}: Rhythmoss attacks 1. => Artform: Music
+
+{A}{N}: Rhythmoss transcends 1. If you have two or more composed notes, Rhythmoss transcends 2 instead.
+{A}{A}{A}{N}{N}: Rhythmoss transcends 2.
+{A}{N}: Rhythmoss attacks 1.
+
+Vampyre
+rules_text: Artform: Alchemy
+
+Transcend + Attack Ability: {A}L: Vampyre transcends 1 and attacks 1. Discard a card. => Artform: Alchemy
+
+{A}L: Vampyre transcends 1 and attacks 1. Discard a card.
+
+Zombug
+rules_text: Artform: Alchemy
+
+Transcend + Attack Ability: LL: Zombug transcends 1 and attacks 1. Then if this was the first transcend ability you've used this turn, destroy Zombug. => Artform: Alchemy
+
+LL: Zombug transcends 1 and attacks 1. Then if this was the first transcend ability you've used this turn, destroy Zombug.
+
+Ghoulog
+rules_text: Artform: Alchemy
+
+Transcend + Attack Ability: {A}{A}LL: Ghoulog transcends 1, then attacks X, where X is the number of Transcendence counters on it. => Artform: Alchemy
+
+{A}{A}LL: Ghoulog transcends 1, then attacks X, where X is the number of Transcendence counters on it.
+
+Impyre
+rules_text: Artform: Alchemy
+
+Transcend Ability: {A}L: Impyre transcends 1. Put the top card of your deck into your discard pile.
+Transcend Ability: {A}{A}{A}LL: Impyre transcends 2. Put the top three cards of your deck into your discard pile.
+Attack Ability: {A}L: Impyre attacks 1. If a creation didn't perish from that attack, reserve a card from your discard pile. => Artform: Alchemy
+
+{A}L: Impyre transcends 1. Put the top card of your deck into your discard pile.
+{A}{A}{A}LL: Impyre transcends 2. Put the top three cards of your deck into your discard pile.
+{A}L: Impyre attacks 1. If a creation didn't perish from that attack, reserve a card from your discard pile.
+
+Calculaw
+rules_text: Artform: Writing
+
+Only one Transcendence counter may be put on each creation per turn.
+Transcend Ability: {A}I: Calculaw transcends 1.
+Attack Ability: {A}I: Calculaw attacks 1. => Artform: Writing
+
+Only one Transcendence counter may be put on each creation per turn.
+{A}I: Calculaw transcends 1.
+{A}I: Calculaw attacks 1.
+
+Banneroar
+rules_text: Artform: Writing
+
+Transcend Ability: {A}{A}II: Put a Transcendence counter on each other creation you control.
+Attack Ability: {A}I: Each other creation you control transcends 1. => Artform: Writing
+
+{A}{A}II: Put a Transcendence counter on each other creation you control.
+{A}I: Each other creation you control transcends 1.
+
+Doublix
+rules_text: Artform: Writing
+
+If you would create one or more tokens, you may create that many plus one of those tokens instead.
+Transcend Ability: I: Another creation you control transcends 1. => Artform: Writing
+
+If you would create one or more tokens, you may create that many plus one of those tokens instead.
+I: Another creation you control transcends 1.
+
+Anticipact
+rules_text: Artform: None
+
+As long as their are three or more mediums attached to Anticipact, cards all players play have reactive. [i](May be played or activated anytime you have priority.)[/i]
+Transcend Ability: {A}{A}: Anticipact transcends 1.
+Attack Ability: {A}{A}: Anticipact attacks 1. => Artform: None
+
+As long as their are three or more mediums attached to Anticipact, cards all players play have reactive. [i](May be played or activated anytime you have priority.)[/i]
+{A}{A}: Anticipact transcends 1.
+{A}{A}: Anticipact attacks 1.
+
+Comedeus
+rules_text: Artform: Theater
+
+When Comedeus enters your play zone, trigger the start of turn abilities of each TragedyMask you control.
+Transcend Ability: {C}{C}{C}: Comedeus transcends 1, then create a Tragedeus token and move all Transcendence counters from Comedeus to the created token. Destroy Comedeus. => Artform: Theater
+
+When Comedeus enters your play zone, trigger the start of turn abilities of each TragedyMask you control.
+{C}{C}{C}: Comedeus transcends 1, then create a Tragedeus token and move all Transcendence counters from Comedeus to the created token. Destroy Comedeus.
+
+Comedeus [Token]
+rules_text: Artform: Theater
+
+When Comedeus enters your play zone, trigger the start of turn abilities of each TragedyMask you control.
+Transcend Ability: {C}{C}{C}: Comedeus transcends 1, then create a Tragedeus token and move all Transcendence counters from Comedeus to the created token. Destroy Comedeus. => Artform: Theater
+
+When Comedeus enters your play zone, trigger the start of turn abilities of each TragedyMask you control.
+{C}{C}{C}: Comedeus transcends 1, then create a Tragedeus token and move all Transcendence counters from Comedeus to the created token. Destroy Comedeus.
+
+Puppetear
+rules_text: Artform: Theater
+
+Transcend Ability: {C}: Puppetear transcends 1. You may trigger the start of turn ability of a ComedyMask.
+Transcend Ability: {C}{C}{C}{C}{C}: Puppetear transcends 2.
+Attack Ability: {T}: Puppetear attacks 1. You may trigger the start of turn ability of a TragedyMask.
+Attack Ability: {T}{T}{T}{T}{T}: Puppetear attacks 2. => Artform: Theater
+
+{C}: Puppetear transcends 1. You may trigger the start of turn ability of a ComedyMask.
+{C}{C}{C}{C}{C}: Puppetear transcends 2.
+{T}: Puppetear attacks 1. You may trigger the start of turn ability of a TragedyMask.
+{T}{T}{T}{T}{T}: Puppetear attacks 2.
+
+Tragedeus
+rules_text: Artform: Theater
+
+When Tragedeus enters your play zone, trigger the start of turn abilities of each ComedyMask you control.
+Attack Ability: {T}{T}{T}: Tragedeus attacks 1, then create a Comedeus token and move all Transcendence counters from Tragedeus to the created token. Destroy Tragedeus. => Artform: Theater
+
+When Tragedeus enters your play zone, trigger the start of turn abilities of each ComedyMask you control.
+{T}{T}{T}: Tragedeus attacks 1, then create a Comedeus token and move all Transcendence counters from Tragedeus to the created token. Destroy Tragedeus.
+
+Tragedeus [Token]
+rules_text: Artform: Theater
+
+When Tragedeus enters your play zone, trigger the start of turn abilities of each ComedyMask you control.
+Attack Ability: {T}{T}{T}: Tragedeus attacks 1, then create a Comedeus token and move all Transcendence counters from Tragedeus to the created token. Destroy Tragedeus. => Artform: Theater
+
+When Tragedeus enters your play zone, trigger the start of turn abilities of each ComedyMask you control.
+{T}{T}{T}: Tragedeus attacks 1, then create a Comedeus token and move all Transcendence counters from Tragedeus to the created token. Destroy Tragedeus.
+
+Rhythmaster
+rules_text: Artform: Music
+
+Transcend Ability: {A}{N}: Another creation you control transcends 1.
+Transcend Ability: {A}{A}{A}{N}{N}{N}: Another creation you control transcends 1. Draw a card for each of your composed notes.
+Attack Ability: {N}: Rhythmaster attacks 1. => Artform: Music
+
+{A}{N}: Another creation you control transcends 1.
+{A}{A}{A}{N}{N}{N}: Another creation you control transcends 1. Draw a card for each of your composed notes.
+{N}: Rhythmaster attacks 1.
+
+Symphonor
+rules_text: Artform: Music
+
+As long as there are three or more mediums attached to Symphonor and you have four or more composed notes, transcend abilities you use require 1 less {N}.
+Transcend Ability: {A}{N}: Symphonor transcends 1.
+Transcend Ability: {A}{A}{A}{A}{N}{N}: Each of your creations transcends 1. => Artform: Music
+
+As long as there are three or more mediums attached to Symphonor and you have four or more composed notes, transcend abilities you use require 1 less {N}.
+{A}{N}: Symphonor transcends 1.
+{A}{A}{A}{A}{N}{N}: Each of your creations transcends 1.
+
+Temporage
+rules_text: Artform: Music
+
+Transcend Ability: {N}: Temporage transcends 1. Activate only if you have three or more composed notes.
+Transcend Ability: {N}: Temporage transcends 2. Activate only if you have six or more composed notes.
+Attack Ability: {N}: Temporage attacks 1. Activate only if you have three or more composed notes. => Artform: Music
+
+{N}: Temporage transcends 1. Activate only if you have three or more composed notes.
+{N}: Temporage transcends 2. Activate only if you have six or more composed notes.
+{N}: Temporage attacks 1. Activate only if you have three or more composed notes.
+
+Lichisect
+rules_text: Artform: Alchemy
+
+Transcend + Attack Ability: {A}{A}{A}LLL: Lichisect transcends 1 and attacks 1. This turn, whenever you use a transcend + attack ability, copy it. => Artform: Alchemy
+
+{A}{A}{A}LLL: Lichisect transcends 1 and attacks 1. This turn, whenever a creation you control uses an ability that would cause it to transcend and attack, copy that ability.
+
+Necrestore
+rules_text: Artform: Alchemy
+
+Whenever you destroy a creation you control, at end of turn, if their are three or more mediums attached to Necrestore, create a token that's a copy of the destroyed creation.
+Transcend Ability: L: Another token creation you control transcends 2. => Artform: Alchemy
+
+Whenever you destroy a creation you control, at end of turn, if their are three or more mediums attached to Necrestore, create a token that's a copy of the destroyed creation.
+L: Another token creation you control transcends 2.
+
+Ascendighoul
+rules_text: Artform: Alchemy
+
+Whenever another creation perishes, if there are three or more mediums attached to Ascendighoul and at least one of them is a Potion or Elixir, Ascendighoul transcends 1.
+Transcend + Attack Ability: {A}L: Ascendighoul attacks 1.
+Transcend + Attack Ability: {A}{A}LL: Ascendighoul attacks 2. => Artform: Alchemy
+
+Whenever another creation perishes, if there are three or more mediums attached to Ascendighoul and at least one of them is a Potion or Elixir, Ascendighoul transcends 1.
+{A}L: Ascendighoul attacks 1.
+{A}{A}LL: Ascendighoul attacks 2.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
