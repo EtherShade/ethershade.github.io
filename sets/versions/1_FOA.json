@@ -1,10 +1,18 @@
 ﻿{
+    "name": "Forces of Anticipation",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "jpg",
+    "draft_structure": "draft booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Infused Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 56,
             "color_identity": "W",
             "cost": "",
@@ -18,15 +26,13 @@
             "artist": "",
             "alias": "",
             "position": "0",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Infused Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 57,
             "color_identity": "U",
             "cost": "",
@@ -40,15 +46,13 @@
             "artist": "",
             "alias": "",
             "position": "1",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Infused Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 58,
             "color_identity": "B",
             "cost": "",
@@ -62,15 +66,13 @@
             "artist": "",
             "alias": "",
             "position": "2",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Infused Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 59,
             "color_identity": "R",
             "cost": "",
@@ -84,15 +86,13 @@
             "artist": "",
             "alias": "",
             "position": "3",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Infused Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 60,
             "color_identity": "G",
             "cost": "",
@@ -106,15 +106,13 @@
             "artist": "",
             "alias": "",
             "position": "4",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR01 Red Flames",
             "color": "R",
             "rarity": "common",
-            "type": "Sorcery \u2013 Fire",
+            "type": "Sorcery \u2014 Fire",
             "number": 34,
             "color_identity": "R",
             "cost": "{R}",
@@ -128,15 +126,13 @@
             "artist": "",
             "alias": "",
             "position": "5",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW01 White Flames",
             "color": "W",
             "rarity": "common",
-            "type": "Sorcery \u2013 Fire",
+            "type": "Sorcery \u2014 Fire",
             "number": 1,
             "color_identity": "W",
             "cost": "{W}",
@@ -150,15 +146,13 @@
             "artist": "",
             "alias": "",
             "position": "6",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU01 Blue Flames",
             "color": "U",
             "rarity": "common",
-            "type": "Sorcery \u2013 Fire",
+            "type": "Sorcery \u2014 Fire",
             "number": 12,
             "color_identity": "U",
             "cost": "{U}",
@@ -172,15 +166,13 @@
             "artist": "",
             "alias": "",
             "position": "7",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB01 Black Flames",
             "color": "B",
             "rarity": "common",
-            "type": "Sorcery \u2013 Fire",
+            "type": "Sorcery \u2014 Fire",
             "number": 23,
             "color_identity": "B",
             "cost": "{B}",
@@ -194,15 +186,13 @@
             "artist": "",
             "alias": "",
             "position": "8",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG01 Green Flames",
             "color": "G",
             "rarity": "common",
-            "type": "Sorcery \u2013 Fire",
+            "type": "Sorcery \u2014 Fire",
             "number": 45,
             "color_identity": "G",
             "cost": "{G}",
@@ -216,15 +206,13 @@
             "artist": "",
             "alias": "",
             "position": "9",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW06 White Counterbalance",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 6,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -238,15 +226,13 @@
             "artist": "",
             "alias": "",
             "position": "10",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW02 Pearl Flames",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Fire",
+            "type": "Instant \u2014 Fire",
             "number": 2,
             "color_identity": "W",
             "cost": "{W}",
@@ -260,15 +246,13 @@
             "artist": "",
             "alias": "",
             "position": "11",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU02 Sapphire Flames",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Fire",
+            "type": "Instant \u2014 Fire",
             "number": 13,
             "color_identity": "U",
             "cost": "{U}",
@@ -282,15 +266,13 @@
             "artist": "",
             "alias": "",
             "position": "12",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB02 Jet Flames",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Fire",
+            "type": "Instant \u2014 Fire",
             "number": 24,
             "color_identity": "B",
             "cost": "{B}",
@@ -304,15 +286,13 @@
             "artist": "",
             "alias": "",
             "position": "13",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR02 Ruby Flames",
             "color": "R",
             "rarity": "common",
-            "type": "Instant \u2013 Fire",
+            "type": "Instant \u2014 Fire",
             "number": 35,
             "color_identity": "R",
             "cost": "{R}",
@@ -326,15 +306,13 @@
             "artist": "",
             "alias": "",
             "position": "14",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG02 Emerald Flames",
             "color": "G",
             "rarity": "common",
-            "type": "Instant \u2013 Fire",
+            "type": "Instant \u2014 Fire",
             "number": 46,
             "color_identity": "G",
             "cost": "{G}",
@@ -348,15 +326,13 @@
             "artist": "",
             "alias": "",
             "position": "15",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU03 Flames of Memory",
             "color": "U",
             "rarity": "common",
-            "type": "Sorcery \u2013 Fire",
+            "type": "Sorcery \u2014 Fire",
             "number": 14,
             "color_identity": "WU",
             "cost": "{1}{U}",
@@ -370,15 +346,13 @@
             "artist": "",
             "alias": "",
             "position": "16",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR03 Flames of Insanity",
             "color": "R",
             "rarity": "common",
-            "type": "Sorcery \u2013 Fire",
+            "type": "Sorcery \u2014 Fire",
             "number": 36,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -392,19 +366,17 @@
             "artist": "",
             "alias": "",
             "position": "17",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB03 Flames of Eternity",
             "color": "B",
             "rarity": "common",
-            "type": "Sorcery \u2013 Fire",
+            "type": "Sorcery \u2014 Fire",
             "number": 25,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Flames of Eternity deals 4 damage to target player.\nEscape\u2013{B}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
+            "rules_text": "Flames of Eternity deals 4 damage to target player.\nEscape\u2014{B}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -414,15 +386,13 @@
             "artist": "",
             "alias": "",
             "position": "18",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW03 Flames of Theology",
             "color": "W",
             "rarity": "common",
-            "type": "Sorcery \u2013 Fire",
+            "type": "Sorcery \u2014 Fire",
             "number": 3,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -436,15 +406,13 @@
             "artist": "",
             "alias": "",
             "position": "19",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG03 Flames of Duplicity",
             "color": "G",
             "rarity": "common",
-            "type": "Sorcery \u2013 Fire",
+            "type": "Sorcery \u2014 Fire",
             "number": 47,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -458,15 +426,13 @@
             "artist": "",
             "alias": "",
             "position": "20",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW04 Greater Pearl Flames",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Fire",
+            "type": "Instant \u2014 Fire",
             "number": 4,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -480,15 +446,13 @@
             "artist": "",
             "alias": "",
             "position": "21",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR04 Greater Ruby Flames",
             "color": "R",
             "rarity": "common",
-            "type": "Instant \u2013 Fire",
+            "type": "Instant \u2014 Fire",
             "number": 37,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -502,15 +466,13 @@
             "artist": "",
             "alias": "",
             "position": "22",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB04 Greater Jet Flames",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Fire",
+            "type": "Instant \u2014 Fire",
             "number": 26,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -524,15 +486,13 @@
             "artist": "",
             "alias": "",
             "position": "23",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU04 Greater Sapphire Flames",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Fire",
+            "type": "Instant \u2014 Fire",
             "number": 15,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -546,15 +506,13 @@
             "artist": "",
             "alias": "",
             "position": "24",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG04 Greater Emerald Flames",
             "color": "G",
             "rarity": "common",
-            "type": "Instant \u2013 Fire",
+            "type": "Instant \u2014 Fire",
             "number": 48,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -568,15 +526,13 @@
             "artist": "",
             "alias": "",
             "position": "25",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW05 White Counterflames",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Fire Thought",
+            "type": "Instant \u2014 Fire Thought",
             "number": 5,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -590,15 +546,13 @@
             "artist": "",
             "alias": "",
             "position": "26",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU05 Blue Counterflames",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Fire Thought",
+            "type": "Instant \u2014 Fire Thought",
             "number": 16,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -612,15 +566,13 @@
             "artist": "",
             "alias": "",
             "position": "27",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB05 Black Counterflames",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Fire Thought",
+            "type": "Instant \u2014 Fire Thought",
             "number": 27,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -634,15 +586,13 @@
             "artist": "",
             "alias": "",
             "position": "28",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR05 Red Counterflames",
             "color": "R",
             "rarity": "common",
-            "type": "Instant \u2013 Fire Thought",
+            "type": "Instant \u2014 Fire Thought",
             "number": 38,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -656,15 +606,13 @@
             "artist": "",
             "alias": "",
             "position": "29",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG05 Green Counterflames",
             "color": "G",
             "rarity": "common",
-            "type": "Instant \u2013 Fire Thought",
+            "type": "Instant \u2014 Fire Thought",
             "number": 49,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -678,15 +626,13 @@
             "artist": "",
             "alias": "",
             "position": "30",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU06 Blue Counterbalance",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 17,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -700,15 +646,13 @@
             "artist": "",
             "alias": "",
             "position": "31",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB06 Black Counterbalance",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 28,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -722,15 +666,13 @@
             "artist": "",
             "alias": "",
             "position": "32",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR06 Red Counterbalance",
             "color": "R",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 39,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -744,15 +686,13 @@
             "artist": "",
             "alias": "",
             "position": "33",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG06 Green Counterbalance",
             "color": "G",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 50,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -766,15 +706,13 @@
             "artist": "",
             "alias": "",
             "position": "34",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW07 White Counterquench",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 7,
             "color_identity": "W",
             "cost": "{W}",
@@ -788,15 +726,13 @@
             "artist": "",
             "alias": "",
             "position": "35",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Treasure [Token]",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Treasure",
+            "type": "Token Artifact \u2014 Treasure",
             "number": 1,
             "color_identity": "C",
             "cost": "",
@@ -810,15 +746,13 @@
             "artist": "",
             "alias": "",
             "position": "36",
-            "notes": "!related CW07 White Counterquench;CW08 White Counterthought;CU07 Blue Counterquench;CU08 Blue Counterthought;CB07 Black Counterquench;CB08 Black Counterthought;CR07 Red Counterquench;CR08 Red Counterthought;CG07 Green Counterquench;CG08 Green Counterthought",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "!related CW07 White Counterquench;CW08 White Counterthought;CU07 Blue Counterquench;CU08 Blue Counterthought;CB07 Black Counterquench;CB08 Black Counterthought;CR07 Red Counterquench;CR08 Red Counterthought;CG07 Green Counterquench;CG08 Green Counterthought"
         },
         {
             "card_name": "CW08 White Counterthought",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 8,
             "color_identity": "W",
             "cost": "{W}",
@@ -832,15 +766,13 @@
             "artist": "",
             "alias": "",
             "position": "37",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU07 Blue Counterquench",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 18,
             "color_identity": "U",
             "cost": "{U}",
@@ -854,15 +786,13 @@
             "artist": "",
             "alias": "",
             "position": "38",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB07 Black Counterquench",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 29,
             "color_identity": "B",
             "cost": "{B}",
@@ -876,15 +806,13 @@
             "artist": "",
             "alias": "",
             "position": "39",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR07 Red Counterquench",
             "color": "R",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 40,
             "color_identity": "R",
             "cost": "{R}",
@@ -898,15 +826,13 @@
             "artist": "",
             "alias": "",
             "position": "40",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG07 Green Counterquench",
             "color": "G",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 51,
             "color_identity": "G",
             "cost": "{G}",
@@ -920,15 +846,13 @@
             "artist": "",
             "alias": "",
             "position": "41",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU08 Blue Counterthought",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 19,
             "color_identity": "U",
             "cost": "{U}",
@@ -942,15 +866,13 @@
             "artist": "",
             "alias": "",
             "position": "42",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB08 Black Counterthought",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 30,
             "color_identity": "B",
             "cost": "{B}",
@@ -964,15 +886,13 @@
             "artist": "",
             "alias": "",
             "position": "43",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR08 Red Counterthought",
             "color": "R",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 41,
             "color_identity": "R",
             "cost": "{R}",
@@ -986,15 +906,13 @@
             "artist": "",
             "alias": "",
             "position": "44",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG08 Green Counterthought",
             "color": "G",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 52,
             "color_identity": "G",
             "cost": "{G}",
@@ -1008,15 +926,13 @@
             "artist": "",
             "alias": "",
             "position": "45",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW09 Pearl Counterbalance",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 9,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -1030,15 +946,13 @@
             "artist": "",
             "alias": "",
             "position": "46",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU09 Sapphire Counterbalance",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 20,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -1052,15 +966,13 @@
             "artist": "",
             "alias": "",
             "position": "47",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB09 Jet Counterbalance",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 31,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1074,15 +986,13 @@
             "artist": "",
             "alias": "",
             "position": "48",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR09 Ruby Counterbalance",
             "color": "R",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 42,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1096,15 +1006,13 @@
             "artist": "",
             "alias": "",
             "position": "49",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG09 Emerald Counterbalance",
             "color": "G",
             "rarity": "common",
-            "type": "Instant \u2013 Thought",
+            "type": "Instant \u2014 Thought",
             "number": 53,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -1118,9 +1026,7 @@
             "artist": "",
             "alias": "",
             "position": "50",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB10 Memorial Return",
@@ -1140,9 +1046,7 @@
             "artist": "",
             "alias": "",
             "position": "51",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU10 Visionify",
@@ -1162,9 +1066,7 @@
             "artist": "",
             "alias": "",
             "position": "52",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR10 Cathartic Sight",
@@ -1184,9 +1086,7 @@
             "artist": "",
             "alias": "",
             "position": "53",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG10 Druidic Relic",
@@ -1206,9 +1106,7 @@
             "artist": "",
             "alias": "",
             "position": "54",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW10 Cleansing Balm",
@@ -1228,9 +1126,7 @@
             "artist": "",
             "alias": "",
             "position": "55",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UU01 Focus of Anticipation",
@@ -1250,9 +1146,7 @@
             "artist": "",
             "alias": "",
             "position": "56",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UW01 Focus of Rejuvination",
@@ -1272,9 +1166,7 @@
             "artist": "",
             "alias": "",
             "position": "57",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UB01 Focus of Attrition",
@@ -1294,9 +1186,7 @@
             "artist": "",
             "alias": "",
             "position": "58",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UR01 Focus of Aggression",
@@ -1316,9 +1206,7 @@
             "artist": "",
             "alias": "",
             "position": "59",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UG01 Focus of Filtration",
@@ -1338,9 +1226,7 @@
             "artist": "",
             "alias": "",
             "position": "60",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         }
     ]
 }
