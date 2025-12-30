@@ -1,47 +1,4 @@
-﻿VERSION 2 CHANGELOG
-====================
-
-The Pale Court Headquarters added.
-Phyrexian Prophet added.
-Eldritch Extraction added.
-Neomyr Mindmaster added.
-Phyrexian Death Rite added.
-Phyrexian Chaos Rite added.
-Simiite Peace Rite added.
-Monkey Business added.
-
-
-Neomyr Kinsmith
-
-Neomyr Landshaper
-type: Artifact Creature — Neomyr => Artifact Creature — Neomyr Druid
-
-Neomyr Mindservant
-type: Artifact Creature — Neomyr => Artifact Creature — Neomyr Wizard
-
-Neomyr Grinder
-rules_text: As an additional cost to cast this spell, exile a card from your graveyard.
-{T}: Mill a card. => As an additional cost to cast this spell, exile a card from your graveyard.
-{T}: Mill two cards.
-
-Veiled Ritual
-rules_text: Add {B}{B}. You gain 3 life.
-Veilform [i](You may cast this spell veiled for {0}. Veiled cards are 1/1 artifact enchantment creatures. When one dies, exile it. You may cast it from exile by paying an amount of life equal to its mana value in addition to paying its mana cost.)[/i] => Add {B}{B}. You gain 4 life.
-Veilform [i](You may cast this spell veiled for {0}. Veiled cards are 1/1 artifact enchantment creatures. When one dies, exile it. You may cast it from exile by paying an amount of life equal to its mana value in addition to paying its mana cost.)[/i]
-
-Ritualistic Vindication
-rules_text: Whenever an instant or sorcery spell you control adds one or more mana, draw a card. => Whenever an instant or sorcery spell you control causes you to add one or more mana, draw a card.
-
-Septasphere
-
-Neomyr Prophet
-type: Artifact Creature — Neomyr => Artifact Creature — Neomyr Mystic
-rules_text: Prophetic [i](While shuffling, if it isn't the start of the game, you may reveal a card with prophetic to put on the bottom. It stays revealed until it is moved no longer on the bottom, and can be played from the bottom of your deck as long as it is revealed.)[/i]
-As an additional cost to cast this spell, exile a card from your graveyard. => Prophetic [i](While shuffling, if it isn't the start of the game, you may reveal a card with prophetic to put on the bottom. It stays revealed until it is no longer on the bottom, and can be played from the bottom of your library as long as it is revealed.)[/i]
-As an additional cost to cast this spell, exile a card from your graveyard.
-
-
-VERSION 1 CHANGELOG
+﻿VERSION 1 CHANGELOG
 ====================
 
 First version published.
