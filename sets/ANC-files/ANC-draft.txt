@@ -1,0 +1,1360 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CW01 Simple Slash",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery — Strike",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "CU01 Simple Trick",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery — Strike",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "CB01 Simple Stab",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery — Strike",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "CR01 Simple Flame",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery — Strike",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "CG01 Simple Crush",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery — Strike",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "CB12 Spell Reaping",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Infused Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Infused Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Infused Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Infused Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Infused Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "UM01 Halifar, Iron Hand",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Planeswalker — Halifar",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "UM02 Parathrak, Shadow Archivist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Planeswalker — Parathrak",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "UM03 Gruthar, Bloody Flame",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Planeswalker — Gruthar",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "UM04 Genseya, Mana Twister",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Planeswalker — Genseya",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "UM05 Wu'kom, Veil Crafter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Planeswalker — Wu'kom",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "UM06 Vassar, Strike Repeater",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Planeswalker — Vassar",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "UM07 Temparji, Double Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Planeswalker — Temparji",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "UM08 Gezzix, Dust Cultivator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Planeswalker — Gezzix",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "UM09 Duan, Death Devoted",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Planeswalker — Duan",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "UM10 Behheg, Dual Slicer",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Planeswalker — Behheg",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "CW02 Leeching Slash",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery — Strike",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "UW0? Reapstorm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant — Strike",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "CW03 Warded Slash",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery — Strike",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "CW04 Slicer Alarm",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "CW05 Duan's Igniting Slash",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant — Strike",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "CW06 Wu'kom's Preparatory Slash",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery — Strike",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "CW09 Vassar's Draining Slash",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant — Strike",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "CW11 Halifar's Slashing Negation",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant — Strike Negation",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "CW07 Double Slash",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant — Strike",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "CW08 Argumentative Slash",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery — Strike",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "CW10 Ignition Fragment",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery — Strike",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "CW12 Bulwark Blade",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Instant — Strike",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "CW15 Negation Pierce",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant — Negation",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "CU18 Sapphire Counterbalance",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant — Negation",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "CW17 Pearl Barrier",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant — Negation",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "CW16 Pearlcore Shield",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Instant — Negation",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "CW14 Disenchantation Negation",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant — Negation",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "CW13 Flare Up",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "CW20 Slicer Anthem",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "CW19 Crystal Casing",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "CU02 Parathrak's Archival Trick",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery — Strike",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "CU03 Behheg's Duplicitous Trick",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant — Strike",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "CU04 Waterbreathing Trick",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant — Strike",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "CU05 Memory Trick",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery — Strike",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "CU06 Temparji's Frost Blade",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant — Strike",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "CR02 Temparji's Fire Blade",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant — Strike",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "CU07 Negative Blade",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant — Strike",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "CU08 Secretive Trick",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery — Strike",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "CU09 Trick of the Deep",
+			"rarity": "common",
+			"mana_cost": "{6}{U}",
+			"type": "Sorcery — Strike",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "CU10 Turtlecorpse Aegis",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "CU11 Visionify",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "CU17 Sapphire Barrier",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant — Negation",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "CW18 Pearl Counterbalance",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant — Negation",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "CU16 Sapphirecore Scaling",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Instant — Strike Negation",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "CU12 Turbodivine",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "CU15 Spellstall",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant — Negation",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "CU14 Halifar's Stifle",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant — Negation",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "CU13 Supersonic Thought",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "CU19 Spark Bauble",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "CU20 Slicer Inevitability",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "CB02 Gruthar's Bloody Stab",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery — Strike",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "CB03 Reassembling Dagger",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant — Strike",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "CB04 Vassar's Throwaway Stab",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery — Strike",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "CB05 Gezzix's Dusty Stab",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery — Strike",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "CB06 Raging Stab",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery — Strike",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "CB07 Mighty Stab",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant — Strike",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "CR14 Smoldering Rebuttal",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant — Strike Negation",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "CB10 Menacing Stab",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Sorcery — Strike",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "CB09 Draining Stab",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant — Strike",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "CB08 Book Bonking",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant — Strike",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "CB11 Agony Archive",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "CB13 Mind Turborot",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "CB18 Jet Counterbalance",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant — Negation",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "CB17 Jet Barrier",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant — Negation",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "CB16 Jetcore Putrenegate",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant — Negation",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "CB14 Blood Decision",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant — Strike Negation",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "CB15 Bloodforce Spike",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant — Negation",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "CB19 Slaughterbauble",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "CB20 Slicer Ruin",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "CR07 Duan's Blaze of Glory",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant — Strike",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "CR03 Ritualistic Flame",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery — Strike",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "CR04 Memorial Flame",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery — Strike",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "RR0? Flame Mastery",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "CR05 Flame-Scarred Hands",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery — Strike",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "CR06 Oppressive Arguement",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery — Strike",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "RU0? Infusement Leeching Device",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "CR08 Immutable Flame",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery — Strike",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "CR09 Smithing Flame",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery — Strike",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "CR10 Explosive Pyromancy",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Sorcery — Strike",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "CR11 Pyrosmashing",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery — Strike",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "CR12 Fiery Immutability",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "CR18 Ruby Counterbalance",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant — Negation",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "CG18 Emerald Counterbalance",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant — Negation",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "CR13 Insight Flare",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "CR17 Ruby Barrier",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant — Negation",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "CR15 Deadly Treason",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant — Negation",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "UU0? Valued Filtration",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Instant — Negation",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "CR16 Loyal Guardianship",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant — Negation",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "CR20 Slicer Explosivity",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "CR19 Fire Gemstone",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "CG17 Emerald Barrier",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant — Negation",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "CG20 Slicer Multiplicity",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "CG19 Slow Regrowth",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "CG02 Flurry of Cuts",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery — Strike",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "CG04 Brutal Duality",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant — Strike",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "CG03 Ethereal Crushing",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery — Strike",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "CG05 Cultivation Blade",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery — Strike",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "CG06 Crushing Rebuttal",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery — Strike",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "CG07 Brutal Butchering",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery — Strike",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "CG08 Bladed Uprising",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant — Strike",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Treasure [Token]",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "CG09 Ruinous Beatdown",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery — Strike",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "CG10 Infusement Channeling",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Instant — Strike",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "CG11 Colossal Dreadcrush",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Sorcery — Strike",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "CG12 Double Pain",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "CG13 Return to Livelyness",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "CG16 Shoot Down",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant — Negation",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "CG14 Prevent Progress",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant — Negation",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "CG15 Veil of Winter",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Instant — Negation",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "CC01 Simple Bonk",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Sorcery — Strike",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "CC02 Simple Whack",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Instant — Strike",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "CC03 Simple Bash",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Instant — Strike",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "CL01 Infusing Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "CA01 Infused Manalith",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/ANC-files/img/124.jpg"
+			}
+		}
+	]
+
+[common(14)]
+	5 CW01 Simple Slash
+	5 CU01 Simple Trick
+	5 CB01 Simple Stab
+	5 CR01 Simple Flame
+	5 CG01 Simple Crush
+	5 CB12 Spell Reaping
+	5 CW02 Leeching Slash
+	5 CW03 Warded Slash
+	5 CW04 Slicer Alarm
+	5 CW05 Duan's Igniting Slash
+	5 CW06 Wu'kom's Preparatory Slash
+	5 CW09 Vassar's Draining Slash
+	5 CW11 Halifar's Slashing Negation
+	5 CW07 Double Slash
+	5 CW08 Argumentative Slash
+	5 CW10 Ignition Fragment
+	5 CW12 Bulwark Blade
+	5 CW15 Negation Pierce
+	5 CU18 Sapphire Counterbalance
+	5 CW17 Pearl Barrier
+	5 CW16 Pearlcore Shield
+	5 CW14 Disenchantation Negation
+	5 CW13 Flare Up
+	5 CW20 Slicer Anthem
+	5 CW19 Crystal Casing
+	5 CU02 Parathrak's Archival Trick
+	5 CU03 Behheg's Duplicitous Trick
+	5 CU04 Waterbreathing Trick
+	5 CU05 Memory Trick
+	5 CU06 Temparji's Frost Blade
+	5 CR02 Temparji's Fire Blade
+	5 CU07 Negative Blade
+	5 CU08 Secretive Trick
+	5 CU09 Trick of the Deep
+	5 CU10 Turtlecorpse Aegis
+	5 CU11 Visionify
+	5 CU17 Sapphire Barrier
+	5 CW18 Pearl Counterbalance
+	5 CU16 Sapphirecore Scaling
+	5 CU12 Turbodivine
+	5 CU15 Spellstall
+	5 CU14 Halifar's Stifle
+	5 CU13 Supersonic Thought
+	5 CU19 Spark Bauble
+	5 CU20 Slicer Inevitability
+	5 CB02 Gruthar's Bloody Stab
+	5 CB03 Reassembling Dagger
+	5 CB04 Vassar's Throwaway Stab
+	5 CB05 Gezzix's Dusty Stab
+	5 CB06 Raging Stab
+	5 CB07 Mighty Stab
+	5 CR14 Smoldering Rebuttal
+	5 CB10 Menacing Stab
+	5 CB09 Draining Stab
+	5 CB08 Book Bonking
+	5 CB11 Agony Archive
+	5 CB13 Mind Turborot
+	5 CB18 Jet Counterbalance
+	5 CB17 Jet Barrier
+	5 CB16 Jetcore Putrenegate
+	5 CB14 Blood Decision
+	5 CB15 Bloodforce Spike
+	5 CB19 Slaughterbauble
+	5 CB20 Slicer Ruin
+	5 CR07 Duan's Blaze of Glory
+	5 CR03 Ritualistic Flame
+	5 CR04 Memorial Flame
+	5 CR05 Flame-Scarred Hands
+	5 CR06 Oppressive Arguement
+	5 CR08 Immutable Flame
+	5 CR09 Smithing Flame
+	5 CR10 Explosive Pyromancy
+	5 CR11 Pyrosmashing
+	5 CR12 Fiery Immutability
+	5 CR18 Ruby Counterbalance
+	5 CG18 Emerald Counterbalance
+	5 CR13 Insight Flare
+	5 CR17 Ruby Barrier
+	5 CR15 Deadly Treason
+	5 CR16 Loyal Guardianship
+	5 CR20 Slicer Explosivity
+	5 CR19 Fire Gemstone
+	5 CG17 Emerald Barrier
+	5 CG20 Slicer Multiplicity
+	5 CG19 Slow Regrowth
+	5 CG02 Flurry of Cuts
+	5 CG04 Brutal Duality
+	5 CG03 Ethereal Crushing
+	5 CG05 Cultivation Blade
+	5 CG06 Crushing Rebuttal
+	5 CG07 Brutal Butchering
+	5 CG08 Bladed Uprising
+	5 CG09 Ruinous Beatdown
+	5 CG10 Infusement Channeling
+	5 CG11 Colossal Dreadcrush
+	5 CG12 Double Pain
+	5 CG13 Return to Livelyness
+	5 CG16 Shoot Down
+	5 CG14 Prevent Progress
+	5 CG15 Veil of Winter
+	5 CC01 Simple Bonk
+	5 CC02 Simple Whack
+	5 CC03 Simple Bash
+	5 CL01 Infusing Wilds
+	5 CA01 Infused Manalith
