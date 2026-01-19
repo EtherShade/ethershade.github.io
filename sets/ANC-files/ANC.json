@@ -1,10 +1,18 @@
 ﻿{
+    "name": "Anticipation Core",
+    "formats": "",
+    "trimmed": "y",
+    "image_type": "jpg",
+    "draft_structure": "none",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "CW01 Simple Slash",
             "color": "W",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 4,
             "color_identity": "W",
             "cost": "{W}",
@@ -18,15 +26,13 @@
             "artist": "EtherShade",
             "alias": "",
             "position": "0",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU01 Simple Trick",
             "color": "U",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 25,
             "color_identity": "U",
             "cost": "{U}",
@@ -40,15 +46,13 @@
             "artist": "EtherShade",
             "alias": "",
             "position": "1",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB01 Simple Stab",
             "color": "B",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 47,
             "color_identity": "B",
             "cost": "{B}",
@@ -62,15 +66,13 @@
             "artist": "EtherShade",
             "alias": "",
             "position": "2",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR01 Simple Flame",
             "color": "R",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 67,
             "color_identity": "R",
             "cost": "{R}",
@@ -84,15 +86,13 @@
             "artist": "EtherShade",
             "alias": "",
             "position": "3",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG01 Simple Crush",
             "color": "G",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 88,
             "color_identity": "G",
             "cost": "{G}",
@@ -106,9 +106,7 @@
             "artist": "EtherShade",
             "alias": "",
             "position": "4",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB12 Spell Reaping",
@@ -128,15 +126,13 @@
             "artist": "",
             "alias": "",
             "position": "5",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Infused Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 120,
             "color_identity": "W",
             "cost": "",
@@ -150,15 +146,13 @@
             "artist": "EtherShade",
             "alias": "",
             "position": "6",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Infused Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 121,
             "color_identity": "U",
             "cost": "",
@@ -172,15 +166,13 @@
             "artist": "EtherShade",
             "alias": "",
             "position": "7",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Infused Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 122,
             "color_identity": "B",
             "cost": "",
@@ -194,15 +186,13 @@
             "artist": "EtherShade",
             "alias": "",
             "position": "8",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Infused Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 123,
             "color_identity": "R",
             "cost": "",
@@ -216,15 +206,13 @@
             "artist": "EtherShade",
             "alias": "",
             "position": "9",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Infused Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 124,
             "color_identity": "G",
             "cost": "",
@@ -238,15 +226,13 @@
             "artist": "EtherShade",
             "alias": "",
             "position": "10",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM01 Halifar, Iron Hand",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Legendary Planeswalker \u2013 Halifar",
+            "type": "Legendary Planeswalker \u2014 Halifar",
             "number": 108,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
@@ -260,15 +246,13 @@
             "artist": "",
             "alias": "",
             "position": "11",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM02 Parathrak, Shadow Archivist",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Legendary Planeswalker \u2013 Parathrak",
+            "type": "Legendary Planeswalker \u2014 Parathrak",
             "number": 109,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
@@ -282,15 +266,13 @@
             "artist": "",
             "alias": "",
             "position": "12",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM03 Gruthar, Bloody Flame",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Legendary Planeswalker \u2013 Gruthar",
+            "type": "Legendary Planeswalker \u2014 Gruthar",
             "number": 110,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
@@ -304,15 +286,13 @@
             "artist": "",
             "alias": "",
             "position": "13",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM04 Genseya, Mana Twister",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Legendary Planeswalker \u2013 Genseya",
+            "type": "Legendary Planeswalker \u2014 Genseya",
             "number": 111,
             "color_identity": "RG",
             "cost": "{R}{G}",
@@ -326,15 +306,13 @@
             "artist": "",
             "alias": "",
             "position": "14",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM05 Wu'kom, Veil Crafter",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Legendary Planeswalker \u2013 Wu'kom",
+            "type": "Legendary Planeswalker \u2014 Wu'kom",
             "number": 112,
             "color_identity": "WG",
             "cost": "{3}{G}{W}",
@@ -348,15 +326,13 @@
             "artist": "",
             "alias": "",
             "position": "15",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM06 Vassar, Strike Repeater",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Legendary Planeswalker \u2013 Vassar",
+            "type": "Legendary Planeswalker \u2014 Vassar",
             "number": 113,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
@@ -370,15 +346,13 @@
             "artist": "",
             "alias": "",
             "position": "16",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM07 Temparji, Double Blade",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Legendary Planeswalker \u2013 Temparji",
+            "type": "Legendary Planeswalker \u2014 Temparji",
             "number": 114,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
@@ -392,15 +366,13 @@
             "artist": "",
             "alias": "",
             "position": "17",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM08 Gezzix, Dust Cultivator",
             "color": "BG",
             "rarity": "uncommon",
-            "type": "Legendary Planeswalker \u2013 Gezzix",
+            "type": "Legendary Planeswalker \u2014 Gezzix",
             "number": 115,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
@@ -414,15 +386,13 @@
             "artist": "",
             "alias": "",
             "position": "18",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM09 Duan, Death Devoted",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Legendary Planeswalker \u2013 Duan",
+            "type": "Legendary Planeswalker \u2014 Duan",
             "number": 116,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
@@ -436,15 +406,13 @@
             "artist": "",
             "alias": "",
             "position": "19",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM10 Behheg, Dual Slicer",
             "color": "UG",
             "rarity": "uncommon",
-            "type": "Legendary Planeswalker \u2013 Behheg",
+            "type": "Legendary Planeswalker \u2014 Behheg",
             "number": 117,
             "color_identity": "UG",
             "cost": "{G}{U}",
@@ -458,15 +426,13 @@
             "artist": "",
             "alias": "",
             "position": "20",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW02 Leeching Slash",
             "color": "W",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 5,
             "color_identity": "W",
             "cost": "{W}",
@@ -480,19 +446,17 @@
             "artist": "",
             "alias": "",
             "position": "21",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UW0? Reapstorm",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 24,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Multikicker\u2013Counter a spell you control. [i](You may counter a spell you control in addition to any other costs any number of times as you cast this spell.)[/i]\nWhen you cast ? Reapstorm, double its potency for each time it was kicked. \n? Reapstorm deals damage equal to its potency to any target.",
+            "rules_text": "Multikicker\u2014Counter a spell you control. [i](You may counter a spell you control in addition to any other costs any number of times as you cast this spell.)[/i]\nWhen you cast ? Reapstorm, double its potency for each time it was kicked. \n? Reapstorm deals damage equal to its potency to any target.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -502,15 +466,13 @@
             "artist": "",
             "alias": "",
             "position": "22",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW03 Warded Slash",
             "color": "W",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 6,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -524,9 +486,7 @@
             "artist": "",
             "alias": "",
             "position": "23",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW04 Slicer Alarm",
@@ -546,15 +506,13 @@
             "artist": "",
             "alias": "",
             "position": "24",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW05 Duan's Igniting Slash",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 8,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -568,15 +526,13 @@
             "artist": "",
             "alias": "",
             "position": "25",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW06 Wu'kom's Preparatory Slash",
             "color": "W",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 9,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -590,19 +546,17 @@
             "artist": "",
             "alias": "",
             "position": "26",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW09 Vassar's Draining Slash",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 12,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Kicker\u2013Counter a spell you control. [i](You may counter a spell you control in addition to any other costs as you cast this spell.)[/i]\nWhen you cast Vassar's Draining Slash, if it was kicked, it gains lifelink until end of turn.\nVassar's Draining Slash deals damage equal to its potency to any target.",
+            "rules_text": "Kicker\u2014Counter a spell you control. [i](You may counter a spell you control in addition to any other costs as you cast this spell.)[/i]\nWhen you cast Vassar's Draining Slash, if it was kicked, it gains lifelink until end of turn.\nVassar's Draining Slash deals damage equal to its potency to any target.",
             "flavor_text": "[i][/i]",
             "pt": "5",
             "special_text": "",
@@ -612,15 +566,13 @@
             "artist": "",
             "alias": "",
             "position": "27",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW11 Halifar's Slashing Negation",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Strike Negation",
+            "type": "Instant \u2014 Strike Negation",
             "number": 14,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -634,15 +586,13 @@
             "artist": "",
             "alias": "",
             "position": "28",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW07 Double Slash",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 10,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -656,15 +606,13 @@
             "artist": "",
             "alias": "",
             "position": "29",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW08 Argumentative Slash",
             "color": "W",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 11,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -678,15 +626,13 @@
             "artist": "",
             "alias": "",
             "position": "30",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW10 Ignition Fragment",
             "color": "W",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 13,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -700,15 +646,13 @@
             "artist": "",
             "alias": "",
             "position": "31",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW12 Bulwark Blade",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 15,
             "color_identity": "W",
             "cost": "{5}{W}",
@@ -722,15 +666,13 @@
             "artist": "",
             "alias": "",
             "position": "32",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW15 Negation Pierce",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 18,
             "color_identity": "W",
             "cost": "{W}",
@@ -744,15 +686,13 @@
             "artist": "",
             "alias": "",
             "position": "33",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU18 Sapphire Counterbalance",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 42,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -766,15 +706,13 @@
             "artist": "EtherShade",
             "alias": "",
             "position": "34",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW17 Pearl Barrier",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 20,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -788,15 +726,13 @@
             "artist": "",
             "alias": "",
             "position": "35",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW16 Pearlcore Shield",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 19,
             "color_identity": "W",
             "cost": "{W}{W}",
@@ -810,19 +746,17 @@
             "artist": "",
             "alias": "",
             "position": "36",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW14 Disenchantation Negation",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 17,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Choose one \u2013\n\u2022 Destroy target artifact.\n\u2022 Destroy target enchantment.\n\u2022 Counter target spell unless its controller pays {1}.",
+            "rules_text": "Choose one \u2014\n\u2022 Destroy target artifact.\n\u2022 Destroy target enchantment.\n\u2022 Counter target spell unless its controller pays {1}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -832,9 +766,7 @@
             "artist": "",
             "alias": "",
             "position": "37",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW13 Flare Up",
@@ -854,9 +786,7 @@
             "artist": "",
             "alias": "",
             "position": "38",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW20 Slicer Anthem",
@@ -876,9 +806,7 @@
             "artist": "",
             "alias": "",
             "position": "39",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW19 Crystal Casing",
@@ -898,15 +826,13 @@
             "artist": "",
             "alias": "",
             "position": "40",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU02 Parathrak's Archival Trick",
             "color": "U",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 26,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -920,15 +846,13 @@
             "artist": "",
             "alias": "",
             "position": "41",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU03 Behheg's Duplicitous Trick",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 27,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -942,15 +866,13 @@
             "artist": "",
             "alias": "",
             "position": "42",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU04 Waterbreathing Trick",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 28,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -964,15 +886,13 @@
             "artist": "",
             "alias": "",
             "position": "43",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU05 Memory Trick",
             "color": "U",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 29,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -986,15 +906,13 @@
             "artist": "",
             "alias": "",
             "position": "44",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU06 Temparji's Frost Blade",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 30,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -1008,15 +926,13 @@
             "artist": "",
             "alias": "",
             "position": "45",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR02 Temparji's Fire Blade",
             "color": "R",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 68,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1030,15 +946,13 @@
             "artist": "",
             "alias": "",
             "position": "46",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU07 Negative Blade",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 31,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -1052,15 +966,13 @@
             "artist": "",
             "alias": "",
             "position": "47",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU08 Secretive Trick",
             "color": "U",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 32,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -1074,15 +986,13 @@
             "artist": "",
             "alias": "",
             "position": "48",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU09 Trick of the Deep",
             "color": "U",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 33,
             "color_identity": "U",
             "cost": "{6}{U}",
@@ -1096,9 +1006,7 @@
             "artist": "",
             "alias": "",
             "position": "49",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU10 Turtlecorpse Aegis",
@@ -1118,9 +1026,7 @@
             "artist": "",
             "alias": "",
             "position": "50",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU11 Visionify",
@@ -1140,15 +1046,13 @@
             "artist": "",
             "alias": "",
             "position": "51",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU17 Sapphire Barrier",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 41,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -1162,15 +1066,13 @@
             "artist": "",
             "alias": "",
             "position": "52",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW18 Pearl Counterbalance",
             "color": "W",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 21,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -1184,15 +1086,13 @@
             "artist": "EtherShade",
             "alias": "",
             "position": "53",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU16 Sapphirecore Scaling",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Strike Negation",
+            "type": "Instant \u2014 Strike Negation",
             "number": 40,
             "color_identity": "U",
             "cost": "{U}{U}",
@@ -1206,9 +1106,7 @@
             "artist": "",
             "alias": "",
             "position": "54",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU12 Turbodivine",
@@ -1228,15 +1126,13 @@
             "artist": "",
             "alias": "",
             "position": "55",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU15 Spellstall",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 39,
             "color_identity": "U",
             "cost": "{U}",
@@ -1250,15 +1146,13 @@
             "artist": "",
             "alias": "",
             "position": "56",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU14 Halifar's Stifle",
             "color": "U",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 38,
             "color_identity": "U",
             "cost": "{U}",
@@ -1272,9 +1166,7 @@
             "artist": "",
             "alias": "",
             "position": "57",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU13 Supersonic Thought",
@@ -1294,9 +1186,7 @@
             "artist": "",
             "alias": "",
             "position": "58",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU19 Spark Bauble",
@@ -1316,9 +1206,7 @@
             "artist": "",
             "alias": "",
             "position": "59",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU20 Slicer Inevitability",
@@ -1338,15 +1226,13 @@
             "artist": "",
             "alias": "",
             "position": "60",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB02 Gruthar's Bloody Stab",
             "color": "B",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 48,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1360,15 +1246,13 @@
             "artist": "",
             "alias": "",
             "position": "61",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB03 Reassembling Dagger",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 49,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1382,15 +1266,13 @@
             "artist": "",
             "alias": "",
             "position": "62",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB04 Vassar's Throwaway Stab",
             "color": "B",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 50,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1404,15 +1286,13 @@
             "artist": "",
             "alias": "",
             "position": "63",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB05 Gezzix's Dusty Stab",
             "color": "B",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 51,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -1426,15 +1306,13 @@
             "artist": "",
             "alias": "",
             "position": "64",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB06 Raging Stab",
             "color": "B",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 52,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -1448,15 +1326,13 @@
             "artist": "",
             "alias": "",
             "position": "65",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB07 Mighty Stab",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 53,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -1470,19 +1346,17 @@
             "artist": "",
             "alias": "",
             "position": "66",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR14 Smoldering Rebuttal",
             "color": "R",
             "rarity": "common",
-            "type": "Instant \u2013 Strike Negation",
+            "type": "Instant \u2014 Strike Negation",
             "number": 80,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Choose one \u2013\n\u2022 Counter target Strike spell if it has potency less than or equal to Smoldering Rebuttal's potency.\n\u2022 Smoldering Rebuttal deals damage equal to its potency to target battle or planeswalker.",
+            "rules_text": "Choose one \u2014\n\u2022 Counter target Strike spell if it has potency less than or equal to Smoldering Rebuttal's potency.\n\u2022 Smoldering Rebuttal deals damage equal to its potency to target battle or planeswalker.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -1492,15 +1366,13 @@
             "artist": "",
             "alias": "",
             "position": "67",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB10 Menacing Stab",
             "color": "B",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 56,
             "color_identity": "B",
             "cost": "{5}{B}",
@@ -1514,15 +1386,13 @@
             "artist": "",
             "alias": "",
             "position": "68",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB09 Draining Stab",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 55,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -1536,15 +1406,13 @@
             "artist": "",
             "alias": "",
             "position": "69",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB08 Book Bonking",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 54,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -1558,9 +1426,7 @@
             "artist": "",
             "alias": "",
             "position": "70",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB11 Agony Archive",
@@ -1580,9 +1446,7 @@
             "artist": "",
             "alias": "",
             "position": "71",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB13 Mind Turborot",
@@ -1602,15 +1466,13 @@
             "artist": "",
             "alias": "",
             "position": "72",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB18 Jet Counterbalance",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 64,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -1624,15 +1486,13 @@
             "artist": "EtherShade",
             "alias": "",
             "position": "73",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB17 Jet Barrier",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 63,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1646,15 +1506,13 @@
             "artist": "",
             "alias": "",
             "position": "74",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB16 Jetcore Putrenegate",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 62,
             "color_identity": "B",
             "cost": "{B}{B}",
@@ -1668,15 +1526,13 @@
             "artist": "",
             "alias": "",
             "position": "75",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB14 Blood Decision",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Strike Negation",
+            "type": "Instant \u2014 Strike Negation",
             "number": 60,
             "color_identity": "B",
             "cost": "{B}",
@@ -1690,19 +1546,17 @@
             "artist": "",
             "alias": "",
             "position": "76",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB15 Bloodforce Spike",
             "color": "B",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 61,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Counterpoint\u2013Pay 2 life. [i](You may cast this spell for its counterpoint cost as though it had flash as long as there are two or more spells on the stack.)[/i]\nCounter target spell unless its controller pays {1}.",
+            "rules_text": "Counterpoint\u2014Pay 2 life. [i](You may cast this spell for its counterpoint cost as though it had flash as long as there are two or more spells on the stack.)[/i]\nCounter target spell unless its controller pays {1}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1712,9 +1566,7 @@
             "artist": "",
             "alias": "",
             "position": "77",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB19 Slaughterbauble",
@@ -1734,9 +1586,7 @@
             "artist": "",
             "alias": "",
             "position": "78",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB20 Slicer Ruin",
@@ -1756,15 +1606,13 @@
             "artist": "",
             "alias": "",
             "position": "79",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR07 Duan's Blaze of Glory",
             "color": "R",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 73,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -1778,15 +1626,13 @@
             "artist": "",
             "alias": "",
             "position": "80",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR03 Ritualistic Flame",
             "color": "R",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 69,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1800,15 +1646,13 @@
             "artist": "",
             "alias": "",
             "position": "81",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR04 Memorial Flame",
             "color": "R",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 70,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1822,9 +1666,7 @@
             "artist": "",
             "alias": "",
             "position": "82",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RR0? Flame Mastery",
@@ -1844,15 +1686,13 @@
             "artist": "",
             "alias": "",
             "position": "83",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR05 Flame-Scarred Hands",
             "color": "R",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 71,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -1866,15 +1706,13 @@
             "artist": "",
             "alias": "",
             "position": "84",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR06 Oppressive Arguement",
             "color": "R",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 72,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -1888,9 +1726,7 @@
             "artist": "",
             "alias": "",
             "position": "85",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RU0? Infusement Leeching Device",
@@ -1910,15 +1746,13 @@
             "artist": "",
             "alias": "",
             "position": "86",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR08 Immutable Flame",
             "color": "R",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 74,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -1932,15 +1766,13 @@
             "artist": "",
             "alias": "",
             "position": "87",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR09 Smithing Flame",
             "color": "R",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 75,
             "color_identity": "R",
             "cost": "{4}{R}",
@@ -1954,15 +1786,13 @@
             "artist": "",
             "alias": "",
             "position": "88",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR10 Explosive Pyromancy",
             "color": "R",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 76,
             "color_identity": "R",
             "cost": "{5}{R}",
@@ -1976,15 +1806,13 @@
             "artist": "",
             "alias": "",
             "position": "89",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR11 Pyrosmashing",
             "color": "R",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 77,
             "color_identity": "R",
             "cost": "{R}",
@@ -1998,9 +1826,7 @@
             "artist": "",
             "alias": "",
             "position": "90",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR12 Fiery Immutability",
@@ -2020,15 +1846,13 @@
             "artist": "",
             "alias": "",
             "position": "91",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR18 Ruby Counterbalance",
             "color": "R",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 84,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2042,15 +1866,13 @@
             "artist": "EtherShade",
             "alias": "",
             "position": "92",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG18 Emerald Counterbalance",
             "color": "G",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 105,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -2064,9 +1886,7 @@
             "artist": "EtherShade",
             "alias": "",
             "position": "93",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR13 Insight Flare",
@@ -2086,15 +1906,13 @@
             "artist": "",
             "alias": "",
             "position": "94",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR17 Ruby Barrier",
             "color": "R",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 83,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2108,15 +1926,13 @@
             "artist": "",
             "alias": "",
             "position": "95",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR15 Deadly Treason",
             "color": "R",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 81,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -2130,15 +1946,13 @@
             "artist": "",
             "alias": "",
             "position": "96",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UU0? Valued Filtration",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 46,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -2152,15 +1966,13 @@
             "artist": "",
             "alias": "",
             "position": "97",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR16 Loyal Guardianship",
             "color": "R",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 82,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -2174,9 +1986,7 @@
             "artist": "",
             "alias": "",
             "position": "98",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR20 Slicer Explosivity",
@@ -2196,9 +2006,7 @@
             "artist": "",
             "alias": "",
             "position": "99",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR19 Fire Gemstone",
@@ -2218,15 +2026,13 @@
             "artist": "",
             "alias": "",
             "position": "100",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG17 Emerald Barrier",
             "color": "G",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 104,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -2240,9 +2046,7 @@
             "artist": "",
             "alias": "",
             "position": "101",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG20 Slicer Multiplicity",
@@ -2262,9 +2066,7 @@
             "artist": "",
             "alias": "",
             "position": "102",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG19 Slow Regrowth",
@@ -2284,15 +2086,13 @@
             "artist": "",
             "alias": "",
             "position": "103",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG02 Flurry of Cuts",
             "color": "G",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 89,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -2306,15 +2106,13 @@
             "artist": "",
             "alias": "",
             "position": "104",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG04 Brutal Duality",
             "color": "G",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 91,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -2328,15 +2126,13 @@
             "artist": "",
             "alias": "",
             "position": "105",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG03 Ethereal Crushing",
             "color": "G",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 90,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -2350,15 +2146,13 @@
             "artist": "",
             "alias": "",
             "position": "106",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG05 Cultivation Blade",
             "color": "G",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 92,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -2372,15 +2166,13 @@
             "artist": "",
             "alias": "",
             "position": "107",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG06 Crushing Rebuttal",
             "color": "G",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 93,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -2394,15 +2186,13 @@
             "artist": "",
             "alias": "",
             "position": "108",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG07 Brutal Butchering",
             "color": "G",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 94,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -2416,15 +2206,13 @@
             "artist": "",
             "alias": "",
             "position": "109",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG08 Bladed Uprising",
             "color": "G",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 95,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -2438,15 +2226,13 @@
             "artist": "",
             "alias": "",
             "position": "110",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Treasure [Token]",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Treasure",
+            "type": "Token Artifact \u2014 Treasure",
             "number": 1,
             "color_identity": "C",
             "cost": "",
@@ -2460,15 +2246,13 @@
             "artist": "",
             "alias": "",
             "position": "111",
-            "notes": "!related CR09 Smithing Flame",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "!related CR09 Smithing Flame"
         },
         {
             "card_name": "CG09 Ruinous Beatdown",
             "color": "G",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 96,
             "color_identity": "G",
             "cost": "{4}{G}",
@@ -2482,15 +2266,13 @@
             "artist": "",
             "alias": "",
             "position": "112",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG10 Infusement Channeling",
             "color": "G",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 97,
             "color_identity": "G",
             "cost": "{4}{G}",
@@ -2504,15 +2286,13 @@
             "artist": "",
             "alias": "",
             "position": "113",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG11 Colossal Dreadcrush",
             "color": "G",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 98,
             "color_identity": "G",
             "cost": "{5}{G}",
@@ -2526,9 +2306,7 @@
             "artist": "",
             "alias": "",
             "position": "114",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG12 Double Pain",
@@ -2548,9 +2326,7 @@
             "artist": "",
             "alias": "",
             "position": "115",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG13 Return to Livelyness",
@@ -2570,15 +2346,13 @@
             "artist": "",
             "alias": "",
             "position": "116",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG16 Shoot Down",
             "color": "G",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 103,
             "color_identity": "G",
             "cost": "{G}",
@@ -2592,15 +2366,13 @@
             "artist": "",
             "alias": "",
             "position": "117",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG14 Prevent Progress",
             "color": "G",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 101,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -2614,15 +2386,13 @@
             "artist": "",
             "alias": "",
             "position": "118",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG15 Veil of Winter",
             "color": "G",
             "rarity": "common",
-            "type": "Instant \u2013 Negation",
+            "type": "Instant \u2014 Negation",
             "number": 102,
             "color_identity": "G",
             "cost": "{G}{G}",
@@ -2636,15 +2406,13 @@
             "artist": "",
             "alias": "",
             "position": "119",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CC01 Simple Bonk",
             "color": "",
             "rarity": "common",
-            "type": "Sorcery \u2013 Strike",
+            "type": "Sorcery \u2014 Strike",
             "number": 1,
             "color_identity": "C",
             "cost": "{2}",
@@ -2658,15 +2426,13 @@
             "artist": "",
             "alias": "",
             "position": "120",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CC02 Simple Whack",
             "color": "",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 2,
             "color_identity": "C",
             "cost": "{3}",
@@ -2680,15 +2446,13 @@
             "artist": "",
             "alias": "",
             "position": "121",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CC03 Simple Bash",
             "color": "",
             "rarity": "common",
-            "type": "Instant \u2013 Strike",
+            "type": "Instant \u2014 Strike",
             "number": 3,
             "color_identity": "C",
             "cost": "{4}",
@@ -2702,9 +2466,7 @@
             "artist": "",
             "alias": "",
             "position": "122",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL01 Infusing Wilds",
@@ -2724,9 +2486,7 @@
             "artist": "",
             "alias": "",
             "position": "123",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CA01 Infused Manalith",
@@ -2746,9 +2506,8 @@
             "artist": "",
             "alias": "",
             "position": "124",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         }
-    ]
+    ],
+    "version": 1
 }
