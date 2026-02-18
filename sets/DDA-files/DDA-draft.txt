@@ -332,37 +332,37 @@
 		}
 	]
 
-[cube(15)]
-	1 Gambler
-	1 Mighty Mind
-	1 Mighty Body
-	1 Knight
-	1 Noble Duelist
-	1 Chronomancer
-	1 Hunter
-	1 Guardian
-	1 Knight Trainee
-	1 Leader
-	1 Balanced Whole
-	1 Sifter
-	1 Vampire
-	1 Lich
-	1 Scholar
-	1 Oracle
-	1 Necromancer
-	1 Healer
-	1 Gravedigger
-	1 Apocalypse Summoner
-	1 Pyromancer
-	1 Apocalypse Mage
-	1 Assassin
-	1 Ultimate Brawn
-	1 Druid
-	1 Slayer
-	1 Slayer Trainee
-	1 Noble Warden
-	1 Duelist
-	1 Warden
-	1 Guardian Trainee
-	1 Sentinel
-	1 Sentinel Trainee
+[cube(10)]
+	2 Gambler
+	2 Mighty Mind
+	2 Mighty Body
+	2 Knight
+	2 Noble Duelist
+	2 Chronomancer
+	2 Hunter
+	2 Guardian
+	2 Knight Trainee
+	2 Leader
+	2 Balanced Whole
+	2 Sifter
+	2 Vampire
+	2 Lich
+	2 Scholar
+	2 Oracle
+	2 Necromancer
+	2 Healer
+	2 Gravedigger
+	2 Apocalypse Summoner
+	2 Pyromancer
+	2 Apocalypse Mage
+	2 Assassin
+	2 Ultimate Brawn
+	2 Druid
+	2 Slayer
+	2 Slayer Trainee
+	2 Noble Warden
+	2 Duelist
+	2 Warden
+	2 Guardian Trainee
+	2 Sentinel
+	2 Sentinel Trainee
