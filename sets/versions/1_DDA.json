@@ -1,4 +1,11 @@
 ﻿{
+    "name": "Dawn, Dusk, Death alphatest",
+    "formats": "",
+    "image_type": "jpg",
+    "draft_structure": "cube",
+    "unpreviewed": "empty",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Gambler",
@@ -8,7 +15,7 @@
             "number": 8,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "This permanent enters your field with an additional power counter for each time you've manifested this turn.\n\u2013\nManifest.",
+            "rules_text": "This permanent enters your field with an additional power counter for each time you've manifested this turn.\n\u2014\nManifest.",
             "flavor_text": "[i][/i]",
             "pt": "0",
             "special_text": "",
@@ -19,9 +26,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Mighty Mind",
@@ -31,7 +36,7 @@
             "number": 19,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013\nPut 3 power counters on one of your permanents.",
+            "rules_text": "\u2014\nPut 3 power counters on one of your permanents.",
             "flavor_text": "[i][/i]",
             "pt": "1",
             "special_text": "",
@@ -42,9 +47,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Mighty Body",
@@ -54,7 +57,7 @@
             "number": 18,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013\nPut 1 power counter on one of your permanents.",
+            "rules_text": "\u2014\nPut 1 power counter on one of your permanents.",
             "flavor_text": "[i][/i]",
             "pt": "3",
             "special_text": "",
@@ -65,9 +68,7 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Knight",
@@ -77,7 +78,7 @@
             "number": 14,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Brutal [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]\n\u2013\nPut 1 power counter on one of your permanents.",
+            "rules_text": "Brutal [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]\n\u2014\nPut 1 power counter on one of your permanents.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -88,9 +89,7 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Noble Duelist",
@@ -100,7 +99,7 @@
             "number": 21,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Brutal [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]\n\u2013\nPut 1 brutal counter on one of your permanents. [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]",
+            "rules_text": "Brutal [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]\n\u2014\nPut 1 brutal counter on one of your permanents. [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1",
             "special_text": "",
@@ -111,9 +110,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Chronomancer",
@@ -123,7 +120,7 @@
             "number": 5,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013\nDiscard a card. If you do, take an extra turn after this one.",
+            "rules_text": "\u2014\nDiscard a card. If you do, take an extra turn after this one.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -134,9 +131,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Hunter",
@@ -146,7 +141,7 @@
             "number": 13,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "This has brutal while attacking creatures with less power counters than this. [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]\n\u2013\nPut 1 power counter on one of your permanents.",
+            "rules_text": "This has brutal while attacking creatures with less power counters than this. [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]\n\u2014\nPut 1 power counter on one of your permanents.",
             "flavor_text": "[i][/i]",
             "pt": "3",
             "special_text": "",
@@ -157,9 +152,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Guardian",
@@ -169,7 +162,7 @@
             "number": 10,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Retaliatory [i](A permanent with retaliatory deals 1 more damage while defending. This stacks.)[/i]\n\u2013\nPut 1 power counter on one of your permanents.",
+            "rules_text": "Retaliatory [i](A permanent with retaliatory deals 1 more damage while defending. This stacks.)[/i]\n\u2014\nPut 1 power counter on one of your permanents.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -180,9 +173,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Knight Trainee",
@@ -192,7 +183,7 @@
             "number": 15,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "When this enters, put a brutal counter on it if you have a permanent with brutal in your field. Otherwise, put a power counter on this. [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]\n\u2013\nPut 1 power counter on one of your permanents.",
+            "rules_text": "When this enters, put a brutal counter on it if you have a permanent with brutal in your field. Otherwise, put a power counter on this. [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]\n\u2014\nPut 1 power counter on one of your permanents.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -203,9 +194,7 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Leader",
@@ -215,7 +204,7 @@
             "number": 16,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013\nPut 1 power counter on each of your permanents.",
+            "rules_text": "\u2014\nPut 1 power counter on each of your permanents.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -226,9 +215,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Balanced Whole",
@@ -238,7 +225,7 @@
             "number": 4,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013\nPut 2 power counters on one of your permanents.",
+            "rules_text": "\u2014\nPut 2 power counters on one of your permanents.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -249,9 +236,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Sifter",
@@ -261,7 +246,7 @@
             "number": 28,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013\nSearch your deck for a card, reveal it, then shuffle and put it on top.",
+            "rules_text": "\u2014\nSearch your deck for a card, reveal it, then shuffle and put it on top.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -272,9 +257,7 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Vampire",
@@ -284,7 +267,7 @@
             "number": 32,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "When attacking, put counters on this equal to the damage it deals.\n\u2013\nLook at the top card of your deck. You may put it on the bottom.",
+            "rules_text": "When attacking, put counters on this equal to the damage it deals.\n\u2014\nLook at the top card of your deck. You may put it on the bottom.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -295,9 +278,7 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Lich",
@@ -307,7 +288,7 @@
             "number": 17,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013\nDiscard a card. If you do, put this onto your field with 3 power.",
+            "rules_text": "\u2014\nDiscard a card. If you do, put this onto your field with 3 power.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -318,9 +299,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Scholar",
@@ -330,7 +309,7 @@
             "number": 25,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013\nLook at the top three cards of your deck. Put any number of them on the bottom of your deck in any order and the rest on top in any order.",
+            "rules_text": "\u2014\nLook at the top three cards of your deck. Put any number of them on the bottom of your deck in any order and the rest on top in any order.",
             "flavor_text": "[i][/i]",
             "pt": "1",
             "special_text": "",
@@ -341,9 +320,7 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Oracle",
@@ -353,7 +330,7 @@
             "number": 23,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013\nDraw two cards.",
+            "rules_text": "\u2014\nDraw two cards.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -364,9 +341,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Necromancer",
@@ -376,7 +351,7 @@
             "number": 20,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013\nPut a card from your discard pile onto your field.",
+            "rules_text": "\u2014\nPut a card from your discard pile onto your field.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -387,9 +362,7 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Healer",
@@ -399,7 +372,7 @@
             "number": 12,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013\nPut a card from your hand onto your field.",
+            "rules_text": "\u2014\nPut a card from your hand onto your field.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -410,9 +383,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Gravedigger",
@@ -422,7 +393,7 @@
             "number": 9,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013\nPut a card from your discard pile into your hand.",
+            "rules_text": "\u2014\nPut a card from your discard pile into your hand.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -433,9 +404,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Apocalypse Summoner",
@@ -445,7 +414,7 @@
             "number": 2,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "When this enters your field, you may put it into your discard pile. If you do, this deals 2 damage to all permanents.\n\u2013",
+            "rules_text": "When this enters your field, you may put it into your discard pile. If you do, this deals 2 damage to all permanents.\n\u2014",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -456,9 +425,7 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Pyromancer",
@@ -468,7 +435,7 @@
             "number": 24,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013\nThis deals 3 damage to target permanent.",
+            "rules_text": "\u2014\nThis deals 3 damage to target permanent.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -479,9 +446,7 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Apocalypse Mage",
@@ -491,7 +456,7 @@
             "number": 1,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013\nThis deals 2 damage to all permanents.",
+            "rules_text": "\u2014\nThis deals 2 damage to all permanents.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -502,9 +467,7 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Assassin",
@@ -514,7 +477,7 @@
             "number": 3,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "When this attacks and kills a permanent, put it and the killed card into their owner's discard piles.\n\u2013",
+            "rules_text": "When this attacks and kills a permanent, put it and the killed card into their owner's discard piles.\n\u2014",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -525,9 +488,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Ultimate Brawn",
@@ -537,7 +498,7 @@
             "number": 31,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013",
+            "rules_text": "\u2014",
             "flavor_text": "[i][/i]",
             "pt": "4",
             "special_text": "",
@@ -548,9 +509,7 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Druid",
@@ -560,7 +519,7 @@
             "number": 6,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "\u2013\nPut two cards from your hand onto your deck.",
+            "rules_text": "\u2014\nPut two cards from your hand onto your deck.",
             "flavor_text": "[i][/i]",
             "pt": "1",
             "special_text": "",
@@ -571,9 +530,7 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Slayer",
@@ -583,7 +540,7 @@
             "number": 29,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Brutal [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]\n\u2013\nRemove 1 power counter from one of your opponent's permanents.",
+            "rules_text": "Brutal [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]\n\u2014\nRemove 1 power counter from one of your opponent's permanents.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -594,9 +551,7 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Slayer Trainee",
@@ -606,7 +561,7 @@
             "number": 30,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "When this enters, put a brutal counter on it if you have a permanent with brutal in your field. Otherwise, put a power counter on this. [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]\n\u2013\nRemove 1 power counter from one of your opponent's permanents.",
+            "rules_text": "When this enters, put a brutal counter on it if you have a permanent with brutal in your field. Otherwise, put a power counter on this. [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]\n\u2014\nRemove 1 power counter from one of your opponent's permanents.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -617,9 +572,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Noble Warden",
@@ -629,7 +582,7 @@
             "number": 22,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Retaliatory [i](A permanent with retaliatory deals 1 more damage while defending. This stacks.)[/i]\n\u2013\nPut 1 retaliatory counter on one of your permanents. [i](A permanent with retaliatory deals 1 more damage while defending. This stacks.)[/i]",
+            "rules_text": "Retaliatory [i](A permanent with retaliatory deals 1 more damage while defending. This stacks.)[/i]\n\u2014\nPut 1 retaliatory counter on one of your permanents. [i](A permanent with retaliatory deals 1 more damage while defending. This stacks.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1",
             "special_text": "",
@@ -640,9 +593,7 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Duelist",
@@ -652,7 +603,7 @@
             "number": 7,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Brutal [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]\n\u2013\nPut 2 power counters on one of your permanents.",
+            "rules_text": "Brutal [i](A permanent with brutal deals 1 more damage while attacking. This stacks.)[/i]\n\u2014\nPut 2 power counters on one of your permanents.",
             "flavor_text": "[i][/i]",
             "pt": "1",
             "special_text": "",
@@ -663,9 +614,7 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Warden",
@@ -675,7 +624,7 @@
             "number": 33,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Retaliatory [i](A permanent with retaliatory deals 1 more damage while defending. This stacks.)[/i]\n\u2013\nPut 2 power counters on one of your permanents.",
+            "rules_text": "Retaliatory [i](A permanent with retaliatory deals 1 more damage while defending. This stacks.)[/i]\n\u2014\nPut 2 power counters on one of your permanents.",
             "flavor_text": "[i][/i]",
             "pt": "1",
             "special_text": "",
@@ -686,9 +635,7 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Guardian Trainee",
@@ -698,7 +645,7 @@
             "number": 11,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "When this enters, put a retaliatory counter on it if you have a permanent with retaliatory in your field. Otherwise, put a power counter on this. [i](A permanent with retaliatory deals 1 more damage while defending. This stacks.)[/i]\n\u2013\nPut 1 power counter on one of your permanents.",
+            "rules_text": "When this enters, put a retaliatory counter on it if you have a permanent with retaliatory in your field. Otherwise, put a power counter on this. [i](A permanent with retaliatory deals 1 more damage while defending. This stacks.)[/i]\n\u2014\nPut 1 power counter on one of your permanents.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -709,9 +656,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Sentinel",
@@ -721,7 +666,7 @@
             "number": 26,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Retaliatory [i](A permanent with retaliatory deals 1 more damage while defending. This stacks.)[/i]\n\u2013\nRemove 1 power counter from one of your opponent's permanents.",
+            "rules_text": "Retaliatory [i](A permanent with retaliatory deals 1 more damage while defending. This stacks.)[/i]\n\u2014\nRemove 1 power counter from one of your opponent's permanents.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -732,9 +677,7 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Sentinel Trainee",
@@ -744,7 +687,7 @@
             "number": 27,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "When this enters, put a retaliatory counter on it if you have a permanent with retaliatory in your field. Otherwise, put a power counter on this. [i](A permanent with retaliatory deals 1 more damage while defending. This stacks.)[/i]\n\u2013\nRemove 1 power counter from one of your opponent's permanents.",
+            "rules_text": "When this enters, put a retaliatory counter on it if you have a permanent with retaliatory in your field. Otherwise, put a power counter on this. [i](A permanent with retaliatory deals 1 more damage while defending. This stacks.)[/i]\n\u2014\nRemove 1 power counter from one of your opponent's permanents.",
             "flavor_text": "[i][/i]",
             "pt": "2",
             "special_text": "",
@@ -755,9 +698,7 @@
             "alias": "",
             "position": "32",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         }
     ]
 }
