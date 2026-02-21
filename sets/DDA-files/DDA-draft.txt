@@ -5,7 +5,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/0.jpg"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/1.jpg"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/2.jpg"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/3.jpg"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "21",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/4.jpg"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/5.jpg"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/6.jpg"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/7.jpg"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/8.jpg"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/9.jpg"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "28",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/11.jpg"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "32",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/12.jpg"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/13.jpg"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "25",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/14.jpg"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "23",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/15.jpg"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "20",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/16.jpg"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/17.jpg"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/18.jpg"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "24",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/20.jpg"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "31",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/23.jpg"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/24.jpg"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "29",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/25.jpg"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "30",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/26.jpg"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "22",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/27.jpg"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/28.jpg"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "33",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/29.jpg"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/30.jpg"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "26",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/31.jpg"
 			}
@@ -325,44 +325,88 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "27",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Brute",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDA-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Veangent",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDA-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Turtle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDA-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Monarch",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDA-files/img/36.jpg"
 			}
 		}
 	]
 
-[cube(10)]
-	2 Gambler
-	2 Mighty Mind
-	2 Mighty Body
-	2 Knight
-	2 Noble Duelist
-	2 Chronomancer
-	2 Hunter
-	2 Guardian
-	2 Knight Trainee
-	2 Leader
-	2 Balanced Whole
-	2 Sifter
-	2 Vampire
-	2 Lich
-	2 Scholar
-	2 Oracle
-	2 Necromancer
-	2 Healer
-	2 Gravedigger
-	2 Apocalypse Summoner
-	2 Pyromancer
-	2 Apocalypse Mage
-	2 Assassin
-	2 Ultimate Brawn
-	2 Druid
-	2 Slayer
-	2 Slayer Trainee
-	2 Noble Warden
-	2 Duelist
-	2 Warden
-	2 Guardian Trainee
-	2 Sentinel
-	2 Sentinel Trainee
+[cube(12)]
+	3 Gambler
+	3 Mighty Mind
+	3 Mighty Body
+	3 Knight
+	3 Noble Duelist
+	3 Chronomancer
+	3 Hunter
+	3 Guardian
+	3 Knight Trainee
+	3 Leader
+	3 Balanced Whole
+	3 Sifter
+	3 Vampire
+	3 Lich
+	3 Scholar
+	3 Oracle
+	3 Necromancer
+	3 Healer
+	3 Gravedigger
+	3 Apocalypse Summoner
+	3 Pyromancer
+	3 Apocalypse Mage
+	3 Assassin
+	3 Ultimate Brawn
+	3 Druid
+	3 Slayer
+	3 Slayer Trainee
+	3 Noble Warden
+	3 Duelist
+	3 Warden
+	3 Guardian Trainee
+	3 Sentinel
+	3 Sentinel Trainee
+	3 Brute
+	3 Veangent
+	3 Turtle
+	3 Monarch
