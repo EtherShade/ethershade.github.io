@@ -402,44 +402,44 @@
 		}
 	]
 
-[cube(15)]
-	1 Apocalypse Mage
-	1 Guardian
-	1 Guardian Trainee
-	1 Ironclad
-	1 Ironclad Trainee
-	1 Knight
-	1 Knight Trainee
-	1 Mighty Body
-	1 Mighty Mind
-	1 Sentinel
-	1 Sentinel Trainee
-	1 Slayer
-	1 Slayer Trainee
-	1 Duelist
-	1 Ignoble Duelist
-	1 Ignoble Warden
-	1 Noble Duelist
-	1 Noble Warden
-	1 Warden
-	1 Templar
-	1 Templar Trainee
-	1 Oracle
-	1 Brute
-	1 Veangent
-	1 Leader
-	1 Mystic
-	1 Gravedigger
-	1 Healer
-	1 Hunter
-	1 Lich
-	1 Necromancer
-	1 Scholar
-	1 Sifter
-	1 Man of Glass
-	1 Man of Steel
-	1 Jester
-	1 Jester Trainee
-	1 Rogue Trainee
-	1 Rogue
-	1 Pyromancer
+[cube(10)]
+	4 Apocalypse Mage
+	4 Guardian
+	4 Guardian Trainee
+	4 Ironclad
+	4 Ironclad Trainee
+	4 Knight
+	4 Knight Trainee
+	4 Mighty Body
+	4 Mighty Mind
+	4 Sentinel
+	4 Sentinel Trainee
+	4 Slayer
+	4 Slayer Trainee
+	4 Duelist
+	4 Ignoble Duelist
+	4 Ignoble Warden
+	4 Noble Duelist
+	4 Noble Warden
+	4 Warden
+	4 Templar
+	4 Templar Trainee
+	4 Oracle
+	4 Brute
+	4 Veangent
+	4 Leader
+	4 Mystic
+	4 Gravedigger
+	4 Healer
+	4 Hunter
+	4 Lich
+	4 Necromancer
+	4 Scholar
+	4 Sifter
+	4 Man of Glass
+	4 Man of Steel
+	4 Jester
+	4 Jester Trainee
+	4 Rogue Trainee
+	4 Rogue
+	4 Pyromancer
