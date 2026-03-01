@@ -1,0 +1,445 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Apocalypse Mage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Guardian",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Guardian Trainee",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Ironclad",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Ironclad Trainee",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Knight",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Knight Trainee",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Mighty Body",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Mighty Mind",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Sentinel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Sentinel Trainee",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Slayer",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Slayer Trainee",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Duelist",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Ignoble Duelist",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Ignoble Warden",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Noble Duelist",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Noble Warden",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Warden",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Templar",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Templar Trainee",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Oracle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Brute",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Veangent",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Leader",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Mystic",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Gravedigger",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Healer",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Hunter",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Lich",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Necromancer",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Scholar",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Sifter",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Man of Glass",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Man of Steel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Jester",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Jester Trainee",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Rogue Trainee",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Rogue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Pyromancer",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/39.jpg"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Apocalypse Mage
+	1 Guardian
+	1 Guardian Trainee
+	1 Ironclad
+	1 Ironclad Trainee
+	1 Knight
+	1 Knight Trainee
+	1 Mighty Body
+	1 Mighty Mind
+	1 Sentinel
+	1 Sentinel Trainee
+	1 Slayer
+	1 Slayer Trainee
+	1 Duelist
+	1 Ignoble Duelist
+	1 Ignoble Warden
+	1 Noble Duelist
+	1 Noble Warden
+	1 Warden
+	1 Templar
+	1 Templar Trainee
+	1 Oracle
+	1 Brute
+	1 Veangent
+	1 Leader
+	1 Mystic
+	1 Gravedigger
+	1 Healer
+	1 Hunter
+	1 Lich
+	1 Necromancer
+	1 Scholar
+	1 Sifter
+	1 Man of Glass
+	1 Man of Steel
+	1 Jester
+	1 Jester Trainee
+	1 Rogue Trainee
+	1 Rogue
+	1 Pyromancer

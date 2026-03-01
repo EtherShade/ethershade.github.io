@@ -5,49 +5,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "9",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/0.jpg"
-			}
-		},
-		{
-			"name": "Mighty Mind",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "20",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/1.jpg"
-			}
-		},
-		{
-			"name": "Mighty Body",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/2.jpg"
-			}
-		},
-		{
-			"name": "Knight",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/3.jpg"
-			}
-		},
-		{
-			"name": "Noble Duelist",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/4.jpg"
 			}
 		},
 		{
@@ -55,69 +15,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/5.jpg"
-			}
-		},
-		{
-			"name": "Hunter",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/6.jpg"
-			}
-		},
-		{
-			"name": "Guardian",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "11",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/7.jpg"
-			}
-		},
-		{
-			"name": "Knight Trainee",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/8.jpg"
-			}
-		},
-		{
-			"name": "Leader",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "17",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/9.jpg"
-			}
-		},
-		{
-			"name": "Balanced Whole",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/10.jpg"
-			}
-		},
-		{
-			"name": "Sifter",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "30",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/11.jpg"
+				"en": "https://ethershade.github.io/sets/DDA-files/img/1.jpg"
 			}
 		},
 		{
@@ -125,69 +25,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "35",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/12.jpg"
-			}
-		},
-		{
-			"name": "Lich",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "18",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/13.jpg"
-			}
-		},
-		{
-			"name": "Scholar",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/14.jpg"
-			}
-		},
-		{
-			"name": "Oracle",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "25",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/15.jpg"
-			}
-		},
-		{
-			"name": "Necromancer",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/16.jpg"
-			}
-		},
-		{
-			"name": "Healer",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/17.jpg"
-			}
-		},
-		{
-			"name": "Gravedigger",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/18.jpg"
+				"en": "https://ethershade.github.io/sets/DDA-files/img/2.jpg"
 			}
 		},
 		{
@@ -195,29 +35,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/19.jpg"
-			}
-		},
-		{
-			"name": "Pyromancer",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/20.jpg"
-			}
-		},
-		{
-			"name": "Apocalypse Mage",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/21.jpg"
+				"en": "https://ethershade.github.io/sets/DDA-files/img/3.jpg"
 			}
 		},
 		{
@@ -225,9 +45,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/22.jpg"
+				"en": "https://ethershade.github.io/sets/DDA-files/img/4.jpg"
 			}
 		},
 		{
@@ -235,119 +55,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "34",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/23.jpg"
-			}
-		},
-		{
-			"name": "Druid",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/24.jpg"
-			}
-		},
-		{
-			"name": "Slayer",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "31",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/25.jpg"
-			}
-		},
-		{
-			"name": "Slayer Trainee",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "32",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/26.jpg"
-			}
-		},
-		{
-			"name": "Noble Warden",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "24",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/27.jpg"
-			}
-		},
-		{
-			"name": "Duelist",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/28.jpg"
-			}
-		},
-		{
-			"name": "Warden",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/29.jpg"
-			}
-		},
-		{
-			"name": "Guardian Trainee",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "12",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/30.jpg"
-			}
-		},
-		{
-			"name": "Sentinel",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/31.jpg"
-			}
-		},
-		{
-			"name": "Sentinel Trainee",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "29",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/32.jpg"
-			}
-		},
-		{
-			"name": "Brute",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/33.jpg"
-			}
-		},
-		{
-			"name": "Veangent",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "36",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/34.jpg"
+				"en": "https://ethershade.github.io/sets/DDA-files/img/5.jpg"
 			}
 		},
 		{
@@ -355,9 +65,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "33",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/35.jpg"
+				"en": "https://ethershade.github.io/sets/DDA-files/img/6.jpg"
 			}
 		},
 		{
@@ -365,48 +75,52 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "21",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDA-files/img/36.jpg"
+				"en": "https://ethershade.github.io/sets/DDA-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Balanced Whole",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDA-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Devil",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDA-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Druid",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDA-files/img/10.jpg"
 			}
 		}
 	]
 
-[cube(12)]
-	3 Gambler
-	3 Mighty Mind
-	3 Mighty Body
-	3 Knight
-	3 Noble Duelist
-	3 Chronomancer
-	3 Hunter
-	3 Guardian
-	3 Knight Trainee
-	3 Leader
-	3 Balanced Whole
-	3 Sifter
-	3 Vampire
-	3 Lich
-	3 Scholar
-	3 Oracle
-	3 Necromancer
-	3 Healer
-	3 Gravedigger
-	3 Apocalypse Summoner
-	3 Pyromancer
-	3 Apocalypse Mage
-	3 Assassin
-	3 Ultimate Brawn
-	3 Druid
-	3 Slayer
-	3 Slayer Trainee
-	3 Noble Warden
-	3 Duelist
-	3 Warden
-	3 Guardian Trainee
-	3 Sentinel
-	3 Sentinel Trainee
-	3 Brute
-	3 Veangent
-	3 Turtle
-	3 Monarch
+[cube(15)]
+	1 Gambler
+	1 Chronomancer
+	1 Vampire
+	1 Apocalypse Summoner
+	1 Assassin
+	1 Ultimate Brawn
+	1 Turtle
+	1 Monarch
+	1 Balanced Whole
+	1 Devil
+	1 Druid

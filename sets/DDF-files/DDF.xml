@@ -1,0 +1,677 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>DDF</name>
+			<longname>Dawn, Dusk, Death Foundations</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-28</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Apocalypse Mage</name>
+			<text>—
+This deals 2 damage to all permanents.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/0.jpg" num="1">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Guardian</name>
+			<text>Retaliatory (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
+—
+Put 1 power counter on one of your permanents.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/1.jpg" num="5">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Guardian Trainee</name>
+			<text>When this enters your field, put 1 retaliatory counter on it if you have a permanent with retaliatory in your field. Otherwise, put a power counter on this. (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
+—
+Put 1 power counter on one of your permanents.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/2.jpg" num="6">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ironclad</name>
+			<text>Armor (A permanent with armor doesn&apos;t take the first 1 damage it would take each turn. This stacks.)
+—
+Put 1 power counter on one of your permanents.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/3.jpg" num="11">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ironclad Trainee</name>
+			<text>When this enters your field, put 1 armor counter on it if you have a permanent with armor in your field. Otherwise, put a power counter on this. (A permanent with armor doesn&apos;t take the first 1 damage it would take each turn. This stacks.)
+—
+Put 1 power counter on one of your permanents.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/4.jpg" num="12">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Knight</name>
+			<text>Brutal (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+—
+Put 1 power counter on one of your permanents.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/5.jpg" num="15">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Knight Trainee</name>
+			<text>When this enters your field, put 1 brutal counter on it if you have a permanent with brutal in your field. Otherwise, put a power counter on this. (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+—
+Put 1 power counter on one of your permanents.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/6.jpg" num="16">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mighty Body</name>
+			<text>—
+Put 2 power counter on one of your permanents.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/7.jpg" num="21">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mighty Mind</name>
+			<text>—
+Put 3 power counters on one of your permanents.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/8.jpg" num="22">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sentinel</name>
+			<text>Retaliatory (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
+—
+Remove 1 power counter from a permanent.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/9.jpg" num="32">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sentinel Trainee</name>
+			<text>When this enters your field, put 1 retaliatory counter on it if you have a permanent with retaliatory in your field. Otherwise, put a power counter on this. (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
+—
+Remove 1 power counter from a permanent.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/10.jpg" num="33">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Slayer</name>
+			<text>Brutal (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+—
+Remove 1 power counter from a permanent.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/11.jpg" num="35">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Slayer Trainee</name>
+			<text>When this enters your field, put 1 brutal counter on it if you have a permanent with brutal in your field. Otherwise, put a power counter on this. (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+—
+Remove 1 power counter from a permanent.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/12.jpg" num="36">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Duelist</name>
+			<text>Brutal (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+—
+Put 2 power counters on one of your permanents.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/13.jpg" num="3">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ignoble Duelist</name>
+			<text>Brutal (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+—
+Distribute 2 brutal counters among your opponent&apos;s permanents. (A permanent with brutal deals 1 more damage while attacking. This stacks.)</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/14.jpg" num="9">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ignoble Warden</name>
+			<text>Retaliatory (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
+—
+Distribute 2 retaliatory counters among your opponent&apos;s permanents. (A permanent with retaliatory deals 1 more damage while defending. This stacks.)</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/15.jpg" num="10">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Noble Duelist</name>
+			<text>Brutal (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+—
+Put 1 brutal counter on one of your permanents. (A permanent with brutal deals 1 more damage while attacking. This stacks.)</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/16.jpg" num="25">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Noble Warden</name>
+			<text>Retaliatory (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
+—
+Put 1 retaliatory counter on one of your permanents. (A permanent with retaliatory deals 1 more damage while defending. This stacks.)</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/17.jpg" num="26">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Warden</name>
+			<text>Retaliatory (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
+—
+Put 2 power counters on one of your permanents.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/18.jpg" num="40">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Templar</name>
+			<text>Armor (A permanent with armor doesn&apos;t take the first 1 damage it would take each turn. This stacks.)
+—
+Remove 1 power counter from a permanent.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/19.jpg" num="37">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Templar Trainee</name>
+			<text>When this enters your field, put 1 armor counter on it if you have a permanent with armor in your field. Otherwise, put a power counter on this. (A permanent with armor doesn&apos;t take the first 1 damage it would take each turn. This stacks.)
+—
+Remove 1 power counter from a permanent.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/20.jpg" num="38">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Oracle</name>
+			<text>—
+Draw two cards.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/21.jpg" num="27">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brute</name>
+			<text>Brutal, Brutal (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+—</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/22.jpg" num="2">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Veangent</name>
+			<text>Retaliatory, Retaliatory (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
+—</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/23.jpg" num="39">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Leader</name>
+			<text>—
+Put 1 power counter on each of your permanents.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/24.jpg" num="17">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mystic</name>
+			<text>When this enters your field, you may discard a card. If you do, manifest. (To manifest, put the top card of your deck into your field.)
+—</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/25.jpg" num="23">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gravedigger</name>
+			<text>—
+Put a card from your discard pile into your hand.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/26.jpg" num="4">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Healer</name>
+			<text>—
+Put a card from your hand onto your field.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/27.jpg" num="7">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hunter</name>
+			<text>This has brutal while attacking permanents with less power counters than this. (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+—
+Put 1 power counter on one of your permanents.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/28.jpg" num="8">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lich</name>
+			<text>—
+Discard a card. If you do, put this onto your field with 3 power.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/29.jpg" num="18">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Necromancer</name>
+			<text>—
+Put a card from your discard pile onto your field.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/30.jpg" num="24">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scholar</name>
+			<text>—
+Look at the top three cards of your deck. Put any number of them on the bottom of your deck in any order and the rest on top in any order.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/31.jpg" num="31">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sifter</name>
+			<text>—
+Search your deck for a card, reveal it, then shuffle and put it on top.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/32.jpg" num="34">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Man of Glass</name>
+			<text>Fragile, Fragile (A permanent with fragile takes 1 more damage from anything. This stacks.)
+—
+Put 1 fragile counter on a permanent. (A permanent with fragile takes 1 more damage from anything. This stacks.)</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/33.jpg" num="19">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Man of Steel</name>
+			<text>Armor, Armor (A permanent with armor doesn&apos;t take the first 1 damage it would take each turn. This stacks.)
+—</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/34.jpg" num="20">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jester</name>
+			<text>Fragile (A permanent with fragile takes 1 more damage from anything. This stacks.)
+—
+Put 1 power counter on one of your permanents.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/35.jpg" num="13">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jester Trainee</name>
+			<text>When this enters your field, put 1 fragile counter on it if you have a permanent with fragile in your field. Otherwise, put a power counter on this. (A permanent with fragile takes 1 more damage from anything. This stacks.)
+—
+Put 1 power counter on one of your permanents.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/36.jpg" num="14">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rogue Trainee</name>
+			<text>When this enters your field, put 1 fragile counter on it if you have a permanent with fragile in your field. Otherwise, put a power counter on this. (A permanent with fragile takes 1 more damage from anything. This stacks.)
+—
+Remove 1 power counter from a permanent.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/37.jpg" num="30">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rogue</name>
+			<text>Fragile (A permanent with fragile takes 1 more damage from anything. This stacks.)
+—
+Remove 1 power counter from a permanent.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/38.jpg" num="29">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pyromancer</name>
+			<text>—
+This deals 3 damage to a permanent.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDF-files/img/39.jpg" num="28">DDF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

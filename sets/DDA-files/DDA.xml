@@ -5,7 +5,7 @@
 			<name>DDA</name>
 			<longname>Dawn, Dusk, Death alphatest</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-21</releasedate>
+			<releasedate>2026-02-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -14,7 +14,7 @@
 			<text>This permanent enters your field with an additional power counter for each time you&apos;ve manifested this turn.
 —
 Manifest. (To manifest, put the top card of your deck into your field.)</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/0.jpg" num="9">DDA</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/0.jpg" num="7">DDA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -27,75 +27,10 @@ Manifest. (To manifest, put the top card of your deck into your field.)</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Mighty Mind</name>
-			<text>—
-Put 3 power counters on one of your permanents.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/1.jpg" num="20">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>1</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Mighty Body</name>
-			<text>—
-Put 1 power counter on one of your permanents.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/2.jpg" num="19">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>3</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Knight</name>
-			<text>Brutal (A permanent with brutal deals 1 more damage while attacking. This stacks.)
-—</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/3.jpg" num="15">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Noble Duelist</name>
-			<text>Brutal (A permanent with brutal deals 1 more damage while attacking. This stacks.)
-—
-Put 1 brutal counter on one of your permanents. (A permanent with brutal deals 1 more damage while attacking. This stacks.)</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/4.jpg" num="23">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>1</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Chronomancer</name>
 			<text>—
-Discard a card. If you do, take an extra turn after this one.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/5.jpg" num="6">DDA</set>
+Discard two cards. If you do, take an extra turn after this one.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/1.jpg" num="4">DDA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -108,11 +43,76 @@ Discard a card. If you do, take an extra turn after this one.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Hunter</name>
-			<text>This has brutal while attacking creatures with less power counters than this. (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+			<name>Vampire</name>
+			<text>When attacking, put counters on this equal to the damage it deals.
 —
-Put 1 power counter on one of your permanents.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/6.jpg" num="14">DDA</set>
+Look at the top card of your deck. You may put it on the bottom.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/2.jpg" num="11">DDA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Apocalypse Summoner</name>
+			<text>When this enters your field, you may put it into your discard pile. If you do, this deals 2 damage to all permanents.
+—
+Look at the top card of your deck. You may put it on the bottom.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/3.jpg" num="1">DDA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Assassin</name>
+			<text>When this attacks and kills a permanent, put it and the killed card into their owner&apos;s discard piles.
+—</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/4.jpg" num="2">DDA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ultimate Brawn</name>
+			<text>When this enters your field, it deals 1 damage to a permanent.
+—</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/5.jpg" num="10">DDA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Turtle</name>
+			<text>Can&apos;t take more than 1 damage from attacks.
+—</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/6.jpg" num="9">DDA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -125,43 +125,11 @@ Put 1 power counter on one of your permanents.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Guardian</name>
-			<text>Retaliatory (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
-—</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/7.jpg" num="11">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Knight Trainee</name>
-			<text>When this enters your field, put a brutal counter on it if you have a permanent with brutal in your field. Otherwise, put a power counter on this. (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+			<name>Monarch</name>
+			<text>This card can&apos;t take damage while it has exactly 1 power counter.
 —
-Put 1 power counter on one of your permanents.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/8.jpg" num="16">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Leader</name>
-			<text>—
-Put 1 power counter on each of your permanents.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/9.jpg" num="17">DDA</set>
+Look at the top card of your deck. You may put it on the bottom.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/7.jpg" num="8">DDA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -179,7 +147,7 @@ Put 1 power counter on each of your permanents.</text>
 When this dies, put 1 power counters on one of your other permanents.
 —
 Put 1 power counters on one of your permanents.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/10.jpg" num="4">DDA</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/8.jpg" num="3">DDA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -192,401 +160,10 @@ Put 1 power counters on one of your permanents.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Sifter</name>
+			<name>Devil</name>
 			<text>—
-Search your deck for a card, reveal it, then shuffle and put it on top.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/11.jpg" num="30">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Vampire</name>
-			<text>When attacking, put counters on this equal to the damage it deals.
-—
-Look at the top card of your deck. You may put it on the bottom.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/12.jpg" num="35">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Lich</name>
-			<text>—
-Discard a card. If you do, put this onto your field with 3 power.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/13.jpg" num="18">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Scholar</name>
-			<text>—
-Look at the top three cards of your deck. Put any number of them on the bottom of your deck in any order and the rest on top in any order.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/14.jpg" num="27">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>1</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Oracle</name>
-			<text>—
-Draw two cards.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/15.jpg" num="25">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Necromancer</name>
-			<text>—
-Put a card from your discard pile onto your field.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/16.jpg" num="22">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Healer</name>
-			<text>—
-Put a card from your hand onto your field.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/17.jpg" num="13">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Gravedigger</name>
-			<text>—
-Put a card from your discard pile into your hand.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/18.jpg" num="10">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Apocalypse Summoner</name>
-			<text>When this enters your field, you may put it into your discard pile. If you do, this deals 2 damage to all permanents.
-—
-Look at the top card of your deck. You may put it on the bottom.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/19.jpg" num="2">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Pyromancer</name>
-			<text>—
-This deals 3 damage to target permanent.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/20.jpg" num="26">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Apocalypse Mage</name>
-			<text>—
-This deals 2 damage to all permanents.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/21.jpg" num="1">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Assassin</name>
-			<text>When this attacks and kills a permanent, put it and the killed card into their owner&apos;s discard piles.
-—</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/22.jpg" num="3">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Ultimate Brawn</name>
-			<text>—</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/23.jpg" num="34">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>4</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Druid</name>
-			<text>—
-Put two cards from your hand onto your deck.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/24.jpg" num="7">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>1</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Slayer</name>
-			<text>Brutal (A permanent with brutal deals 1 more damage while attacking. This stacks.)
-—</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/25.jpg" num="31">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Slayer Trainee</name>
-			<text>When this enters your field, put a brutal counter on it if you have a permanent with brutal in your field. Otherwise, put a power counter on this. (A permanent with brutal deals 1 more damage while attacking. This stacks.)
-—
-Remove 1 power counter from a permanent.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/26.jpg" num="32">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Noble Warden</name>
-			<text>Retaliatory (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
-—
-Put 1 retaliatory counter on one of your permanents. (A permanent with retaliatory deals 1 more damage while defending. This stacks.)</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/27.jpg" num="24">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>1</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Duelist</name>
-			<text>Brutal (A permanent with brutal deals 1 more damage while attacking. This stacks.)
-—
-Put 2 power counters on one of your permanents.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/28.jpg" num="8">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>1</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Warden</name>
-			<text>Retaliatory (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
-—
-Put 2 power counters on one of your permanents.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/29.jpg" num="37">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>1</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Guardian Trainee</name>
-			<text>When this enters your field, put a retaliatory counter on it if you have a permanent with retaliatory in your field. Otherwise, put a power counter on this. (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
-—
-Put 1 power counter on one of your permanents.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/30.jpg" num="12">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Sentinel</name>
-			<text>Retaliatory (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
-—</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/31.jpg" num="28">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Sentinel Trainee</name>
-			<text>When this enters your field, put a retaliatory counter on it if you have a permanent with retaliatory in your field. Otherwise, put a power counter on this. (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
-—
-Remove 1 power counter from a permanent.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/32.jpg" num="29">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>2</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Brute</name>
-			<text>Brutal, Brutal (A permanent with brutal deals 1 more damage while attacking. This stacks.)
-—</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/33.jpg" num="5">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>1</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Veangent</name>
-			<text>Retaliatory, Retaliatory (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
-—</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/34.jpg" num="36">DDA</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>1</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Turtle</name>
-			<text>Can&apos;t take more than 1 damage from attacks.
-—</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/35.jpg" num="33">DDA</set>
+Lose 1 point. If you do, put this onto your field.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/9.jpg" num="5">DDA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -599,10 +176,10 @@ Remove 1 power counter from a permanent.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Monarch</name>
-			<text>This card can&apos;t take damage while it has exactly 1 power counter.
-—</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/36.jpg" num="21">DDA</set>
+			<name>Druid</name>
+			<text>—
+Put two cards from your hand onto your deck.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/10.jpg" num="6">DDA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -610,7 +187,7 @@ Remove 1 power counter from a permanent.</text>
 				<maintype></maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<pt>2</pt>
+				<pt>1</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>

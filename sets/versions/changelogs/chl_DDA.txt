@@ -1,4 +1,65 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Devil added.
+
+Mighty Mind removed.
+Mighty Body removed.
+Knight removed.
+Noble Duelist removed.
+Hunter removed.
+Guardian removed.
+Knight Trainee removed.
+Leader removed.
+Sifter removed.
+Lich removed.
+Scholar removed.
+Oracle removed.
+Necromancer removed.
+Healer removed.
+Gravedigger removed.
+Pyromancer removed.
+Apocalypse Mage removed.
+Slayer removed.
+Slayer Trainee removed.
+Noble Warden removed.
+Duelist removed.
+Warden removed.
+Guardian Trainee removed.
+Sentinel removed.
+Sentinel Trainee removed.
+Brute removed.
+Veangent removed.
+
+Chronomancer
+rules_text: —
+Discard a card. If you do, take an extra turn after this one. => —
+Discard two cards. If you do, take an extra turn after this one.
+
+Vampire
+
+Apocalypse Summoner
+
+Assassin
+
+Ultimate Brawn
+rules_text: — => When this enters your field, it deals 1 damage to a permanent.
+—
+
+Turtle
+
+Monarch
+rules_text: This card can't take damage while it has exactly 1 power counter.
+— => This card can't take damage while it has exactly 1 power counter.
+—
+Look at the top card of your deck. You may put it on the bottom.
+
+Balanced Whole
+
+Druid
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Brute added.

@@ -1,299 +1,94 @@
 ﻿[
     {
-        "card_name": "Apocalypse Mage",
-        "number": 1,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "21"
-    },
-    {
         "card_name": "Apocalypse Summoner",
-        "number": 2,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "19"
-    },
-    {
-        "card_name": "Assassin",
-        "number": 3,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "22"
-    },
-    {
-        "card_name": "Balanced Whole",
-        "number": 4,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "10"
-    },
-    {
-        "card_name": "Brute",
-        "number": 5,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "33"
-    },
-    {
-        "card_name": "Chronomancer",
-        "number": 6,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "5"
-    },
-    {
-        "card_name": "Druid",
-        "number": 7,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "24"
-    },
-    {
-        "card_name": "Duelist",
-        "number": 8,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "28"
-    },
-    {
-        "card_name": "Gambler",
-        "number": 9,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "0"
-    },
-    {
-        "card_name": "Gravedigger",
-        "number": 10,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "18"
-    },
-    {
-        "card_name": "Guardian",
-        "number": 11,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "7"
-    },
-    {
-        "card_name": "Guardian Trainee",
-        "number": 12,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "30"
-    },
-    {
-        "card_name": "Healer",
-        "number": 13,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "17"
-    },
-    {
-        "card_name": "Hunter",
-        "number": 14,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "6"
-    },
-    {
-        "card_name": "Knight",
-        "number": 15,
+        "number": 1,
         "shape": "normal",
         "set": "DDA",
         "rotated": false,
         "position": "3"
     },
     {
-        "card_name": "Knight Trainee",
-        "number": 16,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "8"
-    },
-    {
-        "card_name": "Leader",
-        "number": 17,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "9"
-    },
-    {
-        "card_name": "Lich",
-        "number": 18,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "13"
-    },
-    {
-        "card_name": "Mighty Body",
-        "number": 19,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "2"
-    },
-    {
-        "card_name": "Mighty Mind",
-        "number": 20,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "1"
-    },
-    {
-        "card_name": "Monarch",
-        "number": 21,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "36"
-    },
-    {
-        "card_name": "Necromancer",
-        "number": 22,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "16"
-    },
-    {
-        "card_name": "Noble Duelist",
-        "number": 23,
+        "card_name": "Assassin",
+        "number": 2,
         "shape": "normal",
         "set": "DDA",
         "rotated": false,
         "position": "4"
     },
     {
-        "card_name": "Noble Warden",
-        "number": 24,
+        "card_name": "Balanced Whole",
+        "number": 3,
         "shape": "normal",
         "set": "DDA",
         "rotated": false,
-        "position": "27"
+        "position": "8"
     },
     {
-        "card_name": "Oracle",
-        "number": 25,
+        "card_name": "Chronomancer",
+        "number": 4,
         "shape": "normal",
         "set": "DDA",
         "rotated": false,
-        "position": "15"
+        "position": "1"
     },
     {
-        "card_name": "Pyromancer",
-        "number": 26,
+        "card_name": "Devil",
+        "number": 5,
         "shape": "normal",
         "set": "DDA",
         "rotated": false,
-        "position": "20"
+        "position": "9"
     },
     {
-        "card_name": "Scholar",
-        "number": 27,
+        "card_name": "Druid",
+        "number": 6,
         "shape": "normal",
         "set": "DDA",
         "rotated": false,
-        "position": "14"
+        "position": "10"
     },
     {
-        "card_name": "Sentinel",
-        "number": 28,
+        "card_name": "Gambler",
+        "number": 7,
         "shape": "normal",
         "set": "DDA",
         "rotated": false,
-        "position": "31"
+        "position": "0"
     },
     {
-        "card_name": "Sentinel Trainee",
-        "number": 29,
+        "card_name": "Monarch",
+        "number": 8,
         "shape": "normal",
         "set": "DDA",
         "rotated": false,
-        "position": "32"
-    },
-    {
-        "card_name": "Sifter",
-        "number": 30,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "11"
-    },
-    {
-        "card_name": "Slayer",
-        "number": 31,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "25"
-    },
-    {
-        "card_name": "Slayer Trainee",
-        "number": 32,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "26"
+        "position": "7"
     },
     {
         "card_name": "Turtle",
-        "number": 33,
+        "number": 9,
         "shape": "normal",
         "set": "DDA",
         "rotated": false,
-        "position": "35"
+        "position": "6"
     },
     {
         "card_name": "Ultimate Brawn",
-        "number": 34,
+        "number": 10,
         "shape": "normal",
         "set": "DDA",
         "rotated": false,
-        "position": "23"
+        "position": "5"
     },
     {
         "card_name": "Vampire",
-        "number": 35,
+        "number": 11,
         "shape": "normal",
         "set": "DDA",
         "rotated": false,
-        "position": "12"
+        "position": "2"
     },
     {
-        "card_name": "Veangent",
-        "number": 36,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "34"
-    },
-    {
-        "card_name": "Warden",
-        "number": 37,
-        "shape": "normal",
-        "set": "DDA",
-        "rotated": false,
-        "position": "29"
+        "card_name": "e"
     },
     {
         "card_name": "e"
