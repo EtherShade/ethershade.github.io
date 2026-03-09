@@ -5,7 +5,7 @@
 			<name>DDA</name>
 			<longname>Dawn, Dusk, Death alphatest</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-28</releasedate>
+			<releasedate>2026-03-08</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,8 +13,8 @@
 			<name>Gambler</name>
 			<text>This permanent enters your field with an additional power counter for each time you&apos;ve manifested this turn.
 —
-Manifest. (To manifest, put the top card of your deck into your field.)</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/0.jpg" num="7">DDA</set>
+Manifest.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/0.jpg" num="8">DDA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -30,7 +30,7 @@ Manifest. (To manifest, put the top card of your deck into your field.)</text>
 			<name>Chronomancer</name>
 			<text>—
 Discard two cards. If you do, take an extra turn after this one.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/1.jpg" num="4">DDA</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/1.jpg" num="5">DDA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -47,7 +47,7 @@ Discard two cards. If you do, take an extra turn after this one.</text>
 			<text>When attacking, put counters on this equal to the damage it deals.
 —
 Look at the top card of your deck. You may put it on the bottom.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/2.jpg" num="11">DDA</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/2.jpg" num="14">DDA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -96,7 +96,7 @@ Look at the top card of your deck. You may put it on the bottom.</text>
 			<name>Ultimate Brawn</name>
 			<text>When this enters your field, it deals 1 damage to a permanent.
 —</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/5.jpg" num="10">DDA</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/5.jpg" num="13">DDA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -112,7 +112,7 @@ Look at the top card of your deck. You may put it on the bottom.</text>
 			<name>Turtle</name>
 			<text>Can&apos;t take more than 1 damage from attacks.
 —</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/6.jpg" num="9">DDA</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/6.jpg" num="12">DDA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -129,7 +129,7 @@ Look at the top card of your deck. You may put it on the bottom.</text>
 			<text>This card can&apos;t take damage while it has exactly 1 power counter.
 —
 Look at the top card of your deck. You may put it on the bottom.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/7.jpg" num="8">DDA</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/7.jpg" num="11">DDA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -163,7 +163,7 @@ Put 1 power counters on one of your permanents.</text>
 			<name>Devil</name>
 			<text>—
 Lose 1 point. If you do, put this onto your field.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/9.jpg" num="5">DDA</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/9.jpg" num="6">DDA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -179,7 +179,72 @@ Lose 1 point. If you do, put this onto your field.</text>
 			<name>Druid</name>
 			<text>—
 Put two cards from your hand onto your deck.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/10.jpg" num="6">DDA</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/10.jpg" num="7">DDA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brute</name>
+			<text>Brutal, Brutal (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+—</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/11.jpg" num="4">DDA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Man of Glass</name>
+			<text>Fragile, Fragile (A permanent with fragile takes 1 more damage from anything. This stacks.)
+—
+Put 1 fragile counter on a permanent. (A permanent with fragile takes 1 more damage from anything. This stacks.)</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/12.jpg" num="9">DDA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Man of Steel</name>
+			<text>Armor, Armor (A permanent with armor doesn&apos;t take the first 1 damage it would take each turn. This stacks.)
+—</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/13.jpg" num="10">DDA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Veangent</name>
+			<text>Retaliatory, Retaliatory (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
+—</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/DDA-files/img/14.jpg" num="15">DDA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

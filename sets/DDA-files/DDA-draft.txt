@@ -5,7 +5,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/0.jpg"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/1.jpg"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "11",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/2.jpg"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "10",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/5.jpg"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "9",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/6.jpg"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "8",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/7.jpg"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/9.jpg"
 			}
@@ -105,9 +105,49 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDA-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Brute",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDA-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Man of Glass",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDA-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Man of Steel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDA-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Veangent",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDA-files/img/14.jpg"
 			}
 		}
 	]
@@ -124,3 +164,7 @@
 	1 Balanced Whole
 	1 Devil
 	1 Druid
+	1 Brute
+	1 Man of Glass
+	1 Man of Steel
+	1 Veangent

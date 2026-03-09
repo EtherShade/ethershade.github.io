@@ -5,7 +5,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDF-files/img/0.jpg"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDF-files/img/1.jpg"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDF-files/img/2.jpg"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDF-files/img/3.jpg"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDF-files/img/4.jpg"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDF-files/img/5.jpg"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDF-files/img/6.jpg"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDF-files/img/7.jpg"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDF-files/img/8.jpg"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDF-files/img/13.jpg"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDF-files/img/14.jpg"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDF-files/img/15.jpg"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDF-files/img/16.jpg"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDF-files/img/17.jpg"
 			}
@@ -221,33 +221,13 @@
 			}
 		},
 		{
-			"name": "Brute",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/22.jpg"
-			}
-		},
-		{
-			"name": "Veangent",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "39",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/23.jpg"
-			}
-		},
-		{
 			"name": "Leader",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/24.jpg"
+				"en": "https://ethershade.github.io/sets/DDF-files/img/22.jpg"
 			}
 		},
 		{
@@ -255,9 +235,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/25.jpg"
+				"en": "https://ethershade.github.io/sets/DDF-files/img/23.jpg"
 			}
 		},
 		{
@@ -265,9 +245,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/26.jpg"
+				"en": "https://ethershade.github.io/sets/DDF-files/img/24.jpg"
 			}
 		},
 		{
@@ -275,9 +255,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/27.jpg"
+				"en": "https://ethershade.github.io/sets/DDF-files/img/25.jpg"
 			}
 		},
 		{
@@ -285,9 +265,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/28.jpg"
+				"en": "https://ethershade.github.io/sets/DDF-files/img/26.jpg"
 			}
 		},
 		{
@@ -295,9 +275,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/29.jpg"
+				"en": "https://ethershade.github.io/sets/DDF-files/img/27.jpg"
 			}
 		},
 		{
@@ -305,9 +285,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/30.jpg"
+				"en": "https://ethershade.github.io/sets/DDF-files/img/28.jpg"
 			}
 		},
 		{
@@ -317,7 +297,7 @@
 			"type": "",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/31.jpg"
+				"en": "https://ethershade.github.io/sets/DDF-files/img/29.jpg"
 			}
 		},
 		{
@@ -327,27 +307,7 @@
 			"type": "",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/32.jpg"
-			}
-		},
-		{
-			"name": "Man of Glass",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/33.jpg"
-			}
-		},
-		{
-			"name": "Man of Steel",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "20",
-			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/34.jpg"
+				"en": "https://ethershade.github.io/sets/DDF-files/img/30.jpg"
 			}
 		},
 		{
@@ -355,9 +315,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/35.jpg"
+				"en": "https://ethershade.github.io/sets/DDF-files/img/31.jpg"
 			}
 		},
 		{
@@ -365,9 +325,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/36.jpg"
+				"en": "https://ethershade.github.io/sets/DDF-files/img/32.jpg"
 			}
 		},
 		{
@@ -377,7 +337,7 @@
 			"type": "",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/37.jpg"
+				"en": "https://ethershade.github.io/sets/DDF-files/img/33.jpg"
 			}
 		},
 		{
@@ -387,7 +347,7 @@
 			"type": "",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/DDF-files/img/38.jpg"
+				"en": "https://ethershade.github.io/sets/DDF-files/img/34.jpg"
 			}
 		},
 		{
@@ -396,6 +356,46 @@
 			"mana_cost": "",
 			"type": "",
 			"collector_number": "28",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Balancer Mage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Acid Slime",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Nothingness Mage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/DDF-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Torturer",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://ethershade.github.io/sets/DDF-files/img/39.jpg"
 			}
@@ -425,8 +425,6 @@
 	4 Templar
 	4 Templar Trainee
 	4 Oracle
-	4 Brute
-	4 Veangent
 	4 Leader
 	4 Mystic
 	4 Gravedigger
@@ -436,10 +434,12 @@
 	4 Necromancer
 	4 Scholar
 	4 Sifter
-	4 Man of Glass
-	4 Man of Steel
 	4 Jester
 	4 Jester Trainee
 	4 Rogue Trainee
 	4 Rogue
 	4 Pyromancer
+	4 Balancer Mage
+	4 Acid Slime
+	4 Nothingness Mage
+	4 Torturer

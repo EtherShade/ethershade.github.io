@@ -1,4 +1,21 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Brute added.
+Man of Glass added.
+Man of Steel added.
+Veangent added.
+
+
+Gambler
+rules_text: This permanent enters your field with an additional power counter for each time you've manifested this turn.
+—
+Manifest. [i](To manifest, put the top card of your deck into your field.)[/i] => This permanent enters your field with an additional power counter for each time you've manifested this turn.
+—
+Manifest.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Devil added.
