@@ -42,7 +42,7 @@ Deck Limit 4</text>
 		</card>
 		<card>
 			<name>Simple Candle</name>
-			<text>Ritual 1 [+1 if in a corner]
+			<text>1{R} [+1 if in a corner]
 Crafted [String; &quot;Beeswax&quot;;]</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/HMCA3-files/img/2.jpg" num="12">HMCA3</set>
 			<prop>
@@ -52,12 +52,13 @@ Crafted [String; &quot;Beeswax&quot;;]</text>
 				<maintype>Component</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Bloody Candle</name>
-			<text>Ritual 1 [+1 if in a corner] [+1 if adjacent to Blood]
+			<text>1{R} [+1 if in a corner] [+1 if adjacent to Blood]
 Crafted [String, &quot;Vial of Blood&quot;; &quot;Beeswax&quot;;]</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/HMCA3-files/img/3.jpg" num="4">HMCA3</set>
 			<prop>
@@ -67,12 +68,16 @@ Crafted [String, &quot;Vial of Blood&quot;; &quot;Beeswax&quot;;]</text>
 				<maintype>Component</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Burning Ritual Diagram</name>
-			<text>To Ritual [4 Ritual: Candle, Null, Null; Null, Self, Null; Null, Null, Candle;]
+			<text>To Ritual [4{R}:
+Candle, {N}, {N},
+{N}, Self, {N},
+{N}, {N}, Candle,]
 On Ritual: Destroy target component you don&apos;t control.</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/HMCA3-files/img/4.jpg" num="6">HMCA3</set>
 			<prop>
@@ -82,12 +87,16 @@ On Ritual: Destroy target component you don&apos;t control.</text>
 				<maintype>Component</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Strengthening Ritual Diagram</name>
-			<text>To Ritual [2 Ritual: Null, Blood, Null; Null, Self, Null; Null, Null, Null;]
+			<text>To Ritual [3R:
+{N}, Blood, {N},
+{N}, Self, {N},
+{N}, {N}, {N},]
 On Ritual: Put two endurance counters on target creature.</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/HMCA3-files/img/5.jpg" num="15">HMCA3</set>
 			<prop>
@@ -117,7 +126,7 @@ Deck Limit 4</text>
 		</card>
 		<card>
 			<name>Empty Vial</name>
-			<text>Ritual 0
+			<text>0{R}
 Crafted [1 Shard: Vial;]</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/HMCA3-files/img/7.jpg" num="8">HMCA3</set>
 			<prop>
@@ -127,13 +136,14 @@ Crafted [1 Shard: Vial;]</text>
 				<maintype>Component</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Vial of Blood</name>
-			<text>Ritual 1 [+1 if adjacent to the center]
-Crafted [1 Blood: &quot;Empty Vial&quot;;]</text>
+			<text>1{R} [+1 if adjacent to the center]
+Crafted [1{B}: &quot;Empty Vial&quot;;]</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/HMCA3-files/img/8.jpg" num="17">HMCA3</set>
 			<prop>
 				<layout>normal</layout>
@@ -142,6 +152,7 @@ Crafted [1 Blood: &quot;Empty Vial&quot;;]</text>
 				<maintype>Component</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -222,7 +233,10 @@ Crafted [1 Blood: &quot;Empty Vial&quot;;]</text>
 		</card>
 		<card>
 			<name>Arachnid Summoning Ritual Diagram</name>
-			<text>To Ritual [3 Ritual: Null, Bioproduct, Null; Null, Self, Null; Null, Bioproduct, Null;]
+			<text>To Ritual [3{R}:
+{N}, Bioproduct, {N},
+{N}, Self, {N},
+{N}, Bioproduct, {N},]
 On Ritual: You may call up to two Arachnids from your hand.</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/HMCA3-files/img/14.jpg" num="1">HMCA3</set>
 			<prop>
@@ -232,13 +246,17 @@ On Ritual: You may call up to two Arachnids from your hand.</text>
 				<maintype>Component</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Insight Ritual Diagram</name>
-			<text>To Ritual [3 Ritual: Null, Null, Null; Null, Self, Null; Null, Null, Null;]
-On Ritual: Draw three cards.</text>
+			<text>To Ritual [3{R}:
+{N}, {N}, {N},
+{N}, Self, {N},
+{N}, {N}, {N},]
+On Ritual: Draw the top three cards of your deck.</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/HMCA3-files/img/15.jpg" num="11">HMCA3</set>
 			<prop>
 				<layout>normal</layout>
@@ -247,6 +265,7 @@ On Ritual: Draw three cards.</text>
 				<maintype>Component</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
