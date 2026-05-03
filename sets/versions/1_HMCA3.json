@@ -1,10 +1,17 @@
 ﻿{
+    "name": "Hemochronology alphatest 3",
+    "formats": "",
+    "image_type": "jpg",
+    "draft_structure": "none",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Honey Bee",
             "color": "",
             "rarity": "common",
-            "type": "Basic Creature \u2013 Insect",
+            "type": "Basic Creature \u2014 Insect",
             "number": 10,
             "color_identity": "C",
             "cost": "",
@@ -19,15 +26,13 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Beeswax",
             "color": "",
             "rarity": "common",
-            "type": "Component \u2013 Bioproduct",
+            "type": "Component \u2014 Bioproduct",
             "number": 3,
             "color_identity": "C",
             "cost": "",
@@ -42,15 +47,13 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Simple Candle",
             "color": "",
             "rarity": "common",
-            "type": "Component \u2013 Candle",
+            "type": "Component \u2014 Candle",
             "number": 12,
             "color_identity": "C",
             "cost": "",
@@ -65,15 +68,13 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Bloody Candle",
             "color": "",
             "rarity": "common",
-            "type": "Component \u2013 Candle Blood",
+            "type": "Component \u2014 Candle Blood",
             "number": 4,
             "color_identity": "C",
             "cost": "",
@@ -88,15 +89,13 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Burning Ritual Diagram",
             "color": "",
             "rarity": "common",
-            "type": "Component \u2013 Diagram",
+            "type": "Component \u2014 Diagram",
             "number": 6,
             "color_identity": "C",
             "cost": "",
@@ -111,15 +110,13 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Strengthening Ritual Diagram",
             "color": "",
             "rarity": "common",
-            "type": "Component \u2013 Diagram",
+            "type": "Component \u2014 Diagram",
             "number": 15,
             "color_identity": "C",
             "cost": "",
@@ -134,15 +131,13 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Spider Silk",
             "color": "",
             "rarity": "common",
-            "type": "Component \u2013 String Bioproduct",
+            "type": "Component \u2014 String Bioproduct",
             "number": 14,
             "color_identity": "C",
             "cost": "",
@@ -157,15 +152,13 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Empty Vial",
             "color": "",
             "rarity": "common",
-            "type": "Component \u2013 Vial",
+            "type": "Component \u2014 Vial",
             "number": 8,
             "color_identity": "C",
             "cost": "",
@@ -180,15 +173,13 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Vial of Blood",
             "color": "",
             "rarity": "common",
-            "type": "Component \u2013 Vial Blood",
+            "type": "Component \u2014 Vial Blood",
             "number": 17,
             "color_identity": "C",
             "cost": "",
@@ -203,15 +194,13 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Carapace Spider",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Arachnid",
+            "type": "Creature \u2014 Arachnid",
             "number": 7,
             "color_identity": "C",
             "cost": "",
@@ -226,15 +215,13 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Fanged Spider",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Arachnid",
+            "type": "Creature \u2014 Arachnid",
             "number": 9,
             "color_identity": "C",
             "cost": "",
@@ -249,15 +236,13 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Spider",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Arachnid",
+            "type": "Creature \u2014 Arachnid",
             "number": 13,
             "color_identity": "C",
             "cost": "",
@@ -272,15 +257,13 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Venomous Spider",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Arachnid",
+            "type": "Creature \u2014 Arachnid",
             "number": 16,
             "color_identity": "C",
             "cost": "",
@@ -295,15 +278,13 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Beehive",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 2,
             "color_identity": "C",
             "cost": "",
@@ -318,15 +299,13 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Arachnid Summoning Ritual Diagram",
             "color": "",
             "rarity": "common",
-            "type": "Component \u2013 Diagram",
+            "type": "Component \u2014 Diagram",
             "number": 1,
             "color_identity": "C",
             "cost": "",
@@ -341,15 +320,13 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Insight Ritual Diagram",
             "color": "",
             "rarity": "common",
-            "type": "Component \u2013 Diagram",
+            "type": "Component \u2014 Diagram",
             "number": 11,
             "color_identity": "C",
             "cost": "",
@@ -364,9 +341,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Book Fire",
@@ -387,9 +362,7 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": ""
         }
     ]
 }
