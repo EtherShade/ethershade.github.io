@@ -5,7 +5,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "1"
+        "position": ""
     },
     {
         "card_name": "MU01 The Great Ur-Sphinx",
@@ -13,7 +13,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "2"
+        "position": ""
     },
     {
         "card_name": "MB01 The Great Ur-Demon",
@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "3"
+        "position": ""
     },
     {
         "card_name": "MR01 The Great Ur-Dragon",
@@ -29,7 +29,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "5"
+        "position": ""
     },
     {
         "card_name": "MG01 The Great Ur-Titan",
@@ -37,7 +37,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "6"
+        "position": ""
     },
     {
         "card_name": "UW14 Seek Purity",
@@ -45,7 +45,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "77"
+        "position": ""
     },
     {
         "card_name": "UU11 Apexian Knowledge",
@@ -53,7 +53,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "83"
+        "position": ""
     },
     {
         "card_name": "RB08 Necrosapience",
@@ -61,7 +61,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "4"
+        "position": ""
     },
     {
         "card_name": "MR02 Phoenix Egg",
@@ -69,7 +69,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "26"
+        "position": ""
     },
     {
         "card_name": "CG01 Illiviridi Fodder-Raider",
@@ -77,7 +77,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "35"
+        "position": ""
     },
     {
         "card_name": "CW01 Illulbian Fodder-Raider",
@@ -85,7 +85,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "28"
+        "position": ""
     },
     {
         "card_name": "CU01 Illaerean Fodder-Raider",
@@ -93,7 +93,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "30"
+        "position": ""
     },
     {
         "card_name": "CB01 Illumbrian Fodder-Raider",
@@ -101,7 +101,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "32"
+        "position": ""
     },
     {
         "card_name": "MR03 Mature Phoenix",
@@ -109,7 +109,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "27"
+        "position": ""
     },
     {
         "card_name": "CG02 Spider Egg",
@@ -117,7 +117,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "21"
+        "position": ""
     },
     {
         "card_name": "CW02 Mouse Pup",
@@ -125,7 +125,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "13"
+        "position": ""
     },
     {
         "card_name": "CU02 Kingfisher Egg",
@@ -133,7 +133,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "15"
+        "position": ""
     },
     {
         "card_name": "CB02 Bobcat Kitten",
@@ -141,7 +141,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "17"
+        "position": ""
     },
     {
         "card_name": "CR01 Illorubiri Fodder-Raider",
@@ -149,7 +149,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "33"
+        "position": ""
     },
     {
         "card_name": "CG03 Mature Spider",
@@ -157,7 +157,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "22"
+        "position": ""
     },
     {
         "card_name": "CW03 Mature Mouse",
@@ -165,7 +165,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "14"
+        "position": ""
     },
     {
         "card_name": "CU03 Mature Kingfisher",
@@ -173,7 +173,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "16"
+        "position": ""
     },
     {
         "card_name": "CB03 Mature Bobcat",
@@ -181,7 +181,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "18"
+        "position": ""
     },
     {
         "card_name": "CR02 Coyote Pup",
@@ -189,7 +189,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "19"
+        "position": ""
     },
     {
         "card_name": "CG04 Lesser Titan Child",
@@ -197,7 +197,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "45"
+        "position": ""
     },
     {
         "card_name": "CW04 Lesser Angel Egg",
@@ -205,7 +205,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "25"
+        "position": ""
     },
     {
         "card_name": "CU04 Lesser Sphinx Pup",
@@ -213,7 +213,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "37"
+        "position": ""
     },
     {
         "card_name": "CB04 Lesser Demon Spawn",
@@ -221,7 +221,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "39"
+        "position": ""
     },
     {
         "card_name": "CR03 Mature Coyote",
@@ -229,7 +229,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "20"
+        "position": ""
     },
     {
         "card_name": "CG05 Mature Lesser Titan",
@@ -237,7 +237,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "46"
+        "position": ""
     },
     {
         "card_name": "CW05 Mature Lesser Angel",
@@ -245,7 +245,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "29"
+        "position": ""
     },
     {
         "card_name": "CU05 Mature Lesser Sphinx",
@@ -253,7 +253,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "38"
+        "position": ""
     },
     {
         "card_name": "CB05 Mature Lesser Demon",
@@ -261,7 +261,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "42"
+        "position": ""
     },
     {
         "card_name": "CR04 Lesser Dragon Egg",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "43"
+        "position": ""
     },
     {
         "card_name": "CG06 Illiviridi Figurehead",
@@ -277,7 +277,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "54"
+        "position": ""
     },
     {
         "card_name": "CW06 Illulbian Figurehead",
@@ -285,7 +285,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "49"
+        "position": ""
     },
     {
         "card_name": "CU06 Illaerean Figurehead",
@@ -293,7 +293,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "51"
+        "position": ""
     },
     {
         "card_name": "CB06 Illumbrian Figurehead",
@@ -301,7 +301,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "52"
+        "position": ""
     },
     {
         "card_name": "CR05 Mature Lesser Dragon",
@@ -309,7 +309,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "44"
+        "position": ""
     },
     {
         "card_name": "CG07 Accumulator Badger",
@@ -317,7 +317,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "101"
+        "position": ""
     },
     {
         "card_name": "CW07 Seer-Eye Feline",
@@ -325,7 +325,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "71"
+        "position": ""
     },
     {
         "card_name": "CU07 Sifter Crab",
@@ -333,7 +333,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "79"
+        "position": ""
     },
     {
         "card_name": "CB07 Sonic Seeker",
@@ -341,7 +341,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "87"
+        "position": ""
     },
     {
         "card_name": "CR06 Illorubiri Figurehead",
@@ -349,7 +349,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "53"
+        "position": ""
     },
     {
         "card_name": "CG08 Leyfeeding Elk",
@@ -357,7 +357,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "102"
+        "position": ""
     },
     {
         "card_name": "CW08 Pervasive Hope",
@@ -365,7 +365,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "72"
+        "position": ""
     },
     {
         "card_name": "CU08 Illusory Increment",
@@ -373,7 +373,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "80"
+        "position": ""
     },
     {
         "card_name": "CB08 Infested Terror",
@@ -381,7 +381,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "88"
+        "position": ""
     },
     {
         "card_name": "CR07 Silent Flame",
@@ -389,7 +389,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "94"
+        "position": ""
     },
     {
         "card_name": "CG09 Woodland Propogator",
@@ -397,7 +397,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "103"
+        "position": ""
     },
     {
         "card_name": "CW09 Restorative Rampager",
@@ -405,7 +405,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "74"
+        "position": ""
     },
     {
         "card_name": "CU09 Wildlife Insight",
@@ -413,7 +413,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "81"
+        "position": ""
     },
     {
         "card_name": "CB09 Blood Reaping",
@@ -421,7 +421,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "89"
+        "position": ""
     },
     {
         "card_name": "CR08 Firemount Wildboar",
@@ -429,7 +429,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "95"
+        "position": ""
     },
     {
         "card_name": "CG10 Fractal Squasher#",
@@ -437,7 +437,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "104"
+        "position": ""
     },
     {
         "card_name": "CW10 Angelic Recovery",
@@ -445,7 +445,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "73"
+        "position": ""
     },
     {
         "card_name": "CU10 Sphinxian Riddling",
@@ -453,7 +453,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "82"
+        "position": ""
     },
     {
         "card_name": "CB10 Demonic Torture",
@@ -461,7 +461,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "90"
+        "position": ""
     },
     {
         "card_name": "CR09 Strategic Inspiration",
@@ -469,7 +469,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "96"
+        "position": ""
     },
     {
         "card_name": "CG11 Primordial Might",
@@ -477,7 +477,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "105"
+        "position": ""
     },
     {
         "card_name": "CW11 Leeching Smite",
@@ -485,7 +485,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "75"
+        "position": ""
     },
     {
         "card_name": "CU11 Essence Pierce",
@@ -493,7 +493,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "84"
+        "position": ""
     },
     {
         "card_name": "CB11 Wartime Tactics",
@@ -501,7 +501,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "91"
+        "position": ""
     },
     {
         "card_name": "CR10 Draconic Impression",
@@ -509,7 +509,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "97"
+        "position": ""
     },
     {
         "card_name": "CG12 Insectoid Infrastructure",
@@ -517,7 +517,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "106"
+        "position": ""
     },
     {
         "card_name": "CW12 Banishing Fire",
@@ -525,7 +525,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "76"
+        "position": ""
     },
     {
         "card_name": "CU12 Guised Prevention",
@@ -533,7 +533,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "85"
+        "position": ""
     },
     {
         "card_name": "CB12 Souldrain",
@@ -541,7 +541,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "92"
+        "position": ""
     },
     {
         "card_name": "CR11 Instinct Fracture",
@@ -549,7 +549,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "98"
+        "position": ""
     },
     {
         "card_name": "CG13 Consumptorial Predation",
@@ -557,7 +557,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "107"
+        "position": ""
     },
     {
         "card_name": "CW13 Hive of Insight",
@@ -565,7 +565,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "78"
+        "position": ""
     },
     {
         "card_name": "CU13 Nullification",
@@ -573,7 +573,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "86"
+        "position": ""
     },
     {
         "card_name": "CB13 Nightmare Tremors",
@@ -581,7 +581,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "93"
+        "position": ""
     },
     {
         "card_name": "CR12 Primordial Spoils",
@@ -589,39 +589,19 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "99"
+        "position": ""
     },
     {
-        "card_name": "CZ15 Renegades of Strength",
-        "number": 112,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "70"
+        "card_name": "e"
     },
     {
-        "card_name": "CZ11 Renegades of Loyalty",
-        "number": 108,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "66"
+        "card_name": "e"
     },
     {
-        "card_name": "CZ12 Renegades of Knowledge",
-        "number": 109,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "67"
+        "card_name": "e"
     },
     {
-        "card_name": "CZ13 Renegades of Persistence",
-        "number": 110,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "68"
+        "card_name": "e"
     },
     {
         "card_name": "CR13 Greater Flame",
@@ -629,27 +609,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "100"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CZ14 Renegades of Courage",
-        "number": 111,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "69"
+        "position": ""
     },
     {
         "card_name": "e"
@@ -673,7 +633,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "56"
+        "position": ""
     },
     {
         "card_name": "CZ02 Peacemakers of Darkness",
@@ -681,7 +641,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "57"
+        "position": ""
     },
     {
         "card_name": "CZ03 Peacemakers of Blood",
@@ -689,7 +649,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "58"
+        "position": ""
     },
     {
         "card_name": "CZ04 Peacemakers of Fire",
@@ -697,7 +657,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "59"
+        "position": ""
     },
     {
         "card_name": "CZ05 Peacemakers of Life",
@@ -705,7 +665,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "60"
+        "position": ""
     },
     {
         "card_name": "er"
@@ -728,7 +688,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "61"
+        "position": ""
     },
     {
         "card_name": "CZ07 Peacemakers of Thunder",
@@ -736,7 +696,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "62"
+        "position": ""
     },
     {
         "card_name": "CZ08 Peacemakers of Death",
@@ -744,7 +704,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "63"
+        "position": ""
     },
     {
         "card_name": "CZ09 Peacemakers of Light",
@@ -752,7 +712,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "64"
+        "position": ""
     },
     {
         "card_name": "CZ10 Peacemakers of Water",
@@ -760,7 +720,62 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "65"
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CZ11 Renegades of Loyalty",
+        "number": 108,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CZ12 Renegades of Knowledge",
+        "number": 109,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CZ13 Renegades of Persistence",
+        "number": 110,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CZ14 Renegades of Courage",
+        "number": 111,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CZ15 Renegades of Strength",
+        "number": 112,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"
@@ -781,7 +796,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "9"
+        "position": ""
     },
     {
         "card_name": "MC02 Nameful, the First Child",
@@ -789,7 +804,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "40"
+        "position": ""
     },
     {
         "card_name": "MC03 Nameful Guardian of Populations",
@@ -797,15 +812,7 @@
         "shape": "planeswalker",
         "set": "TOW",
         "rotated": false,
-        "position": "41"
-    },
-    {
-        "card_name": "MI01 The Great Ur-Chimera",
-        "number": 97,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "7"
+        "position": ""
     },
     {
         "card_name": "RA01 Figurehead Aether-Corpse",
@@ -813,7 +820,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "50"
+        "position": ""
     },
     {
         "card_name": "BC01 Brown Squirrel",
@@ -821,7 +828,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "0"
+        "position": ""
     },
     {
         "card_name": "CC01 Butterfly Caterpillar",
@@ -829,7 +836,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "10"
+        "position": ""
     },
     {
         "card_name": "CC02 Butterfly Cocoon",
@@ -837,7 +844,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "11"
+        "position": ""
     },
     {
         "card_name": "CC03 Mature Butterfly",
@@ -845,7 +852,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "12"
+        "position": ""
     },
     {
         "card_name": "CC04 Primordial Ruin",
@@ -853,111 +860,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "117"
-    },
-    {
-        "card_name": "CI01 Mercenary Fodder-Raider",
-        "number": 84,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "36"
-    },
-    {
-        "card_name": "CI02 Ferret Kit",
-        "number": 85,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "23"
-    },
-    {
-        "card_name": "CI03 Mature Ferret",
-        "number": 86,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "24"
-    },
-    {
-        "card_name": "CI04 Lesser Chimera Pup",
-        "number": 87,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "47"
-    },
-    {
-        "card_name": "CI05 Mature Lesser Chimera",
-        "number": 88,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "48"
-    },
-    {
-        "card_name": "CI06 Mercenary Figurehead",
-        "number": 89,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "55"
-    },
-    {
-        "card_name": "CI07 Geometric Summoner",
-        "number": 90,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "108"
-    },
-    {
-        "card_name": "CI08 Thrumming Seeker",
-        "number": 91,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "109"
-    },
-    {
-        "card_name": "CI09 Angular Insight",
-        "number": 92,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "110"
-    },
-    {
-        "card_name": "CI10 Manamixed Shard",
-        "number": 93,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "111"
-    },
-    {
-        "card_name": "CI11 Bodily Departure",
-        "number": 94,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "112"
-    },
-    {
-        "card_name": "CI12 Subtle Shift",
-        "number": 95,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "113"
-    },
-    {
-        "card_name": "CI13 Precise Purge",
-        "number": 96,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": "114"
+        "position": ""
     },
     {
         "card_name": "CA01 Primordial Leylith",
@@ -965,7 +868,7 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "115"
+        "position": ""
     },
     {
         "card_name": "CA02 Condensed Terrain",
@@ -973,7 +876,19 @@
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
-        "position": "116"
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -989,20 +904,12 @@
     },
     "a->token",
     {
-        "card_name": "Fractal [Token]",
-        "number": 1,
-        "shape": "token",
-        "set": "TOW",
-        "rotated": false,
-        "position": "8"
-    },
-    {
         "card_name": "Clue [Token]",
         "number": 2,
         "shape": "token",
         "set": "TOW",
         "rotated": false,
-        "position": "31"
+        "position": ""
     },
     {
         "card_name": "Treasure [Token]",
@@ -1010,7 +917,15 @@
         "shape": "token",
         "set": "TOW",
         "rotated": false,
-        "position": "34"
+        "position": ""
+    },
+    {
+        "card_name": "Fractal [Token]",
+        "number": 1,
+        "shape": "token",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"

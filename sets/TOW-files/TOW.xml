@@ -14,7 +14,7 @@
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 This creature&apos;s mana cost is {1} as it is sacrificed for apex costs.
 A deck may contain any number of cards named Brown Squirrel.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/0.jpg" num="1">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/1_BC01 Brown Squirrel.jpg" num="1">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -33,7 +33,7 @@ Apex (As you cast this spell, you may sacrifice any number of creatures. Reduce 
 You may only cast this from your Elsewhere and can&apos;t spend mana to cast it.
 When you cast this spell, creatures you control gain flying, lifelink, and vigilance until end of turn.
 Flying</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/1.jpg" num="22">TOW</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/22_MW01 The Great Ur-Angel.jpg" num="22">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -54,7 +54,7 @@ Apex (As you cast this spell, you may sacrifice any number of creatures. Reduce 
 You may only cast this from your Elsewhere and can&apos;t spend mana to cast it.
 When you cast this spell, until end of turn, you may cast spells without paying their mana costs.
 Flying</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/2.jpg" num="37">TOW</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/37_MU01 The Great Ur-Sphinx.jpg" num="37">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -75,7 +75,7 @@ Apex (As you cast this spell, you may sacrifice any number of creatures. Reduce 
 You may only cast this from your Elsewhere and can&apos;t spend mana to cast it.
 When you cast this spell, you draw 7 cards and lose 7 life. spell.
 Flying</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/3.jpg" num="52">TOW</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/52_MB01 The Great Ur-Demon.jpg" num="52">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -92,7 +92,7 @@ Flying</text>
 		<card>
 			<name>RB08 Necrosapience</name>
 			<text>This card has all abilities of creature cards in your graveyard.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/TOW-files/img/4.jpg" num="53">TOW</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/TOW-files/img/53_RB08 Necrosapience.jpg" num="53">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -112,7 +112,7 @@ Apex (As you cast this spell, you may sacrifice any number of creatures. Reduce 
 You may only cast this from your Elsewhere and can&apos;t spend mana to cast it.
 When you cast this spell, it deals 7 damage to each creature, planeswalker, battle, and player.
 Flying</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/5.jpg" num="67">TOW</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/67_MR01 The Great Ur-Dragon.jpg" num="67">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -133,7 +133,7 @@ Apex (As you cast this spell, you may sacrifice any number of creatures. Reduce 
 You may only cast this from your Elsewhere and can&apos;t spend mana to cast it.
 When you cast this spell, put seven +1/+1 counters on each creature you control.
 Reach</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/6.jpg" num="83">TOW</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/83_MG01 The Great Ur-Titan.jpg" num="83">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -154,14 +154,15 @@ Apex (As you cast this spell, you may sacrifice any number of creatures. Reduce 
 You may only cast this from your Elsewhere and can&apos;t spend mana to cast it.
 When you cast this spell, create seven 1/1 silver Fractal creature tokens.
 Reach</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/7.jpg" num="97">TOW</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/97_MI01 The Great Ur-Chimera.jpg" num="97">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Chimera Avatar</type>
 				<maintype>Creature</maintype>
-				<manacost>7I/I/I</manacost>
-				<cmc>8</cmc>
+				<manacost>7III</manacost>
+				<cmc>10</cmc>
+				<colors>I</colors>
 				<coloridentity>I</coloridentity>
 				<pt>7/7</pt>
 			</prop>
@@ -170,7 +171,7 @@ Reach</text>
 		<card>
 			<name>Fractal [Token] TOW</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/8.jpg" num="1">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/1t_Fractal [Token].jpg" num="1">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -178,6 +179,7 @@ Reach</text>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
+				<colors>I</colors>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -195,7 +197,7 @@ Reach</text>
 Apex (As you cast this spell, you may sacrifice any number of creatures. Reduce this spell&apos;s mana cost by the mana costs of the creatures sacrificed.)
 You may only cast this from your Elsewhere and can&apos;t spend mana to cast it.
 When you cast this spell, put an indestructible counter on each creature you control.</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/9.jpg" num="6">TOW</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/6_MC01 The Great Ur-Population.jpg" num="6">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -210,7 +212,7 @@ When you cast this spell, put an indestructible counter on each creature you con
 		<card>
 			<name>CC01 Butterfly Caterpillar</name>
 			<text>Fledgling 2 — Butterfly Cocoon (Put at time counter on this at your end step. Then if there&apos;s 2 or more time counters, you may sacrifice this to put Butterfly Cocoon from your elsewhere onto the battlefield.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/10.jpg" num="2">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/2_CC01 Butterfly Caterpillar.jpg" num="2">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -226,7 +228,7 @@ When you cast this spell, put an indestructible counter on each creature you con
 			<name>CC02 Butterfly Cocoon</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Fledgling 1 — Mature Butterfly (Put at time counter on this at your end step. Then if there&apos;s 1 or more time counters, you may sacrifice this to put Mature Butterfly from your elsewhere onto the battlefield.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/11.jpg" num="3">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/3_CC02 Butterfly Cocoon.jpg" num="3">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -242,7 +244,7 @@ Fledgling 1 — Mature Butterfly (Put at time counter on this at your end step. 
 			<name>CC03 Mature Butterfly</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Flying</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/12.jpg" num="4">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/4_CC03 Mature Butterfly.jpg" num="4">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -258,7 +260,7 @@ Flying</text>
 			<name>CW02 Mouse Pup</name>
 			<text>Fledgling 3 — Mature Mouse (Put at time counter on this at your end step. Then if there&apos;s 3 or more time counters, you may sacrifice this to put Mature Mouse from your elsewhere onto the battlefield.)
 When this creature dies, you gain 2 life.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/13.jpg" num="10">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/10_CW02 Mouse Pup.jpg" num="10">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -276,7 +278,7 @@ When this creature dies, you gain 2 life.</text>
 			<name>CW03 Mature Mouse</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Lifelink</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/14.jpg" num="11">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/11_CW03 Mature Mouse.jpg" num="11">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -294,7 +296,7 @@ Lifelink</text>
 			<name>CU02 Kingfisher Egg</name>
 			<text>Fledgling 3 — Mature Kingfisher (Put at time counter on this at your end step. Then if there&apos;s 3 or more time counters, you may sacrifice this to put Mature Kingfisher from your elsewhere onto the battlefield.)
 When this creature dies, draw a card.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/15.jpg" num="25">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/25_CU02 Kingfisher Egg.jpg" num="25">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -312,7 +314,7 @@ When this creature dies, draw a card.</text>
 			<name>CU03 Mature Kingfisher</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Flying</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/16.jpg" num="26">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/26_CU03 Mature Kingfisher.jpg" num="26">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -330,7 +332,7 @@ Flying</text>
 			<name>CB02 Bobcat Kitten</name>
 			<text>Fledgling 3 — Mature Bobcat (Put at time counter on this at your end step. Then if there&apos;s 3 or more time counters, you may sacrifice this to put Mature Bobcat from your elsewhere onto the battlefield.)
 When this creature dies, you gain 1 life and each opponent loses 1 life.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/17.jpg" num="40">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/40_CB02 Bobcat Kitten.jpg" num="40">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -348,7 +350,7 @@ When this creature dies, you gain 1 life and each opponent loses 1 life.</text>
 			<name>CB03 Mature Bobcat</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Menace</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/18.jpg" num="41">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/41_CB03 Mature Bobcat.jpg" num="41">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -366,7 +368,7 @@ Menace</text>
 			<name>CR02 Coyote Pup</name>
 			<text>Fledgling 3 — Mature Coyote (Put at time counter on this at your end step. Then if there&apos;s 3 or more time counters, you may sacrifice this to put Mature Coyote from your elsewhere onto the battlefield.)
 When this creature dies, it deals 2 damage to each opponent.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/19.jpg" num="55">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/55_CR02 Coyote Pup.jpg" num="55">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -384,7 +386,7 @@ When this creature dies, it deals 2 damage to each opponent.</text>
 			<name>CR03 Mature Coyote</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Haste</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/20.jpg" num="56">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/56_CR03 Mature Coyote.jpg" num="56">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -402,7 +404,7 @@ Haste</text>
 			<name>CG02 Spider Egg</name>
 			<text>Fledgling 3 — Mature Spider (Put at time counter on this at your end step. Then if there&apos;s 3 or more time counters, you may sacrifice this to put Mature Spider from your elsewhere onto the battlefield.)
 When this creature dies, mill two cards.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/21.jpg" num="71">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/71_CG02 Spider Egg.jpg" num="71">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -420,7 +422,7 @@ When this creature dies, mill two cards.</text>
 			<name>CG03 Mature Spider</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Reach</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/22.jpg" num="72">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/72_CG03 Mature Spider.jpg" num="72">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -438,7 +440,7 @@ Reach</text>
 			<name>CI02 Ferret Kit</name>
 			<text>Fledgling 3 — Mature Ferret (Put at time counter on this at your end step. Then if there&apos;s 3 or more time counters, you may sacrifice this to put Mature Ferret from your elsewhere onto the battlefield.)
 When this creature dies, scry 2.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/23.jpg" num="85">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/85_CI02 Ferret Kit.jpg" num="85">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -446,6 +448,7 @@ When this creature dies, scry 2.</text>
 				<maintype>Creature</maintype>
 				<manacost>1I</manacost>
 				<cmc>2</cmc>
+				<colors>I</colors>
 				<coloridentity>I</coloridentity>
 				<pt>2/2</pt>
 			</prop>
@@ -455,7 +458,7 @@ When this creature dies, scry 2.</text>
 			<name>CI03 Mature Ferret</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Vigilance</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/24.jpg" num="86">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/86_CI03 Mature Ferret.jpg" num="86">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -463,6 +466,7 @@ Vigilance</text>
 				<maintype>Creature</maintype>
 				<manacost>3I</manacost>
 				<cmc>4</cmc>
+				<colors>I</colors>
 				<coloridentity>I</coloridentity>
 				<pt>2/5</pt>
 			</prop>
@@ -473,7 +477,7 @@ Vigilance</text>
 			<text>Fledgling 4 — Mature Lesser Angel (Put at time counter on this at your end step. Then if there&apos;s 4 or more time counters, you may sacrifice this to put Mature Lesser Angel from your elsewhere onto the battlefield.)
 {W}, Sacrifice a creature: Put a time counter on this creature.
 When this creature dies, each player draws two cards.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/25.jpg" num="12">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/12_CW04 Lesser Angel Egg.jpg" num="12">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -492,7 +496,7 @@ When this creature dies, each player draws two cards.</text>
 			<text>Fledgling 3 — Mature Phoenix (Put at time counter on this at your end step. Then if there&apos;s 3 or more time counters, you may sacrifice this to put Mature Phoenix from your elsewhere onto the battlefield.)
 Ward—Pay 2 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
 Escape—{R}, Exile four cards from your graveyard.. (You may cast this card from your graveyard for its escape cost.)</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/26.jpg" num="68">TOW</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/68_MR02 Phoenix Egg.jpg" num="68">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -512,7 +516,7 @@ Escape—{R}, Exile four cards from your graveyard.. (You may cast this card fro
 Flying
 When this creature enters, discard your hand, then draw three cards.
 When this creature dies, put it into your elsewhere.</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/27.jpg" num="69">TOW</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/69_MR03 Mature Phoenix.jpg" num="69">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -529,7 +533,7 @@ When this creature dies, put it into your elsewhere.</text>
 		<card>
 			<name>CW01 Illulbian Fodder-Raider</name>
 			<text>Raid — When this creature dies, if you attacked this turn, put a counter of a kind that was on this creature or that&apos;s already there on target creature.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/28.jpg" num="9">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/9_CW01 Illulbian Fodder-Raider.jpg" num="9">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -548,7 +552,7 @@ When this creature dies, put it into your elsewhere.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Apex (As you cast this spell, you may sacrifice any number of creatures. Reduce this spell&apos;s mana cost by the mana costs of the creatures sacrificed.)
 Flying</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/29.jpg" num="13">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/13_CW05 Mature Lesser Angel.jpg" num="13">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -565,7 +569,7 @@ Flying</text>
 		<card>
 			<name>CU01 Illaerean Fodder-Raider</name>
 			<text>Raid — When this creature dies, if you attacked this turn, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/30.jpg" num="24">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/24_CU01 Illaerean Fodder-Raider.jpg" num="24">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -582,7 +586,7 @@ Flying</text>
 		<card>
 			<name>Clue [Token] TOW</name>
 			<text>{2}, Sacrifice this artifact: Draw a card.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/31.jpg" num="2">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/2t_Clue [Token].jpg" num="2">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -600,7 +604,7 @@ Flying</text>
 		<card>
 			<name>CB01 Illumbrian Fodder-Raider</name>
 			<text>Raid — When this creature dies, if you attacked this turn, target player discards a card.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/32.jpg" num="39">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/39_CB01 Illumbrian Fodder-Raider.jpg" num="39">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -617,7 +621,7 @@ Flying</text>
 		<card>
 			<name>CR01 Illorubiri Fodder-Raider</name>
 			<text>Raid — When this creature dies, if you attacked this turn, create a Treasure token.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/33.jpg" num="54">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/54_CR01 Illorubiri Fodder-Raider.jpg" num="54">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -634,7 +638,7 @@ Flying</text>
 		<card>
 			<name>Treasure [Token] TOW</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/34.jpg" num="3">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/3t_Treasure [Token].jpg" num="3">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -652,7 +656,7 @@ Flying</text>
 		<card>
 			<name>CG01 Illiviridi Fodder-Raider</name>
 			<text>Raid — When this creature dies, if you attacked this turn, you may put a land card from your hand onto the battlefield tapped.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/35.jpg" num="70">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/70_CG01 Illiviridi Fodder-Raider.jpg" num="70">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -669,7 +673,7 @@ Flying</text>
 		<card>
 			<name>CI01 Mercenary Fodder-Raider</name>
 			<text>Raid — When this creature dies, if you attacked this turn, create a 1/1 silver Fractal creature token.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/36.jpg" num="84">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/84_CI01 Mercenary Fodder-Raider.jpg" num="84">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -677,6 +681,7 @@ Flying</text>
 				<maintype>Creature</maintype>
 				<manacost>I</manacost>
 				<cmc>1</cmc>
+				<colors>I</colors>
 				<coloridentity>I</coloridentity>
 				<pt>1/1</pt>
 			</prop>
@@ -687,7 +692,7 @@ Flying</text>
 			<text>Fledgling 4 — Mature Lesser Sphinx (Put at time counter on this at your end step. Then if there&apos;s 4 or more time counters, you may sacrifice this to put Mature Lesser Sphinx from your elsewhere onto the battlefield.)
 {U}, Sacrifice a creature: Put a time counter on this creature.
 When this creature dies, scry 2.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/37.jpg" num="27">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/27_CU04 Lesser Sphinx Pup.jpg" num="27">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -706,7 +711,7 @@ When this creature dies, scry 2.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Apex (As you cast this spell, you may sacrifice any number of creatures. Reduce this spell&apos;s mana cost by the mana costs of the creatures sacrificed.)
 Flying</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/38.jpg" num="28">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/28_CU05 Mature Lesser Sphinx.jpg" num="28">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -725,7 +730,7 @@ Flying</text>
 			<text>Fledgling 4 — Mature Lesser Demon (Put at time counter on this at your end step. Then if there&apos;s 4 or more time counters, you may sacrifice this to put Mature Lesser Demon from your elsewhere onto the battlefield.)
 {B}, Sacrifice a creature: Put a time counter on this creature.
 When this creature dies, draw a card. You lose 1 life.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/39.jpg" num="42">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/42_CB04 Lesser Demon Spawn.jpg" num="42">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -743,7 +748,7 @@ When this creature dies, draw a card. You lose 1 life.</text>
 			<name>MC02 Nameful, the First Child</name>
 			<text>Fledgling 7 — Nameful Guardian of Populations (Put at time counter on this at your end step. Then if there&apos;s 7 or more time counters, you may sacrifice this to put Nameful Guardian of Populations from your elsewhere onto the battlefield.)
 Whenever another Human, Avala, Merfolk, Agona, Goblin, Elf, or Zagdar you control enters, put a time counter on this creature.</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/40.jpg" num="7">TOW</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/7_MC02 Nameful, the First Child.jpg" num="7">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -763,7 +768,7 @@ Whenever another Human, Avala, Merfolk, Agona, Goblin, Elf, or Zagdar you contro
 • Artifact or enchantment, discard a card.
 • Planeswalker or battle, you lose 3 life.
 • Land, you lose 3 life, sacrifice a permanent, and discard a card.</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/41.jpg" num="8">TOW</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/TOW-files/img/8_MC03 Nameful Guardian of Populations.jpg" num="8">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -780,7 +785,7 @@ Whenever another Human, Avala, Merfolk, Agona, Goblin, Elf, or Zagdar you contro
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Apex (As you cast this spell, you may sacrifice any number of creatures. Reduce this spell&apos;s mana cost by the mana costs of the creatures sacrificed.)
 Flying</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/42.jpg" num="43">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/43_CB05 Mature Lesser Demon.jpg" num="43">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -799,7 +804,7 @@ Flying</text>
 			<text>Fledgling 4 — Mature Lesser Dragon (Put at time counter on this at your end step. Then if there&apos;s 4 or more time counters, you may sacrifice this to put Mature Lesser Dragon from your elsewhere onto the battlefield.)
 {R}, Sacrifice a creature: Put a time counter on this creature.
 When this creature dies, it deals 3 damage to each opponent.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/43.jpg" num="57">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/57_CR04 Lesser Dragon Egg.jpg" num="57">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -818,7 +823,7 @@ When this creature dies, it deals 3 damage to each opponent.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Apex (As you cast this spell, you may sacrifice any number of creatures. Reduce this spell&apos;s mana cost by the mana costs of the creatures sacrificed.)
 Flying</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/44.jpg" num="58">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/58_CR05 Mature Lesser Dragon.jpg" num="58">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -837,7 +842,7 @@ Flying</text>
 			<text>Fledgling 4 — Mature Lesser Titan (Put at time counter on this at your end step. Then if there&apos;s 4 or more time counters, you may sacrifice this to put Mature Lesser Titan from your elsewhere onto the battlefield.)
 {G}, Sacrifice a creature: Put a time counter on this creature.
 When this creature dies, you gain 3 life.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/45.jpg" num="73">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/73_CG04 Lesser Titan Child.jpg" num="73">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -856,7 +861,7 @@ When this creature dies, you gain 3 life.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Apex (As you cast this spell, you may sacrifice any number of creatures. Reduce this spell&apos;s mana cost by the mana costs of the creatures sacrificed.)
 Reach</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/46.jpg" num="74">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/74_CG05 Mature Lesser Titan.jpg" num="74">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -873,9 +878,9 @@ Reach</text>
 		<card>
 			<name>CI04 Lesser Chimera Pup</name>
 			<text>Fledgling 4 — Mature Lesser Chimera (Put at time counter on this at your end step. Then if there&apos;s 4 or more time counters, you may sacrifice this to put Mature Lesser Chimera from your elsewhere onto the battlefield.)
-I, Sacrifice a creature: Put a time counter on this creature.
+{I}, Sacrifice a creature: Put a time counter on this creature.
 When this creature dies, create a 1/1 silver Fractal creature token.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/47.jpg" num="87">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/87_CI04 Lesser Chimera Pup.jpg" num="87">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -883,6 +888,7 @@ When this creature dies, create a 1/1 silver Fractal creature token.</text>
 				<maintype>Creature</maintype>
 				<manacost>2I</manacost>
 				<cmc>3</cmc>
+				<colors>I</colors>
 				<coloridentity>I</coloridentity>
 				<pt>3/2</pt>
 			</prop>
@@ -893,14 +899,15 @@ When this creature dies, create a 1/1 silver Fractal creature token.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Apex (As you cast this spell, you may sacrifice any number of creatures. Reduce this spell&apos;s mana cost by the mana costs of the creatures sacrificed.)
 Reach</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/48.jpg" num="88">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/88_CI05 Mature Lesser Chimera.jpg" num="88">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Chimera</type>
 				<maintype>Creature</maintype>
-				<manacost>4I/I</manacost>
-				<cmc>5</cmc>
+				<manacost>4II</manacost>
+				<cmc>6</cmc>
+				<colors>I</colors>
 				<coloridentity>I</coloridentity>
 				<pt>5/4</pt>
 			</prop>
@@ -910,7 +917,7 @@ Reach</text>
 			<name>CW06 Illulbian Figurehead</name>
 			<text>Evoke {1}{W} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)
 When this creature enters, destroy target artifact or enchantment.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/49.jpg" num="14">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/14_CW06 Illulbian Figurehead.jpg" num="14">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -930,7 +937,7 @@ When this creature enters, destroy target artifact or enchantment.</text>
 {T}: Add X mana of any one color, where X is the number of aether counters on this artifact.
 Whenever you cast a spell with evoke for its evoke cost, put an aether counter on this artifact.
 Whenever you cast a spell with evoke for its normal cost, untap this artifact.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/TOW-files/img/50.jpg" num="115">TOW</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/TOW-files/img/115_RA01 Figurehead Aether-Corpse.jpg" num="115">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -945,7 +952,7 @@ Whenever you cast a spell with evoke for its normal cost, untap this artifact.</
 			<name>CU06 Illaerean Figurehead</name>
 			<text>Evoke {1}{U} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)
 When this creature enters, return target nonland permanent to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/51.jpg" num="29">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/29_CU06 Illaerean Figurehead.jpg" num="29">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -963,7 +970,7 @@ When this creature enters, return target nonland permanent to its owner&apos;s h
 			<name>CB06 Illumbrian Figurehead</name>
 			<text>Evoke {1}{B} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)
 When this creature enters, each opponent sacrifices a creature.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/52.jpg" num="44">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/44_CB06 Illumbrian Figurehead.jpg" num="44">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -981,7 +988,7 @@ When this creature enters, each opponent sacrifices a creature.</text>
 			<name>CR06 Illorubiri Figurehead</name>
 			<text>Evoke {1}{R} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)
 When this creature enters, it deals 3 damage to any nonplayer target.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/53.jpg" num="59">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/59_CR06 Illorubiri Figurehead.jpg" num="59">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -999,7 +1006,7 @@ When this creature enters, it deals 3 damage to any nonplayer target.</text>
 			<name>CG06 Illiviridi Figurehead</name>
 			<text>Evoke {1}{G} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)
 When this creature enters, another target creature you control fights target creature you don&apos;t control.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/54.jpg" num="75">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/75_CG06 Illiviridi Figurehead.jpg" num="75">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1015,9 +1022,9 @@ When this creature enters, another target creature you control fights target cre
 		</card>
 		<card>
 			<name>CI06 Mercenary Figurehead</name>
-			<text>Evoke {1}I (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)
+			<text>Evoke {1}{I} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)
 When this creature enters, target creature loses all abilities until the start of your next turn.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/55.jpg" num="89">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/89_CI06 Mercenary Figurehead.jpg" num="89">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1025,6 +1032,7 @@ When this creature enters, target creature loses all abilities until the start o
 				<maintype>Creature</maintype>
 				<manacost>4I</manacost>
 				<cmc>5</cmc>
+				<colors>I</colors>
 				<coloridentity>I</coloridentity>
 				<pt>4/4</pt>
 			</prop>
@@ -1034,7 +1042,7 @@ When this creature enters, target creature loses all abilities until the start o
 			<name>CZ01 Peacemakers of Frost</name>
 			<text>Flash
 Primordial — When this creature enters, put half X, rounded down, shield counters on target permanent, where X is the number of colors among cards in your graveyard. (If a permanent with a shield counter on it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/56.jpg" num="98">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/98_CZ01 Peacemakers of Frost.jpg" num="98">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1052,7 +1060,7 @@ Primordial — When this creature enters, put half X, rounded down, shield count
 			<name>CZ02 Peacemakers of Darkness</name>
 			<text>Flying
 Primordial — When this creature enters, surveil X, where X is the number of colors among cards in your graveyard.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/57.jpg" num="99">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/99_CZ02 Peacemakers of Darkness.jpg" num="99">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1070,7 +1078,7 @@ Primordial — When this creature enters, surveil X, where X is the number of co
 			<name>CZ03 Peacemakers of Blood</name>
 			<text>Menace
 Primordial — When this creature enters, it deals X damage to each opponent, where X is the number of colors among cards in your graveyard.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/58.jpg" num="100">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/100_CZ03 Peacemakers of Blood.jpg" num="100">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1088,7 +1096,7 @@ Primordial — When this creature enters, it deals X damage to each opponent, wh
 			<name>CZ04 Peacemakers of Fire</name>
 			<text>Trample
 Primordial — When this creature enters, create half X, rounded down, tapped Treasure tokens, where X is the number of colors among cards in your graveyard.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/59.jpg" num="101">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/101_CZ04 Peacemakers of Fire.jpg" num="101">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1106,7 +1114,7 @@ Primordial — When this creature enters, create half X, rounded down, tapped Tr
 			<name>CZ05 Peacemakers of Life</name>
 			<text>Vigilance
 Primordial — When this creature enters, put half X, rounded down, cards named Brown Squirrel from your elsewhere into your hand, where X is the number of colors among cards in your graveyard.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/60.jpg" num="102">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/102_CZ05 Peacemakers of Life.jpg" num="102">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1124,7 +1132,7 @@ Primordial — When this creature enters, put half X, rounded down, cards named 
 			<name>CZ06 Peacemakers of Bone</name>
 			<text>Lifelink
 Primordial — When this creature enters, you gain X life, where X is the number of colors among cards in your graveyard.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/61.jpg" num="103">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/103_CZ06 Peacemakers of Bone.jpg" num="103">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1142,7 +1150,7 @@ Primordial — When this creature enters, you gain X life, where X is the number
 			<name>CZ07 Peacemakers of Thunder</name>
 			<text>Reach
 Primordial — When this creature enters, discard half X cards, then draw half X cards, where X is the number of colors among cards in your graveyard. Round down each card.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/62.jpg" num="104">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/104_CZ07 Peacemakers of Thunder.jpg" num="104">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1160,7 +1168,7 @@ Primordial — When this creature enters, discard half X cards, then draw half X
 			<name>CZ08 Peacemakers of Death</name>
 			<text>Deathtouch
 Primordial — When this creature enters, mill X cards, where X is the number of colors among cards in your graveyard.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/63.jpg" num="105">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/105_CZ08 Peacemakers of Death.jpg" num="105">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1178,7 +1186,7 @@ Primordial — When this creature enters, mill X cards, where X is the number of
 			<name>CZ09 Peacemakers of Light</name>
 			<text>First strike
 Primordial — When this creature enters, this creature deals X damage to target tapped creature, where X is the number of colors among cards in your graveyard.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/64.jpg" num="106">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/106_CZ09 Peacemakers of Light.jpg" num="106">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1196,7 +1204,7 @@ Primordial — When this creature enters, this creature deals X damage to target
 			<name>CZ10 Peacemakers of Water</name>
 			<text>Ward {1}
 Primordial — When this creature enters, put half X, rounded down, +1/+1 counters on target creature, where X is the number of colors among cards in your graveyard.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/65.jpg" num="107">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/107_CZ10 Peacemakers of Water.jpg" num="107">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1214,7 +1222,7 @@ Primordial — When this creature enters, put half X, rounded down, +1/+1 counte
 			<name>CZ11 Renegades of Loyalty</name>
 			<text>Flying
 Primordial — When this creature enters, create half X, rounded down, 1/1 silver Fractal tokens, where X is the number of colors among cards in your graveyard.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/66.jpg" num="108">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/108_CZ11 Renegades of Loyalty.jpg" num="108">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1222,7 +1230,7 @@ Primordial — When this creature enters, create half X, rounded down, 1/1 silve
 				<maintype>Creature</maintype>
 				<manacost>2I/W</manacost>
 				<cmc>3</cmc>
-				<colors>W</colors>
+				<colors>WI</colors>
 				<coloridentity>WI</coloridentity>
 				<pt>2/1</pt>
 			</prop>
@@ -1232,7 +1240,7 @@ Primordial — When this creature enters, create half X, rounded down, 1/1 silve
 			<name>CZ12 Renegades of Knowledge</name>
 			<text>Vigilance
 Primordial — When this creature enters, scry X, where X is the number of colors among cards in your graveyard.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/67.jpg" num="109">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/109_CZ12 Renegades of Knowledge.jpg" num="109">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1240,7 +1248,7 @@ Primordial — When this creature enters, scry X, where X is the number of color
 				<maintype>Creature</maintype>
 				<manacost>2I/U</manacost>
 				<cmc>3</cmc>
-				<colors>U</colors>
+				<colors>UI</colors>
 				<coloridentity>UI</coloridentity>
 				<pt>2/3</pt>
 			</prop>
@@ -1249,7 +1257,7 @@ Primordial — When this creature enters, scry X, where X is the number of color
 		<card>
 			<name>CZ13 Renegades of Persistence</name>
 			<text>Primordial — When this creature enters, you gain half X life and each opponent loses half X life, where X is the number of colors among cards in your graveyard. Round down each time.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/68.jpg" num="110">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/110_CZ13 Renegades of Persistence.jpg" num="110">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1257,7 +1265,7 @@ Primordial — When this creature enters, scry X, where X is the number of color
 				<maintype>Creature</maintype>
 				<manacost>2I/B</manacost>
 				<cmc>3</cmc>
-				<colors>B</colors>
+				<colors>BI</colors>
 				<coloridentity>BI</coloridentity>
 				<pt>3/2</pt>
 			</prop>
@@ -1267,7 +1275,7 @@ Primordial — When this creature enters, scry X, where X is the number of color
 			<name>CZ14 Renegades of Courage</name>
 			<text>Haste
 Primordial — When this creature enters, exile the top X cards of your library, where X is the number of colors among cards in your graveyard. You may play one of them until the end of your next turn.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/69.jpg" num="111">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/111_CZ14 Renegades of Courage.jpg" num="111">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1275,7 +1283,7 @@ Primordial — When this creature enters, exile the top X cards of your library,
 				<maintype>Creature</maintype>
 				<manacost>2I/R</manacost>
 				<cmc>3</cmc>
-				<colors>R</colors>
+				<colors>RI</colors>
 				<coloridentity>RI</coloridentity>
 				<pt>3/2</pt>
 			</prop>
@@ -1284,7 +1292,7 @@ Primordial — When this creature enters, exile the top X cards of your library,
 		<card>
 			<name>CZ15 Renegades of Strength</name>
 			<text>Primordial — When this creature enters, look at the top X cards of your library, where X is the number of colors among cards in your graveyard. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/70.jpg" num="112">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/112_CZ15 Renegades of Strength.jpg" num="112">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1292,7 +1300,7 @@ Primordial — When this creature enters, exile the top X cards of your library,
 				<maintype>Creature</maintype>
 				<manacost>2I/G</manacost>
 				<cmc>3</cmc>
-				<colors>G</colors>
+				<colors>GI</colors>
 				<coloridentity>GI</coloridentity>
 				<pt>3/3</pt>
 			</prop>
@@ -1301,7 +1309,7 @@ Primordial — When this creature enters, exile the top X cards of your library,
 		<card>
 			<name>CW07 Seer-Eye Feline</name>
 			<text>When this creature enters, you gain 1 life and draw a card.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/71.jpg" num="15">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/15_CW07 Seer-Eye Feline.jpg" num="15">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1319,7 +1327,7 @@ Primordial — When this creature enters, exile the top X cards of your library,
 			<name>CW08 Pervasive Hope</name>
 			<text>When this creature enters, put a Glimmer infestation counter on target creature. (When it dies, create an X/X colorless creature token with mana cost {X} and all types it was infested by, where X is the number of infestation counters it had.)
 Evoke {W} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/72.jpg" num="16">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/16_CW08 Pervasive Hope.jpg" num="16">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1336,7 +1344,7 @@ Evoke {W} (You may cast this spell for its evoke cost. If you do, it&apos;s sacr
 		<card>
 			<name>CW10 Angelic Recovery</name>
 			<text>Target creature gets +2/+2 until end of turn. If you control an Angel, it also gains lifelink until end of turn.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/73.jpg" num="18">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/18_CW10 Angelic Recovery.jpg" num="18">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1352,7 +1360,7 @@ Evoke {W} (You may cast this spell for its evoke cost. If you do, it&apos;s sacr
 		<card>
 			<name>CW09 Restorative Rampager</name>
 			<text>Raid — When this creature enters, if you attacked this turn, return target permanent card with mana value 3 or less from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/74.jpg" num="17">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/17_CW09 Restorative Rampager.jpg" num="17">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1369,7 +1377,7 @@ Evoke {W} (You may cast this spell for its evoke cost. If you do, it&apos;s sacr
 		<card>
 			<name>CW11 Leeching Smite</name>
 			<text>This spell deals 3 damage to target attacking or blocking creature. You gain life equal to its toughness.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/75.jpg" num="19">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/19_CW11 Leeching Smite.jpg" num="19">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1385,7 +1393,7 @@ Evoke {W} (You may cast this spell for its evoke cost. If you do, it&apos;s sacr
 		<card>
 			<name>CW12 Banishing Fire</name>
 			<text>When this enchantment enters, exile target creature and up to one target token until this enchantment leaves the battlefield.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/76.jpg" num="20">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/20_CW12 Banishing Fire.jpg" num="20">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1401,7 +1409,7 @@ Evoke {W} (You may cast this spell for its evoke cost. If you do, it&apos;s sacr
 		<card>
 			<name>UW14 Seek Purity</name>
 			<text>Destroy up to one target artifact or enchantment. Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/TOW-files/img/77.jpg" num="23">TOW</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/TOW-files/img/23_UW14 Seek Purity.jpg" num="23">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1418,7 +1426,7 @@ Evoke {W} (You may cast this spell for its evoke cost. If you do, it&apos;s sacr
 			<name>CW13 Hive of Insight</name>
 			<text>When this artifact enters, draw a card.
 {2}, {T}, Sacrifice this artifact: Put two Insect infestation counters on target creature you control. Activate only as a sorcery. (When it dies, create an X/X colorless creature token with mana cost {X} and all types it was infested by, where X is the number of infestation counters it had.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/78.jpg" num="21">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/21_CW13 Hive of Insight.jpg" num="21">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1436,7 +1444,7 @@ Evoke {W} (You may cast this spell for its evoke cost. If you do, it&apos;s sacr
 			<text>Reach
 {1}{U}, {T}: Surveil 2.
 {2}{U}, {T}: Put a card named Brown Squirrel from your elsewhere into your hand.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/79.jpg" num="30">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/30_CU07 Sifter Crab.jpg" num="30">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1454,7 +1462,7 @@ Evoke {W} (You may cast this spell for its evoke cost. If you do, it&apos;s sacr
 			<name>CU08 Illusory Increment</name>
 			<text>When this creature enters, put a counter of a kind that&apos;s on this creature or that&apos;s already there on target creature.
 Evoke {U} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/80.jpg" num="31">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/31_CU08 Illusory Increment.jpg" num="31">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1474,7 +1482,7 @@ Evoke {U} (You may cast this spell for its evoke cost. If you do, it&apos;s sacr
 When this enchantment enters, draw a card.
 Enchanted creature&apos;s mana cost is increased by {1}.
 Enchanted creature has &quot;{T}: Add {U}. Spend this mana only to cast creature spells.&quot;</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/81.jpg" num="32">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/32_CU09 Wildlife Insight.jpg" num="32">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1491,7 +1499,7 @@ Enchanted creature has &quot;{T}: Add {U}. Spend this mana only to cast creature
 			<name>CU10 Sphinxian Riddling</name>
 			<text>If you control a Sphinx, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 Draw two cards.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/82.jpg" num="33">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/33_CU10 Sphinxian Riddling.jpg" num="33">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1508,7 +1516,7 @@ Draw two cards.</text>
 			<name>UU11 Apexian Knowledge</name>
 			<text>Apex (As you cast this spell, you may sacrifice any number of creatures. Reduce this spell&apos;s mana cost by the mana costs of the creatures sacrificed.)
 Draw three cards.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/TOW-files/img/83.jpg" num="38">TOW</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/TOW-files/img/38_UU11 Apexian Knowledge.jpg" num="38">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1524,7 +1532,7 @@ Draw three cards.</text>
 		<card>
 			<name>CU11 Essence Pierce</name>
 			<text>Counter target creature spell unless its controller pays {2}.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/84.jpg" num="34">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/34_CU11 Essence Pierce.jpg" num="34">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1540,7 +1548,7 @@ Draw three cards.</text>
 		<card>
 			<name>CU12 Guised Prevention</name>
 			<text>Counter target spell. Put an Illusion infestation counter on target creature. (When it dies, create an X/X colorless creature token with mana cost {X} and all types it was infested by, where X is the number of infestation counters it had.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/85.jpg" num="35">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/35_CU12 Guised Prevention.jpg" num="35">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1557,7 +1565,7 @@ Draw three cards.</text>
 			<name>CU13 Nullification</name>
 			<text>Enchant creature
 Enchanted creature loses all abilities and has base power and toughness 1/1.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/86.jpg" num="36">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/36_CU13 Nullification.jpg" num="36">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1574,7 +1582,7 @@ Enchanted creature loses all abilities and has base power and toughness 1/1.</te
 			<name>CB07 Sonic Seeker</name>
 			<text>Flying
 Raid — When this creature enters, if you attacked this turn, put a +1/+1 counter on target creature that attacked this turn.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/87.jpg" num="45">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/45_CB07 Sonic Seeker.jpg" num="45">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1591,7 +1599,7 @@ Raid — When this creature enters, if you attacked this turn, put a +1/+1 count
 		<card>
 			<name>CB08 Infested Terror</name>
 			<text>This creature enters with two Nightmare infestation counters. (When it dies, create an X/X colorless creature token with mana cost {X} and all types it was infested by, where X is the number of infestation counters it had.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/88.jpg" num="46">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/46_CB08 Infested Terror.jpg" num="46">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1609,7 +1617,7 @@ Raid — When this creature enters, if you attacked this turn, put a +1/+1 count
 			<name>CB09 Blood Reaping</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature with mana value X.
 Surveil X, then draw two cards. (To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/89.jpg" num="47">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/47_CB09 Blood Reaping.jpg" num="47">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1626,7 +1634,7 @@ Surveil X, then draw two cards. (To surveil X, look at the top X cards of your l
 			<name>CB10 Demonic Torture</name>
 			<text>Target opponent reveals their hand. You choose a creature card from it. They discard that card.
 You lose 2 life. If you control a Demon, instead you gain 2 life and each opponent loses 2 life.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/90.jpg" num="48">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/48_CB10 Demonic Torture.jpg" num="48">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1645,7 +1653,7 @@ You lose 2 life. If you control a Demon, instead you gain 2 life and each oppone
 • Target creature gets -2/-1 until end of turn.
 • Target creature gets +2/+1 until end of turn.
 • Put a card named Brown Squirrel from your elsewhere into your hand.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/91.jpg" num="49">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/49_CB11 Wartime Tactics.jpg" num="49">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1661,7 +1669,7 @@ You lose 2 life. If you control a Demon, instead you gain 2 life and each oppone
 		<card>
 			<name>CB12 Souldrain</name>
 			<text>Destroy target creature. You gain life equal to its mana value.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/92.jpg" num="50">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/50_CB12 Souldrain.jpg" num="50">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1677,7 +1685,7 @@ You lose 2 life. If you control a Demon, instead you gain 2 life and each oppone
 		<card>
 			<name>CB13 Nightmare Tremors</name>
 			<text>Destroy target creature or enchantment. Put a Nightmare infestation counter on target creature. (When it dies, create an X/X colorless creature token with mana cost {X} and all types it was infested by, where X is the number of infestation counters it had.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/93.jpg" num="51">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/51_CB13 Nightmare Tremors.jpg" num="51">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1694,7 +1702,7 @@ You lose 2 life. If you control a Demon, instead you gain 2 life and each oppone
 			<name>CR07 Silent Flame</name>
 			<text>Menace
 This creature enters with an Elemental infestation counter. (When it dies, create an X/X colorless creature token with mana cost {X} and all types it was infested by, where X is the number of infestation counters it had.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/94.jpg" num="60">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/60_CR07 Silent Flame.jpg" num="60">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1712,7 +1720,7 @@ This creature enters with an Elemental infestation counter. (When it dies, creat
 			<name>CR08 Firemount Wildboar</name>
 			<text>Trample
 Raid — When this creature enters, if you attacked this turn, discard a card, then draw a card.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/95.jpg" num="61">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/61_CR08 Firemount Wildboar.jpg" num="61">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1731,7 +1739,7 @@ Raid — When this creature enters, if you attacked this turn, discard a card, t
 			<text>As an additional cost to cast this spell, discard a card.
 Target player draws two cards.
 Up to one target creature gets +X/+0 until end of turn, where X is twice its mana value.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/96.jpg" num="62">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/62_CR09 Strategic Inspiration.jpg" num="62">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1748,7 +1756,7 @@ Up to one target creature gets +X/+0 until end of turn, where X is twice its man
 			<name>CR10 Draconic Impression</name>
 			<text>Target creature gets +2/+0 until end of turn.
 If you control a Dragon, draw a card.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/97.jpg" num="63">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/63_CR10 Draconic Impression.jpg" num="63">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1768,7 +1776,7 @@ If you control a Dragon, draw a card.</text>
 • This spell deals 1 damage to target creature.
 • Surveil 2.
 • Put a card named Brown Squirrel from your elsewhere into your hand.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/98.jpg" num="64">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/64_CR11 Instinct Fracture.jpg" num="64">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1785,7 +1793,7 @@ If you control a Dragon, draw a card.</text>
 			<name>CR12 Primordial Spoils</name>
 			<text>This spell deals 4 damage to any target.
 Create a tapped Treasure token.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/99.jpg" num="65">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/65_CR12 Primordial Spoils.jpg" num="65">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1801,7 +1809,7 @@ Create a tapped Treasure token.</text>
 		<card>
 			<name>CR13 Greater Flame</name>
 			<text>This spell deals 6 damage to target creature and 2 damage to up to one target token.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/100.jpg" num="66">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/66_CR13 Greater Flame.jpg" num="66">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1818,7 +1826,7 @@ Create a tapped Treasure token.</text>
 			<name>CG07 Accumulator Badger</name>
 			<text>Trample
 When this creature dies, put a counter of a kind that was on this creature or that&apos;s already there on target creature.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/101.jpg" num="76">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/76_CG07 Accumulator Badger.jpg" num="76">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1836,7 +1844,7 @@ When this creature dies, put a counter of a kind that was on this creature or th
 			<name>CG08 Leyfeeding Elk</name>
 			<text>Vigilance
 {T}: Add {G}{G}.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/102.jpg" num="77">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/77_CG08 Leyfeeding Elk.jpg" num="77">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1854,7 +1862,7 @@ When this creature dies, put a counter of a kind that was on this creature or th
 			<name>CG09 Woodland Propogator</name>
 			<text>Trample
 Raid — This creature enters with a Dryad infestation counter if you attacked this turn. (When it dies, create an X/X colorless creature token with mana cost {X} and all types it was infested by, where X is the number of infestation counters it had.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/103.jpg" num="78">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/78_CG09 Woodland Propogator.jpg" num="78">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1872,7 +1880,7 @@ Raid — This creature enters with a Dryad infestation counter if you attacked t
 			<name>CG10 Fractal Squasher#</name>
 			<text>When this creature enters, you gain 3 life. You gain 2 more life if you control a token.
 {G}, Discard this card: Create a 1/1 silver Fractal creature token. Put a deathtouch counter on it.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/104.jpg" num="79">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/79_CG10 Fractal Squasher#.jpg" num="79">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1891,7 +1899,7 @@ Raid — This creature enters with a Dryad infestation counter if you attacked t
 			<text>Choose one —
 • Look at the top three cards of your library. You may reveal a land or creature card from among them. Put it into your hand and the rest on the bottom of your library.
 • Target creature gets +2/+2 until end of turn.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/105.jpg" num="80">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/80_CG11 Primordial Might.jpg" num="80">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1908,7 +1916,7 @@ Raid — This creature enters with a Dryad infestation counter if you attacked t
 			<name>CG12 Insectoid Infrastructure</name>
 			<text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 Put an Insect infestation counter a creature you control. (When it dies, create an X/X colorless creature token with mana cost {X} and all types it was infested by, where X is the number of infestation counters it had.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/106.jpg" num="81">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/81_CG12 Insectoid Infrastructure.jpg" num="81">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1924,7 +1932,7 @@ Put an Insect infestation counter a creature you control. (When it dies, create 
 		<card>
 			<name>CG13 Consumptorial Predation</name>
 			<text>Target creature you control deals damage equal to its power to target creature or planeswalker you don&apos;t control. Whenever one of those creature dies this turn, you gain 1 life.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/107.jpg" num="82">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/82_CG13 Consumptorial Predation.jpg" num="82">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1941,7 +1949,7 @@ Put an Insect infestation counter a creature you control. (When it dies, create 
 			<name>CI07 Geometric Summoner</name>
 			<text>Menace
 Raid — When this creature enters, if you attacked this turn, create a 1/1 silver Fractal creature token.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/108.jpg" num="90">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/90_CI07 Geometric Summoner.jpg" num="90">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1949,6 +1957,7 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 				<maintype>Creature</maintype>
 				<manacost>1I</manacost>
 				<cmc>2</cmc>
+				<colors>I</colors>
 				<coloridentity>I</coloridentity>
 				<pt>2/1</pt>
 			</prop>
@@ -1957,9 +1966,9 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 		<card>
 			<name>CI08 Thrumming Seeker</name>
 			<text>Flying, haste
-{1}I: Put a card named Brown Squirrel from your elsewhere into your hand.
-{2}I: Draw a card, then discard a card.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/109.jpg" num="91">TOW</set>
+{1}{I}: Put a card named Brown Squirrel from your elsewhere into your hand.
+{2}{I}: Draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/91_CI08 Thrumming Seeker.jpg" num="91">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1967,6 +1976,7 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 				<maintype>Creature</maintype>
 				<manacost>I</manacost>
 				<cmc>1</cmc>
+				<colors>I</colors>
 				<coloridentity>I</coloridentity>
 				<pt>1/1</pt>
 			</prop>
@@ -1975,7 +1985,7 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 		<card>
 			<name>CI09 Angular Insight</name>
 			<text>Put a Fractal infestation counter on a creature you control. Draw a card. (When it dies, create an X/X colorless creature token with mana cost {X} and all types it was infested by, where X is the number of infestation counters it had.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/110.jpg" num="92">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/92_CI09 Angular Insight.jpg" num="92">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1983,6 +1993,7 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 				<maintype>Sorcery</maintype>
 				<manacost>I</manacost>
 				<cmc>1</cmc>
+				<colors>I</colors>
 				<coloridentity>I</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
@@ -1991,7 +2002,7 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 			<name>CI10 Manamixed Shard</name>
 			<text>When this artifact enters, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)
 {T}, Sacrifice a creature: Create a Treasure token. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/111.jpg" num="93">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/93_CI10 Manamixed Shard.jpg" num="93">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1999,6 +2010,7 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 				<maintype>Artifact</maintype>
 				<manacost>1I</manacost>
 				<cmc>2</cmc>
+				<colors>I</colors>
 				<coloridentity>I</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
@@ -2006,7 +2018,7 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 		<card>
 			<name>CI11 Bodily Departure</name>
 			<text>Counter target creature spell. Surveil 2.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/112.jpg" num="94">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/94_CI11 Bodily Departure.jpg" num="94">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2014,6 +2026,7 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 				<maintype>Instant</maintype>
 				<manacost>2I</manacost>
 				<cmc>3</cmc>
+				<colors>I</colors>
 				<coloridentity>I</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
@@ -2023,7 +2036,7 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 			<text>Choose one or both —
 • Remove all counters from target permanent.
 • Target creature gets +2/-2 until end of turn.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/113.jpg" num="95">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/95_CI12 Subtle Shift.jpg" num="95">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2031,6 +2044,7 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 				<maintype>Sorcery</maintype>
 				<manacost>1I</manacost>
 				<cmc>2</cmc>
+				<colors>I</colors>
 				<coloridentity>I</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
@@ -2038,9 +2052,9 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 		<card>
 			<name>CI13 Precise Purge</name>
 			<text>This spell deals 1 damage to target creature.
-{1}I, Discard this card: Destroy target enchantment.
-{1}I, Exile this card from your graveyard: Scry 2.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/114.jpg" num="96">TOW</set>
+{1}{I}, Discard this card: Destroy target enchantment.
+{1}{I}, Exile this card from your graveyard: Scry 2.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/96_CI13 Precise Purge.jpg" num="96">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2048,6 +2062,7 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 				<maintype>Sorcery</maintype>
 				<manacost>I</manacost>
 				<cmc>1</cmc>
+				<colors>I</colors>
 				<coloridentity>I</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
@@ -2055,7 +2070,7 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 		<card>
 			<name>CA01 Primordial Leylith</name>
 			<text>{1}, {T}: Add two mana in any combination of colors.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/115.jpg" num="113">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/113_CA01 Primordial Leylith.jpg" num="113">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2071,7 +2086,7 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 			<text>When this artifact enters, you may search your library for a basic land card, reveal it, put it on top of your library, then shuffle.
 {T}: Surveil 1.
 {1}, Sacrifice this artifact: Draw a card.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/116.jpg" num="114">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/114_CA02 Condensed Terrain.jpg" num="114">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2086,7 +2101,7 @@ Raid — When this creature enters, if you attacked this turn, create a 1/1 silv
 			<name>CC04 Primordial Ruin</name>
 			<text>Exile target nonland permanent.
 If three or more colors of mana were spent to cast this spell, you gain 3 life.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/117.jpg" num="5">TOW</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/5_CC04 Primordial Ruin.jpg" num="5">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
