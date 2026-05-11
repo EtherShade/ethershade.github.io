@@ -23,6 +23,8 @@
 		overscroll-behavior: none;
 		margin: 0px;
 		background-color: #f3f3f3;
+		background-attachment: fixed;
+		background-size: cover;
 	}
 	.banner {
 		width: 100%;
@@ -50,6 +52,9 @@
 		justify-self: left;
 		width: 100%;
 		white-space: nowrap;
+	}
+	.preload-hidden {
+		display: none;
 	}
 	.set-banner img {
 		width: 60px;
@@ -124,7 +129,7 @@
 	}
 	.image-grid-container {
 		display: grid;
-		grid-template-columns: 1fr 1fr 1fr 1fr;
+		grid-template-columns: repeat(5, 1fr);
 		width: 70%;
 		max-width: 1200px;
 		margin: auto;

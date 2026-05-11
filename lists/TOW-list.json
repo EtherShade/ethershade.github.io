@@ -40,6 +40,14 @@
         "position": ""
     },
     {
+        "card_name": "MI01 The Great Ur-Chimera",
+        "number": 97,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "UW14 Seek Purity",
         "number": 23,
         "shape": "normal",
@@ -74,6 +82,14 @@
     {
         "card_name": "CG01 Illiviridi Fodder-Raider",
         "number": 70,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CI01 Mercenary Fodder-Raider",
+        "number": 84,
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
@@ -120,6 +136,14 @@
         "position": ""
     },
     {
+        "card_name": "CI02 Ferret Kit",
+        "number": 85,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "CW02 Mouse Pup",
         "number": 10,
         "shape": "normal",
@@ -154,6 +178,14 @@
     {
         "card_name": "CG03 Mature Spider",
         "number": 72,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CI03 Mature Ferret",
+        "number": 86,
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
@@ -200,6 +232,14 @@
         "position": ""
     },
     {
+        "card_name": "CI04 Lesser Chimera Pup",
+        "number": 87,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "CW04 Lesser Angel Egg",
         "number": 12,
         "shape": "normal",
@@ -234,6 +274,14 @@
     {
         "card_name": "CG05 Mature Lesser Titan",
         "number": 74,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CI05 Mature Lesser Chimera",
+        "number": 88,
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
@@ -280,6 +328,14 @@
         "position": ""
     },
     {
+        "card_name": "CI06 Mercenary Figurehead",
+        "number": 89,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "CW06 Illulbian Figurehead",
         "number": 14,
         "shape": "normal",
@@ -314,6 +370,14 @@
     {
         "card_name": "CG07 Accumulator Badger",
         "number": 76,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CI07 Geometric Summoner",
+        "number": 90,
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
@@ -360,6 +424,14 @@
         "position": ""
     },
     {
+        "card_name": "CI08 Thrumming Seeker",
+        "number": 91,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "CW08 Pervasive Hope",
         "number": 16,
         "shape": "normal",
@@ -394,6 +466,14 @@
     {
         "card_name": "CG09 Woodland Propogator",
         "number": 78,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CI09 Angular Insight",
+        "number": 92,
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
@@ -440,6 +520,14 @@
         "position": ""
     },
     {
+        "card_name": "CI10 Manamixed Shard",
+        "number": 93,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "CW10 Angelic Recovery",
         "number": 18,
         "shape": "normal",
@@ -474,6 +562,14 @@
     {
         "card_name": "CG11 Primordial Might",
         "number": 80,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CI11 Bodily Departure",
+        "number": 94,
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
@@ -520,6 +616,14 @@
         "position": ""
     },
     {
+        "card_name": "CI12 Subtle Shift",
+        "number": 95,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "CW12 Banishing Fire",
         "number": 20,
         "shape": "normal",
@@ -554,6 +658,14 @@
     {
         "card_name": "CG13 Consumptorial Predation",
         "number": 82,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CI13 Precise Purge",
+        "number": 96,
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
@@ -604,12 +716,18 @@
         "card_name": "e"
     },
     {
+        "card_name": "e"
+    },
+    {
         "card_name": "CR13 Greater Flame",
         "number": 66,
         "shape": "normal",
         "set": "TOW",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -668,6 +786,30 @@
         "position": ""
     },
     {
+        "card_name": "CZ11 Renegades of Loyalty",
+        "number": 108,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CZ12 Renegades of Knowledge",
+        "number": 109,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CZ13 Renegades of Persistence",
+        "number": 110,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "er"
     },
     {
@@ -717,45 +859,6 @@
     {
         "card_name": "CZ10 Peacemakers of Water",
         "number": 107,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "CZ11 Renegades of Loyalty",
-        "number": 108,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CZ12 Renegades of Knowledge",
-        "number": 109,
-        "shape": "normal",
-        "set": "TOW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CZ13 Renegades of Persistence",
-        "number": 110,
         "shape": "normal",
         "set": "TOW",
         "rotated": false,

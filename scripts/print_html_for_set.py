@@ -44,6 +44,8 @@ def generateHTML(code):
 		overscroll-behavior: none;
 		margin: 0px;
 		background-color: #f3f3f3;
+		background-attachment: fixed;
+		background-size: cover;
 	}
 	.banner {
 		width: 100%;
@@ -71,6 +73,9 @@ def generateHTML(code):
 		justify-self: left;
 		width: 100%;
 		white-space: nowrap;
+	}
+	.preload-hidden {
+		display: none;
 	}
 	.set-banner img {
 		width: 60px;
@@ -145,7 +150,7 @@ def generateHTML(code):
 	}
 	.image-grid-container {
 		display: grid;
-		grid-template-columns: 1fr 1fr 1fr 1fr;
+		grid-template-columns: repeat(5, 1fr);
 		width: 70%;
 		max-width: 1200px;
 		margin: auto;
@@ -332,6 +337,11 @@ def generateHTML(code):
 		snippet = f.read()
 		html_content += snippet
 
+	if os.path.exists(os.path.join('sets', code + '-files', 'bg.png')):
+		html_content +='''<img class="preload-hidden" id="bg" src="/sets/''' + code + '''-files/bg.png" />
+
+		'''
+
 	html_content += '''
 	<div class="banner">
 		<div class="banner-container">
@@ -456,6 +466,9 @@ def generateHTML(code):
 	else:
 		html_content += '''
 		setCardView();'''
+
+	if os.path.exists(os.path.join('sets', code + '-files', 'bg.png')):
+		html_content += '''document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';'''
 
 	html_content += '''
 		});
