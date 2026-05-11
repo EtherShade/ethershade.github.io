@@ -15,10 +15,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "MW01 The Great Ur-Angel",
@@ -35,10 +38,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "MU01 The Great Ur-Sphinx",
@@ -55,10 +61,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "MB01 The Great Ur-Demon",
@@ -75,10 +84,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "RB08 Necrosapience",
@@ -95,10 +107,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "MR01 The Great Ur-Dragon",
@@ -115,10 +130,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "MG01 The Great Ur-Titan",
@@ -135,19 +153,22 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "MI01 The Great Ur-Chimera",
-            "color": "I",
+            "color": "",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 Chimera Avatar",
             "number": 97,
             "color_identity": "I",
-            "cost": "{7}{I}{I}{I}",
+            "cost": "{7}III",
             "rules_text": "Elsewhere 10 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nApex [i](As you cast this spell, you may sacrifice any number of creatures. Reduce this spell's mana cost by the mana costs of the creatures sacrificed.)[/i]\nYou may only cast this from your Elsewhere and can't spend mana to cast it.\nWhen you cast this spell, create seven 1/1 silver Fractal creature tokens.\nReach",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
@@ -155,14 +176,17 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fractal [Token]",
-            "color": "I",
+            "color": "",
             "rarity": "common",
             "type": "Token Creature \u2013 Fractal",
             "number": 1,
@@ -175,10 +199,13 @@
             "shape": "token",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": "!related CG10 Fractal Squasher;CI01 Mercenary Fodder-Raider;CI04 Lesser Chimera Pup;CI07 Geometric Summoner;CZ11 Renegades of Loyalty;MI01 The Great Ur-Chimera;",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "MC01 The Great Ur-Population",
@@ -195,10 +222,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CC01 Butterfly Caterpillar",
@@ -215,10 +245,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CC02 Butterfly Cocoon",
@@ -235,10 +268,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CC03 Mature Butterfly",
@@ -255,10 +291,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CW02 Mouse Pup",
@@ -275,10 +314,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CW03 Mature Mouse",
@@ -295,10 +337,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CU02 Kingfisher Egg",
@@ -315,10 +360,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CU03 Mature Kingfisher",
@@ -335,10 +383,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CB02 Bobcat Kitten",
@@ -355,10 +406,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CB03 Mature Bobcat",
@@ -375,10 +429,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CR02 Coyote Pup",
@@ -395,10 +452,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CR03 Mature Coyote",
@@ -415,10 +475,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CG02 Spider Egg",
@@ -435,10 +498,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CG03 Mature Spider",
@@ -455,19 +521,22 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CI02 Ferret Kit",
-            "color": "I",
+            "color": "",
             "rarity": "common",
             "type": "Creature \u2013 Ferret",
             "number": 85,
             "color_identity": "I",
-            "cost": "{1}{I}",
+            "cost": "{1}I",
             "rules_text": "Fledgling 3 \u2013 Mature Ferret [i](Put at time counter on this at your end step. Then if there's 3 or more time counters, you may sacrifice this to put Mature Ferret from your elsewhere onto the battlefield.)[/i]\nWhen this creature dies, scry 2.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
@@ -475,19 +544,22 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CI03 Mature Ferret",
-            "color": "I",
+            "color": "",
             "rarity": "common",
             "type": "Creature \u2013 Ferret",
             "number": 86,
             "color_identity": "I",
-            "cost": "{3}{I}",
+            "cost": "{3}I",
             "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nVigilance",
             "flavor_text": "[i][/i]",
             "pt": "2/5",
@@ -495,10 +567,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CW04 Lesser Angel Egg",
@@ -515,10 +590,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "MR02 Phoenix Egg",
@@ -535,10 +613,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "MR03 Mature Phoenix",
@@ -555,10 +636,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CW01 Illulbian Fodder-Raider",
@@ -575,10 +659,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CW05 Mature Lesser Angel",
@@ -595,10 +682,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CU01 Illaerean Fodder-Raider",
@@ -615,10 +705,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Clue [Token]",
@@ -635,10 +728,13 @@
             "shape": "token",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": "!related CU01 Illaerean Fodder-Raider;CI10 Manamixed Shard;UW?? Seek Purity;",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CB01 Illumbrian Fodder-Raider",
@@ -655,10 +751,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CR01 Illorubiri Fodder-Raider",
@@ -675,10 +774,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Treasure [Token]",
@@ -695,10 +797,13 @@
             "shape": "token",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": "!related CR01 Illorubiri Fodder-Raider;CI10 Manamixed Shard;CZ04 Peacemakers of Fire;",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CG01 Illiviridi Fodder-Raider",
@@ -715,19 +820,22 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CI01 Mercenary Fodder-Raider",
-            "color": "I",
+            "color": "",
             "rarity": "common",
             "type": "Creature \u2013 Reflection Soldier",
             "number": 84,
             "color_identity": "I",
-            "cost": "{I}",
+            "cost": "I",
             "rules_text": "[i]Raid[/i] \u2013 When this creature dies, if you attacked this turn, create a 1/1 silver Fractal creature token.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
@@ -735,10 +843,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CU04 Lesser Sphinx Pup",
@@ -755,10 +866,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CU05 Mature Lesser Sphinx",
@@ -775,10 +889,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CB04 Lesser Demon Spawn",
@@ -795,10 +912,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "MC02 Nameful, the First Child",
@@ -815,10 +935,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "MC03 Nameful Guardian of Populations",
@@ -831,14 +954,17 @@
             "rules_text": "Elsewhere 5 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\n[-1]: Exile up to one target permanent. If it's a \u2013\n\u2022 Creature, sacrifice a permanent.\n\u2022 Artifact or enchantment, discard a card.\n\u2022 Planeswalker or battle, you lose 3 life.\n\u2022 Land, you lose 3 life, sacrifice a permanent, and discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "Elsewhere 5 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\n[-1]: Exile up to one target permanent. If it's a \u2013\n\u2022 Creature, sacrifice a permanent.\n\u2022 Artifact or enchantment, discard a card.\n\u2022 Planeswalker or battle, you lose 3 life.\n\u2022 Land, you lose 3 life, sacrifice a permanent, and discard a card.",
             "shape": "planeswalker",
             "set": "TOW",
             "loyalty": "7",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CB05 Mature Lesser Demon",
@@ -855,10 +981,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CR04 Lesser Dragon Egg",
@@ -875,10 +1004,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CR05 Mature Lesser Dragon",
@@ -895,10 +1027,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CG04 Lesser Titan Child",
@@ -915,10 +1050,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CG05 Mature Lesser Titan",
@@ -935,39 +1073,45 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CI04 Lesser Chimera Pup",
-            "color": "I",
+            "color": "",
             "rarity": "common",
             "type": "Creature \u2013 Chimera",
             "number": 87,
             "color_identity": "I",
-            "cost": "{2}{I}",
-            "rules_text": "Fledgling 4 \u2013 Mature Lesser Chimera [i](Put at time counter on this at your end step. Then if there's 4 or more time counters, you may sacrifice this to put Mature Lesser Chimera from your elsewhere onto the battlefield.)[/i]\n{I}, Sacrifice a creature: Put a time counter on this creature.\nWhen this creature dies, create a 1/1 silver Fractal creature token.",
+            "cost": "{2}I",
+            "rules_text": "Fledgling 4 \u2013 Mature Lesser Chimera [i](Put at time counter on this at your end step. Then if there's 4 or more time counters, you may sacrifice this to put Mature Lesser Chimera from your elsewhere onto the battlefield.)[/i]\nI, Sacrifice a creature: Put a time counter on this creature.\nWhen this creature dies, create a 1/1 silver Fractal creature token.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CI05 Mature Lesser Chimera",
-            "color": "I",
+            "color": "",
             "rarity": "common",
             "type": "Creature \u2013 Chimera",
             "number": 88,
             "color_identity": "I",
-            "cost": "{4}{I}{I}",
+            "cost": "{4}II",
             "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nApex [i](As you cast this spell, you may sacrifice any number of creatures. Reduce this spell's mana cost by the mana costs of the creatures sacrificed.)[/i]\nReach",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
@@ -975,10 +1119,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CW06 Illulbian Figurehead",
@@ -995,10 +1142,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "RA01 Figurehead Aether-Corpse",
@@ -1015,10 +1165,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CU06 Illaerean Figurehead",
@@ -1035,10 +1188,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CB06 Illumbrian Figurehead",
@@ -1055,10 +1211,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CR06 Illorubiri Figurehead",
@@ -1075,10 +1234,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CG06 Illiviridi Figurehead",
@@ -1095,30 +1257,36 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CI06 Mercenary Figurehead",
-            "color": "I",
+            "color": "",
             "rarity": "common",
             "type": "Creature \u2013 Reflection",
             "number": 89,
             "color_identity": "I",
-            "cost": "{4}{I}",
-            "rules_text": "Evoke {1}{I} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]\nWhen this creature enters, target creature loses all abilities until the start of your next turn.",
+            "cost": "{4}I",
+            "rules_text": "Evoke {1}I [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]\nWhen this creature enters, target creature loses all abilities until the start of your next turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CZ01 Peacemakers of Frost",
@@ -1135,10 +1303,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CZ02 Peacemakers of Darkness",
@@ -1155,10 +1326,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CZ03 Peacemakers of Blood",
@@ -1175,10 +1349,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "EtherShade",
+            "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CZ04 Peacemakers of Fire",
@@ -1195,10 +1372,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CZ05 Peacemakers of Life",
@@ -1215,10 +1395,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CZ06 Peacemakers of Bone",
@@ -1235,10 +1418,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CZ07 Peacemakers of Thunder",
@@ -1255,10 +1441,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CZ08 Peacemakers of Death",
@@ -1275,10 +1464,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CZ09 Peacemakers of Light",
@@ -1295,10 +1487,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CZ10 Peacemakers of Water",
@@ -1315,19 +1510,22 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CZ11 Renegades of Loyalty",
-            "color": "WI",
+            "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Glimmer Reflection",
             "number": 108,
             "color_identity": "WI",
-            "cost": "{2}{IW}",
+            "cost": "{2}IW",
             "rules_text": "Flying\n[i]Primordial[/i] \u2013 When this creature enters, create half X, rounded down, 1/1 silver Fractal tokens, where X is the number of colors among cards in your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
@@ -1335,19 +1533,22 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CZ12 Renegades of Knowledge",
-            "color": "UI",
+            "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Illusion Reflection",
             "number": 109,
             "color_identity": "UI",
-            "cost": "{2}{IU}",
+            "cost": "{2}IU",
             "rules_text": "Vigilance\n[i]Primordial[/i] \u2013 When this creature enters, scry X, where X is the number of colors among cards in your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
@@ -1355,19 +1556,22 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CZ13 Renegades of Persistence",
-            "color": "BI",
+            "color": "B",
             "rarity": "common",
             "type": "Creature \u2013 Nightmare Reflection",
             "number": 110,
             "color_identity": "BI",
-            "cost": "{2}{IB}",
+            "cost": "{2}IB",
             "rules_text": "[i]Primordial[/i] \u2013 When this creature enters, you gain half X life and each opponent loses half X life, where X is the number of colors among cards in your graveyard. Round down each time.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
@@ -1375,19 +1579,22 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CZ14 Renegades of Courage",
-            "color": "RI",
+            "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Elemental Reflection",
             "number": 111,
             "color_identity": "RI",
-            "cost": "{2}{IR}",
+            "cost": "{2}IR",
             "rules_text": "Haste\n[i]Primordial[/i] \u2013 When this creature enters, exile the top X cards of your library, where X is the number of colors among cards in your graveyard. You may play one of them until the end of your next turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
@@ -1395,19 +1602,22 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CZ15 Renegades of Strength",
-            "color": "GI",
+            "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Elemental Reflection",
             "number": 112,
             "color_identity": "GI",
-            "cost": "{2}{IG}",
+            "cost": "{2}IG",
             "rules_text": "[i]Primordial[/i] \u2013 When this creature enters, look at the top X cards of your library, where X is the number of colors among cards in your graveyard. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
@@ -1415,10 +1625,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CW07 Seer-Eye Feline",
@@ -1435,10 +1648,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CW08 Pervasive Hope",
@@ -1455,10 +1671,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CW10 Angelic Recovery",
@@ -1475,10 +1694,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CW09 Restorative Rampager",
@@ -1495,10 +1717,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CW11 Leeching Smite",
@@ -1515,10 +1740,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CW12 Banishing Fire",
@@ -1535,10 +1763,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "UW14 Seek Purity",
@@ -1555,10 +1786,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CW13 Hive of Insight",
@@ -1575,10 +1809,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CU07 Sifter Crab",
@@ -1595,10 +1832,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CU08 Illusory Increment",
@@ -1615,10 +1855,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CU09 Wildlife Insight",
@@ -1635,10 +1878,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CU10 Sphinxian Riddling",
@@ -1655,15 +1901,18 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "UU11 Apexian Knowledge",
             "color": "U",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Sorcery",
             "number": 38,
             "color_identity": "U",
@@ -1675,10 +1924,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CU11 Essence Pierce",
@@ -1695,10 +1947,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CU12 Guised Prevention",
@@ -1715,10 +1970,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CU13 Nullification",
@@ -1735,10 +1993,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CB07 Sonic Seeker",
@@ -1755,10 +2016,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CB08 Infested Terror",
@@ -1775,10 +2039,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CB09 Blood Reaping",
@@ -1795,10 +2062,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CB10 Demonic Torture",
@@ -1815,10 +2085,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CB11 Wartime Tactics",
@@ -1835,10 +2108,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CB12 Souldrain",
@@ -1855,10 +2131,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CB13 Nightmare Tremors",
@@ -1875,10 +2154,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CR07 Silent Flame",
@@ -1895,10 +2177,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CR08 Firemount Wildboar",
@@ -1915,10 +2200,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CR09 Strategic Inspiration",
@@ -1935,10 +2223,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CR10 Draconic Impression",
@@ -1955,10 +2246,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CR11 Instinct Fracture",
@@ -1975,10 +2269,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CR12 Primordial Spoils",
@@ -1995,10 +2292,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CR13 Greater Flame",
@@ -2015,10 +2315,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CG07 Accumulator Badger",
@@ -2035,10 +2338,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CG08 Leyfeeding Elk",
@@ -2055,10 +2361,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CG09 Woodland Propogator",
@@ -2075,10 +2384,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CG10 Fractal Squasher#",
@@ -2095,10 +2407,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CG11 Primordial Might",
@@ -2115,10 +2430,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CG12 Insectoid Infrastructure",
@@ -2135,10 +2453,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CG13 Consumptorial Predation",
@@ -2155,19 +2476,22 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CI07 Geometric Summoner",
-            "color": "I",
+            "color": "",
             "rarity": "common",
             "type": "Creature \u2013 Fractal",
             "number": 90,
             "color_identity": "I",
-            "cost": "{1}{I}",
+            "cost": "{1}I",
             "rules_text": "Menace\n[i]Raid[/i] \u2013 When this creature enters, if you attacked this turn, create a 1/1 silver Fractal creature token.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
@@ -2175,39 +2499,45 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CI08 Thrumming Seeker",
-            "color": "I",
+            "color": "",
             "rarity": "common",
             "type": "Creature \u2013 Bird",
             "number": 91,
             "color_identity": "I",
-            "cost": "{I}",
-            "rules_text": "Flying, haste\n{1}{I}: Put a card named Brown Squirrel from your elsewhere into your hand.\n{2}{I}: Draw a card, then discard a card.",
+            "cost": "I",
+            "rules_text": "Flying, haste\n{1}I: Put a card named Brown Squirrel from your elsewhere into your hand.\n{2}I: Draw a card, then discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CI09 Angular Insight",
-            "color": "I",
+            "color": "",
             "rarity": "common",
             "type": "Sorcery",
             "number": 92,
             "color_identity": "I",
-            "cost": "{I}",
+            "cost": "I",
             "rules_text": "Put a Fractal infestation counter on a creature you control. Draw a card. [i](When it dies, create an X/X colorless creature token with mana cost {X} and all types it was infested by, where X is the number of infestation counters it had.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -2215,19 +2545,22 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CI10 Manamixed Shard",
-            "color": "I",
+            "color": "",
             "rarity": "common",
             "type": "Artifact",
             "number": 93,
             "color_identity": "I",
-            "cost": "{1}{I}",
+            "cost": "{1}I",
             "rules_text": "When this artifact enters, investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]\n{T}, Sacrifice a creature: Create a Treasure token. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -2235,19 +2568,22 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CI11 Bodily Departure",
-            "color": "I",
+            "color": "",
             "rarity": "common",
             "type": "Instant",
             "number": 94,
             "color_identity": "I",
-            "cost": "{2}{I}",
+            "cost": "{2}I",
             "rules_text": "Counter target creature spell. Surveil 2.",
             "flavor_text": "[i]Reflection mercenaries are capable of efficient magic in addition to their immense martial prowess. This makes them a sought-after category of soldier, offset only by their disloyalty to any particular cause.[/i]",
             "pt": "",
@@ -2255,19 +2591,22 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CI12 Subtle Shift",
-            "color": "I",
+            "color": "",
             "rarity": "common",
             "type": "Sorcery",
             "number": 95,
             "color_identity": "I",
-            "cost": "{1}{I}",
+            "cost": "{1}I",
             "rules_text": "Choose one or both \u2013\n\u2022 Remove all counters from target permanent.\n\u2022 Target creature gets +2/-2 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -2275,30 +2614,36 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CI13 Precise Purge",
-            "color": "I",
+            "color": "",
             "rarity": "common",
             "type": "Sorcery",
             "number": 96,
             "color_identity": "I",
-            "cost": "{I}",
-            "rules_text": "This spell deals 1 damage to target creature.\n{1}{I}, Discard this card: Destroy target enchantment.\n{1}{I}, Exile this card from your graveyard: Scry 2.",
+            "cost": "I",
+            "rules_text": "This spell deals 1 damage to target creature.\n{1}I, Discard this card: Destroy target enchantment.\n{1}I, Exile this card from your graveyard: Scry 2.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CA01 Primordial Leylith",
@@ -2315,10 +2660,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CA02 Condensed Terrain",
@@ -2335,10 +2683,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "CC04 Primordial Ruin",
@@ -2355,10 +2706,13 @@
             "shape": "normal",
             "set": "TOW",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         }
     ]
 }
