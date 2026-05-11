@@ -1041,13 +1041,13 @@
 			}
 		},
 		{
-			"name": "CG10 Fractal Squasher#",
+			"name": "CG10 Manastomper Rhino",
 			"rarity": "common",
 			"mana_cost": "{6}{G}",
 			"type": "Creature — Rhino",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://ethershade.github.io/sets/TOW-files/img/79_CG10 Fractal Squasher#.jpg"
+				"en": "https://ethershade.github.io/sets/TOW-files/img/79_CG10 Manastomper Rhino.jpg"
 			}
 		},
 		{
@@ -1268,7 +1268,7 @@
 	5 CG07 Accumulator Badger
 	5 CG08 Leyfeeding Elk
 	5 CG09 Woodland Propogator
-	5 CG10 Fractal Squasher#
+	5 CG10 Manastomper Rhino
 	5 CG11 Primordial Might
 	5 CG12 Insectoid Infrastructure
 	5 CG13 Consumptorial Predation
@@ -1282,5 +1282,5 @@
 	5 CA01 Primordial Leylith
 	5 CA02 Condensed Terrain
 	5 CC04 Primordial Ruin
-[rare(1)]
-	5 BC01 Brown Squirrel
+[squirrel(1)]
+	1000 BC01 Brown Squirrel

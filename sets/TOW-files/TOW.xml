@@ -1877,10 +1877,9 @@ Raid — This creature enters with a Dryad infestation counter if you attacked t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CG10 Fractal Squasher#</name>
-			<text>When this creature enters, you gain 3 life. You gain 2 more life if you control a token.
-{G}, Discard this card: Create a 1/1 silver Fractal creature token. Put a deathtouch counter on it.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/79_CG10 Fractal Squasher#.jpg" num="79">TOW</set>
+			<name>CG10 Manastomper Rhino</name>
+			<text>When this land enters, destroy up to one target artifact or enchantment. You gain life equal to its mana value.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/79_CG10 Manastomper Rhino.jpg" num="79">TOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

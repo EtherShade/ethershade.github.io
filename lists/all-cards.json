@@ -2081,14 +2081,14 @@
             "image_type": "jpg"
         },
         {
-            "card_name": "CG10 Fractal Squasher#",
+            "card_name": "CG10 Manastomper Rhino",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Rhino",
             "number": 79,
             "color_identity": "G",
             "cost": "{6}{G}",
-            "rules_text": "When this creature enters, you gain 3 life. You gain 2 more life if you control a token.\n{G}, Discard this card: Create a 1/1 silver Fractal creature token. Put a deathtouch counter on it.",
+            "rules_text": "When this land enters, destroy up to one target artifact or enchantment. You gain life equal to its mana value.",
             "flavor_text": "[i][/i]",
             "pt": "5/7",
             "special_text": "",
