@@ -1005,6 +1005,81 @@
     {
         "card_name": "er"
     },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 116,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Island",
+        "number": 117,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Swamp",
+        "number": 118,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mountain",
+        "number": 119,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Forest",
+        "number": 120,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fault",
+        "number": 121,
+        "shape": "normal",
+        "set": "TOW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     "a->token",
     {
         "card_name": "Clue [Token]",

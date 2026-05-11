@@ -2111,5 +2111,89 @@ If three or more colors of mana were spent to cast this spell, you gain 3 life.<
 			</prop>
 			<tablerow>3</tablerow>
 		</card>
+		<card>
+			<name>Plains</name>
+			<text>({T}: Add {W}.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/116_Plains.jpg" num="116">TOW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text>({T}: Add {U}.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/117_Island.jpg" num="117">TOW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text>({T}: Add {B}.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/118_Swamp.jpg" num="118">TOW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text>({T}: Add {R}.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/119_Mountain.jpg" num="119">TOW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text>({T}: Add {G}.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/120_Forest.jpg" num="120">TOW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text>({T}: Add {I}.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/TOW-files/img/121_Fault.jpg" num="121">TOW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
 	</cards>
 </cockatrice_carddatabase>
