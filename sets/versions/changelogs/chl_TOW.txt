@@ -1,19 +1,4 @@
-﻿VERSION 4 CHANGELOG
-====================
-
-No changes.
-
-VERSION 3 CHANGELOG
-====================
-
-No changes.
-
-VERSION 2 CHANGELOG
-====================
-
-No changes.
-
-VERSION 1 CHANGELOG
+﻿VERSION 1 CHANGELOG
 ====================
 
 First version published.
