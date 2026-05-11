@@ -1,0 +1,1287 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "BC01 Brown Squirrel",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Creature — Squirrel",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/1_BC01 Brown Squirrel.jpg"
+			}
+		},
+		{
+			"name": "MW01 The Great Ur-Angel",
+			"rarity": "mythic",
+			"mana_cost": "{7}{W}{W}{W}",
+			"type": "Legendary Creature — Angel Avatar",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/22_MW01 The Great Ur-Angel.jpg"
+			}
+		},
+		{
+			"name": "MU01 The Great Ur-Sphinx",
+			"rarity": "mythic",
+			"mana_cost": "{7}{U}{U}{U}",
+			"type": "Legendary Creature — Sphinx Avatar",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/37_MU01 The Great Ur-Sphinx.jpg"
+			}
+		},
+		{
+			"name": "MB01 The Great Ur-Demon",
+			"rarity": "mythic",
+			"mana_cost": "{7}{B}{B}{B}",
+			"type": "Legendary Creature — Demon Avatar",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/52_MB01 The Great Ur-Demon.jpg"
+			}
+		},
+		{
+			"name": "RB08 Necrosapience",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/53_RB08 Necrosapience.jpg"
+			}
+		},
+		{
+			"name": "MR01 The Great Ur-Dragon",
+			"rarity": "mythic",
+			"mana_cost": "{7}{R}{R}{R}",
+			"type": "Legendary Creature — Dragon Avatar",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/67_MR01 The Great Ur-Dragon.jpg"
+			}
+		},
+		{
+			"name": "MG01 The Great Ur-Titan",
+			"rarity": "mythic",
+			"mana_cost": "{7}{G}{G}{G}",
+			"type": "Legendary Creature — Titan Avatar",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/83_MG01 The Great Ur-Titan.jpg"
+			}
+		},
+		{
+			"name": "MI01 The Great Ur-Chimera",
+			"rarity": "mythic",
+			"mana_cost": "{7}{I}{I}{I}",
+			"type": "Legendary Creature — Chimera Avatar",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/97_MI01 The Great Ur-Chimera.jpg"
+			}
+		},
+		{
+			"name": "Fractal [Token]",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Fractal",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/1t_Fractal [Token].jpg"
+			}
+		},
+		{
+			"name": "MC01 The Great Ur-Population",
+			"rarity": "mythic",
+			"mana_cost": "{10}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/6_MC01 The Great Ur-Population.jpg"
+			}
+		},
+		{
+			"name": "CC01 Butterfly Caterpillar",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Creature — Insect",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/2_CC01 Butterfly Caterpillar.jpg"
+			}
+		},
+		{
+			"name": "CC02 Butterfly Cocoon",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Creature — Insect",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/3_CC02 Butterfly Cocoon.jpg"
+			}
+		},
+		{
+			"name": "CC03 Mature Butterfly",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Creature — Insect",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/4_CC03 Mature Butterfly.jpg"
+			}
+		},
+		{
+			"name": "CW02 Mouse Pup",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Mouse",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/10_CW02 Mouse Pup.jpg"
+			}
+		},
+		{
+			"name": "CW03 Mature Mouse",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Mouse",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/11_CW03 Mature Mouse.jpg"
+			}
+		},
+		{
+			"name": "CU02 Kingfisher Egg",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Egg",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/25_CU02 Kingfisher Egg.jpg"
+			}
+		},
+		{
+			"name": "CU03 Mature Kingfisher",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/26_CU03 Mature Kingfisher.jpg"
+			}
+		},
+		{
+			"name": "CB02 Bobcat Kitten",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Cat",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/40_CB02 Bobcat Kitten.jpg"
+			}
+		},
+		{
+			"name": "CB03 Mature Bobcat",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Cat",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/41_CB03 Mature Bobcat.jpg"
+			}
+		},
+		{
+			"name": "CR02 Coyote Pup",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Coyote",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/55_CR02 Coyote Pup.jpg"
+			}
+		},
+		{
+			"name": "CR03 Mature Coyote",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Coyote",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/56_CR03 Mature Coyote.jpg"
+			}
+		},
+		{
+			"name": "CG02 Spider Egg",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spider Egg",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/71_CG02 Spider Egg.jpg"
+			}
+		},
+		{
+			"name": "CG03 Mature Spider",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/72_CG03 Mature Spider.jpg"
+			}
+		},
+		{
+			"name": "CI02 Ferret Kit",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Ferret",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/85_CI02 Ferret Kit.jpg"
+			}
+		},
+		{
+			"name": "CI03 Mature Ferret",
+			"rarity": "common",
+			"mana_cost": "{3}{I}",
+			"type": "Creature — Ferret",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/86_CI03 Mature Ferret.jpg"
+			}
+		},
+		{
+			"name": "CW04 Lesser Angel Egg",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel Egg",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/12_CW04 Lesser Angel Egg.jpg"
+			}
+		},
+		{
+			"name": "MR02 Phoenix Egg",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Creature — Phoenix Egg",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/68_MR02 Phoenix Egg.jpg"
+			}
+		},
+		{
+			"name": "MR03 Mature Phoenix",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/69_MR03 Mature Phoenix.jpg"
+			}
+		},
+		{
+			"name": "CW01 Illulbian Fodder-Raider",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Glimmer Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/9_CW01 Illulbian Fodder-Raider.jpg"
+			}
+		},
+		{
+			"name": "CW05 Mature Lesser Angel",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/13_CW05 Mature Lesser Angel.jpg"
+			}
+		},
+		{
+			"name": "CU01 Illaerean Fodder-Raider",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Illusion Solder",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/24_CU01 Illaerean Fodder-Raider.jpg"
+			}
+		},
+		{
+			"name": "Clue [Token]",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/2t_Clue [Token].jpg"
+			}
+		},
+		{
+			"name": "CB01 Illumbrian Fodder-Raider",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Nightmare Soldier",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/39_CB01 Illumbrian Fodder-Raider.jpg"
+			}
+		},
+		{
+			"name": "CR01 Illorubiri Fodder-Raider",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental Soldier",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/54_CR01 Illorubiri Fodder-Raider.jpg"
+			}
+		},
+		{
+			"name": "Treasure [Token]",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/3t_Treasure [Token].jpg"
+			}
+		},
+		{
+			"name": "CG01 Illiviridi Fodder-Raider",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Dryad Soldier",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/70_CG01 Illiviridi Fodder-Raider.jpg"
+			}
+		},
+		{
+			"name": "CI01 Mercenary Fodder-Raider",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Creature — Reflection Soldier",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/84_CI01 Mercenary Fodder-Raider.jpg"
+			}
+		},
+		{
+			"name": "CU04 Lesser Sphinx Pup",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/27_CU04 Lesser Sphinx Pup.jpg"
+			}
+		},
+		{
+			"name": "CU05 Mature Lesser Sphinx",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/28_CU05 Mature Lesser Sphinx.jpg"
+			}
+		},
+		{
+			"name": "CB04 Lesser Demon Spawn",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Spawn",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/42_CB04 Lesser Demon Spawn.jpg"
+			}
+		},
+		{
+			"name": "MC02 Nameful, the First Child",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Legendary Creature — Human Child",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/7_MC02 Nameful, the First Child.jpg"
+			}
+		},
+		{
+			"name": "MC03 Nameful Guardian of Populations",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Planeswalker — Nameful",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/8_MC03 Nameful Guardian of Populations.jpg"
+			}
+		},
+		{
+			"name": "CB05 Mature Lesser Demon",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/43_CB05 Mature Lesser Demon.jpg"
+			}
+		},
+		{
+			"name": "CR04 Lesser Dragon Egg",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dragon Egg",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/57_CR04 Lesser Dragon Egg.jpg"
+			}
+		},
+		{
+			"name": "CR05 Mature Lesser Dragon",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/58_CR05 Mature Lesser Dragon.jpg"
+			}
+		},
+		{
+			"name": "CG04 Lesser Titan Child",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Titan",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/73_CG04 Lesser Titan Child.jpg"
+			}
+		},
+		{
+			"name": "CG05 Mature Lesser Titan",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Titan",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/74_CG05 Mature Lesser Titan.jpg"
+			}
+		},
+		{
+			"name": "CI04 Lesser Chimera Pup",
+			"rarity": "common",
+			"mana_cost": "{2}{I}",
+			"type": "Creature — Chimera",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/87_CI04 Lesser Chimera Pup.jpg"
+			}
+		},
+		{
+			"name": "CI05 Mature Lesser Chimera",
+			"rarity": "common",
+			"mana_cost": "{4}{I}{I}",
+			"type": "Creature — Chimera",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/88_CI05 Mature Lesser Chimera.jpg"
+			}
+		},
+		{
+			"name": "CW06 Illulbian Figurehead",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Glimmer",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/14_CW06 Illulbian Figurehead.jpg"
+			}
+		},
+		{
+			"name": "RA01 Figurehead Aether-Corpse",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/115_RA01 Figurehead Aether-Corpse.jpg"
+			}
+		},
+		{
+			"name": "CU06 Illaerean Figurehead",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Illusion",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/29_CU06 Illaerean Figurehead.jpg"
+			}
+		},
+		{
+			"name": "CB06 Illumbrian Figurehead",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/44_CB06 Illumbrian Figurehead.jpg"
+			}
+		},
+		{
+			"name": "CR06 Illorubiri Figurehead",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/59_CR06 Illorubiri Figurehead.jpg"
+			}
+		},
+		{
+			"name": "CG06 Illiviridi Figurehead",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/75_CG06 Illiviridi Figurehead.jpg"
+			}
+		},
+		{
+			"name": "CI06 Mercenary Figurehead",
+			"rarity": "common",
+			"mana_cost": "{4}{I}",
+			"type": "Creature — Reflection",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/89_CI06 Mercenary Figurehead.jpg"
+			}
+		},
+		{
+			"name": "CZ01 Peacemakers of Frost",
+			"rarity": "common",
+			"mana_cost": "{2}{W/U}",
+			"type": "Creature — Glimmer Illusion",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/98_CZ01 Peacemakers of Frost.jpg"
+			}
+		},
+		{
+			"name": "CZ02 Peacemakers of Darkness",
+			"rarity": "common",
+			"mana_cost": "{2}{U/B}",
+			"type": "Creature — Illusion Nightmare",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/99_CZ02 Peacemakers of Darkness.jpg"
+			}
+		},
+		{
+			"name": "CZ03 Peacemakers of Blood",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}",
+			"type": "Creature — Nightmare Elemental",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/100_CZ03 Peacemakers of Blood.jpg"
+			}
+		},
+		{
+			"name": "CZ04 Peacemakers of Fire",
+			"rarity": "common",
+			"mana_cost": "{2}{R/G}",
+			"type": "Creature — Elemental Dryad",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/101_CZ04 Peacemakers of Fire.jpg"
+			}
+		},
+		{
+			"name": "CZ05 Peacemakers of Life",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}",
+			"type": "Creature — Dryad Glimmer",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/102_CZ05 Peacemakers of Life.jpg"
+			}
+		},
+		{
+			"name": "CZ06 Peacemakers of Bone",
+			"rarity": "common",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Glimmer Nightmare",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/103_CZ06 Peacemakers of Bone.jpg"
+			}
+		},
+		{
+			"name": "CZ07 Peacemakers of Thunder",
+			"rarity": "common",
+			"mana_cost": "{2}{U/R}",
+			"type": "Creature — Illusion Elemental",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/104_CZ07 Peacemakers of Thunder.jpg"
+			}
+		},
+		{
+			"name": "CZ08 Peacemakers of Death",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}",
+			"type": "Creature — Nightmare Dryad",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/105_CZ08 Peacemakers of Death.jpg"
+			}
+		},
+		{
+			"name": "CZ09 Peacemakers of Light",
+			"rarity": "common",
+			"mana_cost": "{2}{R/W}",
+			"type": "Creature — Elemental Glimmer",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/106_CZ09 Peacemakers of Light.jpg"
+			}
+		},
+		{
+			"name": "CZ10 Peacemakers of Water",
+			"rarity": "common",
+			"mana_cost": "{2}{G/U}",
+			"type": "Creature — Dryad Illusion",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/107_CZ10 Peacemakers of Water.jpg"
+			}
+		},
+		{
+			"name": "CZ11 Renegades of Loyalty",
+			"rarity": "common",
+			"mana_cost": "{2}{I/W}",
+			"type": "Creature — Glimmer Reflection",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/108_CZ11 Renegades of Loyalty.jpg"
+			}
+		},
+		{
+			"name": "CZ12 Renegades of Knowledge",
+			"rarity": "common",
+			"mana_cost": "{2}{I/U}",
+			"type": "Creature — Illusion Reflection",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/109_CZ12 Renegades of Knowledge.jpg"
+			}
+		},
+		{
+			"name": "CZ13 Renegades of Persistence",
+			"rarity": "common",
+			"mana_cost": "{2}{I/B}",
+			"type": "Creature — Nightmare Reflection",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/110_CZ13 Renegades of Persistence.jpg"
+			}
+		},
+		{
+			"name": "CZ14 Renegades of Courage",
+			"rarity": "common",
+			"mana_cost": "{2}{I/R}",
+			"type": "Creature — Elemental Reflection",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/111_CZ14 Renegades of Courage.jpg"
+			}
+		},
+		{
+			"name": "CZ15 Renegades of Strength",
+			"rarity": "common",
+			"mana_cost": "{2}{I/G}",
+			"type": "Creature — Elemental Reflection",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/112_CZ15 Renegades of Strength.jpg"
+			}
+		},
+		{
+			"name": "CW07 Seer-Eye Feline",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/15_CW07 Seer-Eye Feline.jpg"
+			}
+		},
+		{
+			"name": "CW08 Pervasive Hope",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Glimmer",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/16_CW08 Pervasive Hope.jpg"
+			}
+		},
+		{
+			"name": "CW10 Angelic Recovery",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/18_CW10 Angelic Recovery.jpg"
+			}
+		},
+		{
+			"name": "CW09 Restorative Rampager",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elephant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/17_CW09 Restorative Rampager.jpg"
+			}
+		},
+		{
+			"name": "CW11 Leeching Smite",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/19_CW11 Leeching Smite.jpg"
+			}
+		},
+		{
+			"name": "CW12 Banishing Fire",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/20_CW12 Banishing Fire.jpg"
+			}
+		},
+		{
+			"name": "UW14 Seek Purity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/23_UW14 Seek Purity.jpg"
+			}
+		},
+		{
+			"name": "CW13 Hive of Insight",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/21_CW13 Hive of Insight.jpg"
+			}
+		},
+		{
+			"name": "CU07 Sifter Crab",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Crab",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/30_CU07 Sifter Crab.jpg"
+			}
+		},
+		{
+			"name": "CU08 Illusory Increment",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Illusion",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/31_CU08 Illusory Increment.jpg"
+			}
+		},
+		{
+			"name": "CU09 Wildlife Insight",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/32_CU09 Wildlife Insight.jpg"
+			}
+		},
+		{
+			"name": "CU10 Sphinxian Riddling",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/33_CU10 Sphinxian Riddling.jpg"
+			}
+		},
+		{
+			"name": "UU11 Apexian Knowledge",
+			"rarity": "common",
+			"mana_cost": "{7}{U}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/38_UU11 Apexian Knowledge.jpg"
+			}
+		},
+		{
+			"name": "CU11 Essence Pierce",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/34_CU11 Essence Pierce.jpg"
+			}
+		},
+		{
+			"name": "CU12 Guised Prevention",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/35_CU12 Guised Prevention.jpg"
+			}
+		},
+		{
+			"name": "CU13 Nullification",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/36_CU13 Nullification.jpg"
+			}
+		},
+		{
+			"name": "CB07 Sonic Seeker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bat",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/45_CB07 Sonic Seeker.jpg"
+			}
+		},
+		{
+			"name": "CB08 Infested Terror",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/46_CB08 Infested Terror.jpg"
+			}
+		},
+		{
+			"name": "CB09 Blood Reaping",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/47_CB09 Blood Reaping.jpg"
+			}
+		},
+		{
+			"name": "CB10 Demonic Torture",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/48_CB10 Demonic Torture.jpg"
+			}
+		},
+		{
+			"name": "CB11 Wartime Tactics",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/49_CB11 Wartime Tactics.jpg"
+			}
+		},
+		{
+			"name": "CB12 Souldrain",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/50_CB12 Souldrain.jpg"
+			}
+		},
+		{
+			"name": "CB13 Nightmare Tremors",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/51_CB13 Nightmare Tremors.jpg"
+			}
+		},
+		{
+			"name": "CR07 Silent Flame",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/60_CR07 Silent Flame.jpg"
+			}
+		},
+		{
+			"name": "CR08 Firemount Wildboar",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Boar",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/61_CR08 Firemount Wildboar.jpg"
+			}
+		},
+		{
+			"name": "CR09 Strategic Inspiration",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/62_CR09 Strategic Inspiration.jpg"
+			}
+		},
+		{
+			"name": "CR10 Draconic Impression",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/63_CR10 Draconic Impression.jpg"
+			}
+		},
+		{
+			"name": "CR11 Instinct Fracture",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/64_CR11 Instinct Fracture.jpg"
+			}
+		},
+		{
+			"name": "CR12 Primordial Spoils",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/65_CR12 Primordial Spoils.jpg"
+			}
+		},
+		{
+			"name": "CR13 Greater Flame",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/66_CR13 Greater Flame.jpg"
+			}
+		},
+		{
+			"name": "CG07 Accumulator Badger",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Badger",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/76_CG07 Accumulator Badger.jpg"
+			}
+		},
+		{
+			"name": "CG08 Leyfeeding Elk",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/77_CG08 Leyfeeding Elk.jpg"
+			}
+		},
+		{
+			"name": "CG09 Woodland Propogator",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/78_CG09 Woodland Propogator.jpg"
+			}
+		},
+		{
+			"name": "CG10 Fractal Squasher#",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Rhino",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/79_CG10 Fractal Squasher#.jpg"
+			}
+		},
+		{
+			"name": "CG11 Primordial Might",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/80_CG11 Primordial Might.jpg"
+			}
+		},
+		{
+			"name": "CG12 Insectoid Infrastructure",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/81_CG12 Insectoid Infrastructure.jpg"
+			}
+		},
+		{
+			"name": "CG13 Consumptorial Predation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/82_CG13 Consumptorial Predation.jpg"
+			}
+		},
+		{
+			"name": "CI07 Geometric Summoner",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Fractal",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/90_CI07 Geometric Summoner.jpg"
+			}
+		},
+		{
+			"name": "CI08 Thrumming Seeker",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Creature — Bird",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/91_CI08 Thrumming Seeker.jpg"
+			}
+		},
+		{
+			"name": "CI09 Angular Insight",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/92_CI09 Angular Insight.jpg"
+			}
+		},
+		{
+			"name": "CI10 Manamixed Shard",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Artifact",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/93_CI10 Manamixed Shard.jpg"
+			}
+		},
+		{
+			"name": "CI11 Bodily Departure",
+			"rarity": "common",
+			"mana_cost": "{2}{I}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/94_CI11 Bodily Departure.jpg"
+			}
+		},
+		{
+			"name": "CI12 Subtle Shift",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/95_CI12 Subtle Shift.jpg"
+			}
+		},
+		{
+			"name": "CI13 Precise Purge",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/96_CI13 Precise Purge.jpg"
+			}
+		},
+		{
+			"name": "CA01 Primordial Leylith",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/113_CA01 Primordial Leylith.jpg"
+			}
+		},
+		{
+			"name": "CA02 Condensed Terrain",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/114_CA02 Condensed Terrain.jpg"
+			}
+		},
+		{
+			"name": "CC04 Primordial Ruin",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ethershade.github.io/sets/TOW-files/img/5_CC04 Primordial Ruin.jpg"
+			}
+		}
+	]
+
+[common(14)]
+	5 CC01 Butterfly Caterpillar
+	5 CC02 Butterfly Cocoon
+	5 CC03 Mature Butterfly
+	5 CW02 Mouse Pup
+	5 CW03 Mature Mouse
+	5 CU02 Kingfisher Egg
+	5 CU03 Mature Kingfisher
+	5 CB02 Bobcat Kitten
+	5 CB03 Mature Bobcat
+	5 CR02 Coyote Pup
+	5 CR03 Mature Coyote
+	5 CG02 Spider Egg
+	5 CG03 Mature Spider
+	5 CI02 Ferret Kit
+	5 CI03 Mature Ferret
+	5 CW04 Lesser Angel Egg
+	5 CW01 Illulbian Fodder-Raider
+	5 CW05 Mature Lesser Angel
+	5 CU01 Illaerean Fodder-Raider
+	5 CB01 Illumbrian Fodder-Raider
+	5 CR01 Illorubiri Fodder-Raider
+	5 CG01 Illiviridi Fodder-Raider
+	5 CI01 Mercenary Fodder-Raider
+	5 CU04 Lesser Sphinx Pup
+	5 CU05 Mature Lesser Sphinx
+	5 CB04 Lesser Demon Spawn
+	5 CB05 Mature Lesser Demon
+	5 CR04 Lesser Dragon Egg
+	5 CR05 Mature Lesser Dragon
+	5 CG04 Lesser Titan Child
+	5 CG05 Mature Lesser Titan
+	5 CI04 Lesser Chimera Pup
+	5 CI05 Mature Lesser Chimera
+	5 CW06 Illulbian Figurehead
+	5 CU06 Illaerean Figurehead
+	5 CB06 Illumbrian Figurehead
+	5 CR06 Illorubiri Figurehead
+	5 CG06 Illiviridi Figurehead
+	5 CI06 Mercenary Figurehead
+	5 CZ01 Peacemakers of Frost
+	5 CZ02 Peacemakers of Darkness
+	5 CZ03 Peacemakers of Blood
+	5 CZ04 Peacemakers of Fire
+	5 CZ05 Peacemakers of Life
+	5 CZ06 Peacemakers of Bone
+	5 CZ07 Peacemakers of Thunder
+	5 CZ08 Peacemakers of Death
+	5 CZ09 Peacemakers of Light
+	5 CZ10 Peacemakers of Water
+	5 CZ11 Renegades of Loyalty
+	5 CZ12 Renegades of Knowledge
+	5 CZ13 Renegades of Persistence
+	5 CZ14 Renegades of Courage
+	5 CZ15 Renegades of Strength
+	5 CW07 Seer-Eye Feline
+	5 CW08 Pervasive Hope
+	5 CW10 Angelic Recovery
+	5 CW09 Restorative Rampager
+	5 CW11 Leeching Smite
+	5 CW12 Banishing Fire
+	5 CW13 Hive of Insight
+	5 CU07 Sifter Crab
+	5 CU08 Illusory Increment
+	5 CU09 Wildlife Insight
+	5 CU10 Sphinxian Riddling
+	5 UU11 Apexian Knowledge
+	5 CU11 Essence Pierce
+	5 CU12 Guised Prevention
+	5 CU13 Nullification
+	5 CB07 Sonic Seeker
+	5 CB08 Infested Terror
+	5 CB09 Blood Reaping
+	5 CB10 Demonic Torture
+	5 CB11 Wartime Tactics
+	5 CB12 Souldrain
+	5 CB13 Nightmare Tremors
+	5 CR07 Silent Flame
+	5 CR08 Firemount Wildboar
+	5 CR09 Strategic Inspiration
+	5 CR10 Draconic Impression
+	5 CR11 Instinct Fracture
+	5 CR12 Primordial Spoils
+	5 CR13 Greater Flame
+	5 CG07 Accumulator Badger
+	5 CG08 Leyfeeding Elk
+	5 CG09 Woodland Propogator
+	5 CG10 Fractal Squasher#
+	5 CG11 Primordial Might
+	5 CG12 Insectoid Infrastructure
+	5 CG13 Consumptorial Predation
+	5 CI07 Geometric Summoner
+	5 CI08 Thrumming Seeker
+	5 CI09 Angular Insight
+	5 CI10 Manamixed Shard
+	5 CI11 Bodily Departure
+	5 CI12 Subtle Shift
+	5 CI13 Precise Purge
+	5 CA01 Primordial Leylith
+	5 CA02 Condensed Terrain
+	5 CC04 Primordial Ruin
+[squirrel(1)]
+	200 BC01 Brown Squirrel
