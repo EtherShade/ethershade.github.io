@@ -3,7 +3,7 @@
     "formats": "",
     "trimmed": "n",
     "image_type": "jpg",
-    "draft_structure": "play booster",
+    "draft_structure": "none",
     "designer": "",
     "cards": [
         {
@@ -2363,5 +2363,5 @@
             "notes": "!related CR01 Illorubiri Fodder-Raider;CI10 Manamixed Shard;CZ04 Peacemakers of Fire;"
         }
     ],
-    "version": 2
+    "version": 3
 }
