@@ -1182,7 +1182,25 @@
 		}
 	]
 
-[common(14)]
+[rare(1)]
+	5 MW01 The Great Ur-Angel
+	5 MU01 The Great Ur-Sphinx
+	5 MB01 The Great Ur-Demon
+	5 RB08 Necrosapience
+	5 MR01 The Great Ur-Dragon
+	5 MG01 The Great Ur-Titan
+	5 MI01 The Great Ur-Chimera
+	5 MC01 The Great Ur-Population
+	5 MR02 Phoenix Egg
+	5 MR03 Mature Phoenix
+	5 MC02 Nameful, the First Child
+	5 MC03 Nameful Guardian of Populations
+	5 RA01 Figurehead Aether-Corpse
+[uncommon(3)]
+	5 UW14 Seek Purity
+	5 UU11 Apexian Knowledge
+[common(10)]
+	5 BC01 Brown Squirrel
 	5 CC01 Butterfly Caterpillar
 	5 CC02 Butterfly Cocoon
 	5 CC03 Mature Butterfly
@@ -1282,5 +1300,3 @@
 	5 CA01 Primordial Leylith
 	5 CA02 Condensed Terrain
 	5 CC04 Primordial Ruin
-[squirrel(1)]
-	1000 BC01 Brown Squirrel
