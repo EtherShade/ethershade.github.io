@@ -1,4 +1,9 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+No changes.
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.
@@ -6,15 +11,7 @@ No changes.
 VERSION 2 CHANGELOG
 ====================
 
-
-
-BC01 Brown Squirrel
-rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
-This creature's mana cost is {1} as it is sacrificed for apex costs.
-A deck may contain any number of cards named Brown Squirrel. => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
-This creature's mana cost is {1} as it is sacrificed for apex costs. [i](As you cast this spell, you may sacrifice any number of creatures. Reduce this spell's mana cost by the mana costs of the creatures sacrificed.)[/i]
-A deck may contain any number of cards named Brown Squirrel.
-
+No changes.
 
 VERSION 1 CHANGELOG
 ====================
