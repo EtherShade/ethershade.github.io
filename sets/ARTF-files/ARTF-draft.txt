@@ -1,0 +1,3050 @@
+﻿[CustomCards]
+	[
+		{
+				"name": "Elixir [Token]",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Medium — Elixir",
+				"collector_number": "114",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/0.png"
+				}
+			},
+			{
+				"name": "Elixir [Token]_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Medium — Elixir",
+				"collector_number": "114",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/0.png"
+				}
+			},
+			{
+				"name": "Inkwell",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Medium — Inkwell",
+				"collector_number": "115",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/1.png"
+				}
+			},
+			{
+				"name": "Inkwell_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Medium — Inkwell",
+				"collector_number": "115",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/1.png"
+				}
+			},
+			{
+				"name": "Theater Mask",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Medium — Mask",
+				"collector_number": "118",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/2.png"
+				}
+			},
+			{
+				"name": "Theater Mask_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Medium — Mask",
+				"collector_number": "118",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/2.png"
+				}
+			},
+			{
+				"name": "Music Note",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Medium — MusicNote",
+				"collector_number": "116",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/3.png"
+				}
+			},
+			{
+				"name": "Music Note_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Medium — MusicNote",
+				"collector_number": "116",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/3.png"
+				}
+			},
+			{
+				"name": "Potion",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Medium — Potion",
+				"collector_number": "117",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/4.png"
+				}
+			},
+			{
+				"name": "Potion_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Medium — Potion",
+				"collector_number": "117",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/4.png"
+				}
+			},
+			{
+				"name": "Actorialle",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "1",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/5.png"
+				}
+			},
+			{
+				"name": "Actorialle_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "1",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/5.png"
+				}
+			},
+			{
+				"name": "Aggressivoid",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "2",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/6.png"
+				}
+			},
+			{
+				"name": "Aggressivoid_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "2",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/6.png"
+				}
+			},
+			{
+				"name": "Antagonor",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "3",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/7.png"
+				}
+			},
+			{
+				"name": "Antagonor_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "3",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/7.png"
+				}
+			},
+			{
+				"name": "Anticipact",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "4",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/8.png"
+				}
+			},
+			{
+				"name": "Anticipact_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "4",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/8.png"
+				}
+			},
+			{
+				"name": "Ascendighoul",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "5",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/9.png"
+				}
+			},
+			{
+				"name": "Ascendighoul_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "5",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/9.png"
+				}
+			},
+			{
+				"name": "Ascendivoid",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "6",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/10.png"
+				}
+			},
+			{
+				"name": "Ascendivoid_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "6",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/10.png"
+				}
+			},
+			{
+				"name": "Banneroar",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "7",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/11.png"
+				}
+			},
+			{
+				"name": "Banneroar_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "7",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/11.png"
+				}
+			},
+			{
+				"name": "Blessink",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "8",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/12.png"
+				}
+			},
+			{
+				"name": "Blessink_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "8",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/12.png"
+				}
+			},
+			{
+				"name": "Blessivoid",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "9",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/13.png"
+				}
+			},
+			{
+				"name": "Blessivoid_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "9",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/13.png"
+				}
+			},
+			{
+				"name": "Calculaw",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "10",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/14.png"
+				}
+			},
+			{
+				"name": "Calculaw_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "10",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/14.png"
+				}
+			},
+			{
+				"name": "Comedeus",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "11",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/15.png"
+				}
+			},
+			{
+				"name": "Comedeus_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "11",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/15.png"
+				}
+			},
+			{
+				"name": "Comedeus [Token]",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "12",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/16.png"
+				}
+			},
+			{
+				"name": "Comedeus [Token]_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "12",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/16.png"
+				}
+			},
+			{
+				"name": "Composivoice",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "13",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/17.png"
+				}
+			},
+			{
+				"name": "Composivoice_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "13",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/17.png"
+				}
+			},
+			{
+				"name": "Consumptoad",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "14",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/18.png"
+				}
+			},
+			{
+				"name": "Consumptoad_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "14",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/18.png"
+				}
+			},
+			{
+				"name": "Curtainyx",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "15",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/19.png"
+				}
+			},
+			{
+				"name": "Curtainyx_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "15",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/19.png"
+				}
+			},
+			{
+				"name": "Doublix",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "16",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/20.png"
+				}
+			},
+			{
+				"name": "Doublix_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "16",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/20.png"
+				}
+			},
+			{
+				"name": "Drummaton",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "17",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/21.png"
+				}
+			},
+			{
+				"name": "Drummaton_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "17",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/21.png"
+				}
+			},
+			{
+				"name": "Exitask",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "18",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/22.png"
+				}
+			},
+			{
+				"name": "Exitask_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "18",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/22.png"
+				}
+			},
+			{
+				"name": "Flittercrew",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "19",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/23.png"
+				}
+			},
+			{
+				"name": "Flittercrew_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "19",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/23.png"
+				}
+			},
+			{
+				"name": "Ghoulog",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "20",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/24.png"
+				}
+			},
+			{
+				"name": "Ghoulog_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "20",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/24.png"
+				}
+			},
+			{
+				"name": "Glamora",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "21",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/25.png"
+				}
+			},
+			{
+				"name": "Glamora_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "21",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/25.png"
+				}
+			},
+			{
+				"name": "Golemouth",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "22",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/26.png"
+				}
+			},
+			{
+				"name": "Golemouth_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "22",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/26.png"
+				}
+			},
+			{
+				"name": "Golochet",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "23",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/27.png"
+				}
+			},
+			{
+				"name": "Golochet_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "23",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/27.png"
+				}
+			},
+			{
+				"name": "Impyre",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "24",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/28.png"
+				}
+			},
+			{
+				"name": "Impyre_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "24",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/28.png"
+				}
+			},
+			{
+				"name": "Inkeye",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "25",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/29.png"
+				}
+			},
+			{
+				"name": "Inkeye_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "25",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/29.png"
+				}
+			},
+			{
+				"name": "Inkidrain",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "26",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/30.png"
+				}
+			},
+			{
+				"name": "Inkidrain_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "26",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/30.png"
+				}
+			},
+			{
+				"name": "Leadette",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "27",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/31.png"
+				}
+			},
+			{
+				"name": "Leadette_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "27",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/31.png"
+				}
+			},
+			{
+				"name": "Lichisect",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "28",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/32.png"
+				}
+			},
+			{
+				"name": "Lichisect_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "28",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/32.png"
+				}
+			},
+			{
+				"name": "Loudeling",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "29",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/33.png"
+				}
+			},
+			{
+				"name": "Loudeling_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "29",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/33.png"
+				}
+			},
+			{
+				"name": "Maskraft",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "30",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/34.png"
+				}
+			},
+			{
+				"name": "Maskraft_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "30",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/34.png"
+				}
+			},
+			{
+				"name": "Necrestore",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "31",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/35.png"
+				}
+			},
+			{
+				"name": "Necrestore_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "31",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/35.png"
+				}
+			},
+			{
+				"name": "Noterat",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "32",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/36.png"
+				}
+			},
+			{
+				"name": "Noterat_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "32",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/36.png"
+				}
+			},
+			{
+				"name": "Pactithorn",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "33",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/37.png"
+				}
+			},
+			{
+				"name": "Pactithorn_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "33",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/37.png"
+				}
+			},
+			{
+				"name": "Protagonor",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "34",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/38.png"
+				}
+			},
+			{
+				"name": "Protagonor_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "34",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/38.png"
+				}
+			},
+			{
+				"name": "Puppetear",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "35",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/39.png"
+				}
+			},
+			{
+				"name": "Puppetear_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "35",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/39.png"
+				}
+			},
+			{
+				"name": "Rhythmaster",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "36",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/40.png"
+				}
+			},
+			{
+				"name": "Rhythmaster_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "36",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/40.png"
+				}
+			},
+			{
+				"name": "Rhythmoss",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "37",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/41.png"
+				}
+			},
+			{
+				"name": "Rhythmoss_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "37",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/41.png"
+				}
+			},
+			{
+				"name": "Roosterror",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "38",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/42.png"
+				}
+			},
+			{
+				"name": "Roosterror_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "38",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/42.png"
+				}
+			},
+			{
+				"name": "Slaughtrestage",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "39",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/43.png"
+				}
+			},
+			{
+				"name": "Slaughtrestage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "39",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/43.png"
+				}
+			},
+			{
+				"name": "Songuard",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "40",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/44.png"
+				}
+			},
+			{
+				"name": "Songuard_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "40",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/44.png"
+				}
+			},
+			{
+				"name": "Soniclasm",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "41",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/45.png"
+				}
+			},
+			{
+				"name": "Soniclasm_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "41",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/45.png"
+				}
+			},
+			{
+				"name": "Spectract",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "42",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/46.png"
+				}
+			},
+			{
+				"name": "Spectract_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "42",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/46.png"
+				}
+			},
+			{
+				"name": "Squirius",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "43",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/47.png"
+				}
+			},
+			{
+				"name": "Squirius_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "43",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/47.png"
+				}
+			},
+			{
+				"name": "Squirrecord",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "44",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/48.png"
+				}
+			},
+			{
+				"name": "Squirrecord_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "44",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/48.png"
+				}
+			},
+			{
+				"name": "Symphonor",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "45",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/49.png"
+				}
+			},
+			{
+				"name": "Symphonor_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "45",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/49.png"
+				}
+			},
+			{
+				"name": "Temporage",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "46",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/50.png"
+				}
+			},
+			{
+				"name": "Temporage_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "46",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/50.png"
+				}
+			},
+			{
+				"name": "Tragedeus",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "47",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/51.png"
+				}
+			},
+			{
+				"name": "Tragedeus_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "47",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/51.png"
+				}
+			},
+			{
+				"name": "Tragedeus [Token]",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "48",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/52.png"
+				}
+			},
+			{
+				"name": "Tragedeus [Token]_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "48",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/52.png"
+				}
+			},
+			{
+				"name": "Trebbletrash",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "49",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/53.png"
+				}
+			},
+			{
+				"name": "Trebbletrash_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "49",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/53.png"
+				}
+			},
+			{
+				"name": "Vampyre",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "50",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/54.png"
+				}
+			},
+			{
+				"name": "Vampyre_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "50",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/54.png"
+				}
+			},
+			{
+				"name": "Venumar",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "51",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/55.png"
+				}
+			},
+			{
+				"name": "Venumar_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "51",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/55.png"
+				}
+			},
+			{
+				"name": "Voidblade",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "52",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/56.png"
+				}
+			},
+			{
+				"name": "Voidblade_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "52",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/56.png"
+				}
+			},
+			{
+				"name": "Voidbrush",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "53",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/57.png"
+				}
+			},
+			{
+				"name": "Voidbrush_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "53",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/57.png"
+				}
+			},
+			{
+				"name": "Walkestalk",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "54",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/58.png"
+				}
+			},
+			{
+				"name": "Walkestalk_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "54",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/58.png"
+				}
+			},
+			{
+				"name": "Zombir",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "55",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/59.png"
+				}
+			},
+			{
+				"name": "Zombir_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "55",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/59.png"
+				}
+			},
+			{
+				"name": "Zombug",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "56",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/60.png"
+				}
+			},
+			{
+				"name": "Zombug_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creation",
+				"collector_number": "56",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/60.png"
+				}
+			},
+			{
+				"name": "Earthbound",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Modifier",
+				"collector_number": "119",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/61.png"
+				}
+			},
+			{
+				"name": "Earthbound_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Modifier",
+				"collector_number": "119",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/61.png"
+				}
+			},
+			{
+				"name": "Pacifism",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Modifier",
+				"collector_number": "120",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/62.png"
+				}
+			},
+			{
+				"name": "Pacifism_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Modifier",
+				"collector_number": "120",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/62.png"
+				}
+			},
+			{
+				"name": "Spirit Bounty",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Modifier",
+				"collector_number": "121",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/63.png"
+				}
+			},
+			{
+				"name": "Spirit Bounty_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Modifier",
+				"collector_number": "121",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/63.png"
+				}
+			},
+			{
+				"name": "Stupor",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Modifier",
+				"collector_number": "122",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/64.png"
+				}
+			},
+			{
+				"name": "Stupor_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Modifier",
+				"collector_number": "122",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/64.png"
+				}
+			},
+			{
+				"name": "Acid",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "57",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/65.png"
+				}
+			},
+			{
+				"name": "Acid_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "57",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/65.png"
+				}
+			},
+			{
+				"name": "All the World's a Stage",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "58",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/66.png"
+				}
+			},
+			{
+				"name": "All the World's a Stage_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "58",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/66.png"
+				}
+			},
+			{
+				"name": "Author's Vengeance",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "59",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/67.png"
+				}
+			},
+			{
+				"name": "Author's Vengeance_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "59",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/67.png"
+				}
+			},
+			{
+				"name": "Bassdrop",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "60",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/68.png"
+				}
+			},
+			{
+				"name": "Bassdrop_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "60",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/68.png"
+				}
+			},
+			{
+				"name": "Battle Scene",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "61",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/69.png"
+				}
+			},
+			{
+				"name": "Battle Scene_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "61",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/69.png"
+				}
+			},
+			{
+				"name": "Blasphemous Choice",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "62",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/70.png"
+				}
+			},
+			{
+				"name": "Blasphemous Choice_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "62",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/70.png"
+				}
+			},
+			{
+				"name": "Blunder",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "63",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/71.png"
+				}
+			},
+			{
+				"name": "Blunder_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "63",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/71.png"
+				}
+			},
+			{
+				"name": "Bond Through Space",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "64",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/72.png"
+				}
+			},
+			{
+				"name": "Bond Through Space_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "64",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/72.png"
+				}
+			},
+			{
+				"name": "Bond Through Time",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "65",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/73.png"
+				}
+			},
+			{
+				"name": "Bond Through Time_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "65",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/73.png"
+				}
+			},
+			{
+				"name": "Chains of the Void",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "66",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/74.png"
+				}
+			},
+			{
+				"name": "Chains of the Void_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "66",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/74.png"
+				}
+			},
+			{
+				"name": "Chaos Ritual",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "67",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/75.png"
+				}
+			},
+			{
+				"name": "Chaos Ritual_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "67",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/75.png"
+				}
+			},
+			{
+				"name": "Crafty Composition",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "68",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/76.png"
+				}
+			},
+			{
+				"name": "Crafty Composition_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "68",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/76.png"
+				}
+			},
+			{
+				"name": "Drench in Ink",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "69",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/77.png"
+				}
+			},
+			{
+				"name": "Drench in Ink_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "69",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/77.png"
+				}
+			},
+			{
+				"name": "Duplicate",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "70",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/78.png"
+				}
+			},
+			{
+				"name": "Duplicate_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "70",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/78.png"
+				}
+			},
+			{
+				"name": "Exeunt",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "71",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/79.png"
+				}
+			},
+			{
+				"name": "Exeunt_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "71",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/79.png"
+				}
+			},
+			{
+				"name": "Expensive Research",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "72",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/80.png"
+				}
+			},
+			{
+				"name": "Expensive Research_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "72",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/80.png"
+				}
+			},
+			{
+				"name": "Flare of Choice",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "73",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/81.png"
+				}
+			},
+			{
+				"name": "Flare of Choice_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "73",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/81.png"
+				}
+			},
+			{
+				"name": "Flare of Flexibility",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "74",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/82.png"
+				}
+			},
+			{
+				"name": "Flare of Flexibility_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "74",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/82.png"
+				}
+			},
+			{
+				"name": "Flare of Void",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "75",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/83.png"
+				}
+			},
+			{
+				"name": "Flare of Void_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "75",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/83.png"
+				}
+			},
+			{
+				"name": "Forbidden Knowledge",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "76",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/84.png"
+				}
+			},
+			{
+				"name": "Forbidden Knowledge_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "76",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/84.png"
+				}
+			},
+			{
+				"name": "Gift of Ink",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "77",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/85.png"
+				}
+			},
+			{
+				"name": "Gift of Ink_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "77",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/85.png"
+				}
+			},
+			{
+				"name": "Inferno",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "79",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/86.png"
+				}
+			},
+			{
+				"name": "Inferno_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "79",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/86.png"
+				}
+			},
+			{
+				"name": "Inkseep",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "81",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/87.png"
+				}
+			},
+			{
+				"name": "Inkseep_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "81",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/87.png"
+				}
+			},
+			{
+				"name": "Inksight",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "82",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/88.png"
+				}
+			},
+			{
+				"name": "Inksight_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "82",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/88.png"
+				}
+			},
+			{
+				"name": "Interrupt",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "83",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/89.png"
+				}
+			},
+			{
+				"name": "Interrupt_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "83",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/89.png"
+				}
+			},
+			{
+				"name": "Learn from Ink",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "84",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/90.png"
+				}
+			},
+			{
+				"name": "Learn from Ink_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "84",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/90.png"
+				}
+			},
+			{
+				"name": "March of the Undead",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "85",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/91.png"
+				}
+			},
+			{
+				"name": "March of the Undead_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "85",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/91.png"
+				}
+			},
+			{
+				"name": "Mask Crafting",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "86",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/92.png"
+				}
+			},
+			{
+				"name": "Mask Crafting_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "86",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/92.png"
+				}
+			},
+			{
+				"name": "Masquerade",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "87",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/93.png"
+				}
+			},
+			{
+				"name": "Masquerade_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "87",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/93.png"
+				}
+			},
+			{
+				"name": "Musical Stockpile",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "88",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/94.png"
+				}
+			},
+			{
+				"name": "Musical Stockpile_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "88",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/94.png"
+				}
+			},
+			{
+				"name": "Negate",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "89",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/95.png"
+				}
+			},
+			{
+				"name": "Negate_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "89",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/95.png"
+				}
+			},
+			{
+				"name": "Normalize",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "90",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/96.png"
+				}
+			},
+			{
+				"name": "Normalize_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "90",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/96.png"
+				}
+			},
+			{
+				"name": "Obsessive Perfection",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "91",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/97.png"
+				}
+			},
+			{
+				"name": "Obsessive Perfection_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "91",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/97.png"
+				}
+			},
+			{
+				"name": "Party Scene",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "92",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/98.png"
+				}
+			},
+			{
+				"name": "Party Scene_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "92",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/98.png"
+				}
+			},
+			{
+				"name": "Prevent",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "93",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/99.png"
+				}
+			},
+			{
+				"name": "Prevent_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "93",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/99.png"
+				}
+			},
+			{
+				"name": "Purchase Mediums",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "94",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/100.png"
+				}
+			},
+			{
+				"name": "Purchase Mediums_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "94",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/100.png"
+				}
+			},
+			{
+				"name": "Reanimate",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "95",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/101.png"
+				}
+			},
+			{
+				"name": "Reanimate_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "95",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/101.png"
+				}
+			},
+			{
+				"name": "Remix",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "96",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/102.png"
+				}
+			},
+			{
+				"name": "Remix_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "96",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/102.png"
+				}
+			},
+			{
+				"name": "Retrieve",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "97",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/103.png"
+				}
+			},
+			{
+				"name": "Retrieve_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "97",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/103.png"
+				}
+			},
+			{
+				"name": "Rhythmic Research",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "98",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/104.png"
+				}
+			},
+			{
+				"name": "Rhythmic Research_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "98",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/104.png"
+				}
+			},
+			{
+				"name": "Salve",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "99",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/105.png"
+				}
+			},
+			{
+				"name": "Salve_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "99",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/105.png"
+				}
+			},
+			{
+				"name": "Search",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "100",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/106.png"
+				}
+			},
+			{
+				"name": "Search_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "100",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/106.png"
+				}
+			},
+			{
+				"name": "Seek the Sound",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "101",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/107.png"
+				}
+			},
+			{
+				"name": "Seek the Sound_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "101",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/107.png"
+				}
+			},
+			{
+				"name": "Sequence Fracture",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "102",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/108.png"
+				}
+			},
+			{
+				"name": "Sequence Fracture_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "102",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/108.png"
+				}
+			},
+			{
+				"name": "Siphon Through Ink",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "103",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/109.png"
+				}
+			},
+			{
+				"name": "Siphon Through Ink_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "103",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/109.png"
+				}
+			},
+			{
+				"name": "Sonic Boom",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "104",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/110.png"
+				}
+			},
+			{
+				"name": "Sonic Boom_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "104",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/110.png"
+				}
+			},
+			{
+				"name": "Sonic Flare",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "105",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/111.png"
+				}
+			},
+			{
+				"name": "Sonic Flare_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "105",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/111.png"
+				}
+			},
+			{
+				"name": "Stifle",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "106",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/112.png"
+				}
+			},
+			{
+				"name": "Stifle_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "106",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/112.png"
+				}
+			},
+			{
+				"name": "Stock Up",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "107",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/113.png"
+				}
+			},
+			{
+				"name": "Stock Up_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "107",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/113.png"
+				}
+			},
+			{
+				"name": "Studio Fire",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "108",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/114.png"
+				}
+			},
+			{
+				"name": "Studio Fire_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "108",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/114.png"
+				}
+			},
+			{
+				"name": "The Great Mistake",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "78",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/115.png"
+				}
+			},
+			{
+				"name": "The Great Mistake_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "78",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/115.png"
+				}
+			},
+			{
+				"name": "The Ink Stares Back",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "80",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/116.png"
+				}
+			},
+			{
+				"name": "The Ink Stares Back_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "80",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/116.png"
+				}
+			},
+			{
+				"name": "Trickery",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "109",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/117.png"
+				}
+			},
+			{
+				"name": "Trickery_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "109",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/117.png"
+				}
+			},
+			{
+				"name": "Troupe Call",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "110",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/118.png"
+				}
+			},
+			{
+				"name": "Troupe Call_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "110",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/118.png"
+				}
+			},
+			{
+				"name": "Ultimate Rhythm",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "111",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/119.png"
+				}
+			},
+			{
+				"name": "Ultimate Rhythm_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "111",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/119.png"
+				}
+			},
+			{
+				"name": "Unmanifest",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "112",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/120.png"
+				}
+			},
+			{
+				"name": "Unmanifest_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "112",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/120.png"
+				}
+			},
+			{
+				"name": "Wisdom",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "113",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/121.png"
+				}
+			},
+			{
+				"name": "Wisdom_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Tactic",
+				"collector_number": "113",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ARTF-files/img/121.png"
+				}
+			}
+		]
+
+[rare(2)]
+	5 Anticipact
+	5 Ascendighoul
+	5 Banneroar
+	5 Calculaw
+	5 Comedeus
+	5 Doublix
+	5 Lichisect
+	5 Necrestore
+	5 Puppetear
+	5 Rhythmaster
+	5 Symphonor
+	5 Temporage
+	5 Tragedeus
+	5 Stupor
+	5 All the World's a Stage
+	5 Chains of the Void
+	5 Duplicate
+	5 March of the Undead
+	5 Masquerade
+	5 Obsessive Perfection
+	5 Sequence Fracture
+	5 Sonic Boom
+	5 The Great Mistake
+	5 The Ink Stares Back
+	5 Ultimate Rhythm
+	5 Wisdom
+[uncommon(4)]
+	5 Consumptoad
+	5 Ghoulog
+	5 Impyre
+	5 Inkidrain
+	5 Leadette
+	5 Maskraft
+	5 Rhythmoss
+	5 Roosterror
+	5 Slaughtrestage
+	5 Songuard
+	5 Soniclasm
+	5 Spectract
+	5 Squirius
+	5 Trebbletrash
+	5 Vampyre
+	5 Zombug
+	5 Author's Vengeance
+	5 Bassdrop
+	5 Battle Scene
+	5 Blasphemous Choice
+	5 Blunder
+	5 Bond Through Space
+	5 Bond Through Time
+	5 Chaos Ritual
+	5 Crafty Composition
+	5 Exeunt
+	5 Expensive Research
+	5 Flare of Choice
+	5 Flare of Flexibility
+	5 Flare of Void
+	5 Inferno
+	5 Inkseep
+	5 Inksight
+	5 Musical Stockpile
+	5 Negate
+	5 Party Scene
+	5 Reanimate
+	5 Stifle
+[common(8)]
+	5 Actorialle
+	5 Aggressivoid
+	5 Antagonor
+	5 Ascendivoid
+	5 Blessink
+	5 Blessivoid
+	5 Composivoice
+	5 Curtainyx
+	5 Drummaton
+	5 Exitask
+	5 Flittercrew
+	5 Glamora
+	5 Golemouth
+	5 Golochet
+	5 Inkeye
+	5 Loudeling
+	5 Noterat
+	5 Pactithorn
+	5 Protagonor
+	5 Squirrecord
+	5 Venumar
+	5 Voidblade
+	5 Voidbrush
+	5 Walkestalk
+	5 Zombir
+	5 Earthbound
+	5 Pacifism
+	5 Spirit Bounty
+	5 Acid
+	5 Drench in Ink
+	5 Forbidden Knowledge
+	5 Gift of Ink
+	5 Interrupt
+	5 Learn from Ink
+	5 Mask Crafting
+	5 Normalize
+	5 Prevent
+	5 Purchase Mediums
+	5 Remix
+	5 Retrieve
+	5 Rhythmic Research
+	5 Salve
+	5 Search
+	5 Seek the Sound
+	5 Siphon Through Ink
+	5 Sonic Flare
+	5 Stock Up
+	5 Studio Fire
+	5 Trickery
+	5 Troupe Call
+	5 Unmanifest

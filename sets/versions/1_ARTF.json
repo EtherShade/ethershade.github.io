@@ -1,10 +1,17 @@
 ﻿{
+    "name": "Ars Transcendia Foundations",
+    "formats": "",
+    "image_type": "png",
+    "draft_structure": "draft booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Elixir [Token]",
             "color": "B",
             "rarity": "common",
-            "type": "Basic Medium \u2013 Elixir",
+            "type": "Basic Medium \u2014 Elixir",
             "number": 114,
             "color_identity": "B",
             "cost": "",
@@ -19,15 +26,13 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "!token\n!related Potion",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "!token\n!related Potion"
         },
         {
             "card_name": "Inkwell",
             "color": "B",
             "rarity": "common",
-            "type": "Basic Medium \u2013 Inkwell",
+            "type": "Basic Medium \u2014 Inkwell",
             "number": 115,
             "color_identity": "B",
             "cost": "",
@@ -42,15 +47,13 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Theater Mask",
             "color": "B",
             "rarity": "common",
-            "type": "Basic Medium \u2013 Mask",
+            "type": "Basic Medium \u2014 Mask",
             "number": 118,
             "color_identity": "B",
             "cost": "",
@@ -65,15 +68,13 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Music Note",
             "color": "B",
             "rarity": "common",
-            "type": "Basic Medium \u2013 MusicNote",
+            "type": "Basic Medium \u2014 MusicNote",
             "number": 116,
             "color_identity": "B",
             "cost": "",
@@ -88,15 +89,13 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Potion",
             "color": "B",
             "rarity": "common",
-            "type": "Basic Medium \u2013 Potion",
+            "type": "Basic Medium \u2014 Potion",
             "number": 117,
             "color_identity": "B",
             "cost": "",
@@ -111,9 +110,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Actorialle",
@@ -134,9 +131,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Aggressivoid",
@@ -157,9 +152,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Antagonor",
@@ -180,9 +173,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Anticipact",
@@ -203,9 +194,7 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Ascendighoul",
@@ -226,9 +215,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Ascendivoid",
@@ -249,9 +236,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Banneroar",
@@ -272,9 +257,7 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Blessink",
@@ -295,9 +278,7 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Blessivoid",
@@ -318,9 +299,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Calculaw",
@@ -341,9 +320,7 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Comedeus",
@@ -364,9 +341,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Comedeus [Token]",
@@ -387,9 +362,7 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": "!token\n!related Tragedeus;Tragedeus [Token]",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "!token\n!related Tragedeus;Tragedeus [Token]"
         },
         {
             "card_name": "Composivoice",
@@ -410,9 +383,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Consumptoad",
@@ -433,9 +404,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Curtainyx",
@@ -456,9 +425,7 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Doublix",
@@ -479,9 +446,7 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Drummaton",
@@ -502,9 +467,7 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Exitask",
@@ -525,9 +488,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Flittercrew",
@@ -548,9 +509,7 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Ghoulog",
@@ -571,9 +530,7 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Glamora",
@@ -594,9 +551,7 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Golemouth",
@@ -617,9 +572,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Golochet",
@@ -640,9 +593,7 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Impyre",
@@ -663,9 +614,7 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Inkeye",
@@ -686,9 +635,7 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Inkidrain",
@@ -709,9 +656,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Leadette",
@@ -732,9 +677,7 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Lichisect",
@@ -755,9 +698,7 @@
             "alias": "",
             "position": "32",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Loudeling",
@@ -778,9 +719,7 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Maskraft",
@@ -801,9 +740,7 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Necrestore",
@@ -824,9 +761,7 @@
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Noterat",
@@ -847,9 +782,7 @@
             "alias": "",
             "position": "36",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Pactithorn",
@@ -870,9 +803,7 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Protagonor",
@@ -893,9 +824,7 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Puppetear",
@@ -916,9 +845,7 @@
             "alias": "",
             "position": "39",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Rhythmaster",
@@ -939,9 +866,7 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Rhythmoss",
@@ -962,9 +887,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Roosterror",
@@ -985,9 +908,7 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Slaughtrestage",
@@ -1008,9 +929,7 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Songuard",
@@ -1031,9 +950,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Soniclasm",
@@ -1054,9 +971,7 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Spectract",
@@ -1077,9 +992,7 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Squirius",
@@ -1100,9 +1013,7 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Squirrecord",
@@ -1123,9 +1034,7 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Symphonor",
@@ -1146,9 +1055,7 @@
             "alias": "",
             "position": "49",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Temporage",
@@ -1169,9 +1076,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Tragedeus",
@@ -1192,9 +1097,7 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Tragedeus [Token]",
@@ -1215,9 +1118,7 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": "!token\n!related Comedeus;Comedeus [Token]",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "!token\n!related Comedeus;Comedeus [Token]"
         },
         {
             "card_name": "Trebbletrash",
@@ -1238,9 +1139,7 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Vampyre",
@@ -1261,9 +1160,7 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Venumar",
@@ -1284,9 +1181,7 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Voidblade",
@@ -1307,9 +1202,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Voidbrush",
@@ -1330,9 +1223,7 @@
             "alias": "",
             "position": "57",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Walkestalk",
@@ -1353,9 +1244,7 @@
             "alias": "",
             "position": "58",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Zombir",
@@ -1376,9 +1265,7 @@
             "alias": "",
             "position": "59",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Zombug",
@@ -1399,9 +1286,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Earthbound",
@@ -1422,9 +1307,7 @@
             "alias": "",
             "position": "61",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Pacifism",
@@ -1445,9 +1328,7 @@
             "alias": "",
             "position": "62",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Spirit Bounty",
@@ -1468,9 +1349,7 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Stupor",
@@ -1491,9 +1370,7 @@
             "alias": "",
             "position": "64",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Acid",
@@ -1514,9 +1391,7 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "All the World's a Stage",
@@ -1537,9 +1412,7 @@
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Author's Vengeance",
@@ -1560,9 +1433,7 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Bassdrop",
@@ -1583,9 +1454,7 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Battle Scene",
@@ -1606,9 +1475,7 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Blasphemous Choice",
@@ -1629,9 +1496,7 @@
             "alias": "",
             "position": "70",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Blunder",
@@ -1652,9 +1517,7 @@
             "alias": "",
             "position": "71",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Bond Through Space",
@@ -1675,9 +1538,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Bond Through Time",
@@ -1698,9 +1559,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Chains of the Void",
@@ -1721,9 +1580,7 @@
             "alias": "",
             "position": "74",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Chaos Ritual",
@@ -1744,9 +1601,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Crafty Composition",
@@ -1767,9 +1622,7 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Drench in Ink",
@@ -1790,9 +1643,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Duplicate",
@@ -1813,9 +1664,7 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Exeunt",
@@ -1836,9 +1685,7 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Expensive Research",
@@ -1859,9 +1706,7 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Flare of Choice",
@@ -1882,9 +1727,7 @@
             "alias": "",
             "position": "81",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Flare of Flexibility",
@@ -1905,9 +1748,7 @@
             "alias": "",
             "position": "82",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Flare of Void",
@@ -1928,9 +1769,7 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Forbidden Knowledge",
@@ -1951,9 +1790,7 @@
             "alias": "",
             "position": "84",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Gift of Ink",
@@ -1974,9 +1811,7 @@
             "alias": "",
             "position": "85",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Inferno",
@@ -1997,9 +1832,7 @@
             "alias": "",
             "position": "86",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Inkseep",
@@ -2020,9 +1853,7 @@
             "alias": "",
             "position": "87",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Inksight",
@@ -2043,9 +1874,7 @@
             "alias": "",
             "position": "88",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Interrupt",
@@ -2066,9 +1895,7 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Learn from Ink",
@@ -2089,9 +1916,7 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "March of the Undead",
@@ -2112,9 +1937,7 @@
             "alias": "",
             "position": "91",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Mask Crafting",
@@ -2135,9 +1958,7 @@
             "alias": "",
             "position": "92",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Masquerade",
@@ -2158,9 +1979,7 @@
             "alias": "",
             "position": "93",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Musical Stockpile",
@@ -2181,9 +2000,7 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Negate",
@@ -2204,9 +2021,7 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Normalize",
@@ -2216,7 +2031,7 @@
             "number": 90,
             "color_identity": "U",
             "cost": "",
-            "rules_text": "Artform: None\n\nChoose one \u2013\n\u2022 Destroy target modifier.\n\u2022 Remove a Transcendence counter from target creation.",
+            "rules_text": "Artform: None\n\nChoose one \u2014\n\u2022 Destroy target modifier.\n\u2022 Remove a Transcendence counter from target creation.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2227,9 +2042,7 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Obsessive Perfection",
@@ -2250,9 +2063,7 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Party Scene",
@@ -2273,9 +2084,7 @@
             "alias": "",
             "position": "98",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Prevent",
@@ -2296,9 +2105,7 @@
             "alias": "",
             "position": "99",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Purchase Mediums",
@@ -2319,9 +2126,7 @@
             "alias": "",
             "position": "100",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Reanimate",
@@ -2342,9 +2147,7 @@
             "alias": "",
             "position": "101",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Remix",
@@ -2365,9 +2168,7 @@
             "alias": "",
             "position": "102",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Retrieve",
@@ -2388,9 +2189,7 @@
             "alias": "",
             "position": "103",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Rhythmic Research",
@@ -2411,9 +2210,7 @@
             "alias": "",
             "position": "104",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Salve",
@@ -2434,9 +2231,7 @@
             "alias": "",
             "position": "105",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Search",
@@ -2457,9 +2252,7 @@
             "alias": "",
             "position": "106",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Seek the Sound",
@@ -2480,9 +2273,7 @@
             "alias": "",
             "position": "107",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Sequence Fracture",
@@ -2503,9 +2294,7 @@
             "alias": "",
             "position": "108",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Siphon Through Ink",
@@ -2526,9 +2315,7 @@
             "alias": "",
             "position": "109",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Sonic Boom",
@@ -2549,9 +2336,7 @@
             "alias": "",
             "position": "110",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Sonic Flare",
@@ -2572,9 +2357,7 @@
             "alias": "",
             "position": "111",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Stifle",
@@ -2595,9 +2378,7 @@
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Stock Up",
@@ -2618,9 +2399,7 @@
             "alias": "",
             "position": "113",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Studio Fire",
@@ -2641,9 +2420,7 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "The Great Mistake",
@@ -2664,9 +2441,7 @@
             "alias": "",
             "position": "115",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "The Ink Stares Back",
@@ -2687,9 +2462,7 @@
             "alias": "",
             "position": "116",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Trickery",
@@ -2710,9 +2483,7 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Troupe Call",
@@ -2733,9 +2504,7 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Ultimate Rhythm",
@@ -2756,9 +2525,7 @@
             "alias": "",
             "position": "119",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Unmanifest",
@@ -2779,9 +2546,7 @@
             "alias": "",
             "position": "120",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Wisdom",
@@ -2802,9 +2567,7 @@
             "alias": "",
             "position": "121",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         }
     ]
 }

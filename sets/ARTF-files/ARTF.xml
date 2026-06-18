@@ -1,0 +1,2436 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>ARTF</name>
+			<longname>Ars Transcendia Foundations</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-17</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Elixir [Token] ARTF</name>
+			<text>Artform: Alchemy
+
+(Elixirs provide LL. When an Elixir is used to use a transcend or attack ability, reserve a card from your discard pile.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/0.png" num="114">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Medium — Elixir</type>
+				<maintype>Medium</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>Potion</reverse-related>
+		</card>
+		<card>
+			<name>Inkwell</name>
+			<text>Artform: Writing
+
+(Inkwells provide I.)
+A deck can have any number of cards named Inkwell.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/1.png" num="115">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Medium — Inkwell</type>
+				<maintype>Medium</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Theater Mask</name>
+			<text>Artform: Theater
+
+(You may have Masks enter as a ComedyMask or TragedyMask. Swap them at the start of your turn. ComedyMasks provide {C}. TragedyMasks provide {T}.)
+A deck can have any number of cards named Theater Mask.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/2.png" num="118">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Medium — Mask</type>
+				<maintype>Medium</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Music Note</name>
+			<text>Artform: Music
+
+(MusicNotes provide {N}. As you reserve a MusicNote, you may turn it face up as a composed note.)
+A deck can have any number of cards named Music Note.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/3.png" num="116">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Medium — MusicNote</type>
+				<maintype>Medium</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Potion</name>
+			<text>Artform: Alchemy
+
+(Potions provide L. At normal speed, you may destroy three Potions you control to create an Elixir token.)
+A deck can have any number of cards named Potion.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/4.png" num="117">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Medium — Potion</type>
+				<maintype>Medium</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Actorialle</name>
+			<text>Artform: Theater
+
+{C}{C}: Actorialle transcends 1. If it has transcended already this turn, it transcends 2 instead.
+{T}{T}: Actorialle attacks 1. If it has transcended this turn, it attacks 2 instead.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/5.png" num="1">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aggressivoid</name>
+			<text>Artform: None
+
+Aggressive
+{A}{A}{A}{A}: Aggressivoid transcends 2.
+{A}{A}: Aggressivoid attacks 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/6.png" num="2">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Antagonor</name>
+			<text>Artform: Writing
+
+Aggressive
+{A}I: Antagonor transcends 1.
+{A}I: Antagonor attacks 1.
+{A}{A}II: Antagonor attacks 2.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/7.png" num="3">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Anticipact</name>
+			<text>Artform: None
+
+As long as their are three or more mediums attached to Anticipact, cards all players play have reactive.
+{A}{A}: Anticipact transcends 1.
+{A}{A}: Anticipact attacks 1.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/8.png" num="4">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ascendighoul</name>
+			<text>Artform: Alchemy
+
+Whenever another creation perishes, if there are three or more mediums attached to Ascendighoul and at least one of them is a Potion or Elixir, Ascendighoul transcends 1.
+{A}L: Ascendighoul attacks 1.
+{A}{A}LL: Ascendighoul attacks 2.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/9.png" num="5">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ascendivoid</name>
+			<text>Artform: None
+
+Ascendant
+{A}{A}: Ascendivoid transcends 1.
+{A}{A}{A}{A}: Ascendivoid attacks 2.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/10.png" num="6">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Banneroar</name>
+			<text>Artform: Writing
+
+{A}{A}II: Each other creation you control transcends 1.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/11.png" num="7">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blessink</name>
+			<text>Artform: Writing
+
+I: Another creation you control transcends 1.
+{A}{A}I: Blessink and another creation you control each transcend 1.
+{A}I: Blessink attacks 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/12.png" num="8">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blessivoid</name>
+			<text>Artform: None
+
+{A}{A}: Another creation you control transcends 1.
+{A}{A}{A}: Another creation you control transcends 2.
+{A}{A}{A}: Blessivoid attacks 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/13.png" num="9">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Calculaw</name>
+			<text>Artform: Writing
+
+Only one Transcendence counter may be put on each creation per turn.
+{A}I: Calculaw transcends 1.
+{A}I: Calculaw attacks 1.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/14.png" num="10">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Comedeus</name>
+			<text>Artform: Theater
+
+When Comedeus enters your field, trigger the start of turn abilities of each TragedyMask you control.
+{C}{C}{C}: Comedeus transcends 1, then create a Tragedeus token and move all Transcendence counters from Comedeus to the created token. Destroy Comedeus.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/15.png" num="11">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Comedeus [Token] ARTF</name>
+			<text>Artform: Theater
+
+When Comedeus enters your field, trigger the start of turn abilities of each TragedyMask you control.
+{C}{C}{C}: Comedeus transcends 1, then create a Tragedeus token and move all Transcendence counters from Comedeus to the created token. Destroy Comedeus.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/16.png" num="12">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>Tragedeus</reverse-related>
+			<reverse-related>Tragedeus [Token]</reverse-related>
+		</card>
+		<card>
+			<name>Composivoice</name>
+			<text>Artform: Music
+
+At the end of your turn, if you have two or more composed notes, Composivoice transcends 1.
+{A}{N}: Composivoice attacks 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/17.png" num="13">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Consumptoad</name>
+			<text>Artform: Writing
+
+I: As a cost to activate this ability, destroy any number of mediums attached to Consumptoad. Consumptoad transcends 1 for each medium destroyed this way.
+{A}I: Consumptoad attacks 1.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/18.png" num="14">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Curtainyx</name>
+			<text>Artform: Theater
+
+{C}{C}: Curtainyx transcends 1.
+{C}{C}{C}{C}: Curtainyx transcends 2.
+{T}{T}: Curtainyx attacks 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/19.png" num="15">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Doublix</name>
+			<text>Artform: Writing
+
+If you would create one or more tokens, you may create that many plus one of those tokens instead.
+I: Another creation you control transcends 1.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/20.png" num="16">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Drummaton</name>
+			<text>Artform: Music
+
+{A}{N}: You may reserve a MusicNote card from your discard pile. If you do, Drummaton transcends 1.
+{A}{A}{N}: You may reserve two MusicNote cards from your discard pile. If you do, Drummaton and another creation you control each transcend 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/21.png" num="17">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Exitask</name>
+			<text>Artform: Theater
+
+{C}{C}: Exitask transcends 1.
+{C}{C}{C}{C}{C}: Exitask and another creation you control each transcend 1. and Discard two cards, then draw two cards.
+{T}{T}{T}: Exitask attacks 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/22.png" num="18">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flittercrew</name>
+			<text>Artform: Theater
+
+{C}{C}: Another creation you control transcends 1.
+{C}{C}{C}: Another creation you control transcends 1. You may trigger the start of turn ability of a TragedyMask.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/23.png" num="19">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ghoulog</name>
+			<text>Artform: Alchemy
+
+{A}{A}LL: Ghoulog transcends 1, then attacks X, where X is the number of Transcendence counters on it.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/24.png" num="20">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Glamora</name>
+			<text>Artform: Theater
+
+{C}{C}: Glamora transcends 1. Move up to one Transcendence counter from another creation you control onto Glamora.
+{T}{T}: Glamora attacks 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/25.png" num="21">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Golemouth</name>
+			<text>Artform: Alchemy
+
+{A}{A}L: Golemouth transcends 1. You may destroy a medium or creation you control. If you do, Golemouth transcends 1 again.
+{A}{A}{A}LL: Golemouth transcends 2.
+{A}L: Golemouth attacks 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/26.png" num="22">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Golochet</name>
+			<text>Artform: Alchemy
+
+{A}L: Golochet transcends 1.
+{A}{A}{A}L: Golochet transcends 2.
+{A}{A}L: Destroy any number of mediums and/or creations you control. Golochet attacks X, where X is the number of permanents destroyed this way.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/27.png" num="23">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Impyre</name>
+			<text>Artform: Alchemy
+
+{A}L: Impyre transcends 1. Put the top card of your deck into your discard pile.
+{A}{A}{A}LL: Impyre transcends 2. Put the top three cards of your deck into your discard pile.
+{A}L: Impyre attacks 1. If a creation didn&apos;t perish from that attack, reserve a card from your discard pile.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/28.png" num="24">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Inkeye</name>
+			<text>Artform: Writing
+
+{A}I: Inkeye transcends 1. Look at the top card of your deck. You may put it on the bottom of your deck.
+{A}{A}II: Inkeye transcends 2. Draw a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/29.png" num="25">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Inkidrain</name>
+			<text>Artform: Writing
+
+{A}{A}I: Inkidrain transcends 1. Draw a card.
+{A}{A}{A}II: Inkidrain transcends 1. Draw a card. Each opponent discards a card.
+{A}{A}I: Inkidrain attacks 1. Each opponent discards a card.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/30.png" num="26">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Leadette</name>
+			<text>Artform: Theater
+
+Whenever one or more Transcendence counters are put on Leadette from an ability of another creation, put a Transcendence counter on Leadette for every second ComedyMask attached to it.
+{T}{T}: Leadette attacks 1.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/31.png" num="27">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lichisect</name>
+			<text>Artform: Alchemy
+
+{A}{A}{A}LLL: Lichisect transcends 1 and attacks 1. This turn, whenever a creation you control uses an ability that would cause it to transcend and attack, copy that ability.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/32.png" num="28">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Loudeling</name>
+			<text>Artform: Music
+
+At the end of your turn, if you have two or more composed notes, Loudeling attacks 1.
+{A}{N}: Loudeling transcends 1.
+{A}{A}{N}: Loudeling transcends 1. You may put a card from your reserves into your hand.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/33.png" num="29">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Maskraft</name>
+			<text>Artform: Theater
+
+{C}{C}: Maskraft transcends 1. You may trigger the start of turn ability of a Tragedy.
+{C}{C}{C}{C}: Maskraft and another creation you control each transcend 1. Put up to one Mask from your hand into your field.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/34.png" num="30">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Necrestore</name>
+			<text>Artform: Alchemy
+
+Whenever you destroy a creation you control, at end of turn, if there are three or more mediums attached to Necrestore, create a token that&apos;s a copy of the destroyed creation.
+L: Another token creation you control transcends 2.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/35.png" num="31">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Noterat</name>
+			<text>Artform: Music
+
+{A}{A}{N}: Noterat transcends 1. Put a card from your reserves into your hand.
+{A}{A}{N}: Noterat attacks 1. Reserve up to two cards from the top of your deck.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/36.png" num="32">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pactithorn</name>
+			<text>Artform: Alchemy
+
+{A}L: You may discard a card. If you do, Pactithorn transcends 1.
+{A}{A}{A}L: You may discard a card. If you do, Pactithorn transcends 2.
+{A}{A}L: Pactithorn attacks 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/37.png" num="33">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Protagonor</name>
+			<text>Artform: Writing
+
+Ascendant
+{A}I: Protagonor transcends 1.
+{A}{A}II: Protagonor transcends 2.
+{A}I: Protagonor attacks 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/38.png" num="34">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Puppetear</name>
+			<text>Artform: Theater
+
+{C}: Puppetear transcends 1. You may trigger the start of turn ability of a ComedyMask.
+{C}{C}{C}{C}{C}: Puppetear transcends 2.
+{T}: Puppetear attacks 1. You may trigger the start of turn ability of a TragedyMask.
+{T}{T}{T}{T}{T}: Puppetear attacks 2.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/39.png" num="35">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rhythmaster</name>
+			<text>Artform: Music
+
+{A}{N}: Another creation you control transcends 1.
+{A}{A}{A}{N}{N}{N}: Another creation you control transcends 1. Draw a card for each of your composed notes.
+{N}: Rhythmaster attacks 1.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/40.png" num="36">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rhythmoss</name>
+			<text>Artform: Music
+
+{A}{N}: Rhythmoss transcends 1. If you have two or more composed notes, Rhythmoss transcends 2 instead.
+{A}{A}{A}{N}{N}: Rhythmoss transcends 2.
+{A}{N}: Rhythmoss attacks 1.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/41.png" num="37">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Roosterror</name>
+			<text>Artform: Writing
+
+As long as there are four or more mediums attached to Roosterror, if another creation you control would deal damage to a creation, it deals that much damage plus 1 instead.
+{A}I: Roosterror transcends 1.
+{A}I: Roosterror attacks 1.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/42.png" num="38">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Slaughtrestage</name>
+			<text>Artform: Theater
+
+{T}{T}: Slaughtrestage transcends 1. You may trigger the start of turn ability of a Comedy.
+{T}{T}{T}{T}: Slaughtrestage and another creation you control each attack 1.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/43.png" num="39">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Songuard</name>
+			<text>Artform: Music
+
+The first time Songuard would take damage each turn, if you have two or more composed notes, Songuard doesn&apos;t take that damage.
+{A}{N}: Songuard transcends 1.
+{A}{A}{A}{N}: Songuard transcends 2.
+{A}{A}{N}: Songuard attacks 1. If you have two or more composed notes, Songuard attacks 2 instead.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/44.png" num="40">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Soniclasm</name>
+			<text>Artform: Music
+
+When Soniclasm enters a field, you may trash one of your composed notes. If you do, it gains aggressive. (If it has aggressive, a creation can use an attack ability the turn it&apos;s played.)
+{A}{N}{N}: Soniclasm attacks 2.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/45.png" num="41">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spectract</name>
+			<text>Artform: Theater
+
+{C}{C}: Spectract transcends 1.
+{T}{T}: Spectract attacks 1. Then if the attacked creation is still in play, put it into its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/46.png" num="42">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Squirius</name>
+			<text>Artform: Writing
+
+{A}I: Squirius transcends 1. Reserve the top card of your deck.
+{A}{A}II: Squirius transcends 2. Reserve the top card of your deck.
+{A}{A}I: Squirius attacks 1. Put a card from your reserves into your hand.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/47.png" num="43">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Squirrecord</name>
+			<text>Artform: Music
+
+{A}{N}: Squirrecord transcends 1. If you&apos;ve stockpiled this turn, Squirrecord transcends 2 instead.
+{A}{N}: Squirrecord attacks 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/48.png" num="44">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Symphonor</name>
+			<text>Artform: Music
+
+As long as there are three or more mediums attached to Symphonor and you have four or more composed notes, abilities you use that would cause a creation you control to transcend require 1 less {N}.
+{A}{N}: Symphonor transcends 1.
+{A}{A}{A}{A}{N}{N}: Each of your creations transcends 1.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/49.png" num="45">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Temporage</name>
+			<text>Artform: Music
+
+{N}: Temporage transcends 1. Activate only if you have three or more composed notes.
+{N}: Temporage transcends 2. Activate only if you have six or more composed notes.
+{N}: Temporage attacks 1. Activate only if you have three or more composed notes.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/50.png" num="46">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tragedeus</name>
+			<text>Artform: Theater
+
+When Tragedeus enters your field, trigger the start of turn abilities of each ComedyMask you control.
+{T}{T}{T}: Tragedeus attacks 1, then create a Comedeus token and move all Transcendence counters from Tragedeus to the created token. Destroy Tragedeus.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/51.png" num="47">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tragedeus [Token] ARTF</name>
+			<text>Artform: Theater
+
+When Tragedeus enters your field, trigger the start of turn abilities of each ComedyMask you control.
+{T}{T}{T}: Tragedeus attacks 1, then create a Comedeus token and move all Transcendence counters from Tragedeus to the created token. Destroy Tragedeus.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/52.png" num="48">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>Comedeus</reverse-related>
+			<reverse-related>Comedeus [Token]</reverse-related>
+		</card>
+		<card>
+			<name>Trebbletrash</name>
+			<text>Artform: Music
+
+{A}{A}{N}: Trash any number of your composed notes. Trebbletrash transcends X, where X is half the number of cards trashed this way, rounded down.
+{A}{N}: Trash any number of your composed notes. Trebbletrash attacks X, where X is half the number of cards trashed this way, rounded down.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/53.png" num="49">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vampyre</name>
+			<text>Artform: Alchemy
+
+{A}L: Vampyre transcends 1 and attacks 1. Discard a card.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/54.png" num="50">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Venumar</name>
+			<text>Artform: Writing
+
+{A}I: Venumar transcends 1.
+{A}{A}II: Venumar transcends 2.
+Attack Ability: {A}{A}I: Venumar attacks 1. Then if the attacked creation has no Transcendence counters on it, Venumar deals 1 damage to it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/55.png" num="51">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Voidblade</name>
+			<text>Artform: None
+
+{A}{A}: Voidblade transcends 1.
+{A}{A}: Voidblade attacks 1.
+{A}{A}{A}{A}: Voidblade attacks 2.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/56.png" num="52">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Voidbrush</name>
+			<text>Artform: None
+
+{A}{A}: Voidbrush transcends 1.
+{A}{A}{A}{A}: Voidbrush transcends 2.
+{A}{A}: Voidbrush attacks 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/57.png" num="53">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Walkestalk</name>
+			<text>Artform: Alchemy
+
+{A}LL: Walkestalk transcends 1 and attacks 1.
+{A}{A}LLL: Walkestalk transcends 2 and attacks 2.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/58.png" num="54">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Zombir</name>
+			<text>Artform: Alchemy
+
+{A}{A}L: Zombir transcends 1 and attacks 1.
+{A}L: Zombir attacks 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/59.png" num="55">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Zombug</name>
+			<text>Artform: Alchemy
+
+LL: Zombug transcends 1 and attacks 1. Then if this was the first transcend ability you&apos;ve used this turn, destroy Zombug.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/60.png" num="56">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creation</type>
+				<maintype>Creation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Earthbound</name>
+			<text>Artform: None
+
+Modifies creation
+Modified creation can&apos;t use abilities that would cause it to transcend.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/61.png" num="119">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Modifier</type>
+				<maintype>Modifier</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pacifism</name>
+			<text>Artform: None
+
+Modifies creation
+Modified creation can&apos;t use abilities that would cause it to attack.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/62.png" num="120">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Modifier</type>
+				<maintype>Modifier</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spirit Bounty</name>
+			<text>Artform: Alchemy
+
+Play Spirit Bounty only if you control an Elixir.
+Modifies creation
+When modified creation perishes, draw two cards.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/63.png" num="121">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Modifier</type>
+				<maintype>Modifier</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stupor</name>
+			<text>Artform: None
+
+Modifies creation
+Modified creation&apos;s abilities require {A}{A} more to use.
+When Stupor is put into your discard pile from a field, draw a card.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/64.png" num="122">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Modifier</type>
+				<maintype>Modifier</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Acid</name>
+			<text>Artform: Alchemy
+
+Play Acid only if you control a Potion or Elixir.
+As a cost to play this card, discard a card.
+Destroy target non-spectral creation or modifier.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/65.png" num="57">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>All the World&apos;s a Stage</name>
+			<text>Artform: Theater
+
+Reactive
+Play All the World&apos;s a Stage only if you control seven or more mediums.
+Each creation you control with a ComedyMask attached transcends 1.
+Each creation you control with a TragedyMask attached attacks 1.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/66.png" num="58">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Author&apos;s Vengeance</name>
+			<text>Artform: Writing
+
+Reactive
+Play Author&apos;s Vengeance only if you control two or more Inkwells.
+If a creation you control perished this turn, draw three cards.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/67.png" num="59">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bassdrop</name>
+			<text>Artform: Music
+
+Play Bassdrop only if you control four or more mediums.
+Put three of your composed notes into your field. Destroy them at end of turn.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/68.png" num="60">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Battle Scene</name>
+			<text>Artform: Theater
+
+Play Battle Scene only if you control a TragedyMask.
+As a cost to play Battle Scene, remove two Transcendence counters from a creation you control.
+Each creation you control attacks 1.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/69.png" num="61">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blasphemous Choice</name>
+			<text>Artform: Alchemy
+
+Play Blasphemous Choice only if you control a Potion or Elixir.
+Each opponent destroys a creation they control.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/70.png" num="62">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blunder</name>
+			<text>Artform: None
+
+Put the top four cards of your deck into your discard pile.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/71.png" num="63">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bond Through Space</name>
+			<text>Artform: None
+
+As a cost to play Bond Through Space, discard a creation card.
+Search your deck for a creation card that doesn&apos;t share an artform with the discarded card, reveal it, put it into your hand, then shuffle.
+If you&apos;ve played a card named Bond Through Time this turn, you may put a creation card from your hand into your field with two Transcendence counters.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/72.png" num="64">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bond Through Time</name>
+			<text>Artform: None
+
+As a cost to play Bond Through Time, discard a creation card.
+Put target creation card that doesn&apos;t share an artform with the discarded card from your discard pile into your hand.
+If you&apos;ve played a card named Bond Through Space this turn, you may put a creation card from your hand into your field with two Transcendence counters.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/73.png" num="65">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chains of the Void</name>
+			<text>Artform: None
+
+As a cost to play Chains of the Void, discard two cards.
+Search your deck for two modifier cards without costs, put them into your field attached to a creation you don&apos;t control, then shuffle.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/74.png" num="66">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chaos Ritual</name>
+			<text>Artform: Alchemy
+
+Play Chaos Ritual only if you control an Elixir.
+Each player discards two cards. Draw a card.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/75.png" num="67">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crafty Composition</name>
+			<text>Artform: Music
+
+As a cost to play this card, reveal two MusicNote cards from your hand and reserve them.
+Draw three cards.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/76.png" num="68">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Drench in Ink</name>
+			<text>Artform: Writing
+
+Reactive
+Play Drench in Ink only if you control two or more Inkwells.
+Play Drench in Ink only if you control six or more Mediums.
+Target card being played is put into its owner&apos;s discard pile.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/77.png" num="69">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Duplicate</name>
+			<text>Artform: None
+
+Create a token that&apos;s a copy of target creation you control.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/78.png" num="70">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Exeunt</name>
+			<text>Artform: Theater
+
+Reactive
+Play Exeunt only if you control a ComedyMask and a TragedyMask.
+Put target creation you control and target creation you don&apos;t control into their owners&apos; hands.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/79.png" num="71">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Expensive Research</name>
+			<text>Artform: None
+
+As a cost to play this card, put four cards from your reserve into your discard pile.
+Draw two cards.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/80.png" num="72">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flare of Choice</name>
+			<text>Artform: None
+
+Choose an artform. Flare of Choice deals X damage to target non-spectral creation, where X is the number of creations and modifiers you control of the chosen artform.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/81.png" num="73">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flare of Flexibility</name>
+			<text>Artform: None
+
+Flare of Flexibility deals 1 damage to target non-spectral creation for each artform among creations and modifiers you control.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/82.png" num="74">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flare of Void</name>
+			<text>Artform: None
+
+Flare of Void deals X damage to target non-spectral creation, where X is the number of creations and modifiers you control without an artform.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/83.png" num="75">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Forbidden Knowledge</name>
+			<text>Artform: Alchemy
+
+Play Forbidden Knowledge only if you control a Potion or Elixir.
+As a cost to play this card, destroy two creations you control.
+Draw three cards.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/84.png" num="76">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gift of Ink</name>
+			<text>Artform: Writing
+
+Play Gift of Ink only if you control two or more Inkwells.
+Each player draws two cards.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/85.png" num="77">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Inferno</name>
+			<text>Artform: None
+
+Play Inferno only if you control four or more mediums.
+As a cost to play Inferno, put two mediums you control into your hand.
+Destroy all creatures.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/86.png" num="79">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Inkseep</name>
+			<text>Artform: Writing
+
+Reactive
+Play Inkseep only if you control two or more Inkwells.
+Play Inkseep only if you control four or more Mediums.
+Target non-Medium non-Creation card being played is put into its owner&apos;s discard pile.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/87.png" num="81">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Inksight</name>
+			<text>Artform: Writing
+
+Play Inksight only if you control two or more Inkwells.
+Play Inksight only if you control four or more Mediums.
+Draw two cards.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/88.png" num="82">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Interrupt</name>
+			<text>Artform: Theater
+
+Reactive
+Play Interrupt only if you control a ComedyMask and a TragedyMask.
+Detach up to three mediums from target creation.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/89.png" num="83">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Learn from Ink</name>
+			<text>Artform: Writing
+
+Play Learn from Ink only if you control two or more Inkwells.
+Draw two cards, then reserve a card from your hand.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/90.png" num="84">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>March of the Undead</name>
+			<text>Artform: Alchemy
+
+Play March of the Undead only if you control two or more Elixirs.
+Put each creation in your discard pile into your field.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/91.png" num="85">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mask Crafting</name>
+			<text>Artform: Theater
+
+Play Mask Crafting only if you control five or more mediums.
+Put a Mask from your hand into your field.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/92.png" num="86">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Masquerade</name>
+			<text>Artform: Theater
+
+Play Masquerade only if you control three or more in any combination of ComedyMasks and TragedyMasks.
+Draw seven cards. Put any number of mediums from your hand into your field. Then, discard your hand.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/93.png" num="87">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Musical Stockpile</name>
+			<text>Artform: Music
+
+Reveal the top five cards of your deck. Reserve up to two MusicNote cards from among them and put the rest on the bottom of your deck in a random order. Then if no MusicNote cards were revealed this way, reserve the top card of your deck.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/94.png" num="88">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Negate</name>
+			<text>Artform: None
+
+Play Negate only if you control two or more mediums.
+As a cost to play Negate, discard a card.
+Target non-Medium card being played is put into its owner&apos;s discard pile.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/95.png" num="89">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Normalize</name>
+			<text>Artform: None
+
+Choose one —
+• Destroy target modifier.
+• Remove a Transcendence counter from target creation.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/96.png" num="90">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Obsessive Perfection</name>
+			<text>Artform: Writing
+
+Play Obsessive Perfection only if you control two or more Inkwells.
+Reserve the top card of your deck.
+If this is the fourth, eighth, or twelfth time a card you control named Obsessive Perfection has resolved this game, this card fully transcends.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/97.png" num="91">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Party Scene</name>
+			<text>Artform: Theater
+
+Play Party Scene only if you control a ComedyMask.
+As a cost to play Party Scene, remove two Transcendence counters from a creation you control.
+Each creation you control transcends 1.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/98.png" num="92">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prevent</name>
+			<text>Artform: None
+
+Reactive
+As a cost to play Prevent, discard two cards.
+Target non-Medium card being played is put into its owner&apos;s discard pile.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/99.png" num="93">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Purchase Mediums</name>
+			<text>Artform: None
+
+As a cost to play this card, discard a card.
+Search your deck for up to two medium cards, reveal them, and put them into your hand.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/100.png" num="94">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reanimate</name>
+			<text>Artform: Alchemy
+
+Play Reanimate only if you control an Elixir.
+As a cost to play this card, discard a card.
+Put target creation from your discard pile into your field. It transcends 1.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/101.png" num="95">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Remix</name>
+			<text>Artform: Music
+
+Reserve two target MusicNote cards from your discard pile.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/102.png" num="96">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Retrieve</name>
+			<text>Artform: None
+
+Put two cards from your reserve into your hand.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/103.png" num="97">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rhythmic Research</name>
+			<text>Artform: Music
+
+As a cost to play this card, trash three of your composed notes.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/104.png" num="98">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Salve</name>
+			<text>Artform: Alchemy
+
+Play Salve only if you control an Elixir.
+Put two cards of the same card type from your discard pile into your hand.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/105.png" num="99">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Search</name>
+			<text>Artform: None
+
+Look at the top three cards of your deck. Reserve one of them and put the rest on the bottom of your deck in any order.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/106.png" num="100">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seek the Sound</name>
+			<text>Artform: Music
+
+Play Seek the Sound only if you&apos;ve stockpiled this turn.
+Search your deck for a MusicNote card, reveal it, reserve it, then shuffle.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/107.png" num="101">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sequence Fracture</name>
+			<text>Artform: None
+
+Reactive
+Rearrange the stack as you choose. (Cards or abilities on the stack can&apos;t target cards or abilities above them on the stack. If a card or ability with targets on the stack has no valid chosen targets, it is put into its owner&apos;s discard pile if it&apos;s a card or deleted if it&apos;s an ability.)</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/108.png" num="102">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Siphon Through Ink</name>
+			<text>Artform: Writing
+
+Play Siphon Through Ink only if you control three or more Inkwells.
+Draw a card. Each opponent discards a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/109.png" num="103">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sonic Boom</name>
+			<text>Artform: Music
+
+Sonic Boom deals 1 damage to target non-spectral creation for each of your composed notes.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/110.png" num="104">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sonic Flare</name>
+			<text>Artform: Music
+
+As a cost to play this card, trash two of your composed notes.
+Sonic Flare deals 2 damage to target creation.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/111.png" num="105">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stifle</name>
+			<text>Artform: None
+
+Reactive
+Play Stifle only if you control four or more mediums.
+Target non-Medium card being played is put into its owner&apos;s discard pile.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ARTF-files/img/112.png" num="106">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stock Up</name>
+			<text>Artform: None
+
+Reserve the top two cards of your deck.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/113.png" num="107">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Studio Fire</name>
+			<text>Artform: None
+
+Studio Fire deals 1 damage to target creation for each medium attached to it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/114.png" num="108">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Great Mistake</name>
+			<text>Artform: Alchemy
+
+Play The Great Mistake only if you control two or more Elixirs.
+Put your deck into your discard pile. Void The Great Mistake.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/115.png" num="78">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Ink Stares Back</name>
+			<text>Artform: Writing
+
+As a cost to play this card, discard three cards and destroy a creation you control.
+Search your deck for up to five Inkwell cards, put them into your field, then shuffle. They can&apos;t be attached this turn.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/116.png" num="80">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Trickery</name>
+			<text>Artform: None
+
+Reactive
+Up to two target creations can&apos;t use attack or transcend abilities this turn.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/117.png" num="109">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Troupe Call</name>
+			<text>Artform: Theater
+
+Play Troupe Call only if you control two or more ComedyMasks and two or more TragedyMasks.
+Put a Mask from your hand into your field.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/118.png" num="110">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ultimate Rhythm</name>
+			<text>Artform: Music
+
+Play Ultimate Rhythm only if you control four or more MusicNotes.
+Reserve any number of MusicNote cards in your discard pile.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/119.png" num="111">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unmanifest</name>
+			<text>Artform: Theater
+
+Reactive
+Play Unmanifest only if you control four or more in any combination of ComedyMasks and TragedyMasks.
+Put target creation into its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ARTF-files/img/120.png" num="112">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wisdom</name>
+			<text>Artform: None
+
+Play Wisdom only if you control three or more mediums.
+Look at the top five cards of your deck and put them back in any order. You may shuffle. Draw a card.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ARTF-files/img/121.png" num="113">ARTF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tactic</type>
+				<maintype>Tactic</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
