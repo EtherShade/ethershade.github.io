@@ -1,0 +1,3796 @@
+﻿[CustomCards]
+	[
+		{
+				"name": "RG07 Tesselate",
+				"rarity": "rare",
+				"mana_cost": "{G}",
+				"type": "Instant",
+				"collector_number": "105",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/105_RG07 Tesselate.jpg"
+				}
+			},
+			{
+				"name": "RG07 Tesselate_foil",
+				"rarity": "rare",
+				"mana_cost": "{G}",
+				"type": "Instant",
+				"collector_number": "105",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/105_RG07 Tesselate.jpg"
+				}
+			},
+			{
+				"name": "CC01 Minimorphosize",
+				"rarity": "common",
+				"mana_cost": "{0}",
+				"type": "Sorcery",
+				"collector_number": "1",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/1_CC01 Minimorphosize.jpg"
+				}
+			},
+			{
+				"name": "CC01 Minimorphosize_foil",
+				"rarity": "common",
+				"mana_cost": "{0}",
+				"type": "Sorcery",
+				"collector_number": "1",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/1_CC01 Minimorphosize.jpg"
+				}
+			},
+			{
+				"name": "CW01 Loyal Companion",
+				"rarity": "common",
+				"mana_cost": "{W}",
+				"type": "Creature — Dog",
+				"collector_number": "5",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/5_CW01 Loyal Companion.jpg"
+				}
+			},
+			{
+				"name": "CW01 Loyal Companion_foil",
+				"rarity": "common",
+				"mana_cost": "{W}",
+				"type": "Creature — Dog",
+				"collector_number": "5",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/5_CW01 Loyal Companion.jpg"
+				}
+			},
+			{
+				"name": "UW01 Fountain Familiar",
+				"rarity": "uncommon",
+				"mana_cost": "{W}",
+				"type": "Creature — Cat",
+				"collector_number": "22",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/22_UW01 Fountain Familiar.jpg"
+				}
+			},
+			{
+				"name": "UW01 Fountain Familiar_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{W}",
+				"type": "Creature — Cat",
+				"collector_number": "22",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/22_UW01 Fountain Familiar.jpg"
+				}
+			},
+			{
+				"name": "RA01 Storage Bauble",
+				"rarity": "rare",
+				"mana_cost": "{0}",
+				"type": "Artifact",
+				"collector_number": "128",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/128_RA01 Storage Bauble.jpg"
+				}
+			},
+			{
+				"name": "RA01 Storage Bauble_foil",
+				"rarity": "rare",
+				"mana_cost": "{0}",
+				"type": "Artifact",
+				"collector_number": "128",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/128_RA01 Storage Bauble.jpg"
+				}
+			},
+			{
+				"name": "CL12 Morphing Pool",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "140",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/140_CL12 Morphing Pool.jpg"
+				}
+			},
+			{
+				"name": "CL12 Morphing Pool_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "140",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/140_CL12 Morphing Pool.jpg"
+				}
+			},
+			{
+				"name": "CU01 Unhinged Assistant",
+				"rarity": "common",
+				"mana_cost": "{U}",
+				"type": "Creature — Human Laborer Advisor",
+				"collector_number": "25",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/25_CU01 Unhinged Assistant.jpg"
+				}
+			},
+			{
+				"name": "CU01 Unhinged Assistant_foil",
+				"rarity": "common",
+				"mana_cost": "{U}",
+				"type": "Creature — Human Laborer Advisor",
+				"collector_number": "25",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/25_CU01 Unhinged Assistant.jpg"
+				}
+			},
+			{
+				"name": "CG01 Floral Recultivator",
+				"rarity": "common",
+				"mana_cost": "{G}",
+				"type": "Creature — Human Citizen Druid",
+				"collector_number": "88",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/88_CG01 Floral Recultivator.jpg"
+				}
+			},
+			{
+				"name": "CG01 Floral Recultivator_foil",
+				"rarity": "common",
+				"mana_cost": "{G}",
+				"type": "Creature — Human Citizen Druid",
+				"collector_number": "88",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/88_CG01 Floral Recultivator.jpg"
+				}
+			},
+			{
+				"name": "CR01 Manaforce Fireweaver",
+				"rarity": "common",
+				"mana_cost": "{R}",
+				"type": "Creature — Goblin Shaman",
+				"collector_number": "65",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/65_CR01 Manaforce Fireweaver.jpg"
+				}
+			},
+			{
+				"name": "CR01 Manaforce Fireweaver_foil",
+				"rarity": "common",
+				"mana_cost": "{R}",
+				"type": "Creature — Goblin Shaman",
+				"collector_number": "65",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/65_CR01 Manaforce Fireweaver.jpg"
+				}
+			},
+			{
+				"name": "CL01 Pillar of Loyalty",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "129",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/129_CL01 Pillar of Loyalty.jpg"
+				}
+			},
+			{
+				"name": "CL01 Pillar of Loyalty_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "129",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/129_CL01 Pillar of Loyalty.jpg"
+				}
+			},
+			{
+				"name": "CL02 Pillar of Knowledge",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "130",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/130_CL02 Pillar of Knowledge.jpg"
+				}
+			},
+			{
+				"name": "CL02 Pillar of Knowledge_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "130",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/130_CL02 Pillar of Knowledge.jpg"
+				}
+			},
+			{
+				"name": "CL03 Pillar of Knowledge",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "131",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/131_CL03 Pillar of Knowledge.jpg"
+				}
+			},
+			{
+				"name": "CL03 Pillar of Knowledge_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "131",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/131_CL03 Pillar of Knowledge.jpg"
+				}
+			},
+			{
+				"name": "CL04 Pillar of Knowledge",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "132",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/132_CL04 Pillar of Knowledge.jpg"
+				}
+			},
+			{
+				"name": "CL04 Pillar of Knowledge_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "132",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/132_CL04 Pillar of Knowledge.jpg"
+				}
+			},
+			{
+				"name": "CL05 Pillar of Strength",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "133",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/133_CL05 Pillar of Strength.jpg"
+				}
+			},
+			{
+				"name": "CL05 Pillar of Strength_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "133",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/133_CL05 Pillar of Strength.jpg"
+				}
+			},
+			{
+				"name": "CL06 Investigator's Office",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "134",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/134_CL06 Investigator's Office.jpg"
+				}
+			},
+			{
+				"name": "CL06 Investigator's Office_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "134",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/134_CL06 Investigator's Office.jpg"
+				}
+			},
+			{
+				"name": "CL07 Archaeologist's Office",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "135",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/135_CL07 Archaeologist's Office.jpg"
+				}
+			},
+			{
+				"name": "CL07 Archaeologist's Office_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "135",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/135_CL07 Archaeologist's Office.jpg"
+				}
+			},
+			{
+				"name": "CL08 Genetecist's Office",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "136",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/136_CL08 Genetecist's Office.jpg"
+				}
+			},
+			{
+				"name": "CL08 Genetecist's Office_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "136",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/136_CL08 Genetecist's Office.jpg"
+				}
+			},
+			{
+				"name": "CL09 Shareholder's Office",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "137",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/137_CL09 Shareholder's Office.jpg"
+				}
+			},
+			{
+				"name": "CL09 Shareholder's Office_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "137",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/137_CL09 Shareholder's Office.jpg"
+				}
+			},
+			{
+				"name": "CL10 Manager's Office",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "138",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/138_CL10 Manager's Office.jpg"
+				}
+			},
+			{
+				"name": "CL10 Manager's Office_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "138",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/138_CL10 Manager's Office.jpg"
+				}
+			},
+			{
+				"name": "UW09 Mirrorshine Master",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{W}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "24",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/24_UW09 Mirrorshine Master.jpg"
+				}
+			},
+			{
+				"name": "UW09 Mirrorshine Master_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{W}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "24",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/24_UW09 Mirrorshine Master.jpg"
+				}
+			},
+			{
+				"name": "Clue Token",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Artifact — Clue",
+				"collector_number": "4",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/4t_Clue Token.jpg"
+				}
+			},
+			{
+				"name": "Clue Token_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Artifact — Clue",
+				"collector_number": "4",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/4t_Clue Token.jpg"
+				}
+			},
+			{
+				"name": "Bone Token",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Artifact — Bone",
+				"collector_number": "3",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/3t_Bone Token.jpg"
+				}
+			},
+			{
+				"name": "Bone Token_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Artifact — Bone",
+				"collector_number": "3",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/3t_Bone Token.jpg"
+				}
+			},
+			{
+				"name": "Treasure Token",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Artifact — Treasure",
+				"collector_number": "6",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/6t_Treasure Token.jpg"
+				}
+			},
+			{
+				"name": "Treasure Token_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Artifact — Treasure",
+				"collector_number": "6",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/6t_Treasure Token.jpg"
+				}
+			},
+			{
+				"name": "Blood Token",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Artifact — Blood",
+				"collector_number": "2",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/2t_Blood Token.jpg"
+				}
+			},
+			{
+				"name": "Blood Token_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Artifact — Blood",
+				"collector_number": "2",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/2t_Blood Token.jpg"
+				}
+			},
+			{
+				"name": "Food Token",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Artifact — Food",
+				"collector_number": "5",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/5t_Food Token.jpg"
+				}
+			},
+			{
+				"name": "Food Token_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Artifact — Food",
+				"collector_number": "5",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/5t_Food Token.jpg"
+				}
+			},
+			{
+				"name": "CW08 Market Caller",
+				"rarity": "common",
+				"mana_cost": "{3}{W}",
+				"type": "Creature — Human Merchant",
+				"collector_number": "12",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/12_CW08 Market Caller.jpg"
+				}
+			},
+			{
+				"name": "CW08 Market Caller_foil",
+				"rarity": "common",
+				"mana_cost": "{3}{W}",
+				"type": "Creature — Human Merchant",
+				"collector_number": "12",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/12_CW08 Market Caller.jpg"
+				}
+			},
+			{
+				"name": "CW02 Relicpurge Martyr",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Human Warrior",
+				"collector_number": "6",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/6_CW02 Relicpurge Martyr.jpg"
+				}
+			},
+			{
+				"name": "CW02 Relicpurge Martyr_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Human Warrior",
+				"collector_number": "6",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/6_CW02 Relicpurge Martyr.jpg"
+				}
+			},
+			{
+				"name": "CW03 Annoying Lawyer",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Human Advisor",
+				"collector_number": "7",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/7_CW03 Annoying Lawyer.jpg"
+				}
+			},
+			{
+				"name": "CW03 Annoying Lawyer_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Human Advisor",
+				"collector_number": "7",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/7_CW03 Annoying Lawyer.jpg"
+				}
+			},
+			{
+				"name": "CW04 Taxation Specialist",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Human Advisor Scholar",
+				"collector_number": "8",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/8_CW04 Taxation Specialist.jpg"
+				}
+			},
+			{
+				"name": "CW04 Taxation Specialist_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Human Advisor Scholar",
+				"collector_number": "8",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/8_CW04 Taxation Specialist.jpg"
+				}
+			},
+			{
+				"name": "CW06 Shine-Blight Shaman",
+				"rarity": "common",
+				"mana_cost": "{2}{W}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "10",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/10_CW06 Shine-Blight Shaman.jpg"
+				}
+			},
+			{
+				"name": "CW06 Shine-Blight Shaman_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{W}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "10",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/10_CW06 Shine-Blight Shaman.jpg"
+				}
+			},
+			{
+				"name": "CW07 Abiding Face",
+				"rarity": "common",
+				"mana_cost": "{2}{W}",
+				"type": "Artifact Creature — Golem Angel Horror",
+				"collector_number": "11",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/11_CW07 Abiding Face.jpg"
+				}
+			},
+			{
+				"name": "CW07 Abiding Face_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{W}",
+				"type": "Artifact Creature — Golem Angel Horror",
+				"collector_number": "11",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/11_CW07 Abiding Face.jpg"
+				}
+			},
+			{
+				"name": "CW05 Shine-Blight Inquisitor",
+				"rarity": "common",
+				"mana_cost": "{2}{W}",
+				"type": "Creature — Human Cleric Soldier",
+				"collector_number": "9",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/9_CW05 Shine-Blight Inquisitor.jpg"
+				}
+			},
+			{
+				"name": "CW05 Shine-Blight Inquisitor_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{W}",
+				"type": "Creature — Human Cleric Soldier",
+				"collector_number": "9",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/9_CW05 Shine-Blight Inquisitor.jpg"
+				}
+			},
+			{
+				"name": "CL13 Laboratory of Insanity",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "141",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/141_CL13 Laboratory of Insanity.jpg"
+				}
+			},
+			{
+				"name": "CL13 Laboratory of Insanity_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "141",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/141_CL13 Laboratory of Insanity.jpg"
+				}
+			},
+			{
+				"name": "CW09 The Eternity-Bartered Cow",
+				"rarity": "common",
+				"mana_cost": "{3}{W}",
+				"type": "Legendary Creature — Transmortal Cow",
+				"collector_number": "13",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/13_CW09 The Eternity-Bartered Cow.jpg"
+				}
+			},
+			{
+				"name": "CW09 The Eternity-Bartered Cow_foil",
+				"rarity": "common",
+				"mana_cost": "{3}{W}",
+				"type": "Legendary Creature — Transmortal Cow",
+				"collector_number": "13",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/13_CW09 The Eternity-Bartered Cow.jpg"
+				}
+			},
+			{
+				"name": "CW10 Manyfold Glutton",
+				"rarity": "common",
+				"mana_cost": "{3}{W}{W}",
+				"type": "Creature — Bird Cat Dog Cow Horror",
+				"collector_number": "14",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/14_CW10 Manyfold Glutton.jpg"
+				}
+			},
+			{
+				"name": "CW10 Manyfold Glutton_foil",
+				"rarity": "common",
+				"mana_cost": "{3}{W}{W}",
+				"type": "Creature — Bird Cat Dog Cow Horror",
+				"collector_number": "14",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/14_CW10 Manyfold Glutton.jpg"
+				}
+			},
+			{
+				"name": "CW12 Potent Reprisal",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Instant",
+				"collector_number": "16",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/16_CW12 Potent Reprisal.jpg"
+				}
+			},
+			{
+				"name": "CW12 Potent Reprisal_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Instant",
+				"collector_number": "16",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/16_CW12 Potent Reprisal.jpg"
+				}
+			},
+			{
+				"name": "CC02 Microtwiddle",
+				"rarity": "common",
+				"mana_cost": "{0}",
+				"type": "Instant",
+				"collector_number": "2",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/2_CC02 Microtwiddle.jpg"
+				}
+			},
+			{
+				"name": "CC02 Microtwiddle_foil",
+				"rarity": "common",
+				"mana_cost": "{0}",
+				"type": "Instant",
+				"collector_number": "2",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/2_CC02 Microtwiddle.jpg"
+				}
+			},
+			{
+				"name": "CW13 Banishing Glitchcraft",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Sorcery",
+				"collector_number": "17",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/17_CW13 Banishing Glitchcraft.jpg"
+				}
+			},
+			{
+				"name": "CW13 Banishing Glitchcraft_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Sorcery",
+				"collector_number": "17",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/17_CW13 Banishing Glitchcraft.jpg"
+				}
+			},
+			{
+				"name": "UW02 Influential Mentor",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Human Advisor",
+				"collector_number": "23",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/23_UW02 Influential Mentor.jpg"
+				}
+			},
+			{
+				"name": "UW02 Influential Mentor_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Human Advisor",
+				"collector_number": "23",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/23_UW02 Influential Mentor.jpg"
+				}
+			},
+			{
+				"name": "CW14 Flow of Unity",
+				"rarity": "common",
+				"mana_cost": "{W}",
+				"type": "Instant",
+				"collector_number": "18",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/18_CW14 Flow of Unity.jpg"
+				}
+			},
+			{
+				"name": "CW14 Flow of Unity_foil",
+				"rarity": "common",
+				"mana_cost": "{W}",
+				"type": "Instant",
+				"collector_number": "18",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/18_CW14 Flow of Unity.jpg"
+				}
+			},
+			{
+				"name": "CW15 Paperwork Boomerang",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Instant",
+				"collector_number": "19",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/19_CW15 Paperwork Boomerang.jpg"
+				}
+			},
+			{
+				"name": "CW15 Paperwork Boomerang_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Instant",
+				"collector_number": "19",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/19_CW15 Paperwork Boomerang.jpg"
+				}
+			},
+			{
+				"name": "Citizen Token",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Citizen",
+				"collector_number": "1",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/1t_Citizen Token.jpg"
+				}
+			},
+			{
+				"name": "Citizen Token_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Citizen",
+				"collector_number": "1",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/1t_Citizen Token.jpg"
+				}
+			},
+			{
+				"name": "CL11 Politician's Office",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "139",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/139_CL11 Politician's Office.jpg"
+				}
+			},
+			{
+				"name": "CL11 Politician's Office_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "139",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/139_CL11 Politician's Office.jpg"
+				}
+			},
+			{
+				"name": "CL15 Redacted Basement",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "143",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/143_CL15 Redacted Basement.jpg"
+				}
+			},
+			{
+				"name": "CL15 Redacted Basement_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "143",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/143_CL15 Redacted Basement.jpg"
+				}
+			},
+			{
+				"name": "CL14 Spire of Renewability",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "142",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/142_CL14 Spire of Renewability.jpg"
+				}
+			},
+			{
+				"name": "CL14 Spire of Renewability_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "142",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/142_CL14 Spire of Renewability.jpg"
+				}
+			},
+			{
+				"name": "CU04 Eater of Detectives",
+				"rarity": "common",
+				"mana_cost": "{2}{U}",
+				"type": "Creature — Goat",
+				"collector_number": "28",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/28_CU04 Eater of Detectives.jpg"
+				}
+			},
+			{
+				"name": "CU04 Eater of Detectives_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{U}",
+				"type": "Creature — Goat",
+				"collector_number": "28",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/28_CU04 Eater of Detectives.jpg"
+				}
+			},
+			{
+				"name": "UU02 Hunted Practitioner",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{U}",
+				"type": "Creature — Human Wizard",
+				"collector_number": "42",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/42_UU02 Hunted Practitioner.jpg"
+				}
+			},
+			{
+				"name": "UU02 Hunted Practitioner_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{U}",
+				"type": "Creature — Human Wizard",
+				"collector_number": "42",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/42_UU02 Hunted Practitioner.jpg"
+				}
+			},
+			{
+				"name": "CU03 Taxation Philosopher",
+				"rarity": "common",
+				"mana_cost": "{1}{U}",
+				"type": "Creature — Human Advisor",
+				"collector_number": "27",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/27_CU03 Taxation Philosopher.jpg"
+				}
+			},
+			{
+				"name": "CU03 Taxation Philosopher_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{U}",
+				"type": "Creature — Human Advisor",
+				"collector_number": "27",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/27_CU03 Taxation Philosopher.jpg"
+				}
+			},
+			{
+				"name": "RR07 Ancient Ambush",
+				"rarity": "rare",
+				"mana_cost": "{3}{R}",
+				"type": "Sorcery",
+				"collector_number": "83",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/83_RR07 Ancient Ambush.jpg"
+				}
+			},
+			{
+				"name": "RR07 Ancient Ambush_foil",
+				"rarity": "rare",
+				"mana_cost": "{3}{R}",
+				"type": "Sorcery",
+				"collector_number": "83",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/83_RR07 Ancient Ambush.jpg"
+				}
+			},
+			{
+				"name": "CU02 Tempestborn Drake",
+				"rarity": "common",
+				"mana_cost": "{1}{U}",
+				"type": "Creature — Drake",
+				"collector_number": "26",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/26_CU02 Tempestborn Drake.jpg"
+				}
+			},
+			{
+				"name": "CU02 Tempestborn Drake_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{U}",
+				"type": "Creature — Drake",
+				"collector_number": "26",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/26_CU02 Tempestborn Drake.jpg"
+				}
+			},
+			{
+				"name": "CU05 Wizardblood Licker",
+				"rarity": "common",
+				"mana_cost": "{2}{U}",
+				"type": "Creature — Frog",
+				"collector_number": "29",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/29_CU05 Wizardblood Licker.jpg"
+				}
+			},
+			{
+				"name": "CU05 Wizardblood Licker_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{U}",
+				"type": "Creature — Frog",
+				"collector_number": "29",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/29_CU05 Wizardblood Licker.jpg"
+				}
+			},
+			{
+				"name": "CU08 Calculating Cadaver",
+				"rarity": "common",
+				"mana_cost": "{5}{U}",
+				"type": "Creature — Zombie Drone",
+				"collector_number": "32",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/32_CU08 Calculating Cadaver.jpg"
+				}
+			},
+			{
+				"name": "CU08 Calculating Cadaver_foil",
+				"rarity": "common",
+				"mana_cost": "{5}{U}",
+				"type": "Creature — Zombie Drone",
+				"collector_number": "32",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/32_CU08 Calculating Cadaver.jpg"
+				}
+			},
+			{
+				"name": "CB03 Specter of Ninjacraft",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Creature — Ninja Specter",
+				"collector_number": "47",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/47_CB03 Specter of Ninjacraft.jpg"
+				}
+			},
+			{
+				"name": "CB03 Specter of Ninjacraft_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Creature — Ninja Specter",
+				"collector_number": "47",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/47_CB03 Specter of Ninjacraft.jpg"
+				}
+			},
+			{
+				"name": "CU06 The Narcotoad",
+				"rarity": "common",
+				"mana_cost": "{3}{U}",
+				"type": "Legendary Creature — Frog Illusion",
+				"collector_number": "30",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/30_CU06 The Narcotoad.jpg"
+				}
+			},
+			{
+				"name": "CU06 The Narcotoad_foil",
+				"rarity": "common",
+				"mana_cost": "{3}{U}",
+				"type": "Legendary Creature — Frog Illusion",
+				"collector_number": "30",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/30_CU06 The Narcotoad.jpg"
+				}
+			},
+			{
+				"name": "RB08 Lifeblood Pinnacle",
+				"rarity": "rare",
+				"mana_cost": "{B}",
+				"type": "Artifact",
+				"collector_number": "63",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/63_RB08 Lifeblood Pinnacle.jpg"
+				}
+			},
+			{
+				"name": "RB08 Lifeblood Pinnacle_foil",
+				"rarity": "rare",
+				"mana_cost": "{B}",
+				"type": "Artifact",
+				"collector_number": "63",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/63_RB08 Lifeblood Pinnacle.jpg"
+				}
+			},
+			{
+				"name": "RC01 Strained Evolver",
+				"rarity": "rare",
+				"mana_cost": "{2}",
+				"type": "Creature — Human Mutant",
+				"collector_number": "4",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/4_RC01 Strained Evolver.jpg"
+				}
+			},
+			{
+				"name": "RC01 Strained Evolver_foil",
+				"rarity": "rare",
+				"mana_cost": "{2}",
+				"type": "Creature — Human Mutant",
+				"collector_number": "4",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/4_RC01 Strained Evolver.jpg"
+				}
+			},
+			{
+				"name": "UR01 Aggressive Populace",
+				"rarity": "uncommon",
+				"mana_cost": "{R}",
+				"type": "Instant",
+				"collector_number": "84",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/84_UR01 Aggressive Populace.jpg"
+				}
+			},
+			{
+				"name": "UR01 Aggressive Populace_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{R}",
+				"type": "Instant",
+				"collector_number": "84",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/84_UR01 Aggressive Populace.jpg"
+				}
+			},
+			{
+				"name": "RB07 Fact and Fiction",
+				"rarity": "rare",
+				"mana_cost": "{2}{B}",
+				"type": "Instant",
+				"collector_number": "62",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/62_RB07 Fact and Fiction.jpg"
+				}
+			},
+			{
+				"name": "RB07 Fact and Fiction_foil",
+				"rarity": "rare",
+				"mana_cost": "{2}{B}",
+				"type": "Instant",
+				"collector_number": "62",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/62_RB07 Fact and Fiction.jpg"
+				}
+			},
+			{
+				"name": "UM02 Psychic Toad",
+				"rarity": "uncommon",
+				"mana_cost": "{U}{B}",
+				"type": "Creature — Frog",
+				"collector_number": "108",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/108_UM02 Psychic Toad.jpg"
+				}
+			},
+			{
+				"name": "UM02 Psychic Toad_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{U}{B}",
+				"type": "Creature — Frog",
+				"collector_number": "108",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/108_UM02 Psychic Toad.jpg"
+				}
+			},
+			{
+				"name": "CU07 Glitching Fleshbeast",
+				"rarity": "common",
+				"mana_cost": "{3}{U}{U}",
+				"type": "Creature — Zombie Beast Horror Reflection",
+				"collector_number": "31",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/31_CU07 Glitching Fleshbeast.jpg"
+				}
+			},
+			{
+				"name": "CU07 Glitching Fleshbeast_foil",
+				"rarity": "common",
+				"mana_cost": "{3}{U}{U}",
+				"type": "Creature — Zombie Beast Horror Reflection",
+				"collector_number": "31",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/31_CU07 Glitching Fleshbeast.jpg"
+				}
+			},
+			{
+				"name": "UM01 Taxation Riddler",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{U}",
+				"type": "Creature — Sphinx",
+				"collector_number": "107",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/107_UM01 Taxation Riddler.jpg"
+				}
+			},
+			{
+				"name": "UM01 Taxation Riddler_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{U}",
+				"type": "Creature — Sphinx",
+				"collector_number": "107",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/107_UM01 Taxation Riddler.jpg"
+				}
+			},
+			{
+				"name": "CU10 Butcher's Negation",
+				"rarity": "common",
+				"mana_cost": "{U}",
+				"type": "Instant",
+				"collector_number": "34",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/34_CU10 Butcher's Negation.jpg"
+				}
+			},
+			{
+				"name": "CU10 Butcher's Negation_foil",
+				"rarity": "common",
+				"mana_cost": "{U}",
+				"type": "Instant",
+				"collector_number": "34",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/34_CU10 Butcher's Negation.jpg"
+				}
+			},
+			{
+				"name": "CU09 Potent Retreat",
+				"rarity": "common",
+				"mana_cost": "{1}{U}",
+				"type": "Instant",
+				"collector_number": "33",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/33_CU09 Potent Retreat.jpg"
+				}
+			},
+			{
+				"name": "CU09 Potent Retreat_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{U}",
+				"type": "Instant",
+				"collector_number": "33",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/33_CU09 Potent Retreat.jpg"
+				}
+			},
+			{
+				"name": "CU13 Flow of Logic",
+				"rarity": "common",
+				"mana_cost": "{U}",
+				"type": "Sorcery",
+				"collector_number": "37",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/37_CU13 Flow of Logic.jpg"
+				}
+			},
+			{
+				"name": "CU13 Flow of Logic_foil",
+				"rarity": "common",
+				"mana_cost": "{U}",
+				"type": "Sorcery",
+				"collector_number": "37",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/37_CU13 Flow of Logic.jpg"
+				}
+			},
+			{
+				"name": "CU11 Civic Pressure",
+				"rarity": "common",
+				"mana_cost": "{U}",
+				"type": "Instant",
+				"collector_number": "35",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/35_CU11 Civic Pressure.jpg"
+				}
+			},
+			{
+				"name": "CU11 Civic Pressure_foil",
+				"rarity": "common",
+				"mana_cost": "{U}",
+				"type": "Instant",
+				"collector_number": "35",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/35_CU11 Civic Pressure.jpg"
+				}
+			},
+			{
+				"name": "CU12 Glitched Out",
+				"rarity": "common",
+				"mana_cost": "{U}",
+				"type": "Enchantment — Aura",
+				"collector_number": "36",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/36_CU12 Glitched Out.jpg"
+				}
+			},
+			{
+				"name": "CU12 Glitched Out_foil",
+				"rarity": "common",
+				"mana_cost": "{U}",
+				"type": "Enchantment — Aura",
+				"collector_number": "36",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/36_CU12 Glitched Out.jpg"
+				}
+			},
+			{
+				"name": "CU14 Swift Analysis",
+				"rarity": "common",
+				"mana_cost": "{2}{U}",
+				"type": "Instant",
+				"collector_number": "38",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/38_CU14 Swift Analysis.jpg"
+				}
+			},
+			{
+				"name": "CU14 Swift Analysis_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{U}",
+				"type": "Instant",
+				"collector_number": "38",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/38_CU14 Swift Analysis.jpg"
+				}
+			},
+			{
+				"name": "CU15 Peruse Trinkets",
+				"rarity": "common",
+				"mana_cost": "{U}",
+				"type": "Sorcery",
+				"collector_number": "39",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/39_CU15 Peruse Trinkets.jpg"
+				}
+			},
+			{
+				"name": "CU15 Peruse Trinkets_foil",
+				"rarity": "common",
+				"mana_cost": "{U}",
+				"type": "Sorcery",
+				"collector_number": "39",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/39_CU15 Peruse Trinkets.jpg"
+				}
+			},
+			{
+				"name": "RB01 Machina, Fingers of Cruelty",
+				"rarity": "rare",
+				"mana_cost": "{B}",
+				"type": "Legendary Creature — Hand",
+				"collector_number": "60",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/60_RB01 Machina, Fingers of Cruelty.jpg"
+				}
+			},
+			{
+				"name": "RB01 Machina, Fingers of Cruelty_foil",
+				"rarity": "rare",
+				"mana_cost": "{B}",
+				"type": "Legendary Creature — Hand",
+				"collector_number": "60",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/60_RB01 Machina, Fingers of Cruelty.jpg"
+				}
+			},
+			{
+				"name": "RU01 Ocula, Lenses of Logic",
+				"rarity": "rare",
+				"mana_cost": "{U}",
+				"type": "Legendary Creature — Eye",
+				"collector_number": "40",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/40_RU01 Ocula, Lenses of Logic.jpg"
+				}
+			},
+			{
+				"name": "RU01 Ocula, Lenses of Logic_foil",
+				"rarity": "rare",
+				"mana_cost": "{U}",
+				"type": "Legendary Creature — Eye",
+				"collector_number": "40",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/40_RU01 Ocula, Lenses of Logic.jpg"
+				}
+			},
+			{
+				"name": "CB02 Prized Vessel",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Creature — Rat Horror",
+				"collector_number": "46",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/46_CB02 Prized Vessel.jpg"
+				}
+			},
+			{
+				"name": "CB02 Prized Vessel_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Creature — Rat Horror",
+				"collector_number": "46",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/46_CB02 Prized Vessel.jpg"
+				}
+			},
+			{
+				"name": "CB01 Mana Broker",
+				"rarity": "common",
+				"mana_cost": "{B}",
+				"type": "Creature — Human Merchant Warlock",
+				"collector_number": "45",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/45_CB01 Mana Broker.jpg"
+				}
+			},
+			{
+				"name": "CB01 Mana Broker_foil",
+				"rarity": "common",
+				"mana_cost": "{B}",
+				"type": "Creature — Human Merchant Warlock",
+				"collector_number": "45",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/45_CB01 Mana Broker.jpg"
+				}
+			},
+			{
+				"name": "UR10 Exponential Inferno",
+				"rarity": "uncommon",
+				"mana_cost": "{X}{R}{R}",
+				"type": "Instant",
+				"collector_number": "87",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/87_UR10 Exponential Inferno.jpg"
+				}
+			},
+			{
+				"name": "UR10 Exponential Inferno_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{X}{R}{R}",
+				"type": "Instant",
+				"collector_number": "87",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/87_UR10 Exponential Inferno.jpg"
+				}
+			},
+			{
+				"name": "UU09 Election Fraud",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{U}",
+				"type": "Sorcery",
+				"collector_number": "44",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/44_UU09 Election Fraud.jpg"
+				}
+			},
+			{
+				"name": "UU09 Election Fraud_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{U}",
+				"type": "Sorcery",
+				"collector_number": "44",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/44_UU09 Election Fraud.jpg"
+				}
+			},
+			{
+				"name": "RW01 Lingua, Tastes of Unity",
+				"rarity": "rare",
+				"mana_cost": "{W}",
+				"type": "Legendary Creature — Advisor",
+				"collector_number": "20",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/20_RW01 Lingua, Tastes of Unity.jpg"
+				}
+			},
+			{
+				"name": "RW01 Lingua, Tastes of Unity_foil",
+				"rarity": "rare",
+				"mana_cost": "{W}",
+				"type": "Legendary Creature — Advisor",
+				"collector_number": "20",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/20_RW01 Lingua, Tastes of Unity.jpg"
+				}
+			},
+			{
+				"name": "RG01 Capita, Commands of Might",
+				"rarity": "rare",
+				"mana_cost": "{G}",
+				"type": "Legendary Creature — Hydra",
+				"collector_number": "103",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/103_RG01 Capita, Commands of Might.jpg"
+				}
+			},
+			{
+				"name": "RG01 Capita, Commands of Might_foil",
+				"rarity": "rare",
+				"mana_cost": "{G}",
+				"type": "Legendary Creature — Hydra",
+				"collector_number": "103",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/103_RG01 Capita, Commands of Might.jpg"
+				}
+			},
+			{
+				"name": "RR01 Kardia, Beats of Passion",
+				"rarity": "rare",
+				"mana_cost": "{R}",
+				"type": "Legendary Creature — Homunculus",
+				"collector_number": "80",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/80_RR01 Kardia, Beats of Passion.jpg"
+				}
+			},
+			{
+				"name": "RR01 Kardia, Beats of Passion_foil",
+				"rarity": "rare",
+				"mana_cost": "{R}",
+				"type": "Legendary Creature — Homunculus",
+				"collector_number": "80",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/80_RR01 Kardia, Beats of Passion.jpg"
+				}
+			},
+			{
+				"name": "CB05 Delicacy Devourer",
+				"rarity": "common",
+				"mana_cost": "{2}{B}",
+				"type": "Creature — Human Noble",
+				"collector_number": "49",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/49_CB05 Delicacy Devourer.jpg"
+				}
+			},
+			{
+				"name": "CB05 Delicacy Devourer_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{B}",
+				"type": "Creature — Human Noble",
+				"collector_number": "49",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/49_CB05 Delicacy Devourer.jpg"
+				}
+			},
+			{
+				"name": "Plains",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Land — Plains",
+				"collector_number": "144",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/144_Plains.jpg"
+				}
+			},
+			{
+				"name": "Plains_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Land — Plains",
+				"collector_number": "144",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/144_Plains.jpg"
+				}
+			},
+			{
+				"name": "Island",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Land — Island",
+				"collector_number": "145",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/145_Island.jpg"
+				}
+			},
+			{
+				"name": "Island_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Land — Island",
+				"collector_number": "145",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/145_Island.jpg"
+				}
+			},
+			{
+				"name": "Swamp",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Land — Swamp",
+				"collector_number": "146",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/146_Swamp.jpg"
+				}
+			},
+			{
+				"name": "Swamp_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Land — Swamp",
+				"collector_number": "146",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/146_Swamp.jpg"
+				}
+			},
+			{
+				"name": "Mountain",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Land — Mountain",
+				"collector_number": "147",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/147_Mountain.jpg"
+				}
+			},
+			{
+				"name": "Mountain_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Land — Mountain",
+				"collector_number": "147",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/147_Mountain.jpg"
+				}
+			},
+			{
+				"name": "Forest",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Land — Forest",
+				"collector_number": "148",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/148_Forest.jpg"
+				}
+			},
+			{
+				"name": "Forest_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Basic Land — Forest",
+				"collector_number": "148",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/148_Forest.jpg"
+				}
+			},
+			{
+				"name": "UM03 Taxbreaker Emissary",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{R}",
+				"type": "Creature — Human Advisor",
+				"collector_number": "109",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/109_UM03 Taxbreaker Emissary.jpg"
+				}
+			},
+			{
+				"name": "UM03 Taxbreaker Emissary_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{R}",
+				"type": "Creature — Human Advisor",
+				"collector_number": "109",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/109_UM03 Taxbreaker Emissary.jpg"
+				}
+			},
+			{
+				"name": "UM08 Dumpster Devourer",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{G}",
+				"type": "Creature — Human Rogue",
+				"collector_number": "114",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/114_UM08 Dumpster Devourer.jpg"
+				}
+			},
+			{
+				"name": "UM08 Dumpster Devourer_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{G}",
+				"type": "Creature — Human Rogue",
+				"collector_number": "114",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/114_UM08 Dumpster Devourer.jpg"
+				}
+			},
+			{
+				"name": "UM04 Terrain Sculptor",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{G}",
+				"type": "Creature — Human Laborer",
+				"collector_number": "110",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/110_UM04 Terrain Sculptor.jpg"
+				}
+			},
+			{
+				"name": "UM04 Terrain Sculptor_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{G}",
+				"type": "Creature — Human Laborer",
+				"collector_number": "110",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/110_UM04 Terrain Sculptor.jpg"
+				}
+			},
+			{
+				"name": "UM05 Gluttonous Socialite",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{W}",
+				"type": "Creature — Human Citizen",
+				"collector_number": "111",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/111_UM05 Gluttonous Socialite.jpg"
+				}
+			},
+			{
+				"name": "UM05 Gluttonous Socialite_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{W}",
+				"type": "Creature — Human Citizen",
+				"collector_number": "111",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/111_UM05 Gluttonous Socialite.jpg"
+				}
+			},
+			{
+				"name": "UM06 Chef Ascendant",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{B}",
+				"type": "Creature — Human Chef Horror",
+				"collector_number": "112",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/112_UM06 Chef Ascendant.jpg"
+				}
+			},
+			{
+				"name": "UM06 Chef Ascendant_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{B}",
+				"type": "Creature — Human Chef Horror",
+				"collector_number": "112",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/112_UM06 Chef Ascendant.jpg"
+				}
+			},
+			{
+				"name": "UM21 Gluttonous Glitchcraft",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{B}{G}",
+				"type": "Sorcery",
+				"collector_number": "127",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/127_UM21 Gluttonous Glitchcraft.jpg"
+				}
+			},
+			{
+				"name": "UM21 Gluttonous Glitchcraft_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{B}{G}",
+				"type": "Sorcery",
+				"collector_number": "127",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/127_UM21 Gluttonous Glitchcraft.jpg"
+				}
+			},
+			{
+				"name": "UM07 Archaic Levitator-Mage",
+				"rarity": "uncommon",
+				"mana_cost": "{U}{R}",
+				"type": "Creature — Human Wizard",
+				"collector_number": "113",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/113_UM07 Archaic Levitator-Mage.jpg"
+				}
+			},
+			{
+				"name": "UM07 Archaic Levitator-Mage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{U}{R}",
+				"type": "Creature — Human Wizard",
+				"collector_number": "113",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/113_UM07 Archaic Levitator-Mage.jpg"
+				}
+			},
+			{
+				"name": "RR06 Twiddling Tamperer",
+				"rarity": "rare",
+				"mana_cost": "{1}{R}",
+				"type": "Creature — Human Rogue",
+				"collector_number": "82",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/82_RR06 Twiddling Tamperer.jpg"
+				}
+			},
+			{
+				"name": "RR06 Twiddling Tamperer_foil",
+				"rarity": "rare",
+				"mana_cost": "{1}{R}",
+				"type": "Creature — Human Rogue",
+				"collector_number": "82",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/82_RR06 Twiddling Tamperer.jpg"
+				}
+			},
+			{
+				"name": "UM09 Trinket Burner",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{W}",
+				"type": "Creature — Human Rogue",
+				"collector_number": "115",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/115_UM09 Trinket Burner.jpg"
+				}
+			},
+			{
+				"name": "UM09 Trinket Burner_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{W}",
+				"type": "Creature — Human Rogue",
+				"collector_number": "115",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/115_UM09 Trinket Burner.jpg"
+				}
+			},
+			{
+				"name": "UM10 Mana-Rich Taxpayer",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{U}",
+				"type": "Creature — Human Citizen",
+				"collector_number": "116",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/116_UM10 Mana-Rich Taxpayer.jpg"
+				}
+			},
+			{
+				"name": "UM10 Mana-Rich Taxpayer_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{U}",
+				"type": "Creature — Human Citizen",
+				"collector_number": "116",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/116_UM10 Mana-Rich Taxpayer.jpg"
+				}
+			},
+			{
+				"name": "UM11 Taxation Census",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{U}",
+				"type": "Instant",
+				"collector_number": "117",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/117_UM11 Taxation Census.jpg"
+				}
+			},
+			{
+				"name": "UM11 Taxation Census_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{U}",
+				"type": "Instant",
+				"collector_number": "117",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/117_UM11 Taxation Census.jpg"
+				}
+			},
+			{
+				"name": "UM12 Illusory Insight",
+				"rarity": "uncommon",
+				"mana_cost": "{U}{B}",
+				"type": "Sorcery",
+				"collector_number": "118",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/118_UM12 Illusory Insight.jpg"
+				}
+			},
+			{
+				"name": "UM12 Illusory Insight_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{U}{B}",
+				"type": "Sorcery",
+				"collector_number": "118",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/118_UM12 Illusory Insight.jpg"
+				}
+			},
+			{
+				"name": "UM13 Horrific Killings",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{R}",
+				"type": "Instant",
+				"collector_number": "119",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/119_UM13 Horrific Killings.jpg"
+				}
+			},
+			{
+				"name": "UM13 Horrific Killings_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{R}",
+				"type": "Instant",
+				"collector_number": "119",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/119_UM13 Horrific Killings.jpg"
+				}
+			},
+			{
+				"name": "CB15 Societal Suffering",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Sorcery",
+				"collector_number": "59",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/59_CB15 Societal Suffering.jpg"
+				}
+			},
+			{
+				"name": "CB15 Societal Suffering_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Sorcery",
+				"collector_number": "59",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/59_CB15 Societal Suffering.jpg"
+				}
+			},
+			{
+				"name": "UM14 Ruinous Reclamation",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{G}",
+				"type": "Instant",
+				"collector_number": "120",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/120_UM14 Ruinous Reclamation.jpg"
+				}
+			},
+			{
+				"name": "UM14 Ruinous Reclamation_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{G}",
+				"type": "Instant",
+				"collector_number": "120",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/120_UM14 Ruinous Reclamation.jpg"
+				}
+			},
+			{
+				"name": "UM15 Gleeful Gluttony",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{W}",
+				"type": "Instant",
+				"collector_number": "121",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/121_UM15 Gleeful Gluttony.jpg"
+				}
+			},
+			{
+				"name": "UM15 Gleeful Gluttony_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{W}",
+				"type": "Instant",
+				"collector_number": "121",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/121_UM15 Gleeful Gluttony.jpg"
+				}
+			},
+			{
+				"name": "UM16 Ascend into Taste",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{B}",
+				"type": "Instant",
+				"collector_number": "122",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/122_UM16 Ascend into Taste.jpg"
+				}
+			},
+			{
+				"name": "UM16 Ascend into Taste_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{B}",
+				"type": "Instant",
+				"collector_number": "122",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/122_UM16 Ascend into Taste.jpg"
+				}
+			},
+			{
+				"name": "UM17 Artistic Patronage",
+				"rarity": "uncommon",
+				"mana_cost": "{U}{R}",
+				"type": "Instant",
+				"collector_number": "123",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/123_UM17 Artistic Patronage.jpg"
+				}
+			},
+			{
+				"name": "UM17 Artistic Patronage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{U}{R}",
+				"type": "Instant",
+				"collector_number": "123",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/123_UM17 Artistic Patronage.jpg"
+				}
+			},
+			{
+				"name": "UM18 Feed on Rot",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{G}",
+				"type": "Sorcery",
+				"collector_number": "124",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/124_UM18 Feed on Rot.jpg"
+				}
+			},
+			{
+				"name": "UM18 Feed on Rot_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{G}",
+				"type": "Sorcery",
+				"collector_number": "124",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/124_UM18 Feed on Rot.jpg"
+				}
+			},
+			{
+				"name": "UM19 Shopping Rush",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{W}",
+				"type": "Sorcery",
+				"collector_number": "125",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/125_UM19 Shopping Rush.jpg"
+				}
+			},
+			{
+				"name": "UM19 Shopping Rush_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{W}",
+				"type": "Sorcery",
+				"collector_number": "125",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/125_UM19 Shopping Rush.jpg"
+				}
+			},
+			{
+				"name": "UM20 Real Estate Purchase",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{U}",
+				"type": "Sorcery",
+				"collector_number": "126",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/126_UM20 Real Estate Purchase.jpg"
+				}
+			},
+			{
+				"name": "UM20 Real Estate Purchase_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{U}",
+				"type": "Sorcery",
+				"collector_number": "126",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/126_UM20 Real Estate Purchase.jpg"
+				}
+			},
+			{
+				"name": "CB04 Toad Pactbearer",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Creature — Frog",
+				"collector_number": "48",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/48_CB04 Toad Pactbearer.jpg"
+				}
+			},
+			{
+				"name": "CB04 Toad Pactbearer_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Creature — Frog",
+				"collector_number": "48",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/48_CB04 Toad Pactbearer.jpg"
+				}
+			},
+			{
+				"name": "CB06 City Vulture",
+				"rarity": "common",
+				"mana_cost": "{2}{B}",
+				"type": "Creature — Bird",
+				"collector_number": "50",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/50_CB06 City Vulture.jpg"
+				}
+			},
+			{
+				"name": "CB06 City Vulture_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{B}",
+				"type": "Creature — Bird",
+				"collector_number": "50",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/50_CB06 City Vulture.jpg"
+				}
+			},
+			{
+				"name": "CB07 The Alley Wraith",
+				"rarity": "common",
+				"mana_cost": "{3}{B}",
+				"type": "Legendary Creature — Wraith",
+				"collector_number": "51",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/51_CB07 The Alley Wraith.jpg"
+				}
+			},
+			{
+				"name": "CB07 The Alley Wraith_foil",
+				"rarity": "common",
+				"mana_cost": "{3}{B}",
+				"type": "Legendary Creature — Wraith",
+				"collector_number": "51",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/51_CB07 The Alley Wraith.jpg"
+				}
+			},
+			{
+				"name": "CB08 Remains of Terror",
+				"rarity": "common",
+				"mana_cost": "{3}{B}{B}",
+				"type": "Creature — Skeleton Nightmare",
+				"collector_number": "52",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/52_CB08 Remains of Terror.jpg"
+				}
+			},
+			{
+				"name": "CB08 Remains of Terror_foil",
+				"rarity": "common",
+				"mana_cost": "{3}{B}{B}",
+				"type": "Creature — Skeleton Nightmare",
+				"collector_number": "52",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/52_CB08 Remains of Terror.jpg"
+				}
+			},
+			{
+				"name": "CB10 Potent Ruin",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Instant",
+				"collector_number": "54",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/54_CB10 Potent Ruin.jpg"
+				}
+			},
+			{
+				"name": "CB10 Potent Ruin_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Instant",
+				"collector_number": "54",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/54_CB10 Potent Ruin.jpg"
+				}
+			},
+			{
+				"name": "CB11 Grasp of Death",
+				"rarity": "common",
+				"mana_cost": "{B/P}{B}",
+				"type": "Sorcery",
+				"collector_number": "55",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/55_CB11 Grasp of Death.jpg"
+				}
+			},
+			{
+				"name": "CB11 Grasp of Death_foil",
+				"rarity": "common",
+				"mana_cost": "{B/P}{B}",
+				"type": "Sorcery",
+				"collector_number": "55",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/55_CB11 Grasp of Death.jpg"
+				}
+			},
+			{
+				"name": "CB12 Union Massacre",
+				"rarity": "common",
+				"mana_cost": "{1}{B}{B}",
+				"type": "Instant",
+				"collector_number": "56",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/56_CB12 Union Massacre.jpg"
+				}
+			},
+			{
+				"name": "CB12 Union Massacre_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{B}{B}",
+				"type": "Instant",
+				"collector_number": "56",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/56_CB12 Union Massacre.jpg"
+				}
+			},
+			{
+				"name": "CB13 Flow of Cruelty",
+				"rarity": "common",
+				"mana_cost": "{B}",
+				"type": "Sorcery",
+				"collector_number": "57",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/57_CB13 Flow of Cruelty.jpg"
+				}
+			},
+			{
+				"name": "CB13 Flow of Cruelty_foil",
+				"rarity": "common",
+				"mana_cost": "{B}",
+				"type": "Sorcery",
+				"collector_number": "57",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/57_CB13 Flow of Cruelty.jpg"
+				}
+			},
+			{
+				"name": "CB14 Must Keep Living",
+				"rarity": "common",
+				"mana_cost": "{B}",
+				"type": "Instant",
+				"collector_number": "58",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/58_CB14 Must Keep Living.jpg"
+				}
+			},
+			{
+				"name": "CB14 Must Keep Living_foil",
+				"rarity": "common",
+				"mana_cost": "{B}",
+				"type": "Instant",
+				"collector_number": "58",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/58_CB14 Must Keep Living.jpg"
+				}
+			},
+			{
+				"name": "CR04 Painter of Flesh",
+				"rarity": "common",
+				"mana_cost": "{2}{R}",
+				"type": "Creature — Human Bard",
+				"collector_number": "68",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/68_CR04 Painter of Flesh.jpg"
+				}
+			},
+			{
+				"name": "CR04 Painter of Flesh_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{R}",
+				"type": "Creature — Human Bard",
+				"collector_number": "68",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/68_CR04 Painter of Flesh.jpg"
+				}
+			},
+			{
+				"name": "CC03 Redacted Etching",
+				"rarity": "common",
+				"mana_cost": "{1}",
+				"type": "Sorcery",
+				"collector_number": "3",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/3_CC03 Redacted Etching.jpg"
+				}
+			},
+			{
+				"name": "CC03 Redacted Etching_foil",
+				"rarity": "common",
+				"mana_cost": "{1}",
+				"type": "Sorcery",
+				"collector_number": "3",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/3_CC03 Redacted Etching.jpg"
+				}
+			},
+			{
+				"name": "CR03 Real Estate Rager",
+				"rarity": "common",
+				"mana_cost": "{1}{R}",
+				"type": "Creature — Human Berserker Advisor",
+				"collector_number": "67",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/67_CR03 Real Estate Rager.jpg"
+				}
+			},
+			{
+				"name": "CR03 Real Estate Rager_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{R}",
+				"type": "Creature — Human Berserker Advisor",
+				"collector_number": "67",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/67_CR03 Real Estate Rager.jpg"
+				}
+			},
+			{
+				"name": "UU06 Modernmind Master",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{U}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "43",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/43_UU06 Modernmind Master.jpg"
+				}
+			},
+			{
+				"name": "UU06 Modernmind Master_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{U}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "43",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/43_UU06 Modernmind Master.jpg"
+				}
+			},
+			{
+				"name": "CW11 Outlands Ostrich",
+				"rarity": "common",
+				"mana_cost": "{5}{W}",
+				"type": "Creature — Bird",
+				"collector_number": "15",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/15_CW11 Outlands Ostrich.jpg"
+				}
+			},
+			{
+				"name": "CW11 Outlands Ostrich_foil",
+				"rarity": "common",
+				"mana_cost": "{5}{W}",
+				"type": "Creature — Bird",
+				"collector_number": "15",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/15_CW11 Outlands Ostrich.jpg"
+				}
+			},
+			{
+				"name": "CB09 Glitch Lich",
+				"rarity": "common",
+				"mana_cost": "{5}{B}",
+				"type": "Creature — Zombie Reflection",
+				"collector_number": "53",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/53_CB09 Glitch Lich.jpg"
+				}
+			},
+			{
+				"name": "CB09 Glitch Lich_foil",
+				"rarity": "common",
+				"mana_cost": "{5}{B}",
+				"type": "Creature — Zombie Reflection",
+				"collector_number": "53",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/53_CB09 Glitch Lich.jpg"
+				}
+			},
+			{
+				"name": "CR02 Raging Crowd",
+				"rarity": "common",
+				"mana_cost": "{1}{R}",
+				"type": "Sorcery",
+				"collector_number": "66",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/66_CR02 Raging Crowd.jpg"
+				}
+			},
+			{
+				"name": "CR02 Raging Crowd_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{R}",
+				"type": "Sorcery",
+				"collector_number": "66",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/66_CR02 Raging Crowd.jpg"
+				}
+			},
+			{
+				"name": "CR05 Tempestborn Goblin",
+				"rarity": "common",
+				"mana_cost": "{2}{R}",
+				"type": "Creature — Goblin Sorcerer",
+				"collector_number": "69",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/69_CR05 Tempestborn Goblin.jpg"
+				}
+			},
+			{
+				"name": "CR05 Tempestborn Goblin_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{R}",
+				"type": "Creature — Goblin Sorcerer",
+				"collector_number": "69",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/69_CR05 Tempestborn Goblin.jpg"
+				}
+			},
+			{
+				"name": "CR06 Tectonics Druid",
+				"rarity": "common",
+				"mana_cost": "{2}{R}",
+				"type": "Creature — Goblin Druid",
+				"collector_number": "70",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/70_CR06 Tectonics Druid.jpg"
+				}
+			},
+			{
+				"name": "CR06 Tectonics Druid_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{R}",
+				"type": "Creature — Goblin Druid",
+				"collector_number": "70",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/70_CR06 Tectonics Druid.jpg"
+				}
+			},
+			{
+				"name": "CR07 The Phoenix Rider",
+				"rarity": "common",
+				"mana_cost": "{3}{R}",
+				"type": "Legendary Creature — Phoenix Kobold",
+				"collector_number": "71",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/71_CR07 The Phoenix Rider.jpg"
+				}
+			},
+			{
+				"name": "CR07 The Phoenix Rider_foil",
+				"rarity": "common",
+				"mana_cost": "{3}{R}",
+				"type": "Legendary Creature — Phoenix Kobold",
+				"collector_number": "71",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/71_CR07 The Phoenix Rider.jpg"
+				}
+			},
+			{
+				"name": "CR08 Hemoguzzler",
+				"rarity": "common",
+				"mana_cost": "{3}{R}{R}",
+				"type": "Creature — Vampire Horror",
+				"collector_number": "72",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/72_CR08 Hemoguzzler.jpg"
+				}
+			},
+			{
+				"name": "CR08 Hemoguzzler_foil",
+				"rarity": "common",
+				"mana_cost": "{3}{R}{R}",
+				"type": "Creature — Vampire Horror",
+				"collector_number": "72",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/72_CR08 Hemoguzzler.jpg"
+				}
+			},
+			{
+				"name": "CR09 Raging Oculus",
+				"rarity": "common",
+				"mana_cost": "{5}{R}",
+				"type": "Creature — Homunculus",
+				"collector_number": "73",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/73_CR09 Raging Oculus.jpg"
+				}
+			},
+			{
+				"name": "CR09 Raging Oculus_foil",
+				"rarity": "common",
+				"mana_cost": "{5}{R}",
+				"type": "Creature — Homunculus",
+				"collector_number": "73",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/73_CR09 Raging Oculus.jpg"
+				}
+			},
+			{
+				"name": "CR10 Potent Pyre",
+				"rarity": "common",
+				"mana_cost": "{1}{R}",
+				"type": "Instant",
+				"collector_number": "74",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/74_CR10 Potent Pyre.jpg"
+				}
+			},
+			{
+				"name": "CR10 Potent Pyre_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{R}",
+				"type": "Instant",
+				"collector_number": "74",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/74_CR10 Potent Pyre.jpg"
+				}
+			},
+			{
+				"name": "RU02 Insightful Glitchcraft",
+				"rarity": "rare",
+				"mana_cost": "{U}",
+				"type": "Instant",
+				"collector_number": "41",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/41_RU02 Insightful Glitchcraft.jpg"
+				}
+			},
+			{
+				"name": "RU02 Insightful Glitchcraft_foil",
+				"rarity": "rare",
+				"mana_cost": "{U}",
+				"type": "Instant",
+				"collector_number": "41",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/41_RU02 Insightful Glitchcraft.jpg"
+				}
+			},
+			{
+				"name": "RW02 Harmonious Glitchcraft",
+				"rarity": "rare",
+				"mana_cost": "{W}",
+				"type": "Instant",
+				"collector_number": "21",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/21_RW02 Harmonious Glitchcraft.jpg"
+				}
+			},
+			{
+				"name": "RW02 Harmonious Glitchcraft_foil",
+				"rarity": "rare",
+				"mana_cost": "{W}",
+				"type": "Instant",
+				"collector_number": "21",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/21_RW02 Harmonious Glitchcraft.jpg"
+				}
+			},
+			{
+				"name": "RB02 Sinister Glitchcraft",
+				"rarity": "rare",
+				"mana_cost": "{B}",
+				"type": "Instant",
+				"collector_number": "61",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/61_RB02 Sinister Glitchcraft.jpg"
+				}
+			},
+			{
+				"name": "RB02 Sinister Glitchcraft_foil",
+				"rarity": "rare",
+				"mana_cost": "{B}",
+				"type": "Instant",
+				"collector_number": "61",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/61_RB02 Sinister Glitchcraft.jpg"
+				}
+			},
+			{
+				"name": "RR02 Covetous Glitchcraft",
+				"rarity": "rare",
+				"mana_cost": "{R}",
+				"type": "Instant",
+				"collector_number": "81",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/81_RR02 Covetous Glitchcraft.jpg"
+				}
+			},
+			{
+				"name": "RR02 Covetous Glitchcraft_foil",
+				"rarity": "rare",
+				"mana_cost": "{R}",
+				"type": "Instant",
+				"collector_number": "81",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/81_RR02 Covetous Glitchcraft.jpg"
+				}
+			},
+			{
+				"name": "RG02 Colossal Glitchcraft",
+				"rarity": "rare",
+				"mana_cost": "{G}",
+				"type": "Instant",
+				"collector_number": "104",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/104_RG02 Colossal Glitchcraft.jpg"
+				}
+			},
+			{
+				"name": "RG02 Colossal Glitchcraft_foil",
+				"rarity": "rare",
+				"mana_cost": "{G}",
+				"type": "Instant",
+				"collector_number": "104",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/104_RG02 Colossal Glitchcraft.jpg"
+				}
+			},
+			{
+				"name": "CR11 Stabber's Stains",
+				"rarity": "common",
+				"mana_cost": "{2}{R}",
+				"type": "Sorcery",
+				"collector_number": "75",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/75_CR11 Stabber's Stains.jpg"
+				}
+			},
+			{
+				"name": "CR11 Stabber's Stains_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{R}",
+				"type": "Sorcery",
+				"collector_number": "75",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/75_CR11 Stabber's Stains.jpg"
+				}
+			},
+			{
+				"name": "CR12 Great City Fire",
+				"rarity": "common",
+				"mana_cost": "{3}{R}",
+				"type": "Instant",
+				"collector_number": "76",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/76_CR12 Great City Fire.jpg"
+				}
+			},
+			{
+				"name": "CR12 Great City Fire_foil",
+				"rarity": "common",
+				"mana_cost": "{3}{R}",
+				"type": "Instant",
+				"collector_number": "76",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/76_CR12 Great City Fire.jpg"
+				}
+			},
+			{
+				"name": "CR13 Shatter the Display",
+				"rarity": "common",
+				"mana_cost": "{R}",
+				"type": "Instant",
+				"collector_number": "77",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/77_CR13 Shatter the Display.jpg"
+				}
+			},
+			{
+				"name": "CR13 Shatter the Display_foil",
+				"rarity": "common",
+				"mana_cost": "{R}",
+				"type": "Instant",
+				"collector_number": "77",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/77_CR13 Shatter the Display.jpg"
+				}
+			},
+			{
+				"name": "CR14 Flow of Passion",
+				"rarity": "common",
+				"mana_cost": "{R}",
+				"type": "Instant",
+				"collector_number": "78",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/78_CR14 Flow of Passion.jpg"
+				}
+			},
+			{
+				"name": "CR14 Flow of Passion_foil",
+				"rarity": "common",
+				"mana_cost": "{R}",
+				"type": "Instant",
+				"collector_number": "78",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/78_CR14 Flow of Passion.jpg"
+				}
+			},
+			{
+				"name": "CR15 Irresponsible Harvesting",
+				"rarity": "common",
+				"mana_cost": "{1}{R}",
+				"type": "Instant",
+				"collector_number": "79",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/79_CR15 Irresponsible Harvesting.jpg"
+				}
+			},
+			{
+				"name": "CR15 Irresponsible Harvesting_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{R}",
+				"type": "Instant",
+				"collector_number": "79",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/79_CR15 Irresponsible Harvesting.jpg"
+				}
+			},
+			{
+				"name": "UR03 Glitched Laser Cannon",
+				"rarity": "common",
+				"mana_cost": "{2}{R}",
+				"type": "Artifact Creature — Construct",
+				"collector_number": "85",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/85_UR03 Glitched Laser Cannon.jpg"
+				}
+			},
+			{
+				"name": "UR03 Glitched Laser Cannon_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{R}",
+				"type": "Artifact Creature — Construct",
+				"collector_number": "85",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/85_UR03 Glitched Laser Cannon.jpg"
+				}
+			},
+			{
+				"name": "UB07 Morphblight Master",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{B}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "64",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/64_UB07 Morphblight Master.jpg"
+				}
+			},
+			{
+				"name": "UB07 Morphblight Master_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{B}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "64",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/64_UB07 Morphblight Master.jpg"
+				}
+			},
+			{
+				"name": "UR07 Manaforce Master",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{R}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "86",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/86_UR07 Manaforce Master.jpg"
+				}
+			},
+			{
+				"name": "UR07 Manaforce Master_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{R}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "86",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/86_UR07 Manaforce Master.jpg"
+				}
+			},
+			{
+				"name": "UG08 Manaforce Master",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{G}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "106",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/106_UG08 Manaforce Master.jpg"
+				}
+			},
+			{
+				"name": "UG08 Manaforce Master_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{G}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "106",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/106_UG08 Manaforce Master.jpg"
+				}
+			},
+			{
+				"name": "CG02 Sage of Broken Earth",
+				"rarity": "common",
+				"mana_cost": "{1}{G}",
+				"type": "Creature — Human Druid",
+				"collector_number": "89",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/89_CG02 Sage of Broken Earth.jpg"
+				}
+			},
+			{
+				"name": "CG02 Sage of Broken Earth_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{G}",
+				"type": "Creature — Human Druid",
+				"collector_number": "89",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/89_CG02 Sage of Broken Earth.jpg"
+				}
+			},
+			{
+				"name": "CG03 Naturalist Popularizer",
+				"rarity": "common",
+				"mana_cost": "{1}{G}",
+				"type": "Creature — Human Performer",
+				"collector_number": "90",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/90_CG03 Naturalist Popularizer.jpg"
+				}
+			},
+			{
+				"name": "CG03 Naturalist Popularizer_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{G}",
+				"type": "Creature — Human Performer",
+				"collector_number": "90",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/90_CG03 Naturalist Popularizer.jpg"
+				}
+			},
+			{
+				"name": "CG04 Fast Food Glutton",
+				"rarity": "common",
+				"mana_cost": "{2}{G}",
+				"type": "Creature — Human Citizen",
+				"collector_number": "91",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/91_CG04 Fast Food Glutton.jpg"
+				}
+			},
+			{
+				"name": "CG04 Fast Food Glutton_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{G}",
+				"type": "Creature — Human Citizen",
+				"collector_number": "91",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/91_CG04 Fast Food Glutton.jpg"
+				}
+			},
+			{
+				"name": "CG05 Arachnophobic Glitchbeast",
+				"rarity": "common",
+				"mana_cost": "{2}{G}",
+				"type": "Creature — Spider Beast Horror Reflection",
+				"collector_number": "92",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/92_CG05 Arachnophobic Glitchbeast.jpg"
+				}
+			},
+			{
+				"name": "CG05 Arachnophobic Glitchbeast_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{G}",
+				"type": "Creature — Spider Beast Horror Reflection",
+				"collector_number": "92",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/92_CG05 Arachnophobic Glitchbeast.jpg"
+				}
+			},
+			{
+				"name": "CG06 Gluttonous Gardener",
+				"rarity": "common",
+				"mana_cost": "{3}{G}",
+				"type": "Creature — Human Citizen",
+				"collector_number": "93",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/93_CG06 Gluttonous Gardener.jpg"
+				}
+			},
+			{
+				"name": "CG06 Gluttonous Gardener_foil",
+				"rarity": "common",
+				"mana_cost": "{3}{G}",
+				"type": "Creature — Human Citizen",
+				"collector_number": "93",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/93_CG06 Gluttonous Gardener.jpg"
+				}
+			},
+			{
+				"name": "CG07 The Grave Troll",
+				"rarity": "common",
+				"mana_cost": "{3}{G}",
+				"type": "Creature — Troll Skeleton",
+				"collector_number": "94",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/94_CG07 The Grave Troll.jpg"
+				}
+			},
+			{
+				"name": "CG07 The Grave Troll_foil",
+				"rarity": "common",
+				"mana_cost": "{3}{G}",
+				"type": "Creature — Troll Skeleton",
+				"collector_number": "94",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/94_CG07 The Grave Troll.jpg"
+				}
+			},
+			{
+				"name": "CG08 Rampaging Killer",
+				"rarity": "common",
+				"mana_cost": "{3}{G}{G}",
+				"type": "Creature — Human Rogue",
+				"collector_number": "95",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/95_CG08 Rampaging Killer.jpg"
+				}
+			},
+			{
+				"name": "CG08 Rampaging Killer_foil",
+				"rarity": "common",
+				"mana_cost": "{3}{G}{G}",
+				"type": "Creature — Human Rogue",
+				"collector_number": "95",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/95_CG08 Rampaging Killer.jpg"
+				}
+			},
+			{
+				"name": "CG09 Extremely Slow Glitchbeast",
+				"rarity": "common",
+				"mana_cost": "{5}{G}",
+				"type": "Creature — Beast Horror Reflection",
+				"collector_number": "96",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/96_CG09 Extremely Slow Glitchbeast.jpg"
+				}
+			},
+			{
+				"name": "CG09 Extremely Slow Glitchbeast_foil",
+				"rarity": "common",
+				"mana_cost": "{5}{G}",
+				"type": "Creature — Beast Horror Reflection",
+				"collector_number": "96",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/96_CG09 Extremely Slow Glitchbeast.jpg"
+				}
+			},
+			{
+				"name": "CG10 Outlands Dreadmaw",
+				"rarity": "common",
+				"mana_cost": "{5}{G}",
+				"type": "Creature — Dinosaur",
+				"collector_number": "97",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/97_CG10 Outlands Dreadmaw.jpg"
+				}
+			},
+			{
+				"name": "CG10 Outlands Dreadmaw_foil",
+				"rarity": "common",
+				"mana_cost": "{5}{G}",
+				"type": "Creature — Dinosaur",
+				"collector_number": "97",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/97_CG10 Outlands Dreadmaw.jpg"
+				}
+			},
+			{
+				"name": "CG11 Potent Protest",
+				"rarity": "common",
+				"mana_cost": "{1}{G}",
+				"type": "Instant",
+				"collector_number": "98",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/98_CG11 Potent Protest.jpg"
+				}
+			},
+			{
+				"name": "CG11 Potent Protest_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{G}",
+				"type": "Instant",
+				"collector_number": "98",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/98_CG11 Potent Protest.jpg"
+				}
+			},
+			{
+				"name": "CG12 Chomp",
+				"rarity": "common",
+				"mana_cost": "{1}{G}",
+				"type": "Sorcery",
+				"collector_number": "99",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/99_CG12 Chomp.jpg"
+				}
+			},
+			{
+				"name": "CG12 Chomp_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{G}",
+				"type": "Sorcery",
+				"collector_number": "99",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/99_CG12 Chomp.jpg"
+				}
+			},
+			{
+				"name": "CG13 Flow of Might",
+				"rarity": "common",
+				"mana_cost": "{G}",
+				"type": "Sorcery",
+				"collector_number": "100",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/100_CG13 Flow of Might.jpg"
+				}
+			},
+			{
+				"name": "CG13 Flow of Might_foil",
+				"rarity": "common",
+				"mana_cost": "{G}",
+				"type": "Sorcery",
+				"collector_number": "100",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/100_CG13 Flow of Might.jpg"
+				}
+			},
+			{
+				"name": "CG14 Recultivating Rumble",
+				"rarity": "common",
+				"mana_cost": "{1}{G}",
+				"type": "Sorcery",
+				"collector_number": "101",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/101_CG14 Recultivating Rumble.jpg"
+				}
+			},
+			{
+				"name": "CG14 Recultivating Rumble_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{G}",
+				"type": "Sorcery",
+				"collector_number": "101",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/101_CG14 Recultivating Rumble.jpg"
+				}
+			},
+			{
+				"name": "CG15 Split Growth",
+				"rarity": "common",
+				"mana_cost": "{G}",
+				"type": "Instant",
+				"collector_number": "102",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/102_CG15 Split Growth.jpg"
+				}
+			},
+			{
+				"name": "CG15 Split Growth_foil",
+				"rarity": "common",
+				"mana_cost": "{G}",
+				"type": "Instant",
+				"collector_number": "102",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/RRA-files/img/102_CG15 Split Growth.jpg"
+				}
+			}
+		]
+
+[common(14)]
+	5 CC01 Minimorphosize
+	5 CW01 Loyal Companion
+	5 CU01 Unhinged Assistant
+	5 CG01 Floral Recultivator
+	5 CR01 Manaforce Fireweaver
+	5 CW08 Market Caller
+	5 CW02 Relicpurge Martyr
+	5 CW03 Annoying Lawyer
+	5 CW04 Taxation Specialist
+	5 CW06 Shine-Blight Shaman
+	5 CW07 Abiding Face
+	5 CW05 Shine-Blight Inquisitor
+	5 CW09 The Eternity-Bartered Cow
+	5 CW10 Manyfold Glutton
+	5 CW12 Potent Reprisal
+	5 CC02 Microtwiddle
+	5 CW13 Banishing Glitchcraft
+	5 CW14 Flow of Unity
+	5 CW15 Paperwork Boomerang
+	5 CU04 Eater of Detectives
+	5 CU03 Taxation Philosopher
+	5 CU02 Tempestborn Drake
+	5 CU05 Wizardblood Licker
+	5 CU08 Calculating Cadaver
+	5 CB03 Specter of Ninjacraft
+	5 CU06 The Narcotoad
+	5 CU07 Glitching Fleshbeast
+	5 CU10 Butcher's Negation
+	5 CU09 Potent Retreat
+	5 CU13 Flow of Logic
+	5 CU11 Civic Pressure
+	5 CU12 Glitched Out
+	5 CU14 Swift Analysis
+	5 CU15 Peruse Trinkets
+	5 CB02 Prized Vessel
+	5 CB01 Mana Broker
+	5 CB05 Delicacy Devourer
+	5 CB15 Societal Suffering
+	5 CB04 Toad Pactbearer
+	5 CB06 City Vulture
+	5 CB07 The Alley Wraith
+	5 CB08 Remains of Terror
+	5 CB10 Potent Ruin
+	5 CB11 Grasp of Death
+	5 CB12 Union Massacre
+	5 CB13 Flow of Cruelty
+	5 CB14 Must Keep Living
+	5 CR04 Painter of Flesh
+	5 CC03 Redacted Etching
+	5 CR03 Real Estate Rager
+	5 CW11 Outlands Ostrich
+	5 CB09 Glitch Lich
+	5 CR02 Raging Crowd
+	5 CR05 Tempestborn Goblin
+	5 CR06 Tectonics Druid
+	5 CR07 The Phoenix Rider
+	5 CR08 Hemoguzzler
+	5 CR09 Raging Oculus
+	5 CR10 Potent Pyre
+	5 CR11 Stabber's Stains
+	5 CR12 Great City Fire
+	5 CR13 Shatter the Display
+	5 CR14 Flow of Passion
+	5 CR15 Irresponsible Harvesting
+	5 UR03 Glitched Laser Cannon
+	5 CG02 Sage of Broken Earth
+	5 CG03 Naturalist Popularizer
+	5 CG04 Fast Food Glutton
+	5 CG05 Arachnophobic Glitchbeast
+	5 CG06 Gluttonous Gardener
+	5 CG07 The Grave Troll
+	5 CG08 Rampaging Killer
+	5 CG09 Extremely Slow Glitchbeast
+	5 CG10 Outlands Dreadmaw
+	5 CG11 Potent Protest
+	5 CG12 Chomp
+	5 CG13 Flow of Might
+	5 CG14 Recultivating Rumble
+	5 CG15 Split Growth
+[land(1)]
+	5 CL01 Pillar of Loyalty
+	5 CL02 Pillar of Knowledge
+	5 CL03 Pillar of Knowledge
+	5 CL04 Pillar of Knowledge
+	5 CL05 Pillar of Strength
+	5 CL06 Investigator's Office
+	5 CL07 Archaeologist's Office
+	5 CL08 Genetecist's Office
+	5 CL09 Shareholder's Office
+	5 CL10 Manager's Office
+	5 CL12 Morphing Pool
+	5 CL13 Laboratory of Insanity
+	5 CL11 Politician's Office
+	5 CL15 Redacted Basement
+	5 CL14 Spire of Renewability

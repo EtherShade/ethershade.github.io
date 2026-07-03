@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/RRA-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>RRA visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/RRA-files/logo.png" />
+	<img class="preload-hidden" src="../sets/RRA-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/RRA"><img src="../sets/RRA-files/icon.png">Relics of the Redacted Age</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/RRA-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\RRA-files\img\20_RW01 Lingua, Tastes of Unity.jpg" id="RRA_20_RW01 Lingua, Tastes of Unity" data-flag="@X" onclick="openSidebar('RRA_20_RW01 Lingua, Tastes of Unity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\40_RU01 Ocula, Lenses of Logic.jpg" id="RRA_40_RU01 Ocula, Lenses of Logic" data-flag="@X" onclick="openSidebar('RRA_40_RU01 Ocula, Lenses of Logic',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\60_RB01 Machina, Fingers of Cruelty.jpg" id="RRA_60_RB01 Machina, Fingers of Cruelty" data-flag="@X" onclick="openSidebar('RRA_60_RB01 Machina, Fingers of Cruelty',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\80_RR01 Kardia, Beats of Passion.jpg" id="RRA_80_RR01 Kardia, Beats of Passion" data-flag="@X" onclick="openSidebar('RRA_80_RR01 Kardia, Beats of Passion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\103_RG01 Capita, Commands of Might.jpg" id="RRA_103_RG01 Capita, Commands of Might" data-flag="@X" onclick="openSidebar('RRA_103_RG01 Capita, Commands of Might',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\21_RW02 Harmonious Glitchcraft.jpg" id="RRA_21_RW02 Harmonious Glitchcraft" data-flag="@X" onclick="openSidebar('RRA_21_RW02 Harmonious Glitchcraft',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\41_RU02 Insightful Glitchcraft.jpg" id="RRA_41_RU02 Insightful Glitchcraft" data-flag="@X" onclick="openSidebar('RRA_41_RU02 Insightful Glitchcraft',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\61_RB02 Sinister Glitchcraft.jpg" id="RRA_61_RB02 Sinister Glitchcraft" data-flag="@X" onclick="openSidebar('RRA_61_RB02 Sinister Glitchcraft',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\81_RR02 Covetous Glitchcraft.jpg" id="RRA_81_RR02 Covetous Glitchcraft" data-flag="@X" onclick="openSidebar('RRA_81_RR02 Covetous Glitchcraft',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\104_RG02 Colossal Glitchcraft.jpg" id="RRA_104_RG02 Colossal Glitchcraft" data-flag="@X" onclick="openSidebar('RRA_104_RG02 Colossal Glitchcraft',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\22_UW01 Fountain Familiar.jpg" id="RRA_22_UW01 Fountain Familiar" data-flag="@X" onclick="openSidebar('RRA_22_UW01 Fountain Familiar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\42_UU02 Hunted Practitioner.jpg" id="RRA_42_UU02 Hunted Practitioner" data-flag="@X" onclick="openSidebar('RRA_42_UU02 Hunted Practitioner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\62_RB07 Fact and Fiction.jpg" id="RRA_62_RB07 Fact and Fiction" data-flag="@X" onclick="openSidebar('RRA_62_RB07 Fact and Fiction',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\82_RR06 Twiddling Tamperer.jpg" id="RRA_82_RR06 Twiddling Tamperer" data-flag="@X" onclick="openSidebar('RRA_82_RR06 Twiddling Tamperer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\105_RG07 Tesselate.jpg" id="RRA_105_RG07 Tesselate" data-flag="@X" onclick="openSidebar('RRA_105_RG07 Tesselate',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\23_UW02 Influential Mentor.jpg" id="RRA_23_UW02 Influential Mentor" data-flag="@X" onclick="openSidebar('RRA_23_UW02 Influential Mentor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\43_UU06 Modernmind Master.jpg" id="RRA_43_UU06 Modernmind Master" data-flag="@X" onclick="openSidebar('RRA_43_UU06 Modernmind Master',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\63_RB08 Lifeblood Pinnacle.jpg" id="RRA_63_RB08 Lifeblood Pinnacle" data-flag="@X" onclick="openSidebar('RRA_63_RB08 Lifeblood Pinnacle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\83_RR07 Ancient Ambush.jpg" id="RRA_83_RR07 Ancient Ambush" data-flag="@X" onclick="openSidebar('RRA_83_RR07 Ancient Ambush',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\106_UG08 Manaforce Master.jpg" id="RRA_106_UG08 Manaforce Master" data-flag="@X" onclick="openSidebar('RRA_106_UG08 Manaforce Master',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\24_UW09 Mirrorshine Master.jpg" id="RRA_24_UW09 Mirrorshine Master" data-flag="@X" onclick="openSidebar('RRA_24_UW09 Mirrorshine Master',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\44_UU09 Election Fraud.jpg" id="RRA_44_UU09 Election Fraud" data-flag="@X" onclick="openSidebar('RRA_44_UU09 Election Fraud',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\64_UB07 Morphblight Master.jpg" id="RRA_64_UB07 Morphblight Master" data-flag="@X" onclick="openSidebar('RRA_64_UB07 Morphblight Master',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\84_UR01 Aggressive Populace.jpg" id="RRA_84_UR01 Aggressive Populace" data-flag="@X" onclick="openSidebar('RRA_84_UR01 Aggressive Populace',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\88_CG01 Floral Recultivator.jpg" id="RRA_88_CG01 Floral Recultivator" data-flag="@X" onclick="openSidebar('RRA_88_CG01 Floral Recultivator',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\5_CW01 Loyal Companion.jpg" id="RRA_5_CW01 Loyal Companion" data-flag="@X" onclick="openSidebar('RRA_5_CW01 Loyal Companion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\25_CU01 Unhinged Assistant.jpg" id="RRA_25_CU01 Unhinged Assistant" data-flag="@X" onclick="openSidebar('RRA_25_CU01 Unhinged Assistant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\45_CB01 Mana Broker.jpg" id="RRA_45_CB01 Mana Broker" data-flag="@X" onclick="openSidebar('RRA_45_CB01 Mana Broker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\86_UR07 Manaforce Master.jpg" id="RRA_86_UR07 Manaforce Master" data-flag="@X" onclick="openSidebar('RRA_86_UR07 Manaforce Master',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\89_CG02 Sage of Broken Earth.jpg" id="RRA_89_CG02 Sage of Broken Earth" data-flag="@X" onclick="openSidebar('RRA_89_CG02 Sage of Broken Earth',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\6_CW02 Relicpurge Martyr.jpg" id="RRA_6_CW02 Relicpurge Martyr" data-flag="@X" onclick="openSidebar('RRA_6_CW02 Relicpurge Martyr',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\26_CU02 Tempestborn Drake.jpg" id="RRA_26_CU02 Tempestborn Drake" data-flag="@X" onclick="openSidebar('RRA_26_CU02 Tempestborn Drake',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\46_CB02 Prized Vessel.jpg" id="RRA_46_CB02 Prized Vessel" data-flag="@X" onclick="openSidebar('RRA_46_CB02 Prized Vessel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\87_UR10 Exponential Inferno.jpg" id="RRA_87_UR10 Exponential Inferno" data-flag="@X" onclick="openSidebar('RRA_87_UR10 Exponential Inferno',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\90_CG03 Naturalist Popularizer.jpg" id="RRA_90_CG03 Naturalist Popularizer" data-flag="@X" onclick="openSidebar('RRA_90_CG03 Naturalist Popularizer',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\7_CW03 Annoying Lawyer.jpg" id="RRA_7_CW03 Annoying Lawyer" data-flag="@X" onclick="openSidebar('RRA_7_CW03 Annoying Lawyer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\27_CU03 Taxation Philosopher.jpg" id="RRA_27_CU03 Taxation Philosopher" data-flag="@X" onclick="openSidebar('RRA_27_CU03 Taxation Philosopher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\47_CB03 Specter of Ninjacraft.jpg" id="RRA_47_CB03 Specter of Ninjacraft" data-flag="@X" onclick="openSidebar('RRA_47_CB03 Specter of Ninjacraft',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\65_CR01 Manaforce Fireweaver.jpg" id="RRA_65_CR01 Manaforce Fireweaver" data-flag="@X" onclick="openSidebar('RRA_65_CR01 Manaforce Fireweaver',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\91_CG04 Fast Food Glutton.jpg" id="RRA_91_CG04 Fast Food Glutton" data-flag="@X" onclick="openSidebar('RRA_91_CG04 Fast Food Glutton',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\8_CW04 Taxation Specialist.jpg" id="RRA_8_CW04 Taxation Specialist" data-flag="@X" onclick="openSidebar('RRA_8_CW04 Taxation Specialist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\28_CU04 Eater of Detectives.jpg" id="RRA_28_CU04 Eater of Detectives" data-flag="@X" onclick="openSidebar('RRA_28_CU04 Eater of Detectives',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\48_CB04 Toad Pactbearer.jpg" id="RRA_48_CB04 Toad Pactbearer" data-flag="@X" onclick="openSidebar('RRA_48_CB04 Toad Pactbearer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\66_CR02 Raging Crowd.jpg" id="RRA_66_CR02 Raging Crowd" data-flag="@X" onclick="openSidebar('RRA_66_CR02 Raging Crowd',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\92_CG05 Arachnophobic Glitchbeast.jpg" id="RRA_92_CG05 Arachnophobic Glitchbeast" data-flag="@X" onclick="openSidebar('RRA_92_CG05 Arachnophobic Glitchbeast',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\9_CW05 Shine-Blight Inquisitor.jpg" id="RRA_9_CW05 Shine-Blight Inquisitor" data-flag="@X" onclick="openSidebar('RRA_9_CW05 Shine-Blight Inquisitor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\29_CU05 Wizardblood Licker.jpg" id="RRA_29_CU05 Wizardblood Licker" data-flag="@X" onclick="openSidebar('RRA_29_CU05 Wizardblood Licker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\49_CB05 Delicacy Devourer.jpg" id="RRA_49_CB05 Delicacy Devourer" data-flag="@X" onclick="openSidebar('RRA_49_CB05 Delicacy Devourer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\67_CR03 Real Estate Rager.jpg" id="RRA_67_CR03 Real Estate Rager" data-flag="@X" onclick="openSidebar('RRA_67_CR03 Real Estate Rager',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\93_CG06 Gluttonous Gardener.jpg" id="RRA_93_CG06 Gluttonous Gardener" data-flag="@X" onclick="openSidebar('RRA_93_CG06 Gluttonous Gardener',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\10_CW06 Shine-Blight Shaman.jpg" id="RRA_10_CW06 Shine-Blight Shaman" data-flag="@X" onclick="openSidebar('RRA_10_CW06 Shine-Blight Shaman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\30_CU06 The Narcotoad.jpg" id="RRA_30_CU06 The Narcotoad" data-flag="@X" onclick="openSidebar('RRA_30_CU06 The Narcotoad',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\50_CB06 City Vulture.jpg" id="RRA_50_CB06 City Vulture" data-flag="@X" onclick="openSidebar('RRA_50_CB06 City Vulture',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\68_CR04 Painter of Flesh.jpg" id="RRA_68_CR04 Painter of Flesh" data-flag="@X" onclick="openSidebar('RRA_68_CR04 Painter of Flesh',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\94_CG07 The Grave Troll.jpg" id="RRA_94_CG07 The Grave Troll" data-flag="@X" onclick="openSidebar('RRA_94_CG07 The Grave Troll',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\11_CW07 Abiding Face.jpg" id="RRA_11_CW07 Abiding Face" data-flag="@X" onclick="openSidebar('RRA_11_CW07 Abiding Face',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\31_CU07 Glitching Fleshbeast.jpg" id="RRA_31_CU07 Glitching Fleshbeast" data-flag="@X" onclick="openSidebar('RRA_31_CU07 Glitching Fleshbeast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\51_CB07 The Alley Wraith.jpg" id="RRA_51_CB07 The Alley Wraith" data-flag="@X" onclick="openSidebar('RRA_51_CB07 The Alley Wraith',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\69_CR05 Tempestborn Goblin.jpg" id="RRA_69_CR05 Tempestborn Goblin" data-flag="@X" onclick="openSidebar('RRA_69_CR05 Tempestborn Goblin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\95_CG08 Rampaging Killer.jpg" id="RRA_95_CG08 Rampaging Killer" data-flag="@X" onclick="openSidebar('RRA_95_CG08 Rampaging Killer',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\12_CW08 Market Caller.jpg" id="RRA_12_CW08 Market Caller" data-flag="@X" onclick="openSidebar('RRA_12_CW08 Market Caller',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\32_CU08 Calculating Cadaver.jpg" id="RRA_32_CU08 Calculating Cadaver" data-flag="@X" onclick="openSidebar('RRA_32_CU08 Calculating Cadaver',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\52_CB08 Remains of Terror.jpg" id="RRA_52_CB08 Remains of Terror" data-flag="@X" onclick="openSidebar('RRA_52_CB08 Remains of Terror',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\70_CR06 Tectonics Druid.jpg" id="RRA_70_CR06 Tectonics Druid" data-flag="@X" onclick="openSidebar('RRA_70_CR06 Tectonics Druid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\96_CG09 Extremely Slow Glitchbeast.jpg" id="RRA_96_CG09 Extremely Slow Glitchbeast" data-flag="@X" onclick="openSidebar('RRA_96_CG09 Extremely Slow Glitchbeast',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\13_CW09 The Eternity-Bartered Cow.jpg" id="RRA_13_CW09 The Eternity-Bartered Cow" data-flag="@X" onclick="openSidebar('RRA_13_CW09 The Eternity-Bartered Cow',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\33_CU09 Potent Retreat.jpg" id="RRA_33_CU09 Potent Retreat" data-flag="@X" onclick="openSidebar('RRA_33_CU09 Potent Retreat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\53_CB09 Glitch Lich.jpg" id="RRA_53_CB09 Glitch Lich" data-flag="@X" onclick="openSidebar('RRA_53_CB09 Glitch Lich',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\71_CR07 The Phoenix Rider.jpg" id="RRA_71_CR07 The Phoenix Rider" data-flag="@X" onclick="openSidebar('RRA_71_CR07 The Phoenix Rider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\97_CG10 Outlands Dreadmaw.jpg" id="RRA_97_CG10 Outlands Dreadmaw" data-flag="@X" onclick="openSidebar('RRA_97_CG10 Outlands Dreadmaw',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\14_CW10 Manyfold Glutton.jpg" id="RRA_14_CW10 Manyfold Glutton" data-flag="@X" onclick="openSidebar('RRA_14_CW10 Manyfold Glutton',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\34_CU10 Butcher's Negation.jpg" id="RRA_34_CU10 Butchers Negation" data-flag="@X" onclick="openSidebar('RRA_34_CU10 Butchers Negation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\54_CB10 Potent Ruin.jpg" id="RRA_54_CB10 Potent Ruin" data-flag="@X" onclick="openSidebar('RRA_54_CB10 Potent Ruin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\72_CR08 Hemoguzzler.jpg" id="RRA_72_CR08 Hemoguzzler" data-flag="@X" onclick="openSidebar('RRA_72_CR08 Hemoguzzler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\98_CG11 Potent Protest.jpg" id="RRA_98_CG11 Potent Protest" data-flag="@X" onclick="openSidebar('RRA_98_CG11 Potent Protest',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\15_CW11 Outlands Ostrich.jpg" id="RRA_15_CW11 Outlands Ostrich" data-flag="@X" onclick="openSidebar('RRA_15_CW11 Outlands Ostrich',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\35_CU11 Civic Pressure.jpg" id="RRA_35_CU11 Civic Pressure" data-flag="@X" onclick="openSidebar('RRA_35_CU11 Civic Pressure',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\55_CB11 Grasp of Death.jpg" id="RRA_55_CB11 Grasp of Death" data-flag="@X" onclick="openSidebar('RRA_55_CB11 Grasp of Death',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\73_CR09 Raging Oculus.jpg" id="RRA_73_CR09 Raging Oculus" data-flag="@X" onclick="openSidebar('RRA_73_CR09 Raging Oculus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\99_CG12 Chomp.jpg" id="RRA_99_CG12 Chomp" data-flag="@X" onclick="openSidebar('RRA_99_CG12 Chomp',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\16_CW12 Potent Reprisal.jpg" id="RRA_16_CW12 Potent Reprisal" data-flag="@X" onclick="openSidebar('RRA_16_CW12 Potent Reprisal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\36_CU12 Glitched Out.jpg" id="RRA_36_CU12 Glitched Out" data-flag="@X" onclick="openSidebar('RRA_36_CU12 Glitched Out',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\56_CB12 Union Massacre.jpg" id="RRA_56_CB12 Union Massacre" data-flag="@X" onclick="openSidebar('RRA_56_CB12 Union Massacre',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\74_CR10 Potent Pyre.jpg" id="RRA_74_CR10 Potent Pyre" data-flag="@X" onclick="openSidebar('RRA_74_CR10 Potent Pyre',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\100_CG13 Flow of Might.jpg" id="RRA_100_CG13 Flow of Might" data-flag="@X" onclick="openSidebar('RRA_100_CG13 Flow of Might',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\17_CW13 Banishing Glitchcraft.jpg" id="RRA_17_CW13 Banishing Glitchcraft" data-flag="@X" onclick="openSidebar('RRA_17_CW13 Banishing Glitchcraft',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\37_CU13 Flow of Logic.jpg" id="RRA_37_CU13 Flow of Logic" data-flag="@X" onclick="openSidebar('RRA_37_CU13 Flow of Logic',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\57_CB13 Flow of Cruelty.jpg" id="RRA_57_CB13 Flow of Cruelty" data-flag="@X" onclick="openSidebar('RRA_57_CB13 Flow of Cruelty',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\75_CR11 Stabber's Stains.jpg" id="RRA_75_CR11 Stabbers Stains" data-flag="@X" onclick="openSidebar('RRA_75_CR11 Stabbers Stains',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\101_CG14 Recultivating Rumble.jpg" id="RRA_101_CG14 Recultivating Rumble" data-flag="@X" onclick="openSidebar('RRA_101_CG14 Recultivating Rumble',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\18_CW14 Flow of Unity.jpg" id="RRA_18_CW14 Flow of Unity" data-flag="@X" onclick="openSidebar('RRA_18_CW14 Flow of Unity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\38_CU14 Swift Analysis.jpg" id="RRA_38_CU14 Swift Analysis" data-flag="@X" onclick="openSidebar('RRA_38_CU14 Swift Analysis',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\58_CB14 Must Keep Living.jpg" id="RRA_58_CB14 Must Keep Living" data-flag="@X" onclick="openSidebar('RRA_58_CB14 Must Keep Living',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\76_CR12 Great City Fire.jpg" id="RRA_76_CR12 Great City Fire" data-flag="@X" onclick="openSidebar('RRA_76_CR12 Great City Fire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\102_CG15 Split Growth.jpg" id="RRA_102_CG15 Split Growth" data-flag="@X" onclick="openSidebar('RRA_102_CG15 Split Growth',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\19_CW15 Paperwork Boomerang.jpg" id="RRA_19_CW15 Paperwork Boomerang" data-flag="@X" onclick="openSidebar('RRA_19_CW15 Paperwork Boomerang',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\39_CU15 Peruse Trinkets.jpg" id="RRA_39_CU15 Peruse Trinkets" data-flag="@X" onclick="openSidebar('RRA_39_CU15 Peruse Trinkets',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\59_CB15 Societal Suffering.jpg" id="RRA_59_CB15 Societal Suffering" data-flag="@X" onclick="openSidebar('RRA_59_CB15 Societal Suffering',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\77_CR13 Shatter the Display.jpg" id="RRA_77_CR13 Shatter the Display" data-flag="@X" onclick="openSidebar('RRA_77_CR13 Shatter the Display',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\78_CR14 Flow of Passion.jpg" id="RRA_78_CR14 Flow of Passion" data-flag="@X" onclick="openSidebar('RRA_78_CR14 Flow of Passion',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\79_CR15 Irresponsible Harvesting.jpg" id="RRA_79_CR15 Irresponsible Harvesting" data-flag="@X" onclick="openSidebar('RRA_79_CR15 Irresponsible Harvesting',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\85_UR03 Glitched Laser Cannon.jpg" id="RRA_85_UR03 Glitched Laser Cannon" data-flag="@X" onclick="openSidebar('RRA_85_UR03 Glitched Laser Cannon',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\107_UM01 Taxation Riddler.jpg" id="RRA_107_UM01 Taxation Riddler" data-flag="@X" onclick="openSidebar('RRA_107_UM01 Taxation Riddler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\108_UM02 Psychic Toad.jpg" id="RRA_108_UM02 Psychic Toad" data-flag="@X" onclick="openSidebar('RRA_108_UM02 Psychic Toad',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\109_UM03 Taxbreaker Emissary.jpg" id="RRA_109_UM03 Taxbreaker Emissary" data-flag="@X" onclick="openSidebar('RRA_109_UM03 Taxbreaker Emissary',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\110_UM04 Terrain Sculptor.jpg" id="RRA_110_UM04 Terrain Sculptor" data-flag="@X" onclick="openSidebar('RRA_110_UM04 Terrain Sculptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\111_UM05 Gluttonous Socialite.jpg" id="RRA_111_UM05 Gluttonous Socialite" data-flag="@X" onclick="openSidebar('RRA_111_UM05 Gluttonous Socialite',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\117_UM11 Taxation Census.jpg" id="RRA_117_UM11 Taxation Census" data-flag="@X" onclick="openSidebar('RRA_117_UM11 Taxation Census',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\118_UM12 Illusory Insight.jpg" id="RRA_118_UM12 Illusory Insight" data-flag="@X" onclick="openSidebar('RRA_118_UM12 Illusory Insight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\119_UM13 Horrific Killings.jpg" id="RRA_119_UM13 Horrific Killings" data-flag="@X" onclick="openSidebar('RRA_119_UM13 Horrific Killings',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\120_UM14 Ruinous Reclamation.jpg" id="RRA_120_UM14 Ruinous Reclamation" data-flag="@X" onclick="openSidebar('RRA_120_UM14 Ruinous Reclamation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\121_UM15 Gleeful Gluttony.jpg" id="RRA_121_UM15 Gleeful Gluttony" data-flag="@X" onclick="openSidebar('RRA_121_UM15 Gleeful Gluttony',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\112_UM06 Chef Ascendant.jpg" id="RRA_112_UM06 Chef Ascendant" data-flag="@X" onclick="openSidebar('RRA_112_UM06 Chef Ascendant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\113_UM07 Archaic Levitator-Mage.jpg" id="RRA_113_UM07 Archaic Levitator-Mage" data-flag="@X" onclick="openSidebar('RRA_113_UM07 Archaic Levitator-Mage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\114_UM08 Dumpster Devourer.jpg" id="RRA_114_UM08 Dumpster Devourer" data-flag="@X" onclick="openSidebar('RRA_114_UM08 Dumpster Devourer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\115_UM09 Trinket Burner.jpg" id="RRA_115_UM09 Trinket Burner" data-flag="@X" onclick="openSidebar('RRA_115_UM09 Trinket Burner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\116_UM10 Mana-Rich Taxpayer.jpg" id="RRA_116_UM10 Mana-Rich Taxpayer" data-flag="@X" onclick="openSidebar('RRA_116_UM10 Mana-Rich Taxpayer',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\122_UM16 Ascend into Taste.jpg" id="RRA_122_UM16 Ascend into Taste" data-flag="@X" onclick="openSidebar('RRA_122_UM16 Ascend into Taste',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\123_UM17 Artistic Patronage.jpg" id="RRA_123_UM17 Artistic Patronage" data-flag="@X" onclick="openSidebar('RRA_123_UM17 Artistic Patronage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\124_UM18 Feed on Rot.jpg" id="RRA_124_UM18 Feed on Rot" data-flag="@X" onclick="openSidebar('RRA_124_UM18 Feed on Rot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\125_UM19 Shopping Rush.jpg" id="RRA_125_UM19 Shopping Rush" data-flag="@X" onclick="openSidebar('RRA_125_UM19 Shopping Rush',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\126_UM20 Real Estate Purchase.jpg" id="RRA_126_UM20 Real Estate Purchase" data-flag="@X" onclick="openSidebar('RRA_126_UM20 Real Estate Purchase',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\127_UM21 Gluttonous Glitchcraft.jpg" id="RRA_127_UM21 Gluttonous Glitchcraft" data-flag="@X" onclick="openSidebar('RRA_127_UM21 Gluttonous Glitchcraft',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\4_RC01 Strained Evolver.jpg" id="RRA_4_RC01 Strained Evolver" data-flag="@X" onclick="openSidebar('RRA_4_RC01 Strained Evolver',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\128_RA01 Storage Bauble.jpg" id="RRA_128_RA01 Storage Bauble" data-flag="@X" onclick="openSidebar('RRA_128_RA01 Storage Bauble',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\1_CC01 Minimorphosize.jpg" id="RRA_1_CC01 Minimorphosize" data-flag="@X" onclick="openSidebar('RRA_1_CC01 Minimorphosize',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\2_CC02 Microtwiddle.jpg" id="RRA_2_CC02 Microtwiddle" data-flag="@X" onclick="openSidebar('RRA_2_CC02 Microtwiddle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\3_CC03 Redacted Etching.jpg" id="RRA_3_CC03 Redacted Etching" data-flag="@X" onclick="openSidebar('RRA_3_CC03 Redacted Etching',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\129_CL01 Pillar of Loyalty.jpg" id="RRA_129_CL01 Pillar of Loyalty" data-flag="@X" onclick="openSidebar('RRA_129_CL01 Pillar of Loyalty',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\130_CL02 Pillar of Knowledge.jpg" id="RRA_130_CL02 Pillar of Knowledge" data-flag="@X" onclick="openSidebar('RRA_130_CL02 Pillar of Knowledge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\131_CL03 Pillar of Knowledge.jpg" id="RRA_131_CL03 Pillar of Knowledge" data-flag="@X" onclick="openSidebar('RRA_131_CL03 Pillar of Knowledge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\132_CL04 Pillar of Knowledge.jpg" id="RRA_132_CL04 Pillar of Knowledge" data-flag="@X" onclick="openSidebar('RRA_132_CL04 Pillar of Knowledge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\133_CL05 Pillar of Strength.jpg" id="RRA_133_CL05 Pillar of Strength" data-flag="@X" onclick="openSidebar('RRA_133_CL05 Pillar of Strength',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\134_CL06 Investigator's Office.jpg" id="RRA_134_CL06 Investigators Office" data-flag="@X" onclick="openSidebar('RRA_134_CL06 Investigators Office',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\135_CL07 Archaeologist's Office.jpg" id="RRA_135_CL07 Archaeologists Office" data-flag="@X" onclick="openSidebar('RRA_135_CL07 Archaeologists Office',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\136_CL08 Genetecist's Office.jpg" id="RRA_136_CL08 Genetecists Office" data-flag="@X" onclick="openSidebar('RRA_136_CL08 Genetecists Office',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\137_CL09 Shareholder's Office.jpg" id="RRA_137_CL09 Shareholders Office" data-flag="@X" onclick="openSidebar('RRA_137_CL09 Shareholders Office',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\138_CL10 Manager's Office.jpg" id="RRA_138_CL10 Managers Office" data-flag="@X" onclick="openSidebar('RRA_138_CL10 Managers Office',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\139_CL11 Politician's Office.jpg" id="RRA_139_CL11 Politicians Office" data-flag="@X" onclick="openSidebar('RRA_139_CL11 Politicians Office',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\140_CL12 Morphing Pool.jpg" id="RRA_140_CL12 Morphing Pool" data-flag="@X" onclick="openSidebar('RRA_140_CL12 Morphing Pool',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\141_CL13 Laboratory of Insanity.jpg" id="RRA_141_CL13 Laboratory of Insanity" data-flag="@X" onclick="openSidebar('RRA_141_CL13 Laboratory of Insanity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\142_CL14 Spire of Renewability.jpg" id="RRA_142_CL14 Spire of Renewability" data-flag="@X" onclick="openSidebar('RRA_142_CL14 Spire of Renewability',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\143_CL15 Redacted Basement.jpg" id="RRA_143_CL15 Redacted Basement" data-flag="@X" onclick="openSidebar('RRA_143_CL15 Redacted Basement',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\144_Plains.jpg" id="RRA_144_Plains" data-flag="@X" onclick="openSidebar('RRA_144_Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\145_Island.jpg" id="RRA_145_Island" data-flag="@X" onclick="openSidebar('RRA_145_Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\146_Swamp.jpg" id="RRA_146_Swamp" data-flag="@X" onclick="openSidebar('RRA_146_Swamp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\147_Mountain.jpg" id="RRA_147_Mountain" data-flag="@X" onclick="openSidebar('RRA_147_Mountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\148_Forest.jpg" id="RRA_148_Forest" data-flag="@X" onclick="openSidebar('RRA_148_Forest',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\1t_Citizen Token.jpg" id="RRA_1t_Citizen Token" data-flag="@X" onclick="openSidebar('RRA_1t_Citizen Token',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\2t_Blood Token.jpg" id="RRA_2t_Blood Token" data-flag="@X" onclick="openSidebar('RRA_2t_Blood Token',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\3t_Bone Token.jpg" id="RRA_3t_Bone Token" data-flag="@X" onclick="openSidebar('RRA_3t_Bone Token',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\4t_Clue Token.jpg" id="RRA_4t_Clue Token" data-flag="@X" onclick="openSidebar('RRA_4t_Clue Token',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\5t_Food Token.jpg" id="RRA_5t_Food Token" data-flag="@X" onclick="openSidebar('RRA_5t_Food Token',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RRA-files\img\6t_Treasure Token.jpg" id="RRA_6t_Treasure Token" data-flag="@X" onclick="openSidebar('RRA_6t_Treasure Token',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RRA_e" data-flag="@E" onclick="openSidebar('RRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RRA_er" data-flag="@E" onclick="openSidebar('RRA_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>

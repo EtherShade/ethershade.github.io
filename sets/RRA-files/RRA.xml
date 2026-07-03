@@ -1,0 +1,2709 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>RRA</name>
+			<longname>Relics of the Redacted Age</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-03</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>RG07 Tesselate</name>
+			<text>Choose two creatures you control. If their total power is equal to their total toughness, discover creature X twice, where X is their total power, then sacrifice the chosen creatures. (To discover creature X, exile cards from the top of your library until you exile a nonland creature card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/105_RG07 Tesselate.jpg" num="105">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CC01 Minimorphosize</name>
+			<text>Morphosize. (Look at the top five cards of your library. Then you may sacrifice a creature to put a creature card with mana value X or less from among those cards onto the battlefield, where X is 1 plus the sacrificed creature&apos;s mana value. Put the rest on the bottom of your library in a random order.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/1_CC01 Minimorphosize.jpg" num="1">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW01 Loyal Companion</name>
+			<text>When this creature enters, draw a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/5_CW01 Loyal Companion.jpg" num="5">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW01 Fountain Familiar</name>
+			<text>Whenever you gain life, return this card from your graveyard to the battlefield phased out.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/22_UW01 Fountain Familiar.jpg" num="22">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RA01 Storage Bauble</name>
+			<text>{T}: Exile target card from your graveyard.
+{T}: Put a card exiled with this artifact into your graveyard. If you did, surveil 1.
+{1}: Untap this artifact.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/128_RA01 Storage Bauble.jpg" num="128">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CL12 Morphing Pool</name>
+			<text>{T}: Morphosize. (Look at the top five cards of your library. Then you may sacrifice a creature to put a creature card with mana value X or less from among those cards onto the battlefield, where X is 1 plus the sacrificed creature&apos;s mana value. Put the rest on the bottom of your library in a random order.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/140_CL12 Morphing Pool.jpg" num="140">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CU01 Unhinged Assistant</name>
+			<text>{T}, Mill a card: Add {U}.
+{1}{U}: Mill a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/25_CU01 Unhinged Assistant.jpg" num="25">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Laborer Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG01 Floral Recultivator</name>
+			<text>{T}: Return target land card from your graveyard to your hand. Add {G}.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/88_CG01 Floral Recultivator.jpg" num="88">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR01 Manaforce Fireweaver</name>
+			<text>Haste
+When this creature enters, add one mana of any color.
+{T}: Add {R}.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/65_CR01 Manaforce Fireweaver.jpg" num="65">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CL01 Pillar of Loyalty</name>
+			<text>This land enters phased out. When it does, add {W}.
+Lands you control are Plains in addition to their other types.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/129_CL01 Pillar of Loyalty.jpg" num="129">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL02 Pillar of Knowledge</name>
+			<text>This land enters phased out. When it does, add {U}.
+Lands you control are Islands in addition to their other types.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/130_CL02 Pillar of Knowledge.jpg" num="130">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL03 Pillar of Knowledge</name>
+			<text>This land enters phased out. When it does, add {B}.
+Lands you control are Swamps in addition to their other types.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/131_CL03 Pillar of Knowledge.jpg" num="131">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL04 Pillar of Knowledge</name>
+			<text>This land enters phased out. When it does, add {R}.
+Lands you control are Mountains in addition to their other types.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/132_CL04 Pillar of Knowledge.jpg" num="132">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL05 Pillar of Strength</name>
+			<text>This land enters phased out. When it does, add {G}.
+Lands you control are Forests in addition to their other types.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/133_CL05 Pillar of Strength.jpg" num="133">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL06 Investigator&apos;s Office</name>
+			<text>This land enters tapped.
+When this land enters, create a Clue token.
+{T}: Add {W}.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/134_CL06 Investigator&apos;s Office.jpg" num="134">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL07 Archaeologist&apos;s Office</name>
+			<text>This land enters tapped.
+When this land enters, create two Bone tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Mill a card.&quot;)
+{T}: Add {U}.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/135_CL07 Archaeologist&apos;s Office.jpg" num="135">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL08 Genetecist&apos;s Office</name>
+			<text>This land enters tapped.
+When this land enters, create two Blood tokens. (They&apos;re artifacts with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)
+{T}: Add {B}.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/136_CL08 Genetecist&apos;s Office.jpg" num="136">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL09 Shareholder&apos;s Office</name>
+			<text>This land enters tapped.
+When this land enters, create a tapped Treasure token.
+{T}: Add {R}.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/137_CL09 Shareholder&apos;s Office.jpg" num="137">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL10 Manager&apos;s Office</name>
+			<text>This land enters tapped.
+When this land enters, create two Food tokens.
+{T}: Add {G}.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/138_CL10 Manager&apos;s Office.jpg" num="138">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UW09 Mirrorshine Master</name>
+			<text>Reach
+Whenever this creature enters or attacks, create a token that&apos;s a copy of target token.
+Evoke {W} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/24_UW09 Mirrorshine Master.jpg" num="24">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clue Token RRA</name>
+			<text>{2}, Sacrifice this token: Draw a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/4t_Clue Token.jpg" num="4">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Clue</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>CW05 Shine-Blight Inquisitor</reverse-related>
+			<reverse-related>CW08 Market Caller</reverse-related>
+			<reverse-related>CU04 Eater of Detectives</reverse-related>
+			<reverse-related>CU08 Calculating Cadaver</reverse-related>
+			<reverse-related>CU15 Peruse Trinkets</reverse-related>
+			<reverse-related>RU01 Ocula, Lenses of Logic</reverse-related>
+			<reverse-related>UM19 Shopping Rush</reverse-related>
+			<reverse-related>CL06 Investigator&apos;s Office</reverse-related>
+		</card>
+		<card>
+			<name>Bone Token RRA</name>
+			<text>{T}, Sacrifice this token: Mill a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/3t_Bone Token.jpg" num="3">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Bone</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>CU15 Peruse Trinkets</reverse-related>
+			<reverse-related>CB06 City Vulture</reverse-related>
+			<reverse-related>CB07 The Alley Wraith</reverse-related>
+			<reverse-related>CB11 Grasp of Death</reverse-related>
+			<reverse-related>CL07 Archaeologist&apos;s Office</reverse-related>
+		</card>
+		<card>
+			<name>Treasure Token RRA</name>
+			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/6t_Treasure Token.jpg" num="6">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>RB01 Machina, Fingers of Cruelty</reverse-related>
+			<reverse-related>CR03 Real Estate Rager</reverse-related>
+			<reverse-related>UM19 Shopping Rush</reverse-related>
+			<reverse-related>CL09 Shareholder&apos;s Office</reverse-related>
+		</card>
+		<card>
+			<name>Blood Token RRA</name>
+			<text>{1}, {T}, Discard a card, sacrifice this token: Draw a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/2t_Blood Token.jpg" num="2">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Blood</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>CU08 Calculating Cadaver</reverse-related>
+			<reverse-related>CU15 Peruse Trinkets</reverse-related>
+			<reverse-related>RB08 Lifeblood Pinnacle</reverse-related>
+			<reverse-related>CR02 Painter of Flesh</reverse-related>
+			<reverse-related>UM19 Shopping Rush</reverse-related>
+			<reverse-related>CL08 Genetecist&apos;s Office</reverse-related>
+		</card>
+		<card>
+			<name>Food Token RRA</name>
+			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/5t_Food Token.jpg" num="5">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>CW06 Shine-Blight Shaman</reverse-related>
+			<reverse-related>CW08 Market Caller</reverse-related>
+			<reverse-related>CW09 The Eternity-Bartered Cow</reverse-related>
+			<reverse-related>CW13 Banishing Glitchcraft</reverse-related>
+			<reverse-related>RW01 Lingua, Tastes of Unity</reverse-related>
+			<reverse-related>CB05 Delicacy Devourer</reverse-related>
+			<reverse-related>CB06 City Vulture</reverse-related>
+			<reverse-related>UM05 Gluttonous Socialite</reverse-related>
+			<reverse-related>UM06 Chef Ascendant</reverse-related>
+			<reverse-related>UM16 Ascend into Taste</reverse-related>
+			<reverse-related>UM19 Shopping Rush</reverse-related>
+			<reverse-related>UM21 Gluttonous Glitchcraft</reverse-related>
+			<reverse-related>CL10 Manager&apos;s Office</reverse-related>
+		</card>
+		<card>
+			<name>CW08 Market Caller</name>
+			<text>When this creature enters, create a Food token, a Clue token, and a 1/1 colorless Citizen creature token. 
+Evoke {1}{W} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/12_CW08 Market Caller.jpg" num="12">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Merchant</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW02 Relicpurge Martyr</name>
+			<text>Flash
+When this creature dies, destroy up to one target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/6_CW02 Relicpurge Martyr.jpg" num="6">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW03 Annoying Lawyer</name>
+			<text>Flash
+Vigilance
+When this creature enters, target spell phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/7_CW03 Annoying Lawyer.jpg" num="7">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW04 Taxation Specialist</name>
+			<text>This creature enters with a taxation counter.
+Whenever a player casts a spell, if this creature has a taxation counter on it, counter that spell unless that player pays {1}. Remove a taxation counter from this creature.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/8_CW04 Taxation Specialist.jpg" num="8">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor Scholar</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW06 Shine-Blight Shaman</name>
+			<text>When this creature enters, choose one —
+• Exile target creature card from a graveyard. Destroy target creature with power 4 or greater.
+• Exile target artifact or enchantment card from a graveyard. Create a Food token.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/10_CW06 Shine-Blight Shaman.jpg" num="10">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07 Abiding Face</name>
+			<text>Flying
+When this creature enters, return target creature with mana value 1 or less from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/11_CW07 Abiding Face.jpg" num="11">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem Angel Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW05 Shine-Blight Inquisitor</name>
+			<text>When this creature enters, destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+When this creature dies, create a Clue token.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/9_CW05 Shine-Blight Inquisitor.jpg" num="9">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CL13 Laboratory of Insanity</name>
+			<text>This land enters tapped.
+{T}: Add {C}.
+If you would draw a card from an empty library, put a card from your graveyard on the bottom of your library instead.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/141_CL13 Laboratory of Insanity.jpg" num="141">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CW09 The Eternity-Bartered Cow</name>
+			<text>Lifelink
+Discard this card: You gain 1 life.
+When this creature dies and when you discard this card, create a Food token.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/13_CW09 The Eternity-Bartered Cow.jpg" num="13">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Transmortal Cow</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW10 Manyfold Glutton</name>
+			<text>As you cast this spell, you may sacrifice any number of Foods. Each Food sacrificed this way pays for {W} (or {1}).
+Flying</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/14_CW10 Manyfold Glutton.jpg" num="14">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Cat Dog Cow Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW12 Potent Reprisal</name>
+			<text>You may discard a white card rather than pay this spell&apos;s mana cost.
+This spell deals 3 damage to target attacking or blocking creature.
+{T}: You gain 3 life.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/16_CW12 Potent Reprisal.jpg" num="16">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CC02 Microtwiddle</name>
+			<text>Choose one —
+• Discover 0 at the beginning of the next end step. (To discover 0, exile cards from the top of your library until you exile a nonland card with mana value 0 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+• Target spell phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/2_CC02 Microtwiddle.jpg" num="2">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW13 Banishing Glitchcraft</name>
+			<text>When you cast this spell, exile target creature until this spell leaves the stack. Create a Food token. Then, this spell phases out until you control no foods. (Treat it and anything attached to it as though they don&apos;t exist until then.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/17_CW13 Banishing Glitchcraft.jpg" num="17">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW02 Influential Mentor</name>
+			<text>Protection from tapped (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything tapped.)
+Whenever another creature you control attacks alone, it gets +3/+0 
+until end of turn.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/23_UW02 Influential Mentor.jpg" num="23">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW14 Flow of Unity</name>
+			<text>You may return a Plains you control to its owner&apos;s hand rather than pay this spell&apos;s mana cost.
+Target creature gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/18_CW14 Flow of Unity.jpg" num="18">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW15 Paperwork Boomerang</name>
+			<text>Each player draws a card.
+Tap two untapped instant or sorcery spells you control: Create a 1/1 colorless Citizen creature token.
+Counter another untapped instant or sorcery spell you control: This spell gains rebound. (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/19_CW15 Paperwork Boomerang.jpg" num="19">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Citizen Token RRA</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/1t_Citizen Token.jpg" num="1">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>CW08 Market Caller</reverse-related>
+			<reverse-related>CW15 Paperwork Boomerang</reverse-related>
+			<reverse-related>CR02 Painter of Flesh</reverse-related>
+			<reverse-related>UR01 Aggressive Populace</reverse-related>
+			<reverse-related>UM15 Gleeful Gluttony</reverse-related>
+			<reverse-related>CL11 Politician&apos;s Office</reverse-related>
+		</card>
+		<card>
+			<name>CL11 Politician&apos;s Office</name>
+			<text>This land enters tapped.
+When this land enters, create a 1/1 colorless Citizen creature token.
+{T}: Add {C}.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/139_CL11 Politician&apos;s Office.jpg" num="139">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL15 Redacted Basement</name>
+			<text>Indestructible
+{T}: Add {C}.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/143_CL15 Redacted Basement.jpg" num="143">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL14 Spire of Renewability</name>
+			<text>{T}: Add {C}.
+{T}: Untap target instant or sorcery spell.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/142_CL14 Spire of Renewability.jpg" num="142">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CU04 Eater of Detectives</name>
+			<text>Whenever this creature enters or dies, create a Clue token.
+Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/28_CU04 Eater of Detectives.jpg" num="28">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goat</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU02 Hunted Practitioner</name>
+			<text>{T}: Draw a card, then discard a card. Untap target instant or sorcery spell.
+When this creature dies, target nonland card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/42_UU02 Hunted Practitioner.jpg" num="42">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU03 Taxation Philosopher</name>
+			<text>Vigilance
+Whenever this creature attacks, put a taxation counter on it.
+Remove a taxation counter from this creature: Untap target permanent or spell. When you do, if you controlled that spell, you may counter it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/27_CU03 Taxation Philosopher.jpg" num="27">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RR07 Ancient Ambush</name>
+			<text>Target permanent card in your graveyard gains unearth {0} until end of turn. ({0}: Return that card from your graveyard to the battlefield. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/83_RR07 Ancient Ambush.jpg" num="83">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU02 Tempestborn Drake</name>
+			<text>Flying
+Tap an untapped instant or sorcery spell you control: Add {U}.
+{U}: This creature gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/26_CU02 Tempestborn Drake.jpg" num="26">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU05 Wizardblood Licker</name>
+			<text>Amnesia—Discard a blue card. (You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)
+Whenever you sacrifice a Blood, you may put this creature on the bottom of its owner&apos;s library. If you do, draw two cards.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/29_CU05 Wizardblood Licker.jpg" num="29">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU08 Calculating Cadaver</name>
+			<text>When this creature enters, return target creature an opponent controls to its owner&apos;s hand. Create a Blood token and a Clue token. (A Blood token is an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/32_CU08 Calculating Cadaver.jpg" num="32">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Drone</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB03 Specter of Ninjacraft</name>
+			<text>Ninjutsu {0} ({0}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever this creature deals combat damage to a player, that player loses 3 life unless they sacrifice a nonland permanent or discard a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/47_CB03 Specter of Ninjacraft.jpg" num="47">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ninja Specter</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU06 The Narcotoad</name>
+			<text>Flying
+Amnesia—Exile two blue cards from your graveyard, sacrifice two tokens. (You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)
+Cycling—Exile three cards from your graveyard.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/30_CU06 The Narcotoad.jpg" num="30">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Frog Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RB08 Lifeblood Pinnacle</name>
+			<text>Whenever you cast a spell, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)
+If you would pay life while you control at least that many tokens, sacrifice that many tokens instead.
+You may pay 1 life rather than pay for each generic mana in the costs of activated abilities of artifact tokens you control.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/63_RB08 Lifeblood Pinnacle.jpg" num="63">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RC01 Strained Evolver</name>
+			<text>Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)
+Strained Evolver gets +2/+2 for each level counter on it.
+At the beginning of your upkeep, sacrifice Strained Evolver unless you pay {X}, where X is the number of level counters on Strained Evolver.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/4_RC01 Strained Evolver.jpg" num="4">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR01 Aggressive Populace</name>
+			<text>Create a 1/1 colorless Citizen creature token. It gains haste until end of turn.
+Flashback—Discard a red card
+Discard a card: Put this card from exile into its owner&apos;s graveyard. This card&apos;s owner may activate this ability.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/84_UR01 Aggressive Populace.jpg" num="84">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RB07 Fact and Fiction</name>
+			<text>Look at the top five cards of your library. Put any number of them into your hand and the rest into your graveyard. You lose life equal to twice the number of cards put into your hand this way.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/62_RB07 Fact and Fiction.jpg" num="62">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM02 Psychic Toad</name>
+			<text>Amnesia—Discard a blue card and a black card. (You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)
+Discard a card: Mill a card.
+Exile four cards from your graveyard: Put a +1/+1 counter on this creature. It gains menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/108_UM02 Psychic Toad.jpg" num="108">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU07 Glitching Fleshbeast</name>
+			<text>As you cast this spell, you may sacrifice any number of Clues. Each Clue sacrificed this way pays for {U} (or {1}).
+Ward {1}</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/31_CU07 Glitching Fleshbeast.jpg" num="31">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Beast Horror Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM01 Taxation Riddler</name>
+			<text>Flying
+Whenever a spell or ability you control counters a spell or ability you control, draw a card and put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/107_UM01 Taxation Riddler.jpg" num="107">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sphinx</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU10 Butcher&apos;s Negation</name>
+			<text>Cleave {U}{U} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+Counter target spell[[b] you control[/b]].</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/34_CU10 Butcher&apos;s Negation.jpg" num="34">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU09 Potent Retreat</name>
+			<text>You may discard a blue card rather than pay this spell&apos;s mana cost.
+Return target nonland permanent to its owner&apos;s hand.
+{T}: Surveil 2.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/33_CU09 Potent Retreat.jpg" num="33">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU13 Flow of Logic</name>
+			<text>You may return an Island you control to its owner&apos;s hand rather than pay this spell&apos;s mana cost.
+Surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/37_CU13 Flow of Logic.jpg" num="37">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU11 Civic Pressure</name>
+			<text>Counter target spell unless its controller pays {1} or exiles four cards from their graveyard.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/35_CU11 Civic Pressure.jpg" num="35">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU12 Glitched Out</name>
+			<text>Enchant nonland permanent
+Enchanted permanent is a 1/1 blue Reflection creature with no abilities. (It loses all other colors and types.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/36_CU12 Glitched Out.jpg" num="36">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU14 Swift Analysis</name>
+			<text>Draw two cards.
+{T}: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/38_CU14 Swift Analysis.jpg" num="38">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU15 Peruse Trinkets</name>
+			<text>Create a Clue token, a Blood token, and a Bone token. (A Blood token an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot; A Bone token is an artifact with &quot;{T}, Sacrifice this artifact: Mill a card.&quot;)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/39_CU15 Peruse Trinkets.jpg" num="39">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RB01 Machina, Fingers of Cruelty</name>
+			<text>At the beginning of combat on your turn, if this creature has no counters on it, put your choice of a haste, deathtouch, menace, +1/+1, or shield counter on this creature. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+At the beginning of your end step, you may remove a counter from this creature. If you do, create a Treasure token.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/60_RB01 Machina, Fingers of Cruelty.jpg" num="60">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Hand</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RU01 Ocula, Lenses of Logic</name>
+			<text>{T}: Create a Clue token.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/40_RU01 Ocula, Lenses of Logic.jpg" num="40">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Eye</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB02 Prized Vessel</name>
+			<text>Whenever you cast a spell from outside your hand, return this creature from your graveyard to the battlefield tapped.
+When this creature dies, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/46_CB02 Prized Vessel.jpg" num="46">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB01 Mana Broker</name>
+			<text>Lifelink
+When this creature enters, you may pay up to 3 life. Add that much mana in any combination of colors.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/45_CB01 Mana Broker.jpg" num="45">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Merchant Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR10 Exponential Inferno</name>
+			<text>Add 2^X {R}. (2⁰ = 1, {2}¹ = 2, {2}² = 4, {2}³ = 8, {2}⁴ = 16, {2}⁵ = 32, and so on.)
+Exile the top card of your library. You may play it until the end of your next turn.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/87_UR10 Exponential Inferno.jpg" num="87">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XRR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU09 Election Fraud</name>
+			<text>Exile the top three cards of your library face down and look at those cards, then an opponent chooses one of those cards. Then reveal a card not chosen this way. Then your opponent chooses one of the cards not revealed this way. Put each of the exiled cards except the second card they chose this way into your hand.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/44_UU09 Election Fraud.jpg" num="44">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RW01 Lingua, Tastes of Unity</name>
+			<text>Whenever this creature becomes tapped or untapped, create a Food token.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/20_RW01 Lingua, Tastes of Unity.jpg" num="20">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RG01 Capita, Commands of Might</name>
+			<text>At the beginning of your end step, if you control an odd number of tokens, create a token that&apos;s a copy of a token you control.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/103_RG01 Capita, Commands of Might.jpg" num="103">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RR01 Kardia, Beats of Passion</name>
+			<text>{T}, Exile a card from your hand: Put target face up card you own in exile into your hand.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/80_RR01 Kardia, Beats of Passion.jpg" num="80">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Homunculus</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB05 Delicacy Devourer</name>
+			<text>You may sacrifice a two creatures and/or tokens rather than pay this spell&apos;s mana cost.
+When this creature enters, if you paid mana to cast it, create a Food token.
+Whenever you gain life, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/49_CB05 Delicacy Devourer.jpg" num="49">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/144_Plains.jpg" num="144">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/145_Island.jpg" num="145">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/146_Swamp.jpg" num="146">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/147_Mountain.jpg" num="147">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/148_Forest.jpg" num="148">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UM03 Taxbreaker Emissary</name>
+			<text>When this creature enters, add three mana in any combination of colors.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/109_UM03 Taxbreaker Emissary.jpg" num="109">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM08 Dumpster Devourer</name>
+			<text>{T}, Sacrifice a token: You gain 3 life.
+Pay 6 life: Put this card from your hand onto the battlefield.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/114_UM08 Dumpster Devourer.jpg" num="114">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM04 Terrain Sculptor</name>
+			<text>Tap an untapped instant or sorcery spell you control, Sacrifice a land: Search your library for a land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/110_UM04 Terrain Sculptor.jpg" num="110">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Laborer</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM05 Gluttonous Socialite</name>
+			<text>Vigilance
+Whenever this creature attacks or dies, create a Food token.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/111_UM05 Gluttonous Socialite.jpg" num="111">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM06 Chef Ascendant</name>
+			<text>When this creature enters, create a Food token.
+Sacrifice a Food: Morphosize. (Look at the top five cards of your library. Then you may sacrifice a creature to put a creature card with mana value X or less from among those cards onto the battlefield, where X is 1 plus the sacrificed creature&apos;s mana value. Put the rest on the bottom of your library in a random order.)</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/112_UM06 Chef Ascendant.jpg" num="112">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Chef Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM21 Gluttonous Glitchcraft</name>
+			<text>{T}: Create a Food token. Draw a card. You lose 2 life.
+Whenever you gain life, this spell phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/127_UM21 Gluttonous Glitchcraft.jpg" num="127">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WBG</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM07 Archaic Levitator-Mage</name>
+			<text>Flying
+Tap two untapped instant and/or sorcery spells you control: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/113_UM07 Archaic Levitator-Mage.jpg" num="113">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RR06 Twiddling Tamperer</name>
+			<text>Creatures you control have &quot;Whenever an instant or sorcery spell you control becomes tapped, you may copy it. Do this only once each turn.&quot;</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/82_RR06 Twiddling Tamperer.jpg" num="82">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM09 Trinket Burner</name>
+			<text>Haste
+Sacrifice a token: This creature gets +2/+1 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/115_UM09 Trinket Burner.jpg" num="115">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM10 Mana-Rich Taxpayer</name>
+			<text>{T}: Add {G}{U}.
+{G}{U}: Put a taxation counter on this creature. Activate only once each turn.
+Remove a taxation counter from this creature: Untap this creature.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/116_UM10 Mana-Rich Taxpayer.jpg" num="116">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM11 Taxation Census</name>
+			<text>Counter target spell you control. You gain 1 life and draw a card.
+Proliferate. For each taxation counter put on a permanent you control by this proliferate action, you gain 1 life and draw a card. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/117_UM11 Taxation Census.jpg" num="117">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM12 Illusory Insight</name>
+			<text>{T}: Draw two cards. You lose 1 life. Mill a card.
+{U}{B}: This spell phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/118_UM12 Illusory Insight.jpg" num="118">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM13 Horrific Killings</name>
+			<text>Storm (When you cast this spell, copy it for each spell cast before it this turn.)
+Each player sacrifices a creature. Draw a card for each creature sacrificed this way. You lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/119_UM13 Horrific Killings.jpg" num="119">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB15 Societal Suffering</name>
+			<text>Storm (When you cast this spell, copy it for each spell cast before it this turn.)
+You gain 1 life and each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/59_CB15 Societal Suffering.jpg" num="59">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM14 Ruinous Reclamation</name>
+			<text>As an additional cost to cast this spell, sacrifice a land.
+Untap all lands you control.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/120_UM14 Ruinous Reclamation.jpg" num="120">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM15 Gleeful Gluttony</name>
+			<text>Destroy target artifact. If it was a Food you controlled, create four 1/1 colorless Citizen creature tokens.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/121_UM15 Gleeful Gluttony.jpg" num="121">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM16 Ascend into Taste</name>
+			<text>Morphosize. Create a Food token. (Look at the top five cards of your library. Then you may sacrifice a creature to put a creature card with mana value X or less from among those cards onto the battlefield, where X is 1 plus the sacrificed creature&apos;s mana value. Put the rest on the bottom of your library in a random order.)</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/122_UM16 Ascend into Taste.jpg" num="122">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM17 Artistic Patronage</name>
+			<text>Untap all spells you control. Draw a card.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/123_UM17 Artistic Patronage.jpg" num="123">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM18 Feed on Rot</name>
+			<text>Each opponent loses X life, where is the amount of life you&apos;ve gained this turn plus the number of Foods you control.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/124_UM18 Feed on Rot.jpg" num="124">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM19 Shopping Rush</name>
+			<text>Create a Clue token, a Treasure token, a Blood token, and a Food token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/125_UM19 Shopping Rush.jpg" num="125">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM20 Real Estate Purchase</name>
+			<text>Kicker {X} (You may pay an additional {X} as you cast this spell.)
+Draw a card. You may play an additional land this turn.
+If this spell was kicked, put X +1/+1 counters on each creature you control.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/126_UM20 Real Estate Purchase.jpg" num="126">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB04 Toad Pactbearer</name>
+			<text>Amnesia—Discard a black card. (You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)
+When this creature enters, draw a card. You lose 1 life.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/48_CB04 Toad Pactbearer.jpg" num="48">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB06 City Vulture</name>
+			<text>Flying
+When this creature enters, you may sacrifice an artifact or creature. If you do, draw two cards and create a Food token and a Bone token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Mill a card.&quot;)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/50_CB06 City Vulture.jpg" num="50">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB07 The Alley Wraith</name>
+			<text>Menace
+When this creature enters, create a Bone token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Mill a card.&quot;)
+Cycling {BP} ({BP}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/51_CB07 The Alley Wraith.jpg" num="51">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wraith</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB08 Remains of Terror</name>
+			<text>As you cast this spell, you may sacrifice any number of Bones. Each Bone sacrificed this way pays for {B} (or {1}).
+Menace</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/52_CB08 Remains of Terror.jpg" num="52">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB10 Potent Ruin</name>
+			<text>You may discard a black card rather than pay this spell&apos;s mana cost.
+Destroy target creature with total power and toughness 5 or less.
+{T}: You gain 1 life and each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/54_CB10 Potent Ruin.jpg" num="54">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB11 Grasp of Death</name>
+			<text>Destroy target creature. Create a Bone token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Mill a card.&quot;)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/55_CB11 Grasp of Death.jpg" num="55">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B/PB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB12 Union Massacre</name>
+			<text>Destroy target creature. Up to two target creatures get -1/-1 until end of turn.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/56_CB12 Union Massacre.jpg" num="56">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB13 Flow of Cruelty</name>
+			<text>You may return a Swamp you control to its owner&apos;s hand rather than pay this spell&apos;s mana cost.
+Target opponent reveals their hand. You may choose a creature card from it. That player discards that card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/57_CB13 Flow of Cruelty.jpg" num="57">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB14 Must Keep Living</name>
+			<text>Until end of turn, target creature gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a shield counter on it.&quot; (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/58_CB14 Must Keep Living.jpg" num="58">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR04 Painter of Flesh</name>
+			<text>Haste
+When this creature enters, create a Blood token and a 1/1 colorless Citizen creature token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/68_CR04 Painter of Flesh.jpg" num="68">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC03 Redacted Etching</name>
+			<text>Add one mana of any color.
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/3_CC03 Redacted Etching.jpg" num="3">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR03 Real Estate Rager // Scare a Deal</name>
+			<text>This creature enters prepared.
+When this creature enters, create a Treasure token. Put a land counter on that token. (It&apos;s a land in addition to its other types.)
+
+---
+
+Add {R}.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/67_CR03 Real Estate Rager.jpg" num="67">RRA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker Advisor // Instant</type>
+				<maintype>Creature</maintype>
+				<manacost>1R // 0</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU06 Modernmind Master</name>
+			<text>Reach
+Whenever this creature enters or attacks, return up to one target permanent you control to its owner&apos;s hand.
+Evoke {U} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/43_UU06 Modernmind Master.jpg" num="43">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW11 Outlands Ostrich</name>
+			<text>First strike
+When this creature deals combat damage to a player, discover 4. Any creatures cast this way enter tapped and attacking. (To discover 4, exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/15_CW11 Outlands Ostrich.jpg" num="15">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB09 Glitch Lich</name>
+			<text>When this creature enters, return target creature card from your graveyard to the battlefield phased out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/53_CB09 Glitch Lich.jpg" num="53">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR02 Raging Crowd</name>
+			<text>Create a 1/1 colorless Citizen creature token.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/66_CR02 Raging Crowd.jpg" num="66">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR05 Tempestborn Goblin</name>
+			<text>Instant and sorcery spells you cast cost {1} less to cast.
+Tap two untapped instant and/or sorcery spells you control: Discard a card, then draw a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/69_CR05 Tempestborn Goblin.jpg" num="69">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR06 Tectonics Druid</name>
+			<text>Reach
+When this creature enters, if you&apos;ve sacrificed a land this turn, search your library for two land cards, reveal them, put them into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/70_CR06 Tectonics Druid.jpg" num="70">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR07 The Phoenix Rider</name>
+			<text>Flying
+Transmute—Discard a card at random. (Discard a card at random, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
+Discard a red card: Return this card from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/71_CR07 The Phoenix Rider.jpg" num="71">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Phoenix Kobold</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR08 Hemoguzzler</name>
+			<text>As you cast this spell, you may sacrifice any number of Bloods. Each Blood sacrificed this way pays for {R} (or {1}).
+Haste</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/72_CR08 Hemoguzzler.jpg" num="72">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR09 Raging Oculus</name>
+			<text>When this creature enters, create three Blood tokens. (They&apos;re artifacts with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)
+Sacrifice a Blood: Choose one. Activate only as a a sorcery —
+• This creature deals 1 damage to any target.
+• Destroy target artifact with mana value 2 or less.
+• Destroy target token.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/73_CR09 Raging Oculus.jpg" num="73">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Homunculus</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR10 Potent Pyre</name>
+			<text>You may discard a red card rather than pay this spell&apos;s mana cost.
+This spell deals 2 damage to any target.
+{T}: Discard a card, then draw a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/74_CR10 Potent Pyre.jpg" num="74">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RU02 Insightful Glitchcraft</name>
+			<text>Draw a card.
+{T}: Another target tapped instant or sorcery spell gains this card&apos;s abilities.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/41_RU02 Insightful Glitchcraft.jpg" num="41">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RW02 Harmonious Glitchcraft</name>
+			<text>Create a 1/1 colorless Citizen creature token.
+{T}: Another target tapped instant or sorcery spell gains this card&apos;s abilities.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/21_RW02 Harmonious Glitchcraft.jpg" num="21">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RB02 Sinister Glitchcraft</name>
+			<text>You gain 2 life and each opponent loses 2 life.
+{T}: Another target tapped instant or sorcery spell gains this card&apos;s abilities.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/61_RB02 Sinister Glitchcraft.jpg" num="61">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RR02 Covetous Glitchcraft</name>
+			<text>Create a tapped Treasure token.
+{T}: Another target tapped instant or sorcery spell gains this card&apos;s abilities.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/81_RR02 Covetous Glitchcraft.jpg" num="81">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RG02 Colossal Glitchcraft</name>
+			<text>A creature you control with the lowest toughness among creatures you control gets +4/+4 until end of turn.
+{T}: Another target tapped instant or sorcery spell gains this card&apos;s abilities.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/RRA-files/img/104_RG02 Colossal Glitchcraft.jpg" num="104">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR11 Stabber&apos;s Stains</name>
+			<text>This spell deals 4 damage to target creature. Create two Blood tokens. (They&apos;re artifacts with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/75_CR11 Stabber&apos;s Stains.jpg" num="75">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR12 Great City Fire</name>
+			<text>This spell deals 5 damage to target creature. Destroy up to two target tokens.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/76_CR12 Great City Fire.jpg" num="76">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR13 Shatter the Display</name>
+			<text>Destroy target artifact. If a permanent you controlled was destroyed this way, draw a card. If a token was destroyed this way, draw a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/77_CR13 Shatter the Display.jpg" num="77">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR14 Flow of Passion</name>
+			<text>You may return a Mountain you control to its owner&apos;s hand rather than pay this spell&apos;s mana cost.
+Mill two cards. You may play one of them until the end of your next turn.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/78_CR14 Flow of Passion.jpg" num="78">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR15 Irresponsible Harvesting</name>
+			<text>Kicker—Sacrifice a land (You may sacrifice a land in addition to any other costs as you cast this spell.)
+Target creature gets +3/+0 until end of turn. If this spell was kicked, it gains trample and first strike.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/79_CR15 Irresponsible Harvesting.jpg" num="79">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR03 Glitched Laser Cannon</name>
+			<text>Defender
+{T}: This creature deals 2 damage to each opponent.
+Whenever a tapped spell you control resolves, untap this creature.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/85_UR03 Glitched Laser Cannon.jpg" num="85">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB07 Morphblight Master</name>
+			<text>Reach
+Whenever this creature enters or attacks, morphosize. This creature can&apos;t be sacrificed for that morphosize action. (Look at the top five cards of your library. Then you may sacrifice a creature to put a creature card with mana value X or less from among those cards onto the battlefield, where X is 1 plus the sacrificed creature&apos;s mana value. Put the rest on the bottom of your library in a random order.)
+Evoke {B} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/64_UB07 Morphblight Master.jpg" num="64">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR07 Manaforce Master</name>
+			<text>Reach
+Whenever this creature enters or attacks, add one mana of any color.
+Evoke {R} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/86_UR07 Manaforce Master.jpg" num="86">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG08 Manaforce Master</name>
+			<text>Reach
+Whenever this creature enters or attacks, return target land card from your graveyard to the battlefield.
+Evoke {G} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/RRA-files/img/106_UG08 Manaforce Master.jpg" num="106">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG02 Sage of Broken Earth</name>
+			<text>Kicker—Sacrifice a land (You may sacrifice a land in addition to any other costs as you cast this spell.)
+This creature enters with a +1/+1 counter and a trample counter if it was kicked.
+{G}, Remove a counter from this creature: Search your library for a land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/89_CG02 Sage of Broken Earth.jpg" num="89">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG03 Naturalist Popularizer</name>
+			<text>{T}: Add {G}{G}.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/90_CG03 Naturalist Popularizer.jpg" num="90">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG04 Fast Food Glutton</name>
+			<text>When this creature enters or dies, create a Food token.
+Whenever this creature attacks, you may sacrifice a Food or Citizen. If you do, put two +1/+1 counters on another target creature.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/91_CG04 Fast Food Glutton.jpg" num="91">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG05 Arachnophobic Glitchbeast</name>
+			<text>Vigilance, reach, deathtouch
+Tap an untapped instant or sorcery spell you control: This creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/92_CG05 Arachnophobic Glitchbeast.jpg" num="92">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider Beast Horror Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG06 Gluttonous Gardener</name>
+			<text>When this creature dies, create two Food tokens.
+Sacrifice three Foods: Return this card from your graveyard to the battlefield tapped.
+Cycling {GP}{GP} ({GP}{GP}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/93_CG06 Gluttonous Gardener.jpg" num="93">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG07 The Grave Troll</name>
+			<text>Trample
+Reinforce 1—{GP} ({GP}, Discard this card: Put a +1/+1 counter on target creature.)
+Dredge 4 (If you would draw a card, you may mill four cards instead. If you do, return this card from your graveyard to your hand.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/94_CG07 The Grave Troll.jpg" num="94">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG08 Rampaging Killer</name>
+			<text>As you cast this spell, you may sacrifice any number of Citizens. Each Citizen sacrificed this way pays for {G} (or {1}).
+Vigilance</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/95_CG08 Rampaging Killer.jpg" num="95">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG09 Extremely Slow Glitchbeast</name>
+			<text>Last strike (This creature deals combat damage after creatures without last strike.)
+Sacrifice a Citizen, Food, or land: This creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/96_CG09 Extremely Slow Glitchbeast.jpg" num="96">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Horror Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG10 Outlands Dreadmaw</name>
+			<text>Trample
+{G}, Discard this card, Sacrifice a land: Search your library for a land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/97_CG10 Outlands Dreadmaw.jpg" num="97">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG11 Potent Protest</name>
+			<text>You may discard a green card rather than pay this spell&apos;s mana cost.
+Target creature you control fights target creature you don&apos;t control.
+{T}: Create a 1/1 colorless Citizen creature token.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/98_CG11 Potent Protest.jpg" num="98">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG12 Chomp</name>
+			<text>Target creature you control deals damage equal to its power to target creature you don&apos;t control.
+Create a Food token.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/99_CG12 Chomp.jpg" num="99">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG13 Flow of Might</name>
+			<text>You may return a Forest you control to its owner&apos;s hand rather than pay this spell&apos;s mana cost.
+You may put a land card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/100_CG13 Flow of Might.jpg" num="100">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG14 Recultivating Rumble</name>
+			<text>Mill four cards. Return a creature or land card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/101_CG14 Recultivating Rumble.jpg" num="101">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG15 Split Growth</name>
+			<text>Target creature gets +2/+1 until end of turn.
+{T}: Target creature gets +1/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/RRA-files/img/102_CG15 Split Growth.jpg" num="102">RRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

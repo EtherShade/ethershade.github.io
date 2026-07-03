@@ -1,0 +1,1523 @@
+﻿[
+    {
+        "card_name": "RW01 Lingua, Tastes of Unity",
+        "number": 20,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU01 Ocula, Lenses of Logic",
+        "number": 40,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB01 Machina, Fingers of Cruelty",
+        "number": 60,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR01 Kardia, Beats of Passion",
+        "number": 80,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG01 Capita, Commands of Might",
+        "number": 103,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "RW02 Harmonious Glitchcraft",
+        "number": 21,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU02 Insightful Glitchcraft",
+        "number": 41,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB02 Sinister Glitchcraft",
+        "number": 61,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR02 Covetous Glitchcraft",
+        "number": 81,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG02 Colossal Glitchcraft",
+        "number": 104,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UW01 Fountain Familiar",
+        "number": 22,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU02 Hunted Practitioner",
+        "number": 42,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB07 Fact and Fiction",
+        "number": 62,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR06 Twiddling Tamperer",
+        "number": 82,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG07 Tesselate",
+        "number": 105,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UW02 Influential Mentor",
+        "number": 23,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU06 Modernmind Master",
+        "number": 43,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB08 Lifeblood Pinnacle",
+        "number": 63,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR07 Ancient Ambush",
+        "number": 83,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG08 Manaforce Master",
+        "number": 106,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UW09 Mirrorshine Master",
+        "number": 24,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU09 Election Fraud",
+        "number": 44,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB07 Morphblight Master",
+        "number": 64,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR01 Aggressive Populace",
+        "number": 84,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG01 Floral Recultivator",
+        "number": 88,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW01 Loyal Companion",
+        "number": 5,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU01 Unhinged Assistant",
+        "number": 25,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB01 Mana Broker",
+        "number": 45,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR07 Manaforce Master",
+        "number": 86,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG02 Sage of Broken Earth",
+        "number": 89,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW02 Relicpurge Martyr",
+        "number": 6,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU02 Tempestborn Drake",
+        "number": 26,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB02 Prized Vessel",
+        "number": 46,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR10 Exponential Inferno",
+        "number": 87,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG03 Naturalist Popularizer",
+        "number": 90,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW03 Annoying Lawyer",
+        "number": 7,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU03 Taxation Philosopher",
+        "number": 27,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB03 Specter of Ninjacraft",
+        "number": 47,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR01 Manaforce Fireweaver",
+        "number": 65,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG04 Fast Food Glutton",
+        "number": 91,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW04 Taxation Specialist",
+        "number": 8,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU04 Eater of Detectives",
+        "number": 28,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB04 Toad Pactbearer",
+        "number": 48,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR02 Raging Crowd",
+        "number": 66,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG05 Arachnophobic Glitchbeast",
+        "number": 92,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW05 Shine-Blight Inquisitor",
+        "number": 9,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU05 Wizardblood Licker",
+        "number": 29,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB05 Delicacy Devourer",
+        "number": 49,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR03 Real Estate Rager",
+        "number": 67,
+        "shape": "adventure",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG06 Gluttonous Gardener",
+        "number": 93,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW06 Shine-Blight Shaman",
+        "number": 10,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU06 The Narcotoad",
+        "number": 30,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB06 City Vulture",
+        "number": 50,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR04 Painter of Flesh",
+        "number": 68,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG07 The Grave Troll",
+        "number": 94,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW07 Abiding Face",
+        "number": 11,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU07 Glitching Fleshbeast",
+        "number": 31,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB07 The Alley Wraith",
+        "number": 51,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR05 Tempestborn Goblin",
+        "number": 69,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG08 Rampaging Killer",
+        "number": 95,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW08 Market Caller",
+        "number": 12,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU08 Calculating Cadaver",
+        "number": 32,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB08 Remains of Terror",
+        "number": 52,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR06 Tectonics Druid",
+        "number": 70,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG09 Extremely Slow Glitchbeast",
+        "number": 96,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW09 The Eternity-Bartered Cow",
+        "number": 13,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU09 Potent Retreat",
+        "number": 33,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB09 Glitch Lich",
+        "number": 53,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR07 The Phoenix Rider",
+        "number": 71,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG10 Outlands Dreadmaw",
+        "number": 97,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW10 Manyfold Glutton",
+        "number": 14,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU10 Butcher's Negation",
+        "number": 34,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB10 Potent Ruin",
+        "number": 54,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR08 Hemoguzzler",
+        "number": 72,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG11 Potent Protest",
+        "number": 98,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW11 Outlands Ostrich",
+        "number": 15,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU11 Civic Pressure",
+        "number": 35,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB11 Grasp of Death",
+        "number": 55,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR09 Raging Oculus",
+        "number": 73,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG12 Chomp",
+        "number": 99,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW12 Potent Reprisal",
+        "number": 16,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU12 Glitched Out",
+        "number": 36,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB12 Union Massacre",
+        "number": 56,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR10 Potent Pyre",
+        "number": 74,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG13 Flow of Might",
+        "number": 100,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW13 Banishing Glitchcraft",
+        "number": 17,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU13 Flow of Logic",
+        "number": 37,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB13 Flow of Cruelty",
+        "number": 57,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR11 Stabber's Stains",
+        "number": 75,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG14 Recultivating Rumble",
+        "number": 101,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW14 Flow of Unity",
+        "number": 18,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU14 Swift Analysis",
+        "number": 38,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB14 Must Keep Living",
+        "number": 58,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR12 Great City Fire",
+        "number": 76,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG15 Split Growth",
+        "number": 102,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW15 Paperwork Boomerang",
+        "number": 19,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU15 Peruse Trinkets",
+        "number": 39,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB15 Societal Suffering",
+        "number": 59,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR13 Shatter the Display",
+        "number": 77,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR14 Flow of Passion",
+        "number": 78,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR15 Irresponsible Harvesting",
+        "number": 79,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UR03 Glitched Laser Cannon",
+        "number": 85,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "UM01 Taxation Riddler",
+        "number": 107,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM02 Psychic Toad",
+        "number": 108,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM03 Taxbreaker Emissary",
+        "number": 109,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM04 Terrain Sculptor",
+        "number": 110,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM05 Gluttonous Socialite",
+        "number": 111,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM11 Taxation Census",
+        "number": 117,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM12 Illusory Insight",
+        "number": 118,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM13 Horrific Killings",
+        "number": 119,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM14 Ruinous Reclamation",
+        "number": 120,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM15 Gleeful Gluttony",
+        "number": 121,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "UM06 Chef Ascendant",
+        "number": 112,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM07 Archaic Levitator-Mage",
+        "number": 113,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM08 Dumpster Devourer",
+        "number": 114,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM09 Trinket Burner",
+        "number": 115,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM10 Mana-Rich Taxpayer",
+        "number": 116,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM16 Ascend into Taste",
+        "number": 122,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM17 Artistic Patronage",
+        "number": 123,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM18 Feed on Rot",
+        "number": 124,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM19 Shopping Rush",
+        "number": 125,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM20 Real Estate Purchase",
+        "number": 126,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "UM21 Gluttonous Glitchcraft",
+        "number": 127,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "RC01 Strained Evolver",
+        "number": 4,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RA01 Storage Bauble",
+        "number": 128,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CC01 Minimorphosize",
+        "number": 1,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CC02 Microtwiddle",
+        "number": 2,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CC03 Redacted Etching",
+        "number": 3,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "CL01 Pillar of Loyalty",
+        "number": 129,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL02 Pillar of Knowledge",
+        "number": 130,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL03 Pillar of Knowledge",
+        "number": 131,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL04 Pillar of Knowledge",
+        "number": 132,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL05 Pillar of Strength",
+        "number": 133,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL06 Investigator's Office",
+        "number": 134,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL07 Archaeologist's Office",
+        "number": 135,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL08 Genetecist's Office",
+        "number": 136,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL09 Shareholder's Office",
+        "number": 137,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL10 Manager's Office",
+        "number": 138,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL11 Politician's Office",
+        "number": 139,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL12 Morphing Pool",
+        "number": 140,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL13 Laboratory of Insanity",
+        "number": 141,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL14 Spire of Renewability",
+        "number": 142,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL15 Redacted Basement",
+        "number": 143,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 144,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Island",
+        "number": 145,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Swamp",
+        "number": 146,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mountain",
+        "number": 147,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Forest",
+        "number": 148,
+        "shape": "normal",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Citizen Token",
+        "number": 1,
+        "shape": "token",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blood Token",
+        "number": 2,
+        "shape": "token",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bone Token",
+        "number": 3,
+        "shape": "token",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Clue Token",
+        "number": 4,
+        "shape": "token",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Food Token",
+        "number": 5,
+        "shape": "token",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Treasure Token",
+        "number": 6,
+        "shape": "token",
+        "set": "RRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

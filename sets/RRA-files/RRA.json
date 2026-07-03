@@ -1,4 +1,10 @@
 ﻿{
+    "name": "Relics of the Redacted Age",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "jpg",
+    "draft_structure": "draft booster",
+    "designer": "",
     "cards": [
         {
             "card_name": "RG07 Tesselate",
@@ -17,8 +23,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CC01 Minimorphosize",
@@ -37,14 +42,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CW01 Loyal Companion",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Dog",
+            "type": "Creature \u2014 Dog",
             "number": 5,
             "color_identity": "W",
             "cost": "{W}",
@@ -57,14 +61,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UW01 Fountain Familiar",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Cat",
+            "type": "Creature \u2014 Cat",
             "number": 22,
             "color_identity": "W",
             "cost": "{W}",
@@ -77,8 +80,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RA01 Storage Bauble",
@@ -97,8 +99,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CL12 Morphing Pool",
@@ -117,14 +118,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CU01 Unhinged Assistant",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Laborer Advisor",
+            "type": "Creature \u2014 Human Laborer Advisor",
             "number": 25,
             "color_identity": "U",
             "cost": "{U}",
@@ -137,14 +137,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CG01 Floral Recultivator",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Citizen Druid",
+            "type": "Creature \u2014 Human Citizen Druid",
             "number": 88,
             "color_identity": "G",
             "cost": "{G}",
@@ -157,14 +156,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CR01 Manaforce Fireweaver",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Goblin Shaman",
+            "type": "Creature \u2014 Goblin Shaman",
             "number": 65,
             "color_identity": "R",
             "cost": "{R}",
@@ -177,8 +175,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CL01 Pillar of Loyalty",
@@ -197,8 +194,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CL02 Pillar of Knowledge",
@@ -217,8 +213,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CL03 Pillar of Knowledge",
@@ -237,8 +232,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CL04 Pillar of Knowledge",
@@ -257,8 +251,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CL05 Pillar of Strength",
@@ -277,8 +270,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CL06 Investigator's Office",
@@ -297,8 +289,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CL07 Archaeologist's Office",
@@ -317,8 +308,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CL08 Genetecist's Office",
@@ -337,8 +327,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CL09 Shareholder's Office",
@@ -357,8 +346,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CL10 Manager's Office",
@@ -377,14 +365,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UW09 Mirrorshine Master",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2014 Human Shaman",
             "number": 24,
             "color_identity": "W",
             "cost": "{5}{W}",
@@ -397,14 +384,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "Clue Token",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Clue",
+            "type": "Token Artifact \u2014 Clue",
             "number": 4,
             "color_identity": "C",
             "cost": "",
@@ -417,14 +403,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname Clue Token\n!related CW05 Shine-Blight Inquisitor;CW08 Market Caller;CU04 Eater of Detectives;CU08 Calculating Cadaver;CU15 Peruse Trinkets;RU01 Ocula, Lenses of Logic;UM19 Shopping Rush;CL06 Investigator's Office;",
-            "image_type": "jpg"
+            "notes": "!exportname Clue Token\n!related CW05 Shine-Blight Inquisitor;CW08 Market Caller;CU04 Eater of Detectives;CU08 Calculating Cadaver;CU15 Peruse Trinkets;RU01 Ocula, Lenses of Logic;UM19 Shopping Rush;CL06 Investigator's Office;"
         },
         {
             "card_name": "Bone Token",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Bone",
+            "type": "Token Artifact \u2014 Bone",
             "number": 3,
             "color_identity": "C",
             "cost": "",
@@ -437,14 +422,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname Bone Token\n!related CU15 Peruse Trinkets;CB06 City Vulture;CB07 The Alley Wraith;CB11 Grasp of Death;CL07 Archaeologist's Office;",
-            "image_type": "jpg"
+            "notes": "!exportname Bone Token\n!related CU15 Peruse Trinkets;CB06 City Vulture;CB07 The Alley Wraith;CB11 Grasp of Death;CL07 Archaeologist's Office;"
         },
         {
             "card_name": "Treasure Token",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Treasure",
+            "type": "Token Artifact \u2014 Treasure",
             "number": 6,
             "color_identity": "C",
             "cost": "",
@@ -457,14 +441,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname Treasure Token\n!related RB01 Machina, Fingers of Cruelty;CR03 Real Estate Rager;UM19 Shopping Rush;CL09 Shareholder's Office;",
-            "image_type": "jpg"
+            "notes": "!exportname Treasure Token\n!related RB01 Machina, Fingers of Cruelty;CR03 Real Estate Rager;UM19 Shopping Rush;CL09 Shareholder's Office;"
         },
         {
             "card_name": "Blood Token",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Blood",
+            "type": "Token Artifact \u2014 Blood",
             "number": 2,
             "color_identity": "C",
             "cost": "",
@@ -477,14 +460,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname Blood Token\n!related CU08 Calculating Cadaver;CU15 Peruse Trinkets;RB08 Lifeblood Pinnacle;CR02 Painter of Flesh;UM19 Shopping Rush;CL08 Genetecist's Office;",
-            "image_type": "jpg"
+            "notes": "!exportname Blood Token\n!related CU08 Calculating Cadaver;CU15 Peruse Trinkets;RB08 Lifeblood Pinnacle;CR02 Painter of Flesh;UM19 Shopping Rush;CL08 Genetecist's Office;"
         },
         {
             "card_name": "Food Token",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Food",
+            "type": "Token Artifact \u2014 Food",
             "number": 5,
             "color_identity": "C",
             "cost": "",
@@ -497,14 +479,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname Food Token\n!related CW06 Shine-Blight Shaman;CW08 Market Caller;CW09 The Eternity-Bartered Cow;CW13 Banishing Glitchcraft;RW01 Lingua, Tastes of Unity;CB05 Delicacy Devourer;CB06 City Vulture;UM05 Gluttonous Socialite;UM06 Chef Ascendant;UM16 Ascend into Taste;UM19 Shopping Rush;UM21 Gluttonous Glitchcraft;CL10 Manager's Office;",
-            "image_type": "jpg"
+            "notes": "!exportname Food Token\n!related CW06 Shine-Blight Shaman;CW08 Market Caller;CW09 The Eternity-Bartered Cow;CW13 Banishing Glitchcraft;RW01 Lingua, Tastes of Unity;CB05 Delicacy Devourer;CB06 City Vulture;UM05 Gluttonous Socialite;UM06 Chef Ascendant;UM16 Ascend into Taste;UM19 Shopping Rush;UM21 Gluttonous Glitchcraft;CL10 Manager's Office;"
         },
         {
             "card_name": "CW08 Market Caller",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Merchant",
+            "type": "Creature \u2014 Human Merchant",
             "number": 12,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -517,14 +498,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CW02 Relicpurge Martyr",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 6,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -537,14 +517,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CW03 Annoying Lawyer",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Advisor",
+            "type": "Creature \u2014 Human Advisor",
             "number": 7,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -557,14 +536,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CW04 Taxation Specialist",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Advisor Scholar",
+            "type": "Creature \u2014 Human Advisor Scholar",
             "number": 8,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -577,18 +555,17 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CW06 Shine-Blight Shaman",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2014 Human Shaman",
             "number": 10,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "When this creature enters, choose one \u2013\n\u2022 Exile target creature card from a graveyard. Destroy target creature with power 4 or greater.\n\u2022 Exile target artifact or enchantment card from a graveyard. Create a Food token.",
+            "rules_text": "When this creature enters, choose one \u2014\n\u2022 Exile target creature card from a graveyard. Destroy target creature with power 4 or greater.\n\u2022 Exile target artifact or enchantment card from a graveyard. Create a Food token.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -597,14 +574,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CW07 Abiding Face",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Golem Angel Horror",
+            "type": "Artifact Creature \u2014 Golem Angel Horror",
             "number": 11,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -617,14 +593,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CW05 Shine-Blight Inquisitor",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Cleric Soldier",
+            "type": "Creature \u2014 Human Cleric Soldier",
             "number": 9,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -637,8 +612,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CL13 Laboratory of Insanity",
@@ -657,14 +631,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CW09 The Eternity-Bartered Cow",
             "color": "W",
             "rarity": "common",
-            "type": "Legendary Creature \u2013 Transmortal Cow",
+            "type": "Legendary Creature \u2014 Transmortal Cow",
             "number": 13,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -677,14 +650,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CW10 Manyfold Glutton",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Bird Cat Dog Cow Horror",
+            "type": "Creature \u2014 Bird Cat Dog Cow Horror",
             "number": 14,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
@@ -697,8 +669,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CW12 Potent Reprisal",
@@ -717,8 +688,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CC02 Microtwiddle",
@@ -728,7 +698,7 @@
             "number": 2,
             "color_identity": "C",
             "cost": "{0}",
-            "rules_text": "Choose one \u2013\n\u2022 Discover 0 at the beginning of the next end step. [i](To discover 0, exile cards from the top of your library until you exile a nonland card with mana value 0 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]\n\u2022 Target spell phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]",
+            "rules_text": "Choose one \u2014\n\u2022 Discover 0 at the beginning of the next end step. [i](To discover 0, exile cards from the top of your library until you exile a nonland card with mana value 0 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]\n\u2022 Target spell phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -737,8 +707,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CW13 Banishing Glitchcraft",
@@ -757,14 +726,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UW02 Influential Mentor",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Advisor",
+            "type": "Creature \u2014 Human Advisor",
             "number": 23,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -777,8 +745,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CW14 Flow of Unity",
@@ -797,8 +764,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CW15 Paperwork Boomerang",
@@ -817,14 +783,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "Citizen Token",
             "color": "",
             "rarity": "common",
-            "type": "Token Creature \u2013 Citizen",
+            "type": "Token Creature \u2014 Citizen",
             "number": 1,
             "color_identity": "C",
             "cost": "",
@@ -837,8 +802,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname Citizen Token\n!related CW08 Market Caller;CW15 Paperwork Boomerang;CR02 Painter of Flesh;UR01 Aggressive Populace;UM15 Gleeful Gluttony;CL11 Politician's Office;",
-            "image_type": "jpg"
+            "notes": "!exportname Citizen Token\n!related CW08 Market Caller;CW15 Paperwork Boomerang;CR02 Painter of Flesh;UR01 Aggressive Populace;UM15 Gleeful Gluttony;CL11 Politician's Office;"
         },
         {
             "card_name": "CL11 Politician's Office",
@@ -857,8 +821,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CL15 Redacted Basement",
@@ -877,8 +840,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CL14 Spire of Renewability",
@@ -897,14 +859,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CU04 Eater of Detectives",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Goat",
+            "type": "Creature \u2014 Goat",
             "number": 28,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -917,14 +878,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UU02 Hunted Practitioner",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 42,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -937,14 +897,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CU03 Taxation Philosopher",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Advisor",
+            "type": "Creature \u2014 Human Advisor",
             "number": 27,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -957,8 +916,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RR07 Ancient Ambush",
@@ -977,14 +935,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CU02 Tempestborn Drake",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Drake",
+            "type": "Creature \u2014 Drake",
             "number": 26,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -997,18 +954,17 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CU05 Wizardblood Licker",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Frog",
+            "type": "Creature \u2014 Frog",
             "number": 29,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Amnesia\u2013Discard a blue card. [i](You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)[/i]\nWhenever you sacrifice a Blood, you may put this creature on the bottom of its owner's library. If you do, draw two cards.",
+            "rules_text": "Amnesia\u2014Discard a blue card. [i](You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)[/i]\nWhenever you sacrifice a Blood, you may put this creature on the bottom of its owner's library. If you do, draw two cards.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1017,14 +973,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CU08 Calculating Cadaver",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Zombie Drone",
+            "type": "Creature \u2014 Zombie Drone",
             "number": 32,
             "color_identity": "U",
             "cost": "{5}{U}",
@@ -1037,14 +992,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CB03 Specter of Ninjacraft",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Ninja Specter",
+            "type": "Creature \u2014 Ninja Specter",
             "number": 47,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1057,18 +1011,17 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CU06 The Narcotoad",
             "color": "U",
             "rarity": "common",
-            "type": "Legendary Creature \u2013 Frog Illusion",
+            "type": "Legendary Creature \u2014 Frog Illusion",
             "number": 30,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Flying\nAmnesia\u2013Exile two blue cards from your graveyard, sacrifice two tokens. [i](You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)[/i]\nCycling\u2013Exile three cards from your graveyard.",
+            "rules_text": "Flying\nAmnesia\u2014Exile two blue cards from your graveyard, sacrifice two tokens. [i](You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)[/i]\nCycling\u2014Exile three cards from your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1077,8 +1030,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RB08 Lifeblood Pinnacle",
@@ -1097,14 +1049,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RC01 Strained Evolver",
             "color": "",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Mutant",
+            "type": "Creature \u2014 Human Mutant",
             "number": 4,
             "color_identity": "C",
             "cost": "{2}",
@@ -1117,8 +1068,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UR01 Aggressive Populace",
@@ -1128,7 +1078,7 @@
             "number": 84,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Create a 1/1 colorless Citizen creature token. It gains haste until end of turn.\nFlashback\u2013Discard a red card\nDiscard a card: Put this card from exile into its owner's graveyard. This card's owner may activate this ability.",
+            "rules_text": "Create a 1/1 colorless Citizen creature token. It gains haste until end of turn.\nFlashback\u2014Discard a red card\nDiscard a card: Put this card from exile into its owner's graveyard. This card's owner may activate this ability.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1137,8 +1087,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RB07 Fact and Fiction",
@@ -1157,18 +1106,17 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM02 Psychic Toad",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Frog",
+            "type": "Creature \u2014 Frog",
             "number": 108,
             "color_identity": "UB",
             "cost": "{U}{B}",
-            "rules_text": "Amnesia\u2013Discard a blue card and a black card. [i](You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)[/i]\nDiscard a card: Mill a card.\nExile four cards from your graveyard: Put a +1/+1 counter on this creature. It gains menace until end of turn.",
+            "rules_text": "Amnesia\u2014Discard a blue card and a black card. [i](You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)[/i]\nDiscard a card: Mill a card.\nExile four cards from your graveyard: Put a +1/+1 counter on this creature. It gains menace until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1177,14 +1125,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CU07 Glitching Fleshbeast",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Zombie Beast Horror Reflection",
+            "type": "Creature \u2014 Zombie Beast Horror Reflection",
             "number": 31,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
@@ -1197,14 +1144,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM01 Taxation Riddler",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Sphinx",
+            "type": "Creature \u2014 Sphinx",
             "number": 107,
             "color_identity": "WU",
             "cost": "{W}{U}",
@@ -1217,8 +1163,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CU10 Butcher's Negation",
@@ -1237,8 +1182,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CU09 Potent Retreat",
@@ -1257,8 +1201,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CU13 Flow of Logic",
@@ -1277,8 +1220,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CU11 Civic Pressure",
@@ -1297,14 +1239,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CU12 Glitched Out",
             "color": "U",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 36,
             "color_identity": "U",
             "cost": "{U}",
@@ -1317,8 +1258,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CU14 Swift Analysis",
@@ -1337,8 +1277,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CU15 Peruse Trinkets",
@@ -1357,14 +1296,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RB01 Machina, Fingers of Cruelty",
             "color": "B",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Hand",
+            "type": "Legendary Creature \u2014 Hand",
             "number": 60,
             "color_identity": "B",
             "cost": "{B}",
@@ -1377,14 +1315,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RU01 Ocula, Lenses of Logic",
             "color": "U",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Eye",
+            "type": "Legendary Creature \u2014 Eye",
             "number": 40,
             "color_identity": "U",
             "cost": "{U}",
@@ -1397,14 +1334,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CB02 Prized Vessel",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Rat Horror",
+            "type": "Creature \u2014 Rat Horror",
             "number": 46,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1417,14 +1353,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CB01 Mana Broker",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Merchant Warlock",
+            "type": "Creature \u2014 Human Merchant Warlock",
             "number": 45,
             "color_identity": "B",
             "cost": "{B}",
@@ -1437,8 +1372,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UR10 Exponential Inferno",
@@ -1457,8 +1391,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UU09 Election Fraud",
@@ -1477,14 +1410,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RW01 Lingua, Tastes of Unity",
             "color": "W",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Advisor",
+            "type": "Legendary Creature \u2014 Advisor",
             "number": 20,
             "color_identity": "W",
             "cost": "{W}",
@@ -1497,14 +1429,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RG01 Capita, Commands of Might",
             "color": "G",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Hydra",
+            "type": "Legendary Creature \u2014 Hydra",
             "number": 103,
             "color_identity": "G",
             "cost": "{G}",
@@ -1517,14 +1448,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RR01 Kardia, Beats of Passion",
             "color": "R",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Homunculus",
+            "type": "Legendary Creature \u2014 Homunculus",
             "number": 80,
             "color_identity": "R",
             "cost": "{R}",
@@ -1537,14 +1467,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CB05 Delicacy Devourer",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Noble",
+            "type": "Creature \u2014 Human Noble",
             "number": 49,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -1557,14 +1486,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 144,
             "color_identity": "W",
             "cost": "",
@@ -1577,14 +1505,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 145,
             "color_identity": "U",
             "cost": "",
@@ -1597,14 +1524,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 146,
             "color_identity": "B",
             "cost": "",
@@ -1617,14 +1543,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 147,
             "color_identity": "R",
             "cost": "",
@@ -1637,14 +1562,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 148,
             "color_identity": "G",
             "cost": "",
@@ -1657,14 +1581,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM03 Taxbreaker Emissary",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Advisor",
+            "type": "Creature \u2014 Human Advisor",
             "number": 109,
             "color_identity": "BR",
             "cost": "{B}{R}",
@@ -1677,14 +1600,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM08 Dumpster Devourer",
             "color": "BG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Rogue",
+            "type": "Creature \u2014 Human Rogue",
             "number": 114,
             "color_identity": "BG",
             "cost": "{B}{G}",
@@ -1697,14 +1619,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM04 Terrain Sculptor",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Laborer",
+            "type": "Creature \u2014 Human Laborer",
             "number": 110,
             "color_identity": "RG",
             "cost": "{R}{G}",
@@ -1717,14 +1638,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM05 Gluttonous Socialite",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Citizen",
+            "type": "Creature \u2014 Human Citizen",
             "number": 111,
             "color_identity": "WG",
             "cost": "{G}{W}",
@@ -1737,14 +1657,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM06 Chef Ascendant",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Chef Horror",
+            "type": "Creature \u2014 Human Chef Horror",
             "number": 112,
             "color_identity": "WB",
             "cost": "{W}{B}",
@@ -1757,8 +1676,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM21 Gluttonous Glitchcraft",
@@ -1777,14 +1695,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM07 Archaic Levitator-Mage",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 113,
             "color_identity": "UR",
             "cost": "{U}{R}",
@@ -1797,14 +1714,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RR06 Twiddling Tamperer",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Rogue",
+            "type": "Creature \u2014 Human Rogue",
             "number": 82,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1817,14 +1733,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM09 Trinket Burner",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Rogue",
+            "type": "Creature \u2014 Human Rogue",
             "number": 115,
             "color_identity": "WR",
             "cost": "{R}{W}",
@@ -1837,14 +1752,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM10 Mana-Rich Taxpayer",
             "color": "UG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Citizen",
+            "type": "Creature \u2014 Human Citizen",
             "number": 116,
             "color_identity": "UG",
             "cost": "{G}{U}",
@@ -1857,8 +1771,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM11 Taxation Census",
@@ -1877,8 +1790,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM12 Illusory Insight",
@@ -1897,8 +1809,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM13 Horrific Killings",
@@ -1917,8 +1828,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CB15 Societal Suffering",
@@ -1937,8 +1847,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM14 Ruinous Reclamation",
@@ -1957,8 +1866,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM15 Gleeful Gluttony",
@@ -1977,8 +1885,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM16 Ascend into Taste",
@@ -1997,8 +1904,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM17 Artistic Patronage",
@@ -2017,8 +1923,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM18 Feed on Rot",
@@ -2037,8 +1942,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM19 Shopping Rush",
@@ -2057,8 +1961,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UM20 Real Estate Purchase",
@@ -2077,18 +1980,17 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CB04 Toad Pactbearer",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Frog",
+            "type": "Creature \u2014 Frog",
             "number": 48,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Amnesia\u2013Discard a black card. [i](You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)[/i]\nWhen this creature enters, draw a card. You lose 1 life.",
+            "rules_text": "Amnesia\u2014Discard a black card. [i](You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)[/i]\nWhen this creature enters, draw a card. You lose 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -2097,14 +1999,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CB06 City Vulture",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 50,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -2117,14 +2018,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CB07 The Alley Wraith",
             "color": "B",
             "rarity": "common",
-            "type": "Legendary Creature \u2013 Wraith",
+            "type": "Legendary Creature \u2014 Wraith",
             "number": 51,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -2137,14 +2037,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CB08 Remains of Terror",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Skeleton Nightmare",
+            "type": "Creature \u2014 Skeleton Nightmare",
             "number": 52,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
@@ -2157,8 +2056,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CB10 Potent Ruin",
@@ -2177,8 +2075,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CB11 Grasp of Death",
@@ -2197,8 +2094,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CB12 Union Massacre",
@@ -2217,8 +2113,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CB13 Flow of Cruelty",
@@ -2237,8 +2132,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CB14 Must Keep Living",
@@ -2257,14 +2151,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CR04 Painter of Flesh",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Bard",
+            "type": "Creature \u2014 Human Bard",
             "number": 68,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2277,8 +2170,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CC03 Redacted Etching",
@@ -2297,14 +2189,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CR03 Real Estate Rager",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Berserker Advisor",
+            "type": "Creature \u2014 Human Berserker Advisor",
             "number": 67,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2327,14 +2218,13 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UU06 Modernmind Master",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2014 Human Shaman",
             "number": 43,
             "color_identity": "U",
             "cost": "{5}{U}",
@@ -2347,14 +2237,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CW11 Outlands Ostrich",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 15,
             "color_identity": "W",
             "cost": "{5}{W}",
@@ -2367,14 +2256,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CB09 Glitch Lich",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Zombie Reflection",
+            "type": "Creature \u2014 Zombie Reflection",
             "number": 53,
             "color_identity": "B",
             "cost": "{5}{B}",
@@ -2387,8 +2275,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CR02 Raging Crowd",
@@ -2407,14 +2294,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CR05 Tempestborn Goblin",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Goblin Sorcerer",
+            "type": "Creature \u2014 Goblin Sorcerer",
             "number": 69,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2427,14 +2313,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CR06 Tectonics Druid",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Goblin Druid",
+            "type": "Creature \u2014 Goblin Druid",
             "number": 70,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2447,18 +2332,17 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CR07 The Phoenix Rider",
             "color": "R",
             "rarity": "common",
-            "type": "Legendary Creature \u2013 Phoenix Kobold",
+            "type": "Legendary Creature \u2014 Phoenix Kobold",
             "number": 71,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Flying\nTransmute\u2013Discard a card at random. [i](Discard a card at random, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)[/i]\nDiscard a red card: Return this card from your graveyard to the battlefield.",
+            "rules_text": "Flying\nTransmute\u2014Discard a card at random. [i](Discard a card at random, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)[/i]\nDiscard a red card: Return this card from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2467,14 +2351,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CR08 Hemoguzzler",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Vampire Horror",
+            "type": "Creature \u2014 Vampire Horror",
             "number": 72,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -2487,18 +2370,17 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CR09 Raging Oculus",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Homunculus",
+            "type": "Creature \u2014 Homunculus",
             "number": 73,
             "color_identity": "R",
             "cost": "{5}{R}",
-            "rules_text": "When this creature enters, create three Blood tokens. [i](They're artifacts with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\nSacrifice a Blood: Choose one. Activate only as a a sorcery \u2013\n\u2022 This creature deals 1 damage to any target.\n\u2022 Destroy target artifact with mana value 2 or less.\n\u2022 Destroy target token.",
+            "rules_text": "When this creature enters, create three Blood tokens. [i](They're artifacts with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\nSacrifice a Blood: Choose one. Activate only as a a sorcery \u2014\n\u2022 This creature deals 1 damage to any target.\n\u2022 Destroy target artifact with mana value 2 or less.\n\u2022 Destroy target token.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2507,8 +2389,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CR10 Potent Pyre",
@@ -2527,8 +2408,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RU02 Insightful Glitchcraft",
@@ -2547,8 +2427,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RW02 Harmonious Glitchcraft",
@@ -2567,8 +2446,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RB02 Sinister Glitchcraft",
@@ -2587,8 +2465,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RR02 Covetous Glitchcraft",
@@ -2607,8 +2484,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "RG02 Colossal Glitchcraft",
@@ -2627,8 +2503,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CR11 Stabber's Stains",
@@ -2647,8 +2522,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CR12 Great City Fire",
@@ -2667,8 +2541,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CR13 Shatter the Display",
@@ -2687,8 +2560,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CR14 Flow of Passion",
@@ -2707,8 +2579,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CR15 Irresponsible Harvesting",
@@ -2718,7 +2589,7 @@
             "number": 79,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Kicker\u2013Sacrifice a land [i](You may sacrifice a land in addition to any other costs as you cast this spell.)[/i]\nTarget creature gets +3/+0 until end of turn. If this spell was kicked, it gains trample and first strike.",
+            "rules_text": "Kicker\u2014Sacrifice a land [i](You may sacrifice a land in addition to any other costs as you cast this spell.)[/i]\nTarget creature gets +3/+0 until end of turn. If this spell was kicked, it gains trample and first strike.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2727,14 +2598,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UR03 Glitched Laser Cannon",
             "color": "R",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 85,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2747,14 +2617,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UB07 Morphblight Master",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2014 Human Shaman",
             "number": 64,
             "color_identity": "B",
             "cost": "{5}{B}",
@@ -2767,14 +2636,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UR07 Manaforce Master",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2014 Human Shaman",
             "number": 86,
             "color_identity": "R",
             "cost": "{5}{R}",
@@ -2787,14 +2655,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "UG08 Manaforce Master",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2014 Human Shaman",
             "number": 106,
             "color_identity": "G",
             "cost": "{5}{G}",
@@ -2807,18 +2674,17 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CG02 Sage of Broken Earth",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 89,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Kicker\u2013Sacrifice a land [i](You may sacrifice a land in addition to any other costs as you cast this spell.)[/i]\nThis creature enters with a +1/+1 counter and a trample counter if it was kicked.\n{G}, Remove a counter from this creature: Search your library for a land card, reveal it, put it into your hand, then shuffle.",
+            "rules_text": "Kicker\u2014Sacrifice a land [i](You may sacrifice a land in addition to any other costs as you cast this spell.)[/i]\nThis creature enters with a +1/+1 counter and a trample counter if it was kicked.\n{G}, Remove a counter from this creature: Search your library for a land card, reveal it, put it into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2827,14 +2693,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CG03 Naturalist Popularizer",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Performer",
+            "type": "Creature \u2014 Human Performer",
             "number": 90,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -2847,14 +2712,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CG04 Fast Food Glutton",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Citizen",
+            "type": "Creature \u2014 Human Citizen",
             "number": 91,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -2867,14 +2731,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CG05 Arachnophobic Glitchbeast",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Spider Beast Horror Reflection",
+            "type": "Creature \u2014 Spider Beast Horror Reflection",
             "number": 92,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -2887,14 +2750,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CG06 Gluttonous Gardener",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Citizen",
+            "type": "Creature \u2014 Human Citizen",
             "number": 93,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -2907,18 +2769,17 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CG07 The Grave Troll",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Troll Skeleton",
+            "type": "Creature \u2014 Troll Skeleton",
             "number": 94,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Trample\nReinforce 1\u2013{GP} [i]({GP}, Discard this card: Put a +1/+1 counter on target creature.)[/i]\nDredge 4 [i](If you would draw a card, you may mill four cards instead. If you do, return this card from your graveyard to your hand.)[/i]",
+            "rules_text": "Trample\nReinforce 1\u2014{GP} [i]({GP}, Discard this card: Put a +1/+1 counter on target creature.)[/i]\nDredge 4 [i](If you would draw a card, you may mill four cards instead. If you do, return this card from your graveyard to your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -2927,14 +2788,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CG08 Rampaging Killer",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Rogue",
+            "type": "Creature \u2014 Human Rogue",
             "number": 95,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
@@ -2947,14 +2807,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CG09 Extremely Slow Glitchbeast",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Beast Horror Reflection",
+            "type": "Creature \u2014 Beast Horror Reflection",
             "number": 96,
             "color_identity": "G",
             "cost": "{5}{G}",
@@ -2967,14 +2826,13 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CG10 Outlands Dreadmaw",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Dinosaur",
+            "type": "Creature \u2014 Dinosaur",
             "number": 97,
             "color_identity": "G",
             "cost": "{5}{G}",
@@ -2987,8 +2845,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CG11 Potent Protest",
@@ -3007,8 +2864,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CG12 Chomp",
@@ -3027,8 +2883,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CG13 Flow of Might",
@@ -3047,8 +2902,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CG14 Recultivating Rumble",
@@ -3067,8 +2921,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         },
         {
             "card_name": "CG15 Split Growth",
@@ -3087,8 +2940,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "notes": ""
         }
-    ]
+    ],
+    "version": 1
 }
