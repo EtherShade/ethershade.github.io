@@ -1,10 +1,4 @@
 ﻿{
-    "name": "A Dream of Darkness",
-    "formats": "",
-    "trimmed": "n",
-    "image_type": "jpg",
-    "draft_structure": "draft booster",
-    "designer": "",
     "cards": [
         {
             "card_name": "UW15 Crystalcore of Loyalty",
@@ -33,7 +27,8 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "UU15 Crystalcore of Knowledge",
@@ -62,13 +57,14 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CZ01 Walking Stones",
             "color": "WU",
             "rarity": "common",
-            "type": "Creature \u2014 Wall Wanderer",
+            "type": "Creature \u2013 Wall Wanderer",
             "number": 106,
             "color_identity": "WU",
             "cost": "{1}{WU}",
@@ -81,7 +77,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "UB15 Crystalcore of Persistence",
@@ -110,7 +107,8 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "UR15 Crystalcore of Courage",
@@ -139,7 +137,8 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "UG15 Crystalcore of Strength",
@@ -168,13 +167,14 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "UR01 Running Stones",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Wall Scout",
+            "type": "Creature \u2013 Wall Scout",
             "number": 76,
             "color_identity": "R",
             "cost": "{R}",
@@ -187,13 +187,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CZ02 Soaring Shadow",
             "color": "UB",
             "rarity": "common",
-            "type": "Creature \u2014 Reflection Wanderer",
+            "type": "Creature \u2013 Reflection Wanderer",
             "number": 107,
             "color_identity": "UB",
             "cost": "{2}{UB}",
@@ -206,7 +207,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "RW07 Innefficient Exchange",
@@ -225,17 +227,18 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CZ03 Sprinting Blade",
             "color": "BR",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Wanderer",
+            "type": "Creature \u2013 Demon Wanderer",
             "number": 108,
             "color_identity": "BR",
             "cost": "{3}{BR}",
-            "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nHaste\n[i]Blaze of Glory[/i] \u2014 Whenever this creature attacks, you may have it gain menace until end of turn. If you do, sacrifice this creature at end of combat.",
+            "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nHaste\n[i]Blaze of Glory[/i] \u2013 Whenever this creature attacks, you may have it gain menace until end of turn. If you do, sacrifice this creature at end of combat.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -244,13 +247,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CZ04 Crushing Flame",
             "color": "RG",
             "rarity": "common",
-            "type": "Creature \u2014 Elemental Wanderer",
+            "type": "Creature \u2013 Elemental Wanderer",
             "number": 109,
             "color_identity": "RG",
             "cost": "{4}{RG}",
@@ -263,17 +267,18 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CZ05 Warding Eyes",
             "color": "WG",
             "rarity": "common",
-            "type": "Creature \u2014 Giant Wanderer",
+            "type": "Creature \u2013 Giant Wanderer",
             "number": 110,
             "color_identity": "WG",
             "cost": "{2}{GW}",
-            "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nWard {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\n[i]Formidable[/i] \u2014 When this creature dies, if creatures you control have total power 8 or greater, you gain 4 life.",
+            "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nWard {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\n[i]Formidable[/i] \u2013 When this creature dies, if creatures you control have total power 8 or greater, you gain 4 life.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -282,13 +287,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CM01 Hero of Brick",
             "color": "WU",
             "rarity": "common",
-            "type": "Creature \u2014 Wall Hero",
+            "type": "Creature \u2013 Wall Hero",
             "number": 96,
             "color_identity": "WU",
             "cost": "{W}{U}",
@@ -303,7 +309,7 @@
             "artist": "",
             "card_name2": "Villain of Brick",
             "color2": "WU",
-            "type2": "Creature \u2014 Wall Villain",
+            "type2": "Creature \u2013 Wall Villain",
             "cost2": "{1}{W}{U}",
             "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\nFoundation [i](When this creature enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]\n[[b]Whenever this creature deals combat damage to a player, you gain 1 life and draw a card.[/b]]",
             "flavor_text2": "[i][/i]",
@@ -311,13 +317,14 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CM02 Hero of Moon",
             "color": "UB",
             "rarity": "common",
-            "type": "Creature \u2014 Reflection Hero",
+            "type": "Creature \u2013 Reflection Hero",
             "number": 97,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -332,7 +339,7 @@
             "artist": "",
             "card_name2": "Villain of Moon",
             "color2": "UB",
-            "type2": "Creature \u2014 Reflection Villain",
+            "type2": "Creature \u2013 Reflection Villain",
             "cost2": "{1}{U}{B}",
             "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\nMoonflow 1 [i](You may cast this spell from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i]\nWhen this creature enters, surveil 1.",
             "flavor_text2": "[i][/i]",
@@ -340,17 +347,18 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CM03 Hero of Blade",
             "color": "BR",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Hero",
+            "type": "Creature \u2013 Demon Hero",
             "number": 98,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]\nHaste\n[i]Blaze of Glory[/i] \u2014 Whenever this creature attacks, you may have it gain trample until end of turn. If you do, sacrifice it at end of turn.",
+            "rules_text": "Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]\nHaste\n[i]Blaze of Glory[/i] \u2013 Whenever this creature attacks, you may have it gain trample until end of turn. If you do, sacrifice it at end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -361,21 +369,22 @@
             "artist": "",
             "card_name2": "Villain of Blade",
             "color2": "BR",
-            "type2": "Creature \u2014 Demon Villain",
+            "type2": "Creature \u2013 Demon Villain",
             "cost2": "{1}{B}{R}",
-            "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\n[i]Blaze of Glory[/i] \u2014 Whenever this creature attacks, you may have it gain trample and menace until end of turn. If you do, sacrifice it at end of turn.",
+            "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\n[i]Blaze of Glory[/i] \u2013 Whenever this creature attacks, you may have it gain trample and menace until end of turn. If you do, sacrifice it at end of turn.",
             "flavor_text2": "[i][/i]",
             "pt2": "4/1",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CM04 Hero of Sun",
             "color": "RG",
             "rarity": "common",
-            "type": "Creature \u2014 Elemental Hero",
+            "type": "Creature \u2013 Elemental Hero",
             "number": 99,
             "color_identity": "RG",
             "cost": "{R}{G}",
@@ -390,7 +399,7 @@
             "artist": "",
             "card_name2": "Villain of Sun",
             "color2": "RG",
-            "type2": "Creature \u2014 Elemental Villain",
+            "type2": "Creature \u2013 Elemental Villain",
             "cost2": "{1}{R}{G}",
             "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\nSunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)[/i]",
             "flavor_text2": "[i][/i]",
@@ -398,17 +407,18 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CM05 Hero of Sight",
             "color": "WG",
             "rarity": "common",
-            "type": "Creature \u2014 Giant Hero",
+            "type": "Creature \u2013 Giant Hero",
             "number": 100,
             "color_identity": "WG",
             "cost": "{G}{W}",
-            "rules_text": "Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]\n[i]Formidable[/i] \u2014 When this creature enters, if creatures you control have total power 8 or greater, draw a card.",
+            "rules_text": "Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]\n[i]Formidable[/i] \u2013 When this creature enters, if creatures you control have total power 8 or greater, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -419,21 +429,22 @@
             "artist": "",
             "card_name2": "Villain of Sight",
             "color2": "WG",
-            "type2": "Creature \u2014 Giant Villain",
+            "type2": "Creature \u2013 Giant Villain",
             "cost2": "{1}{G}{W}",
-            "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\n[i]Formidable[/i] \u2014 Whenever this creature attacks, if creatures you control have total power 8 or greater, this creature gets +0/+2 until end of turn.",
+            "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\n[i]Formidable[/i] \u2013 Whenever this creature attacks, if creatures you control have total power 8 or greater, this creature gets +0/+2 until end of turn.",
             "flavor_text2": "[i][/i]",
             "pt2": "3/1",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CA02 Mechanical Pilgrim",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct Wanderer",
+            "type": "Artifact Creature \u2013 Construct Wanderer",
             "number": 115,
             "color_identity": "C",
             "cost": "{5}",
@@ -446,7 +457,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CU13 Wisdom of Wanderlust",
@@ -465,13 +477,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CW04 Helpful Seeker",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Scout",
+            "type": "Creature \u2013 Human Scout",
             "number": 7,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -484,13 +497,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CW01 White Dreamer of Whimsy",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Spirit",
+            "type": "Creature \u2013 Human Spirit",
             "number": 4,
             "color_identity": "W",
             "cost": "{W}",
@@ -505,7 +519,7 @@
             "artist": "",
             "card_name2": "White Dreamer of Darkness",
             "color2": "W",
-            "type2": "Creature \u2014 Human Spirit",
+            "type2": "Creature \u2013 Human Spirit",
             "cost2": "{W}",
             "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]",
             "flavor_text2": "[i][/i]",
@@ -513,13 +527,14 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CU01 Blue Dreamer of Whimsy",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human Spirit",
+            "type": "Creature \u2013 Human Spirit",
             "number": 23,
             "color_identity": "U",
             "cost": "{U}",
@@ -534,7 +549,7 @@
             "artist": "",
             "card_name2": "Blue Dreamer of Darkness",
             "color2": "U",
-            "type2": "Creature \u2014 Human Spirit",
+            "type2": "Creature \u2013 Human Spirit",
             "cost2": "{U}",
             "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\nFlying",
             "flavor_text2": "[i][/i]",
@@ -542,13 +557,14 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CB01 Black Dreamer of Whimsy",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human Spirit",
+            "type": "Creature \u2013 Human Spirit",
             "number": 43,
             "color_identity": "B",
             "cost": "{B}",
@@ -563,7 +579,7 @@
             "artist": "",
             "card_name2": "Black Dreamer of Darkness",
             "color2": "B",
-            "type2": "Creature \u2014 Human Spirit",
+            "type2": "Creature \u2013 Human Spirit",
             "cost2": "{B}",
             "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\nDeathtouch",
             "flavor_text2": "[i][/i]",
@@ -571,13 +587,14 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CR01 Red Dreamer of Whimsy",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Spirit",
+            "type": "Creature \u2013 Human Spirit",
             "number": 60,
             "color_identity": "R",
             "cost": "{R}",
@@ -592,7 +609,7 @@
             "artist": "",
             "card_name2": "Red Dreamer of Darkness",
             "color2": "R",
-            "type2": "Creature \u2014 Human Spirit",
+            "type2": "Creature \u2013 Human Spirit",
             "cost2": "{R}",
             "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\nProwess",
             "flavor_text2": "[i][/i]",
@@ -600,13 +617,14 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CG01 Green Dreamer of Whimsy",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Spirit",
+            "type": "Creature \u2013 Human Spirit",
             "number": 78,
             "color_identity": "G",
             "cost": "{G}",
@@ -621,7 +639,7 @@
             "artist": "",
             "card_name2": "Green Dreamer of Darkness",
             "color2": "G",
-            "type2": "Creature \u2014 Human Spirit",
+            "type2": "Creature \u2013 Human Spirit",
             "cost2": "{G}",
             "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\nDefender, reach",
             "flavor_text2": "[i][/i]",
@@ -629,17 +647,18 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CW02 Starving Triclops",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Giant Peasant",
+            "type": "Creature \u2013 Giant Peasant",
             "number": 5,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "[i]Formidable[/i] \u2014 When this creature dies, if creatures you control have total power 8 or greater, create a 1/1 colorless Human creature token.",
+            "rules_text": "[i]Formidable[/i] \u2013 When this creature dies, if creatures you control have total power 8 or greater, create a 1/1 colorless Human creature token.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -648,13 +667,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "1/1 Peasant Token",
             "color": "",
             "rarity": "common",
-            "type": "Token Creature \u2014 Peasant",
+            "type": "Token Creature \u2013 Peasant",
             "number": 1,
             "color_identity": "C",
             "cost": "",
@@ -667,13 +687,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname 1/1 Peasant Token\n!related CW02 Starving Triclops;CW07 Elder Populace;CW08 Radiant Raven;"
+            "notes": "!exportname 1/1 Peasant Token\n!related CW02 Starving Triclops;CW07 Elder Populace;CW08 Radiant Raven;",
+            "image_type": "jpg"
         },
         {
             "card_name": "Building Token",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact Creature \u2014 Building",
+            "type": "Token Artifact Creature \u2013 Building",
             "number": 3,
             "color_identity": "C",
             "cost": "",
@@ -686,13 +707,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname Building Token\n!related CW06 Clay Cleric;CW09 Stone Ressurector;RW02 Bethela the Builder;CU04 Brickfolk Surveyor;Brickfolk Delusionist;CU08 Sturdy Platformite;UU02 Hovering Platformite;RU01 Braxtus the Breaker;UR01 Running Stones;CM01 Hero of Brick;Villain of Brick;CZ01 Walking Stones;"
+            "notes": "!exportname Building Token\n!related CW06 Clay Cleric;CW09 Stone Ressurector;RW02 Bethela the Builder;CU04 Brickfolk Surveyor;Brickfolk Delusionist;CU08 Sturdy Platformite;UU02 Hovering Platformite;RU01 Braxtus the Breaker;UR01 Running Stones;CM01 Hero of Brick;Villain of Brick;CZ01 Walking Stones;",
+            "image_type": "jpg"
         },
         {
             "card_name": "CW03 Silly Mockingbird",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Bird",
+            "type": "Creature \u2013 Bird",
             "number": 6,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -705,13 +727,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CW07 Elder Populace",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Peasant",
+            "type": "Creature \u2013 Human Peasant",
             "number": 10,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -724,13 +747,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CW06 Clay Cleric",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Wall Cleric",
+            "type": "Creature \u2013 Wall Cleric",
             "number": 9,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -743,13 +767,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CW05 Pranking Pumpkin",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Scarecrow",
+            "type": "Artifact Creature \u2013 Scarecrow",
             "number": 8,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -764,7 +789,7 @@
             "artist": "",
             "card_name2": "Freed-Beak Crow",
             "color2": "W",
-            "type2": "Creature \u2014 Bird Horror",
+            "type2": "Creature \u2013 Bird Horror",
             "cost2": "{3}{W}",
             "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\nFlying",
             "flavor_text2": "[i][/i]",
@@ -772,7 +797,8 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "RM06 Mortared Revelation",
@@ -791,7 +817,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CM06 Safe Construction",
@@ -810,7 +837,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CG11 Whom to Pray",
@@ -839,7 +867,8 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CM07 Lunar Current-Rod",
@@ -858,7 +887,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CM08 Violent Return",
@@ -877,7 +907,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CR11 Return Again",
@@ -906,7 +937,8 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CW12 Knightly Execution",
@@ -935,7 +967,8 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CM09 Expressive Conflagration",
@@ -954,7 +987,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CM10 Formidable Anthem",
@@ -973,13 +1007,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CW08 Meandering Minstrel",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Bard Wanderer",
+            "type": "Creature \u2013 Human Bard Wanderer",
             "number": 11,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -992,13 +1027,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CW09 Stone Ressurector",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Wall Cleric",
+            "type": "Creature \u2013 Wall Cleric",
             "number": 12,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -1011,13 +1047,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CW10 Triclops Sentinel",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Giant Soldier Scout",
+            "type": "Creature \u2013 Giant Soldier Scout",
             "number": 13,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -1030,7 +1067,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CU15 Trader's Intent",
@@ -1059,13 +1097,14 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CW11 Shrouded Angel",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Angel",
+            "type": "Creature \u2013 Angel",
             "number": 14,
             "color_identity": "W",
             "cost": "{5}{W}",
@@ -1078,17 +1117,18 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CW13 Three-Eyed Pacifism",
             "color": "W",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 16,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Enchant creature\nEnchanted creature can't attack or block.\n[i]Formidable[/i] \u2014 {1}{W}: Exile enchanted creature. Activate only if creatures you control have total power 8 or greater.",
+            "rules_text": "Enchant creature\nEnchanted creature can't attack or block.\n[i]Formidable[/i] \u2013 {1}{W}: Exile enchanted creature. Activate only if creatures you control have total power 8 or greater.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1097,7 +1137,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CW14 Honorable Exertion",
@@ -1116,7 +1157,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CW15 Ruinous Rendezvous",
@@ -1135,13 +1177,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CU02 Deranged Scholar",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human Advisor",
+            "type": "Creature \u2013 Human Advisor",
             "number": 24,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -1154,17 +1197,18 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CU03 Incomplete Fleshthopter",
             "color": "U",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Thopter Horror",
+            "type": "Artifact Creature \u2013 Thopter Horror",
             "number": 25,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Kicker\u2014Exile a creature card from your graveyard. [i](You may exile a creature card from your graveyard in addition to any other costs as you cast this spell.)[/i]\nFlying\nThis creature enters with a -1/-1 counter unless it was kicked.",
+            "rules_text": "Kicker\u2013Exile a creature card from your graveyard. [i](You may exile a creature card from your graveyard in addition to any other costs as you cast this spell.)[/i]\nFlying\nThis creature enters with a -1/-1 counter unless it was kicked.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -1173,13 +1217,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CB03 Cutting Mockingbird",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Bird",
+            "type": "Creature \u2013 Bird",
             "number": 45,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1192,13 +1237,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "UU02 Hovering Platformite",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Wall Laborer",
+            "type": "Creature \u2013 Wall Laborer",
             "number": 41,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -1211,13 +1257,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "2/2 Horror Token",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2014 Horror",
+            "type": "Token Creature \u2013 Horror",
             "number": 2,
             "color_identity": "C",
             "cost": "",
@@ -1230,13 +1277,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname 2/2 Horror Token\n!related CU05 Grim Fleshcrafter;"
+            "notes": "!exportname 2/2 Horror Token\n!related CU05 Grim Fleshcrafter;",
+            "image_type": "jpg"
         },
         {
             "card_name": "CU04 Brickfolk Surveyor",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Wall Scout",
+            "type": "Creature \u2013 Wall Scout",
             "number": 26,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -1251,7 +1299,7 @@
             "artist": "",
             "card_name2": "Brickfolk Delusionist",
             "color2": "U",
-            "type2": "Creature \u2014 Wall Warlock",
+            "type2": "Creature \u2013 Wall Warlock",
             "cost2": "{4}{U}",
             "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\nFoundation [i](When this creature enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]\n[[b]Whenever this creature attacks, mill two cards.[/b]]",
             "flavor_text2": "[i][/i]",
@@ -1259,13 +1307,14 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CU05 Grim Fleshcrafter",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human Wizard Scientist",
+            "type": "Creature \u2013 Human Wizard Scientist",
             "number": 27,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -1278,13 +1327,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CU06 Wanderlust Eater",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Faerie Horror",
+            "type": "Creature \u2013 Faerie Horror",
             "number": 28,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -1297,13 +1347,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CU08 Sturdy Platformite",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Wall Laborer",
+            "type": "Creature \u2013 Wall Laborer",
             "number": 30,
             "color_identity": "U",
             "cost": "{5}{U}",
@@ -1316,13 +1367,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "RU01 Braxtus the Breaker",
             "color": "U",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Wall Druid",
+            "type": "Legendary Creature \u2013 Wall Druid",
             "number": 38,
             "color_identity": "U",
             "cost": "{U}",
@@ -1335,13 +1387,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "RW02 Bethela the Builder",
             "color": "W",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Wall Cleric",
+            "type": "Legendary Creature \u2013 Wall Cleric",
             "number": 20,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -1354,13 +1407,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CU07 Riddleless Riddler",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Sphinx Advisor Wanderer",
+            "type": "Creature \u2013 Sphinx Advisor Wanderer",
             "number": 29,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -1373,7 +1427,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CU09 Delusions of Idiocy",
@@ -1392,13 +1447,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CU10 Flimsy Transformation",
             "color": "U",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 32,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -1411,7 +1467,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CU11 Delirious Cancellation",
@@ -1430,7 +1487,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CU12 Scouring Bauble",
@@ -1449,7 +1507,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CU14 Bloody Guardianship",
@@ -1459,7 +1518,7 @@
             "number": 36,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Kicker\u2014Sacrifice a creature [i](You may sacrifice a creature in addition to any other costs as you cast this spell.)[/i]\nTarget creature you control gets +0/+2 and gains reach until end of turn. If this spell was kicked, that creature gets an additional +0/+1 and gains hexproof until end of turn.",
+            "rules_text": "Kicker\u2013Sacrifice a creature [i](You may sacrifice a creature in addition to any other costs as you cast this spell.)[/i]\nTarget creature you control gets +0/+2 and gains reach until end of turn. If this spell was kicked, that creature gets an additional +0/+1 and gains hexproof until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1468,13 +1527,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CB02 Roaming Bloodsucker",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human Vampire Wanderer",
+            "type": "Creature \u2013 Human Vampire Wanderer",
             "number": 44,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1487,17 +1547,18 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CB04 Terrorizing Bladearm",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Warrior",
+            "type": "Creature \u2013 Demon Warrior",
             "number": 46,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Menace\n[i]Blaze of Glory[/i] \u2014 Whenever this creature attacks, you may have it get +2/+2 until end of turn. If you do, sacrifice this creature at end of combat.",
+            "rules_text": "Menace\n[i]Blaze of Glory[/i] \u2013 Whenever this creature attacks, you may have it get +2/+2 until end of turn. If you do, sacrifice this creature at end of combat.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1506,13 +1567,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CB05 Hopeless Seeker",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human Scout",
+            "type": "Creature \u2013 Human Scout",
             "number": 47,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -1525,13 +1587,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "UU01 Timewinder Motivator",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Bird",
+            "type": "Creature \u2013 Bird",
             "number": 40,
             "color_identity": "U",
             "cost": "{U}",
@@ -1544,13 +1607,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "RU03 Timewinder Supreme",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2014 Bird",
+            "type": "Creature \u2013 Bird",
             "number": 39,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -1563,13 +1627,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CB06 Tricky Timewinder",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Bird",
+            "type": "Creature \u2013 Bird",
             "number": 48,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -1584,7 +1649,7 @@
             "artist": "",
             "card_name2": "Bloodstained Chronowurm",
             "color2": "B",
-            "type2": "Creature \u2014 Wurm",
+            "type2": "Creature \u2013 Wurm",
             "cost2": "{4}{B}",
             "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\nWhenever this creature deals combat damage to player, end the turn. [i](Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and \u201cthis turn\u201d and \u201cuntil end of turn\u201d effects end.)[/i]",
             "flavor_text2": "[i][/i]",
@@ -1592,13 +1657,14 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CB07 Lunar Flesh Construct",
             "color": "B",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Zombie Horror",
+            "type": "Artifact Creature \u2013 Zombie Horror",
             "number": 49,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -1611,17 +1677,18 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CB08 Shrouded Demon",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Warrior",
+            "type": "Creature \u2013 Demon Warrior",
             "number": 50,
             "color_identity": "B",
             "cost": "{5}{B}",
-            "rules_text": "Ward\u2014Pay 2 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]\n[i]Blaze of Glory[/i] \u2014 Whenever this creature attacks, you may have it deal 3 damage to target creature. If you do, sacrifice this creature at end of combat.",
+            "rules_text": "Ward\u2013Pay 2 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]\n[i]Blaze of Glory[/i] \u2013 Whenever this creature attacks, you may have it deal 3 damage to target creature. If you do, sacrifice this creature at end of combat.",
             "flavor_text": "[i][/i]",
             "pt": "5/3",
             "special_text": "",
@@ -1630,13 +1697,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CB09 Scion of the Dark",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Avatar",
+            "type": "Creature \u2013 Avatar",
             "number": 51,
             "color_identity": "B",
             "cost": "{6}{B}",
@@ -1649,7 +1717,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CB10 Blood Helix",
@@ -1668,7 +1737,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CB12 Reflected Rending",
@@ -1687,7 +1757,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CB11 Inundation of Insanity",
@@ -1706,7 +1777,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CB14 Lunacy Totem",
@@ -1725,7 +1797,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CB13 Visions of Conspiracy",
@@ -1744,13 +1817,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Clue Token",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2014 Clue",
+            "type": "Token Artifact \u2013 Clue",
             "number": 4,
             "color_identity": "C",
             "cost": "",
@@ -1763,7 +1837,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname Clue Token\n!related RU03 Timewinder Supreme;CB13 Visions of Conspiracy;"
+            "notes": "!exportname Clue Token\n!related RU03 Timewinder Supreme;CB13 Visions of Conspiracy;",
+            "image_type": "jpg"
         },
         {
             "card_name": "CB15 Enduring Metal",
@@ -1792,17 +1867,18 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "RW01 Gatel the Frozen",
             "color": "W",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Giant Shaman",
+            "type": "Legendary Creature \u2013 Giant Shaman",
             "number": 19,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "[i]Formidable[/i] \u2014 Whenever this creature attacks, if creatures you control have total power 8 or greater, tap target permanent.",
+            "rules_text": "[i]Formidable[/i] \u2013 Whenever this creature attacks, if creatures you control have total power 8 or greater, tap target permanent.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1811,17 +1887,18 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "UB01 Mindshattered Triclops",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Giant Warlock",
+            "type": "Creature \u2013 Giant Warlock",
             "number": 58,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "[i]Formidable[/i] \u2014 Whenever this creature attacks, if creatures you control don't have total power 8 or greater, discard a card.",
+            "rules_text": "[i]Formidable[/i] \u2013 Whenever this creature attacks, if creatures you control don't have total power 8 or greater, discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1830,17 +1907,18 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "RG02 Telegia the Thawed",
             "color": "G",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Giant Druid",
+            "type": "Legendary Creature \u2013 Giant Druid",
             "number": 94,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "[i]Formidable[/i] \u2014 Whenever this creature attacks, if creatures you control have total power 8 or greater, untap target permanent.",
+            "rules_text": "[i]Formidable[/i] \u2013 Whenever this creature attacks, if creatures you control have total power 8 or greater, untap target permanent.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1849,13 +1927,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CR02 Sunfire Trainee",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Elemental Warrior",
+            "type": "Creature \u2013 Elemental Warrior",
             "number": 61,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1868,17 +1947,18 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CR03 Bladearm Ritualist",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Warrior",
+            "type": "Creature \u2013 Demon Warrior",
             "number": 62,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Haste\n[i]Blaze of Glory[/i] \u2014 Whenever this creature attacks, you may add two mana in any combination of colors. This mana lasts until end of turn. If you do, sacrifice this creature at end of combat.",
+            "rules_text": "Haste\n[i]Blaze of Glory[/i] \u2013 Whenever this creature attacks, you may add two mana in any combination of colors. This mana lasts until end of turn. If you do, sacrifice this creature at end of combat.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -1887,13 +1967,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CR04 Foolish Smuggler",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Werewolf",
+            "type": "Creature \u2013 Human Werewolf",
             "number": 63,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -1908,7 +1989,7 @@
             "artist": "",
             "card_name2": "Beastly Stowaway",
             "color2": "R",
-            "type2": "Creature \u2014 Wolf Werewolf",
+            "type2": "Creature \u2013 Wolf Werewolf",
             "cost2": "{3}{R}",
             "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\nWhenever this creature attacks, \nWhen this creature enters, mill a card. You may play that card until the end of your next turn.",
             "flavor_text2": "[i][/i]",
@@ -1916,13 +1997,14 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CR05 Nomadic Brute",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Berserker Wanderer",
+            "type": "Creature \u2013 Human Berserker Wanderer",
             "number": 64,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -1935,13 +2017,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CR06 Blazebolt Crossbowman",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Elemental Archer",
+            "type": "Creature \u2013 Elemental Archer",
             "number": 65,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -1954,13 +2037,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CR07 Playful Ravager",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Beast Horror",
+            "type": "Creature \u2013 Beast Horror",
             "number": 66,
             "color_identity": "R",
             "cost": "{4}{R}",
@@ -1973,17 +2057,18 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CR08 Spinblade Demon",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Warrior",
+            "type": "Creature \u2013 Demon Warrior",
             "number": 67,
             "color_identity": "R",
             "cost": "{4}{R}",
-            "rules_text": "[i]Blaze of Glory[/i] \u2014 Whenever this creature attacks, you may discard two cards. If you do, draw three cards, and sacrifice this creature at end of combat.",
+            "rules_text": "[i]Blaze of Glory[/i] \u2013 Whenever this creature attacks, you may discard two cards. If you do, draw three cards, and sacrifice this creature at end of combat.",
             "flavor_text": "[i][/i]",
             "pt": "6/1",
             "special_text": "",
@@ -1992,13 +2077,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CR09 Land-Raze Gargantuan",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Beast Juggernaut Horror",
+            "type": "Creature \u2013 Beast Juggernaut Horror",
             "number": 68,
             "color_identity": "R",
             "cost": "{5}{R}",
@@ -2011,7 +2097,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CR10 Seek Inner Fire",
@@ -2030,7 +2117,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CR12 Ruinous Pyre",
@@ -2049,7 +2137,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CR13 Flames of Wanderlust",
@@ -2068,7 +2157,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CR14 Fall into Might",
@@ -2087,7 +2177,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CR15 Overwhelming Assault",
@@ -2106,17 +2197,18 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CG02 Well-Fed Triclops",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Giant Peasant",
+            "type": "Creature \u2013 Giant Peasant",
             "number": 79,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Trample\n[i]Formidable[/i] \u2014 When this creature dies, if creatures you control have total power 8 or greater, you gain 3 life.",
+            "rules_text": "Trample\n[i]Formidable[/i] \u2013 When this creature dies, if creatures you control have total power 8 or greater, you gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2125,13 +2217,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CG03 Sun-Basking Caretaker",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Elemental Druid",
+            "type": "Creature \u2013 Elemental Druid",
             "number": 80,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -2144,13 +2237,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CG04 Eight-Legged Bartender",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Spider",
+            "type": "Creature \u2013 Spider",
             "number": 81,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -2163,13 +2257,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CG05 Sun-Flame Berserker",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Elemental Berserker",
+            "type": "Creature \u2013 Elemental Berserker",
             "number": 82,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -2182,17 +2277,18 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CG06 Whimsyblighted Triclops",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Giant Horror",
+            "type": "Creature \u2013 Giant Horror",
             "number": 83,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "This creature enters with three -1/-1 counters on it.\n[i]Formidable[/i] \u2014 Whenever this creature attacks, if creatures you control have total power 8 or greater and you're grim, remove a -1/-1 counter from this creature. [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater.)[/i]",
+            "rules_text": "This creature enters with three -1/-1 counters on it.\n[i]Formidable[/i] \u2013 Whenever this creature attacks, if creatures you control have total power 8 or greater and you're grim, remove a -1/-1 counter from this creature. [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "7/4",
             "special_text": "",
@@ -2201,13 +2297,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CG07 Exploratory Herbalist",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Druid Wanderer",
+            "type": "Creature \u2013 Human Druid Wanderer",
             "number": 84,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -2220,13 +2317,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "MM02 Varasti, Fluid Dancer",
             "color": "URG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Elemental Bard",
+            "type": "Legendary Creature \u2013 Elemental Bard",
             "number": 112,
             "color_identity": "URG",
             "cost": "{G}{U}{R}",
@@ -2239,13 +2337,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "RG01 Sufelia the Devout",
             "color": "G",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Elemental Warlock",
+            "type": "Legendary Creature \u2013 Elemental Warlock",
             "number": 93,
             "color_identity": "G",
             "cost": "{G}",
@@ -2258,13 +2357,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "RR02 Raflegos the Passionate",
             "color": "R",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Elemental Shaman",
+            "type": "Legendary Creature \u2013 Elemental Shaman",
             "number": 75,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2277,13 +2377,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CG08 Recruiter of the Range",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Ranger",
+            "type": "Creature \u2013 Human Ranger",
             "number": 85,
             "color_identity": "G",
             "cost": "{4}{G}",
@@ -2296,13 +2397,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CG09 Colossal Dreadbeast",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Beast Horror",
+            "type": "Creature \u2013 Beast Horror",
             "number": 86,
             "color_identity": "G",
             "cost": "{5}{G}",
@@ -2315,13 +2417,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CG10 Wild-Darkened Duelist",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 87,
             "color_identity": "G",
             "cost": "{6}{G}",
@@ -2334,7 +2437,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CG12 Rotting Fangs",
@@ -2353,7 +2457,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "MM01 Season of Whimsy",
@@ -2363,7 +2468,7 @@
             "number": 111,
             "color_identity": "BG",
             "cost": "{2B}{G}",
-            "rules_text": "Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]\nMill five cards. Pay any amount of life.\nChoose up to X {J} worth of modes, where X is the amount of life paid. You may choose the same mode more than once.\n{J} \u2014 Add a card from your graveyard to the milled cards.\n{J}{J} \u2014 Put a land card from among the milled cards into your hand.\n{J}{J}{J} \u2014 Put a creature card from among the milled cards into your hand.",
+            "rules_text": "Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]\nMill five cards. Pay any amount of life.\nChoose up to X {J} worth of modes, where X is the amount of life paid. You may choose the same mode more than once.\n{J} \u2013 Add a card from your graveyard to the milled cards.\n{J}{J} \u2013 Put a land card from among the milled cards into your hand.\n{J}{J}{J} \u2013 Put a creature card from among the milled cards into your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2376,13 +2481,14 @@
             "color2": "BG",
             "type2": "Sorcery",
             "cost2": "{1}{2G}{B}",
-            "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\nPay any amount of life.\nChoose up to X {J} worth of modes, where X is the amount of life paid. You may choose the same mode more than once.\n[b]{J}[/b] \u2014 Mill a card.\n{J}{J}{J} \u2014 Add {B} or {G}.\nX {J} \u2014 Return a creature card with mana value X from your graveyard to the battlefield.",
+            "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\nPay any amount of life.\nChoose up to X {J} worth of modes, where X is the amount of life paid. You may choose the same mode more than once.\n[b]{J}[/b] \u2013 Mill a card.\n{J}{J}{J} \u2013 Add {B} or {G}.\nX {J} \u2013 Return a creature card with mana value X from your graveyard to the battlefield.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CG13 Commune with the Dead",
@@ -2401,7 +2507,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CG14 Bloody Growth",
@@ -2411,7 +2518,7 @@
             "number": 91,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Kicker\u2014Pay 3 life. [i](You may pay 3 life in addition to any other costs as you cast this spell.)[/i]\nTarget creature gets +3/+2 until end of turn. If this spell was kicked, that creature gets +4/+4 until end of turn instead.",
+            "rules_text": "Kicker\u2013Pay 3 life. [i](You may pay 3 life in addition to any other costs as you cast this spell.)[/i]\nTarget creature gets +3/+2 until end of turn. If this spell was kicked, that creature gets +4/+4 until end of turn instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2420,7 +2527,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CG15 Earth and Sun",
@@ -2439,13 +2547,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CA01 Wildforged Golem",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Golem",
+            "type": "Artifact Creature \u2013 Golem",
             "number": 114,
             "color_identity": "C",
             "cost": "{2}",
@@ -2458,13 +2567,14 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CC01 Whimsical Farmer",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2014 Human Peasant",
+            "type": "Creature \u2013 Human Peasant",
             "number": 1,
             "color_identity": "C",
             "cost": "{3}",
@@ -2479,7 +2589,7 @@
             "artist": "",
             "card_name2": "Grim Farmer",
             "color2": "",
-            "type2": "Creature \u2014 Human Peasant",
+            "type2": "Creature \u2013 Human Peasant",
             "cost2": "{4}",
             "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]",
             "flavor_text2": "[i][/i]",
@@ -2487,7 +2597,8 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CC02 Prophet's Downfall",
@@ -2506,7 +2617,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CC03 Wilderness Essence",
@@ -2525,7 +2637,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "CA03 Imposing Monolith",
@@ -2544,7 +2657,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "RA01 Whimsy Monolith",
@@ -2563,8 +2677,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         }
-    ],
-    "version": 1
+    ]
 }

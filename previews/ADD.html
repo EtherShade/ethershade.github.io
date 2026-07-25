@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/ADD-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>ADD visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/ADD-files/logo.png" />
+	<img class="preload-hidden" src="../sets/ADD-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/ADD"><img src="../sets/ADD-files/icon.png">A Dream of Darkness</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/ADD-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\ADD-files\img\19_RW01 Gatel the Frozen.jpg" id="ADD_19_RW01 Gatel the Frozen" data-flag="@X" onclick="openSidebar('ADD_19_RW01 Gatel the Frozen',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\38_RU01 Braxtus the Breaker.jpg" id="ADD_38_RU01 Braxtus the Breaker" data-flag="@X" onclick="openSidebar('ADD_38_RU01 Braxtus the Breaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\58_UB01 Mindshattered Triclops.jpg" id="ADD_58_UB01 Mindshattered Triclops" data-flag="@X" onclick="openSidebar('ADD_58_UB01 Mindshattered Triclops',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\75_RR02 Raflegos the Passionate.jpg" id="ADD_75_RR02 Raflegos the Passionate" data-flag="@X" onclick="openSidebar('ADD_75_RR02 Raflegos the Passionate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\93_RG01 Sufelia the Devout.jpg" id="ADD_93_RG01 Sufelia the Devout" data-flag="@X" onclick="openSidebar('ADD_93_RG01 Sufelia the Devout',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\20_RW02 Bethela the Builder.jpg" id="ADD_20_RW02 Bethela the Builder" data-flag="@X" onclick="openSidebar('ADD_20_RW02 Bethela the Builder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\39_RU03 Timewinder Supreme.jpg" id="ADD_39_RU03 Timewinder Supreme" data-flag="@X" onclick="openSidebar('ADD_39_RU03 Timewinder Supreme',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\59_UB15 Crystalcore of Persistence_back.jpg" alt="sets\ADD-files\img\59_UB15 Crystalcore of Persistence_front.jpg" id="ADD_59_UB15 Crystalcore of Persistence" data-flag="@XD" onclick="openSidebar('ADD_59_UB15 Crystalcore of Persistence',false)"><button class="flip-btn" onclick="imgFlip('ADD_59_UB15 Crystalcore of Persistence')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\76_UR01 Running Stones.jpg" id="ADD_76_UR01 Running Stones" data-flag="@X" onclick="openSidebar('ADD_76_UR01 Running Stones',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\94_RG02 Telegia the Thawed.jpg" id="ADD_94_RG02 Telegia the Thawed" data-flag="@X" onclick="openSidebar('ADD_94_RG02 Telegia the Thawed',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\21_RW07 Innefficient Exchange.jpg" id="ADD_21_RW07 Innefficient Exchange" data-flag="@X" onclick="openSidebar('ADD_21_RW07 Innefficient Exchange',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\40_UU01 Timewinder Motivator.jpg" id="ADD_40_UU01 Timewinder Motivator" data-flag="@X" onclick="openSidebar('ADD_40_UU01 Timewinder Motivator',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\43_CB01 Black Dreamer of Whimsy_back.jpg" alt="sets\ADD-files\img\43_CB01 Black Dreamer of Whimsy_front.jpg" id="ADD_43_CB01 Black Dreamer of Whimsy" data-flag="@XD" onclick="openSidebar('ADD_43_CB01 Black Dreamer of Whimsy',false)"><button class="flip-btn" onclick="imgFlip('ADD_43_CB01 Black Dreamer of Whimsy')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\77_UR15 Crystalcore of Courage_back.jpg" alt="sets\ADD-files\img\77_UR15 Crystalcore of Courage_front.jpg" id="ADD_77_UR15 Crystalcore of Courage" data-flag="@XD" onclick="openSidebar('ADD_77_UR15 Crystalcore of Courage',false)"><button class="flip-btn" onclick="imgFlip('ADD_77_UR15 Crystalcore of Courage')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\95_UG15 Crystalcore of Strength_back.jpg" alt="sets\ADD-files\img\95_UG15 Crystalcore of Strength_front.jpg" id="ADD_95_UG15 Crystalcore of Strength" data-flag="@XD" onclick="openSidebar('ADD_95_UG15 Crystalcore of Strength',false)"><button class="flip-btn" onclick="imgFlip('ADD_95_UG15 Crystalcore of Strength')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\22_UW15 Crystalcore of Loyalty_back.jpg" alt="sets\ADD-files\img\22_UW15 Crystalcore of Loyalty_front.jpg" id="ADD_22_UW15 Crystalcore of Loyalty" data-flag="@XD" onclick="openSidebar('ADD_22_UW15 Crystalcore of Loyalty',false)"><button class="flip-btn" onclick="imgFlip('ADD_22_UW15 Crystalcore of Loyalty')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\41_UU02 Hovering Platformite.jpg" id="ADD_41_UU02 Hovering Platformite" data-flag="@X" onclick="openSidebar('ADD_41_UU02 Hovering Platformite',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\44_CB02 Roaming Bloodsucker.jpg" id="ADD_44_CB02 Roaming Bloodsucker" data-flag="@X" onclick="openSidebar('ADD_44_CB02 Roaming Bloodsucker',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\60_CR01 Red Dreamer of Whimsy_back.jpg" alt="sets\ADD-files\img\60_CR01 Red Dreamer of Whimsy_front.jpg" id="ADD_60_CR01 Red Dreamer of Whimsy" data-flag="@XD" onclick="openSidebar('ADD_60_CR01 Red Dreamer of Whimsy',false)"><button class="flip-btn" onclick="imgFlip('ADD_60_CR01 Red Dreamer of Whimsy')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\78_CG01 Green Dreamer of Whimsy_back.jpg" alt="sets\ADD-files\img\78_CG01 Green Dreamer of Whimsy_front.jpg" id="ADD_78_CG01 Green Dreamer of Whimsy" data-flag="@XD" onclick="openSidebar('ADD_78_CG01 Green Dreamer of Whimsy',false)"><button class="flip-btn" onclick="imgFlip('ADD_78_CG01 Green Dreamer of Whimsy')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\4_CW01 White Dreamer of Whimsy_back.jpg" alt="sets\ADD-files\img\4_CW01 White Dreamer of Whimsy_front.jpg" id="ADD_4_CW01 White Dreamer of Whimsy" data-flag="@XD" onclick="openSidebar('ADD_4_CW01 White Dreamer of Whimsy',false)"><button class="flip-btn" onclick="imgFlip('ADD_4_CW01 White Dreamer of Whimsy')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\42_UU15 Crystalcore of Knowledge_back.jpg" alt="sets\ADD-files\img\42_UU15 Crystalcore of Knowledge_front.jpg" id="ADD_42_UU15 Crystalcore of Knowledge" data-flag="@XD" onclick="openSidebar('ADD_42_UU15 Crystalcore of Knowledge',false)"><button class="flip-btn" onclick="imgFlip('ADD_42_UU15 Crystalcore of Knowledge')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\45_CB03 Cutting Mockingbird.jpg" id="ADD_45_CB03 Cutting Mockingbird" data-flag="@X" onclick="openSidebar('ADD_45_CB03 Cutting Mockingbird',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\61_CR02 Sunfire Trainee.jpg" id="ADD_61_CR02 Sunfire Trainee" data-flag="@X" onclick="openSidebar('ADD_61_CR02 Sunfire Trainee',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\79_CG02 Well-Fed Triclops.jpg" id="ADD_79_CG02 Well-Fed Triclops" data-flag="@X" onclick="openSidebar('ADD_79_CG02 Well-Fed Triclops',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\5_CW02 Starving Triclops.jpg" id="ADD_5_CW02 Starving Triclops" data-flag="@X" onclick="openSidebar('ADD_5_CW02 Starving Triclops',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\23_CU01 Blue Dreamer of Whimsy_back.jpg" alt="sets\ADD-files\img\23_CU01 Blue Dreamer of Whimsy_front.jpg" id="ADD_23_CU01 Blue Dreamer of Whimsy" data-flag="@XD" onclick="openSidebar('ADD_23_CU01 Blue Dreamer of Whimsy',false)"><button class="flip-btn" onclick="imgFlip('ADD_23_CU01 Blue Dreamer of Whimsy')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\46_CB04 Terrorizing Bladearm.jpg" id="ADD_46_CB04 Terrorizing Bladearm" data-flag="@X" onclick="openSidebar('ADD_46_CB04 Terrorizing Bladearm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\62_CR03 Bladearm Ritualist.jpg" id="ADD_62_CR03 Bladearm Ritualist" data-flag="@X" onclick="openSidebar('ADD_62_CR03 Bladearm Ritualist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\80_CG03 Sun-Basking Caretaker.jpg" id="ADD_80_CG03 Sun-Basking Caretaker" data-flag="@X" onclick="openSidebar('ADD_80_CG03 Sun-Basking Caretaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\6_CW03 Silly Mockingbird.jpg" id="ADD_6_CW03 Silly Mockingbird" data-flag="@X" onclick="openSidebar('ADD_6_CW03 Silly Mockingbird',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\24_CU02 Deranged Scholar.jpg" id="ADD_24_CU02 Deranged Scholar" data-flag="@X" onclick="openSidebar('ADD_24_CU02 Deranged Scholar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\47_CB05 Hopeless Seeker.jpg" id="ADD_47_CB05 Hopeless Seeker" data-flag="@X" onclick="openSidebar('ADD_47_CB05 Hopeless Seeker',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\63_CR04 Foolish Smuggler_back.jpg" alt="sets\ADD-files\img\63_CR04 Foolish Smuggler_front.jpg" id="ADD_63_CR04 Foolish Smuggler" data-flag="@XD" onclick="openSidebar('ADD_63_CR04 Foolish Smuggler',false)"><button class="flip-btn" onclick="imgFlip('ADD_63_CR04 Foolish Smuggler')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\81_CG04 Eight-Legged Bartender.jpg" id="ADD_81_CG04 Eight-Legged Bartender" data-flag="@X" onclick="openSidebar('ADD_81_CG04 Eight-Legged Bartender',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\7_CW04 Helpful Seeker.jpg" id="ADD_7_CW04 Helpful Seeker" data-flag="@X" onclick="openSidebar('ADD_7_CW04 Helpful Seeker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\25_CU03 Incomplete Fleshthopter.jpg" id="ADD_25_CU03 Incomplete Fleshthopter" data-flag="@X" onclick="openSidebar('ADD_25_CU03 Incomplete Fleshthopter',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\48_CB06 Tricky Timewinder_back.jpg" alt="sets\ADD-files\img\48_CB06 Tricky Timewinder_front.jpg" id="ADD_48_CB06 Tricky Timewinder" data-flag="@XD" onclick="openSidebar('ADD_48_CB06 Tricky Timewinder',false)"><button class="flip-btn" onclick="imgFlip('ADD_48_CB06 Tricky Timewinder')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\64_CR05 Nomadic Brute.jpg" id="ADD_64_CR05 Nomadic Brute" data-flag="@X" onclick="openSidebar('ADD_64_CR05 Nomadic Brute',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\82_CG05 Sun-Flame Berserker.jpg" id="ADD_82_CG05 Sun-Flame Berserker" data-flag="@X" onclick="openSidebar('ADD_82_CG05 Sun-Flame Berserker',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\8_CW05 Pranking Pumpkin_back.jpg" alt="sets\ADD-files\img\8_CW05 Pranking Pumpkin_front.jpg" id="ADD_8_CW05 Pranking Pumpkin" data-flag="@XD" onclick="openSidebar('ADD_8_CW05 Pranking Pumpkin',false)"><button class="flip-btn" onclick="imgFlip('ADD_8_CW05 Pranking Pumpkin')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\26_CU04 Brickfolk Surveyor_back.jpg" alt="sets\ADD-files\img\26_CU04 Brickfolk Surveyor_front.jpg" id="ADD_26_CU04 Brickfolk Surveyor" data-flag="@XD" onclick="openSidebar('ADD_26_CU04 Brickfolk Surveyor',false)"><button class="flip-btn" onclick="imgFlip('ADD_26_CU04 Brickfolk Surveyor')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\49_CB07 Lunar Flesh Construct.jpg" id="ADD_49_CB07 Lunar Flesh Construct" data-flag="@X" onclick="openSidebar('ADD_49_CB07 Lunar Flesh Construct',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\65_CR06 Blazebolt Crossbowman.jpg" id="ADD_65_CR06 Blazebolt Crossbowman" data-flag="@X" onclick="openSidebar('ADD_65_CR06 Blazebolt Crossbowman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\83_CG06 Whimsyblighted Triclops.jpg" id="ADD_83_CG06 Whimsyblighted Triclops" data-flag="@X" onclick="openSidebar('ADD_83_CG06 Whimsyblighted Triclops',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\9_CW06 Clay Cleric.jpg" id="ADD_9_CW06 Clay Cleric" data-flag="@X" onclick="openSidebar('ADD_9_CW06 Clay Cleric',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\27_CU05 Grim Fleshcrafter.jpg" id="ADD_27_CU05 Grim Fleshcrafter" data-flag="@X" onclick="openSidebar('ADD_27_CU05 Grim Fleshcrafter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\50_CB08 Shrouded Demon.jpg" id="ADD_50_CB08 Shrouded Demon" data-flag="@X" onclick="openSidebar('ADD_50_CB08 Shrouded Demon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\66_CR07 Playful Ravager.jpg" id="ADD_66_CR07 Playful Ravager" data-flag="@X" onclick="openSidebar('ADD_66_CR07 Playful Ravager',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\84_CG07 Exploratory Herbalist.jpg" id="ADD_84_CG07 Exploratory Herbalist" data-flag="@X" onclick="openSidebar('ADD_84_CG07 Exploratory Herbalist',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\10_CW07 Elder Populace.jpg" id="ADD_10_CW07 Elder Populace" data-flag="@X" onclick="openSidebar('ADD_10_CW07 Elder Populace',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\28_CU06 Wanderlust Eater.jpg" id="ADD_28_CU06 Wanderlust Eater" data-flag="@X" onclick="openSidebar('ADD_28_CU06 Wanderlust Eater',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\51_CB09 Scion of the Dark.jpg" id="ADD_51_CB09 Scion of the Dark" data-flag="@X" onclick="openSidebar('ADD_51_CB09 Scion of the Dark',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\67_CR08 Spinblade Demon.jpg" id="ADD_67_CR08 Spinblade Demon" data-flag="@X" onclick="openSidebar('ADD_67_CR08 Spinblade Demon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\85_CG08 Recruiter of the Range.jpg" id="ADD_85_CG08 Recruiter of the Range" data-flag="@X" onclick="openSidebar('ADD_85_CG08 Recruiter of the Range',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\11_CW08 Meandering Minstrel.jpg" id="ADD_11_CW08 Meandering Minstrel" data-flag="@X" onclick="openSidebar('ADD_11_CW08 Meandering Minstrel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\29_CU07 Riddleless Riddler.jpg" id="ADD_29_CU07 Riddleless Riddler" data-flag="@X" onclick="openSidebar('ADD_29_CU07 Riddleless Riddler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\52_CB10 Blood Helix.jpg" id="ADD_52_CB10 Blood Helix" data-flag="@X" onclick="openSidebar('ADD_52_CB10 Blood Helix',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\68_CR09 Land-Raze Gargantuan.jpg" id="ADD_68_CR09 Land-Raze Gargantuan" data-flag="@X" onclick="openSidebar('ADD_68_CR09 Land-Raze Gargantuan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\86_CG09 Colossal Dreadbeast.jpg" id="ADD_86_CG09 Colossal Dreadbeast" data-flag="@X" onclick="openSidebar('ADD_86_CG09 Colossal Dreadbeast',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\12_CW09 Stone Ressurector.jpg" id="ADD_12_CW09 Stone Ressurector" data-flag="@X" onclick="openSidebar('ADD_12_CW09 Stone Ressurector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\30_CU08 Sturdy Platformite.jpg" id="ADD_30_CU08 Sturdy Platformite" data-flag="@X" onclick="openSidebar('ADD_30_CU08 Sturdy Platformite',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\53_CB11 Inundation of Insanity.jpg" id="ADD_53_CB11 Inundation of Insanity" data-flag="@X" onclick="openSidebar('ADD_53_CB11 Inundation of Insanity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\69_CR10 Seek Inner Fire.jpg" id="ADD_69_CR10 Seek Inner Fire" data-flag="@X" onclick="openSidebar('ADD_69_CR10 Seek Inner Fire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\87_CG10 Wild-Darkened Duelist.jpg" id="ADD_87_CG10 Wild-Darkened Duelist" data-flag="@X" onclick="openSidebar('ADD_87_CG10 Wild-Darkened Duelist',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\13_CW10 Triclops Sentinel.jpg" id="ADD_13_CW10 Triclops Sentinel" data-flag="@X" onclick="openSidebar('ADD_13_CW10 Triclops Sentinel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\31_CU09 Delusions of Idiocy.jpg" id="ADD_31_CU09 Delusions of Idiocy" data-flag="@X" onclick="openSidebar('ADD_31_CU09 Delusions of Idiocy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\54_CB12 Reflected Rending.jpg" id="ADD_54_CB12 Reflected Rending" data-flag="@X" onclick="openSidebar('ADD_54_CB12 Reflected Rending',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\70_CR11 Return Again_back.jpg" alt="sets\ADD-files\img\70_CR11 Return Again_front.jpg" id="ADD_70_CR11 Return Again" data-flag="@XD" onclick="openSidebar('ADD_70_CR11 Return Again',false)"><button class="flip-btn" onclick="imgFlip('ADD_70_CR11 Return Again')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\88_CG11 Whom to Pray_back.jpg" alt="sets\ADD-files\img\88_CG11 Whom to Pray_front.jpg" id="ADD_88_CG11 Whom to Pray" data-flag="@XD" onclick="openSidebar('ADD_88_CG11 Whom to Pray',false)"><button class="flip-btn" onclick="imgFlip('ADD_88_CG11 Whom to Pray')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\14_CW11 Shrouded Angel.jpg" id="ADD_14_CW11 Shrouded Angel" data-flag="@X" onclick="openSidebar('ADD_14_CW11 Shrouded Angel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\32_CU10 Flimsy Transformation.jpg" id="ADD_32_CU10 Flimsy Transformation" data-flag="@X" onclick="openSidebar('ADD_32_CU10 Flimsy Transformation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\55_CB13 Visions of Conspiracy.jpg" id="ADD_55_CB13 Visions of Conspiracy" data-flag="@X" onclick="openSidebar('ADD_55_CB13 Visions of Conspiracy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\71_CR12 Ruinous Pyre.jpg" id="ADD_71_CR12 Ruinous Pyre" data-flag="@X" onclick="openSidebar('ADD_71_CR12 Ruinous Pyre',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\89_CG12 Rotting Fangs.jpg" id="ADD_89_CG12 Rotting Fangs" data-flag="@X" onclick="openSidebar('ADD_89_CG12 Rotting Fangs',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\15_CW12 Knightly Execution_back.jpg" alt="sets\ADD-files\img\15_CW12 Knightly Execution_front.jpg" id="ADD_15_CW12 Knightly Execution" data-flag="@XD" onclick="openSidebar('ADD_15_CW12 Knightly Execution',false)"><button class="flip-btn" onclick="imgFlip('ADD_15_CW12 Knightly Execution')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\33_CU11 Delirious Cancellation.jpg" id="ADD_33_CU11 Delirious Cancellation" data-flag="@X" onclick="openSidebar('ADD_33_CU11 Delirious Cancellation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\56_CB14 Lunacy Totem.jpg" id="ADD_56_CB14 Lunacy Totem" data-flag="@X" onclick="openSidebar('ADD_56_CB14 Lunacy Totem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\72_CR13 Flames of Wanderlust.jpg" id="ADD_72_CR13 Flames of Wanderlust" data-flag="@X" onclick="openSidebar('ADD_72_CR13 Flames of Wanderlust',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\90_CG13 Commune with the Dead.jpg" id="ADD_90_CG13 Commune with the Dead" data-flag="@X" onclick="openSidebar('ADD_90_CG13 Commune with the Dead',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\16_CW13 Three-Eyed Pacifism.jpg" id="ADD_16_CW13 Three-Eyed Pacifism" data-flag="@X" onclick="openSidebar('ADD_16_CW13 Three-Eyed Pacifism',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\34_CU12 Scouring Bauble.jpg" id="ADD_34_CU12 Scouring Bauble" data-flag="@X" onclick="openSidebar('ADD_34_CU12 Scouring Bauble',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\57_CB15 Enduring Metal_back.jpg" alt="sets\ADD-files\img\57_CB15 Enduring Metal_front.jpg" id="ADD_57_CB15 Enduring Metal" data-flag="@XD" onclick="openSidebar('ADD_57_CB15 Enduring Metal',false)"><button class="flip-btn" onclick="imgFlip('ADD_57_CB15 Enduring Metal')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\73_CR14 Fall into Might.jpg" id="ADD_73_CR14 Fall into Might" data-flag="@X" onclick="openSidebar('ADD_73_CR14 Fall into Might',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\91_CG14 Bloody Growth.jpg" id="ADD_91_CG14 Bloody Growth" data-flag="@X" onclick="openSidebar('ADD_91_CG14 Bloody Growth',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\17_CW14 Honorable Exertion.jpg" id="ADD_17_CW14 Honorable Exertion" data-flag="@X" onclick="openSidebar('ADD_17_CW14 Honorable Exertion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\35_CU13 Wisdom of Wanderlust.jpg" id="ADD_35_CU13 Wisdom of Wanderlust" data-flag="@X" onclick="openSidebar('ADD_35_CU13 Wisdom of Wanderlust',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\74_CR15 Overwhelming Assault.jpg" id="ADD_74_CR15 Overwhelming Assault" data-flag="@X" onclick="openSidebar('ADD_74_CR15 Overwhelming Assault',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\92_CG15 Earth and Sun.jpg" id="ADD_92_CG15 Earth and Sun" data-flag="@X" onclick="openSidebar('ADD_92_CG15 Earth and Sun',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\18_CW15 Ruinous Rendezvous.jpg" id="ADD_18_CW15 Ruinous Rendezvous" data-flag="@X" onclick="openSidebar('ADD_18_CW15 Ruinous Rendezvous',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\36_CU14 Bloody Guardianship.jpg" id="ADD_36_CU14 Bloody Guardianship" data-flag="@X" onclick="openSidebar('ADD_36_CU14 Bloody Guardianship',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\37_CU15 Trader's Intent_back.jpg" alt="sets\ADD-files\img\37_CU15 Trader's Intent_front.jpg" id="ADD_37_CU15 Traders Intent" data-flag="@XD" onclick="openSidebar('ADD_37_CU15 Traders Intent',false)"><button class="flip-btn" onclick="imgFlip('ADD_37_CU15 Traders Intent')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\113_RM06 Mortared Revelation.jpg" id="ADD_113_RM06 Mortared Revelation" data-flag="@X" onclick="openSidebar('ADD_113_RM06 Mortared Revelation',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\97_CM02 Hero of Moon_back.jpg" alt="sets\ADD-files\img\97_CM02 Hero of Moon_front.jpg" id="ADD_97_CM02 Hero of Moon" data-flag="@XD" onclick="openSidebar('ADD_97_CM02 Hero of Moon',false)"><button class="flip-btn" onclick="imgFlip('ADD_97_CM02 Hero of Moon')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\98_CM03 Hero of Blade_back.jpg" alt="sets\ADD-files\img\98_CM03 Hero of Blade_front.jpg" id="ADD_98_CM03 Hero of Blade" data-flag="@XD" onclick="openSidebar('ADD_98_CM03 Hero of Blade',false)"><button class="flip-btn" onclick="imgFlip('ADD_98_CM03 Hero of Blade')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\99_CM04 Hero of Sun_back.jpg" alt="sets\ADD-files\img\99_CM04 Hero of Sun_front.jpg" id="ADD_99_CM04 Hero of Sun" data-flag="@XD" onclick="openSidebar('ADD_99_CM04 Hero of Sun',false)"><button class="flip-btn" onclick="imgFlip('ADD_99_CM04 Hero of Sun')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\100_CM05 Hero of Sight_back.jpg" alt="sets\ADD-files\img\100_CM05 Hero of Sight_front.jpg" id="ADD_100_CM05 Hero of Sight" data-flag="@XD" onclick="openSidebar('ADD_100_CM05 Hero of Sight',false)"><button class="flip-btn" onclick="imgFlip('ADD_100_CM05 Hero of Sight')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\96_CM01 Hero of Brick_back.jpg" alt="sets\ADD-files\img\96_CM01 Hero of Brick_front.jpg" id="ADD_96_CM01 Hero of Brick" data-flag="@XD" onclick="openSidebar('ADD_96_CM01 Hero of Brick',false)"><button class="flip-btn" onclick="imgFlip('ADD_96_CM01 Hero of Brick')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\102_CM07 Lunar Current-Rod.jpg" id="ADD_102_CM07 Lunar Current-Rod" data-flag="@X" onclick="openSidebar('ADD_102_CM07 Lunar Current-Rod',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\103_CM08 Violent Return.jpg" id="ADD_103_CM08 Violent Return" data-flag="@X" onclick="openSidebar('ADD_103_CM08 Violent Return',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\104_CM09 Expressive Conflagration.jpg" id="ADD_104_CM09 Expressive Conflagration" data-flag="@X" onclick="openSidebar('ADD_104_CM09 Expressive Conflagration',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\105_CM10 Formidable Anthem.jpg" id="ADD_105_CM10 Formidable Anthem" data-flag="@X" onclick="openSidebar('ADD_105_CM10 Formidable Anthem',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\101_CM06 Safe Construction.jpg" id="ADD_101_CM06 Safe Construction" data-flag="@X" onclick="openSidebar('ADD_101_CM06 Safe Construction',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\107_CZ02 Soaring Shadow.jpg" id="ADD_107_CZ02 Soaring Shadow" data-flag="@X" onclick="openSidebar('ADD_107_CZ02 Soaring Shadow',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\108_CZ03 Sprinting Blade.jpg" id="ADD_108_CZ03 Sprinting Blade" data-flag="@X" onclick="openSidebar('ADD_108_CZ03 Sprinting Blade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\109_CZ04 Crushing Flame.jpg" id="ADD_109_CZ04 Crushing Flame" data-flag="@X" onclick="openSidebar('ADD_109_CZ04 Crushing Flame',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\110_CZ05 Warding Eyes.jpg" id="ADD_110_CZ05 Warding Eyes" data-flag="@X" onclick="openSidebar('ADD_110_CZ05 Warding Eyes',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\106_CZ01 Walking Stones.jpg" id="ADD_106_CZ01 Walking Stones" data-flag="@X" onclick="openSidebar('ADD_106_CZ01 Walking Stones',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\111_MM01 Season of Whimsy_back.jpg" alt="sets\ADD-files\img\111_MM01 Season of Whimsy_front.jpg" id="ADD_111_MM01 Season of Whimsy" data-flag="@XD" onclick="openSidebar('ADD_111_MM01 Season of Whimsy',false)"><button class="flip-btn" onclick="imgFlip('ADD_111_MM01 Season of Whimsy')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\112_MM02 Varasti, Fluid Dancer.jpg" id="ADD_112_MM02 Varasti, Fluid Dancer" data-flag="@X" onclick="openSidebar('ADD_112_MM02 Varasti, Fluid Dancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\117_RA01 Whimsy Monolith.jpg" id="ADD_117_RA01 Whimsy Monolith" data-flag="@X" onclick="openSidebar('ADD_117_RA01 Whimsy Monolith',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\ADD-files\img\1_CC01 Whimsical Farmer_back.jpg" alt="sets\ADD-files\img\1_CC01 Whimsical Farmer_front.jpg" id="ADD_1_CC01 Whimsical Farmer" data-flag="@XD" onclick="openSidebar('ADD_1_CC01 Whimsical Farmer',false)"><button class="flip-btn" onclick="imgFlip('ADD_1_CC01 Whimsical Farmer')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\2_CC02 Prophet's Downfall.jpg" id="ADD_2_CC02 Prophets Downfall" data-flag="@X" onclick="openSidebar('ADD_2_CC02 Prophets Downfall',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\3_CC03 Wilderness Essence.jpg" id="ADD_3_CC03 Wilderness Essence" data-flag="@X" onclick="openSidebar('ADD_3_CC03 Wilderness Essence',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\114_CA01 Wildforged Golem.jpg" id="ADD_114_CA01 Wildforged Golem" data-flag="@X" onclick="openSidebar('ADD_114_CA01 Wildforged Golem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\115_CA02 Mechanical Pilgrim.jpg" id="ADD_115_CA02 Mechanical Pilgrim" data-flag="@X" onclick="openSidebar('ADD_115_CA02 Mechanical Pilgrim',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\116_CA03 Imposing Monolith.jpg" id="ADD_116_CA03 Imposing Monolith" data-flag="@X" onclick="openSidebar('ADD_116_CA03 Imposing Monolith',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\1t_1/1 Peasant Token.jpg" id="ADD_1t_1/1 Peasant Token" data-flag="@X" onclick="openSidebar('ADD_1t_1/1 Peasant Token',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\3t_Building Token.jpg" id="ADD_3t_Building Token" data-flag="@X" onclick="openSidebar('ADD_3t_Building Token',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\4t_Clue Token.jpg" id="ADD_4t_Clue Token" data-flag="@X" onclick="openSidebar('ADD_4t_Clue Token',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ADD-files\img\2t_2/2 Horror Token.jpg" id="ADD_2t_2/2 Horror Token" data-flag="@X" onclick="openSidebar('ADD_2t_2/2 Horror Token',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ADD_e" data-flag="@E" onclick="openSidebar('ADD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ADD_er" data-flag="@E" onclick="openSidebar('ADD_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1].toLowerCase());
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>

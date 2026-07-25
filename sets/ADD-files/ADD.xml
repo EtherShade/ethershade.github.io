@@ -1,0 +1,2754 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>ADD</name>
+			<longname>A Dream of Darkness</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-25</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>UW15 Crystalcore of Loyalty</name>
+			<text>Madness {3} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+{T}: Add {W}.
+---
+(Back): Bastion of Loyalty</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/22_UW15 Crystalcore of Loyalty_front.jpg" num="22a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Bastion of Loyalty</related>
+		</card>
+		<card>
+			<name>Bastion of Loyalty</name>
+			<text>Indestructible
+This land enters tapped.
+{T}: Add {W}.
+---
+(Front): UW15 Crystalcore of Loyalty</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/22_UW15 Crystalcore of Loyalty_back.jpg" num="22b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">UW15 Crystalcore of Loyalty</related>
+		</card>
+		<card>
+			<name>UU15 Crystalcore of Knowledge</name>
+			<text>Madness {3} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+{T}: Add {U}.
+---
+(Back): Bastion of Knowledge</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/42_UU15 Crystalcore of Knowledge_front.jpg" num="42a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Bastion of Knowledge</related>
+		</card>
+		<card>
+			<name>Bastion of Knowledge</name>
+			<text>Indestructible
+This land enters tapped.
+{T}: Add {U}.
+---
+(Front): UU15 Crystalcore of Knowledge</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/42_UU15 Crystalcore of Knowledge_back.jpg" num="42b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">UU15 Crystalcore of Knowledge</related>
+		</card>
+		<card>
+			<name>CZ01 Walking Stones</name>
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Foundation (When this creature enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
+[[b]Vigilance[/b]]</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/106_CZ01 Walking Stones.jpg" num="106">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wall Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/U</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB15 Crystalcore of Persistence</name>
+			<text>Madness {3} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+{T}: Add {B}.
+---
+(Back): Bastion of Persistence</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/59_UB15 Crystalcore of Persistence_front.jpg" num="59a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Bastion of Persistence</related>
+		</card>
+		<card>
+			<name>Bastion of Persistence</name>
+			<text>Indestructible
+This land enters tapped.
+{T}: Add {B}.
+---
+(Front): UB15 Crystalcore of Persistence</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/59_UB15 Crystalcore of Persistence_back.jpg" num="59b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">UB15 Crystalcore of Persistence</related>
+		</card>
+		<card>
+			<name>UR15 Crystalcore of Courage</name>
+			<text>Madness {3} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+{T}: Add {R}.
+---
+(Back): Bastion of Courage</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/77_UR15 Crystalcore of Courage_front.jpg" num="77a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Bastion of Courage</related>
+		</card>
+		<card>
+			<name>Bastion of Courage</name>
+			<text>Indestructible
+This land enters tapped.
+{T}: Add {R}.
+---
+(Front): UR15 Crystalcore of Courage</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/77_UR15 Crystalcore of Courage_back.jpg" num="77b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">UR15 Crystalcore of Courage</related>
+		</card>
+		<card>
+			<name>UG15 Crystalcore of Strength</name>
+			<text>Madness {3} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+{T}: Add {G}.
+---
+(Back): Bastion of Strength</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/95_UG15 Crystalcore of Strength_front.jpg" num="95a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Bastion of Strength</related>
+		</card>
+		<card>
+			<name>Bastion of Strength</name>
+			<text>Indestructible
+This land enters tapped.
+{T}: Add {G}.
+---
+(Front): UG15 Crystalcore of Strength</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/95_UG15 Crystalcore of Strength_back.jpg" num="95b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">UG15 Crystalcore of Strength</related>
+		</card>
+		<card>
+			<name>UR01 Running Stones</name>
+			<text>Foundation (When this creature enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
+[[b]Haste[/b]]</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/76_UR01 Running Stones.jpg" num="76">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wall Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CZ02 Soaring Shadow</name>
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Moonflow 1 (You may cast this spell from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)
+Flying</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/107_CZ02 Soaring Shadow.jpg" num="107">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Reflection Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U/B</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RW07 Innefficient Exchange</name>
+			<text>At the beginning of each player&apos;s upkeep, exile the top card of that player&apos;s library.
+During each player&apos;s turn, that player may play cards they don&apos;t own exiled with Innefficient Exchange</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/21_RW07 Innefficient Exchange.jpg" num="21">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CZ03 Sprinting Blade</name>
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Haste
+Blaze of Glory — Whenever this creature attacks, you may have it gain menace until end of turn. If you do, sacrifice this creature at end of combat.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/108_CZ03 Sprinting Blade.jpg" num="108">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>3B/R</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CZ04 Crushing Flame</name>
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Trample
+Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/109_CZ04 Crushing Flame.jpg" num="109">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>4R/G</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CZ05 Warding Eyes</name>
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Formidable — When this creature dies, if creatures you control have total power 8 or greater, you gain 4 life.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/110_CZ05 Warding Eyes.jpg" num="110">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>2G/W</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM01 Hero of Brick</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Foundation (When this creature enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
+[[b]Whenever this creature deals combat damage to a player, you gain 3 life and scry 1.[/b]]
+---
+(Back): Villain of Brick</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/96_CM01 Hero of Brick_front.jpg" num="96a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Wall Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Villain of Brick</related>
+		</card>
+		<card>
+			<name>Villain of Brick</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Foundation (When this creature enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
+[[b]Whenever this creature deals combat damage to a player, you gain 1 life and draw a card.[/b]]
+---
+(Front): CM01 Hero of Brick</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/96_CM01 Hero of Brick_back.jpg" num="96b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Wall Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CM01 Hero of Brick</related>
+		</card>
+		<card>
+			<name>CM02 Hero of Moon</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Moonflow 1 (You may cast this spell from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)
+When this creature enters, surveil 2.
+---
+(Back): Villain of Moon</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/97_CM02 Hero of Moon_front.jpg" num="97a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Reflection Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Villain of Moon</related>
+		</card>
+		<card>
+			<name>Villain of Moon</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Moonflow 1 (You may cast this spell from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)
+When this creature enters, surveil 1.
+---
+(Front): CM02 Hero of Moon</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/97_CM02 Hero of Moon_back.jpg" num="97b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Reflection Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CM02 Hero of Moon</related>
+		</card>
+		<card>
+			<name>CM03 Hero of Blade</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Haste
+Blaze of Glory — Whenever this creature attacks, you may have it gain trample until end of turn. If you do, sacrifice it at end of turn.
+---
+(Back): Villain of Blade</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/98_CM03 Hero of Blade_front.jpg" num="98a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Demon Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Villain of Blade</related>
+		</card>
+		<card>
+			<name>Villain of Blade</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Blaze of Glory — Whenever this creature attacks, you may have it gain trample and menace until end of turn. If you do, sacrifice it at end of turn.
+---
+(Front): CM03 Hero of Blade</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/98_CM03 Hero of Blade_back.jpg" num="98b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Demon Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CM03 Hero of Blade</related>
+		</card>
+		<card>
+			<name>CM04 Hero of Sun</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)
+When this creature enters, exile the top card of your library. You may play that card this turn.
+---
+(Back): Villain of Sun</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/99_CM04 Hero of Sun_front.jpg" num="99a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Elemental Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Villain of Sun</related>
+		</card>
+		<card>
+			<name>Villain of Sun</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)
+---
+(Front): CM04 Hero of Sun</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/99_CM04 Hero of Sun_back.jpg" num="99b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Elemental Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CM04 Hero of Sun</related>
+		</card>
+		<card>
+			<name>CM05 Hero of Sight</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Formidable — When this creature enters, if creatures you control have total power 8 or greater, draw a card.
+---
+(Back): Villain of Sight</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/100_CM05 Hero of Sight_front.jpg" num="100a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Giant Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Villain of Sight</related>
+		</card>
+		<card>
+			<name>Villain of Sight</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Formidable — Whenever this creature attacks, if creatures you control have total power 8 or greater, this creature gets +0/+2 until end of turn.
+---
+(Front): CM05 Hero of Sight</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/100_CM05 Hero of Sight_back.jpg" num="100b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Giant Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CM05 Hero of Sight</related>
+		</card>
+		<card>
+			<name>CA02 Mechanical Pilgrim</name>
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/115_CA02 Mechanical Pilgrim.jpg" num="115">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU13 Wisdom of Wanderlust</name>
+			<text>Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)
+Draw a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/35_CU13 Wisdom of Wanderlust.jpg" num="35">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW04 Helpful Seeker</name>
+			<text>When this creature enters, Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/7_CW04 Helpful Seeker.jpg" num="7">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW01 White Dreamer of Whimsy</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Lifelink
+---
+(Back): White Dreamer of Darkness</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/4_CW01 White Dreamer of Whimsy_front.jpg" num="4a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">White Dreamer of Darkness</related>
+		</card>
+		<card>
+			<name>White Dreamer of Darkness</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+---
+(Front): CW01 White Dreamer of Whimsy</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/4_CW01 White Dreamer of Whimsy_back.jpg" num="4b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CW01 White Dreamer of Whimsy</related>
+		</card>
+		<card>
+			<name>CU01 Blue Dreamer of Whimsy</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Vigilance
+---
+(Back): Blue Dreamer of Darkness</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/23_CU01 Blue Dreamer of Whimsy_front.jpg" num="23a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Blue Dreamer of Darkness</related>
+		</card>
+		<card>
+			<name>Blue Dreamer of Darkness</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Flying
+---
+(Front): CU01 Blue Dreamer of Whimsy</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/23_CU01 Blue Dreamer of Whimsy_back.jpg" num="23b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CU01 Blue Dreamer of Whimsy</related>
+		</card>
+		<card>
+			<name>CB01 Black Dreamer of Whimsy</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Menace
+---
+(Back): Black Dreamer of Darkness</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/43_CB01 Black Dreamer of Whimsy_front.jpg" num="43a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Black Dreamer of Darkness</related>
+		</card>
+		<card>
+			<name>Black Dreamer of Darkness</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Deathtouch
+---
+(Front): CB01 Black Dreamer of Whimsy</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/43_CB01 Black Dreamer of Whimsy_back.jpg" num="43b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CB01 Black Dreamer of Whimsy</related>
+		</card>
+		<card>
+			<name>CR01 Red Dreamer of Whimsy</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Haste
+---
+(Back): Red Dreamer of Darkness</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/60_CR01 Red Dreamer of Whimsy_front.jpg" num="60a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Red Dreamer of Darkness</related>
+		</card>
+		<card>
+			<name>Red Dreamer of Darkness</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Prowess
+---
+(Front): CR01 Red Dreamer of Whimsy</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/60_CR01 Red Dreamer of Whimsy_back.jpg" num="60b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CR01 Red Dreamer of Whimsy</related>
+		</card>
+		<card>
+			<name>CG01 Green Dreamer of Whimsy</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Ward {1}
+---
+(Back): Green Dreamer of Darkness</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/78_CG01 Green Dreamer of Whimsy_front.jpg" num="78a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Green Dreamer of Darkness</related>
+		</card>
+		<card>
+			<name>Green Dreamer of Darkness</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Defender, reach
+---
+(Front): CG01 Green Dreamer of Whimsy</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/78_CG01 Green Dreamer of Whimsy_back.jpg" num="78b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CG01 Green Dreamer of Whimsy</related>
+		</card>
+		<card>
+			<name>CW02 Starving Triclops</name>
+			<text>Formidable — When this creature dies, if creatures you control have total power 8 or greater, create a 1/1 colorless Human creature token.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/5_CW02 Starving Triclops.jpg" num="5">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>1/1 Peasant Token ADD</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/1t_1/1 Peasant Token.jpg" num="1">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>CW02 Starving Triclops</reverse-related>
+			<reverse-related>CW07 Elder Populace</reverse-related>
+			<reverse-related>CW08 Radiant Raven</reverse-related>
+		</card>
+		<card>
+			<name>Building Token ADD</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/3t_Building Token.jpg" num="3">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Building</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>CW06 Clay Cleric</reverse-related>
+			<reverse-related>CW09 Stone Ressurector</reverse-related>
+			<reverse-related>RW02 Bethela the Builder</reverse-related>
+			<reverse-related>CU04 Brickfolk Surveyor</reverse-related>
+			<reverse-related>Brickfolk Delusionist</reverse-related>
+			<reverse-related>CU08 Sturdy Platformite</reverse-related>
+			<reverse-related>UU02 Hovering Platformite</reverse-related>
+			<reverse-related>RU01 Braxtus the Breaker</reverse-related>
+			<reverse-related>UR01 Running Stones</reverse-related>
+			<reverse-related>CM01 Hero of Brick</reverse-related>
+			<reverse-related>Villain of Brick</reverse-related>
+			<reverse-related>CZ01 Walking Stones</reverse-related>
+		</card>
+		<card>
+			<name>CW03 Silly Mockingbird</name>
+			<text>Flying
+When this creature enters, you gain 2 life.
+This creature gets +1/+0 as long as you&apos;re whimsical. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/6_CW03 Silly Mockingbird.jpg" num="6">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07 Elder Populace</name>
+			<text>When you cast this spell, create a 1/1 colorless Peasant creature token.
+Flashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/10_CW07 Elder Populace.jpg" num="10">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW06 Clay Cleric</name>
+			<text>Foundation (When this creature enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
+[[b]When this creature dies, draw a card.[/b]]</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/9_CW06 Clay Cleric.jpg" num="9">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wall Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW05 Pranking Pumpkin</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+{1}{W}, {T}: Tap target artifact or creature. Put a stun counter on it. Activate only as a sorcery.
+---
+(Back): Freed-Beak Crow</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/8_CW05 Pranking Pumpkin_front.jpg" num="8a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Freed-Beak Crow</related>
+		</card>
+		<card>
+			<name>Freed-Beak Crow</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Flying
+---
+(Front): CW05 Pranking Pumpkin</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/8_CW05 Pranking Pumpkin_back.jpg" num="8b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Bird Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CW05 Pranking Pumpkin</related>
+		</card>
+		<card>
+			<name>RM06 Mortared Revelation</name>
+			<text>This spell costs {X} less to cast, where X is the greatest power among Buildings you control.
+You gain X life and draw X cards.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/113_RM06 Mortared Revelation.jpg" num="113">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XWWUU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CM06 Safe Construction</name>
+			<text>Target creature you control gains hexproof and lifelink until end of turn. Draw a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/101_CM06 Safe Construction.jpg" num="101">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG11 Whom to Pray</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+You gain 2 life. Surveil 2.
+---
+(Back): Whom to Prey</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/88_CG11 Whom to Pray_front.jpg" num="88a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Whom to Prey</related>
+		</card>
+		<card>
+			<name>Whom to Prey</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Target creature you control fights target creature you don&apos;t control.
+---
+(Front): CG11 Whom to Pray</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/88_CG11 Whom to Pray_back.jpg" num="88b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CG11 Whom to Pray</related>
+		</card>
+		<card>
+			<name>CM07 Lunar Current-Rod</name>
+			<text>When this artifact enters or is put into your graveyard from the battlefield, draw a card.
+{T}, Sacrifice an artifact or creature: Draw a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/102_CM07 Lunar Current-Rod.jpg" num="102">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CM08 Violent Return</name>
+			<text>Until end of turn, target creature you control gains &quot;When this creature dies, return it to the battlefield tapped. It deals damage equal to its power to each opponent.&quot;</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/103_CM08 Violent Return.jpg" num="103">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR11 Return Again</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Mill two cards. You may play them this turn.
+---
+(Back): We Burn Again</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/70_CR11 Return Again_front.jpg" num="70a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">We Burn Again</related>
+		</card>
+		<card>
+			<name>We Burn Again</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+This spell deals 4 damage to any target.
+---
+(Front): CR11 Return Again</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/70_CR11 Return Again_back.jpg" num="70b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CR11 Return Again</related>
+		</card>
+		<card>
+			<name>CW12 Knightly Execution</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+This spell deals 2 damage to target attacking or blocking creature.
+---
+(Back): Nightly Execution</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/15_CW12 Knightly Execution_front.jpg" num="15a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Nightly Execution</related>
+		</card>
+		<card>
+			<name>Nightly Execution</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Exile two target creatures with total power 6 or greater.
+---
+(Front): CW12 Knightly Execution</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/15_CW12 Knightly Execution_back.jpg" num="15b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CW12 Knightly Execution</related>
+		</card>
+		<card>
+			<name>CM09 Expressive Conflagration</name>
+			<text>Mill three cards. Put a creature or land card from among them into your hand. You may play one of the remaining cards this turn.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/104_CM09 Expressive Conflagration.jpg" num="104">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CM10 Formidable Anthem</name>
+			<text>Creatures you control get +2/+2.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/105_CM10 Formidable Anthem.jpg" num="105">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW08 Meandering Minstrel</name>
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+When this creature enters, draw a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/11_CW08 Meandering Minstrel.jpg" num="11">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW09 Stone Ressurector</name>
+			<text>Foundation (When this creature enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
+[[b]When this creature dies, return target creature with lesser power from your graveyard to the battlefield.[/b]]</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/12_CW09 Stone Ressurector.jpg" num="12">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wall Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW10 Triclops Sentinel</name>
+			<text>Vigilance
+This creature enters with a -1/-1 counter.
+{1}{W}, {T}, Remove a -1/-1 counter from this creature: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/13_CW10 Triclops Sentinel.jpg" num="13">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Soldier Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU15 Trader&apos;s Intent</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Exchange control of two target creatures.
+---
+(Back): Traitor&apos;s Intent</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/37_CU15 Trader&apos;s Intent_front.jpg" num="37a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Traitor&apos;s Intent</related>
+		</card>
+		<card>
+			<name>Traitor&apos;s Intent</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Gain control of target creature.
+---
+(Front): CU15 Trader&apos;s Intent</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/37_CU15 Trader&apos;s Intent_back.jpg" num="37b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CU15 Trader&apos;s Intent</related>
+		</card>
+		<card>
+			<name>CW11 Shrouded Angel</name>
+			<text>Flying
+Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/14_CW11 Shrouded Angel.jpg" num="14">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW13 Three-Eyed Pacifism</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block.
+Formidable — {1}{W}: Exile enchanted creature. Activate only if creatures you control have total power 8 or greater.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/16_CW13 Three-Eyed Pacifism.jpg" num="16">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW14 Honorable Exertion</name>
+			<text>Target creature gets +2/+3 until end of turn. Put a stun counter on it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/17_CW14 Honorable Exertion.jpg" num="17">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW15 Ruinous Rendezvous</name>
+			<text>Each player may put two -1/-1 counters on a creature they control. Each player who does so wanders twice. (To wander, reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/18_CW15 Ruinous Rendezvous.jpg" num="18">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU02 Deranged Scholar</name>
+			<text>Moonflow 1 (You may cast this spell from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)
+{T}, Mill a card or tap an untapped permanent you control: Add {C}.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/24_CU02 Deranged Scholar.jpg" num="24">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU03 Incomplete Fleshthopter</name>
+			<text>Kicker—Exile a creature card from your graveyard. (You may exile a creature card from your graveyard in addition to any other costs as you cast this spell.)
+Flying
+This creature enters with a -1/-1 counter unless it was kicked.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/25_CU03 Incomplete Fleshthopter.jpg" num="25">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Thopter Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB03 Cutting Mockingbird</name>
+			<text>Flying
+When this creature enters, you gain 1 life and each opponent loses 1 life.
+This creature gets +1/+0 as long as you&apos;re grim. (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/45_CB03 Cutting Mockingbird.jpg" num="45">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU02 Hovering Platformite</name>
+			<text>Foundation (When this creature enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
+[[b]Flying[/b]]</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/41_UU02 Hovering Platformite.jpg" num="41">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wall Laborer</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>2/2 Horror Token ADD</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/2t_2/2 Horror Token.jpg" num="2">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>CU05 Grim Fleshcrafter</reverse-related>
+		</card>
+		<card>
+			<name>CU04 Brickfolk Surveyor</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Foundation (When this creature enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
+[[b]Whenever this creature attacks, surveil 1.[/b]]
+---
+(Back): Brickfolk Delusionist</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/26_CU04 Brickfolk Surveyor_front.jpg" num="26a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Wall Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Brickfolk Delusionist</related>
+		</card>
+		<card>
+			<name>Brickfolk Delusionist</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Foundation (When this creature enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
+[[b]Whenever this creature attacks, mill two cards.[/b]]
+---
+(Front): CU04 Brickfolk Surveyor</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/26_CU04 Brickfolk Surveyor_back.jpg" num="26b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Wall Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CU04 Brickfolk Surveyor</related>
+		</card>
+		<card>
+			<name>CU05 Grim Fleshcrafter</name>
+			<text>When this creature dies, mill two cards.
+{1}{U}, {T}: Create a 2/2 black Horror creature token, then sacrifice a creature. This ability costs {1}{U} less to activate if you&apos;re grim. (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/27_CU05 Grim Fleshcrafter.jpg" num="27">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU06 Wanderlust Eater</name>
+			<text>Vigilance
+Whenever this creature deals combat damage to a player, if you&apos;re whimsical, Wander. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. To wander, reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/28_CU06 Wanderlust Eater.jpg" num="28">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU08 Sturdy Platformite</name>
+			<text>Foundation (When this creature enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
+[[b]Whenever this creature attacks, it gets +1/+1 until end of turn.[/b]]</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/30_CU08 Sturdy Platformite.jpg" num="30">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wall Laborer</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RU01 Braxtus the Breaker</name>
+			<text>Foundation (When this creature enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
+[1[b]U, Sacrifice this creature: Draw cards equal to its power.[/b]]</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/38_RU01 Braxtus the Breaker.jpg" num="38">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wall Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RW02 Bethela the Builder</name>
+			<text>Foundation (When this creature enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
+[[b]Whenever this creature becomes tapped, return target permanent card with mana value 2 or less from your graveyard to the battlefield tapped.[/b]]</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/20_RW02 Bethela the Builder.jpg" num="20">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wall Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU07 Riddleless Riddler</name>
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Flying
+When this creature dies, draw a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/29_CU07 Riddleless Riddler.jpg" num="29">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sphinx Advisor Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU09 Delusions of Idiocy</name>
+			<text>Return target nonland permanent to its owner&apos;s hand. Mill two cards.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/31_CU09 Delusions of Idiocy.jpg" num="31">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU10 Flimsy Transformation</name>
+			<text>Enchant creature
+Enchanted creature loses all abilities and has power and toughness 1/1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/32_CU10 Flimsy Transformation.jpg" num="32">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU11 Delirious Cancellation</name>
+			<text>Counter target spell. Each player mills two cards.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/33_CU11 Delirious Cancellation.jpg" num="33">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU12 Scouring Bauble</name>
+			<text>{T}: Mill a card.
+Sacrifice this artifact: Draw a card.
+Moonflow 1 (You may cast this spell from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/34_CU12 Scouring Bauble.jpg" num="34">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU14 Bloody Guardianship</name>
+			<text>Kicker—Sacrifice a creature (You may sacrifice a creature in addition to any other costs as you cast this spell.)
+Target creature you control gets +0/+2 and gains reach until end of turn. If this spell was kicked, that creature gets an additional +0/+1 and gains hexproof until end of turn.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/36_CU14 Bloody Guardianship.jpg" num="36">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB02 Roaming Bloodsucker</name>
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Lifelink</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/44_CB02 Roaming Bloodsucker.jpg" num="44">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Vampire Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB04 Terrorizing Bladearm</name>
+			<text>Menace
+Blaze of Glory — Whenever this creature attacks, you may have it get +2/+2 until end of turn. If you do, sacrifice this creature at end of combat.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/46_CB04 Terrorizing Bladearm.jpg" num="46">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB05 Hopeless Seeker</name>
+			<text>When this creature dies, Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/47_CB05 Hopeless Seeker.jpg" num="47">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU01 Timewinder Motivator</name>
+			<text>{T}: Target creature gains haste until the start of your next turn. If its your turn, end the turn. (Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/40_UU01 Timewinder Motivator.jpg" num="40">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RU03 Timewinder Supreme</name>
+			<text>Haste, flying
+When this creature enters, if its your turn, end the turn. (Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)
+{T}: Target creature gets -2/-0 until the start of your next turn. Create a Clue token.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/39_RU03 Timewinder Supreme.jpg" num="39">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB06 Tricky Timewinder</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Flying
+Whenever this creature deals combat damage to a player, you may pay 1 life. If you do, untap it.
+{T}, Pay 1 life: Draw a card.
+---
+(Back): Bloodstained Chronowurm</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/48_CB06 Tricky Timewinder_front.jpg" num="48a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Bloodstained Chronowurm</related>
+		</card>
+		<card>
+			<name>Bloodstained Chronowurm</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Whenever this creature deals combat damage to player, end the turn. (Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)
+---
+(Front): CB06 Tricky Timewinder</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/48_CB06 Tricky Timewinder_back.jpg" num="48b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CB06 Tricky Timewinder</related>
+		</card>
+		<card>
+			<name>CB07 Lunar Flesh Construct</name>
+			<text>As an additional cost to cast this spell, exile a creature card from your graveyard.
+Moonflow 2 (You may cast this spell from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/49_CB07 Lunar Flesh Construct.jpg" num="49">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Zombie Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB08 Shrouded Demon</name>
+			<text>Ward—Pay 2 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
+Blaze of Glory — Whenever this creature attacks, you may have it deal 3 damage to target creature. If you do, sacrifice this creature at end of combat.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/50_CB08 Shrouded Demon.jpg" num="50">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB09 Scion of the Dark</name>
+			<text>When this creature enters, draw two cards. You lose 2 life. Mill two cards. Add {B}{B}.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/51_CB09 Scion of the Dark.jpg" num="51">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>6B</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB10 Blood Helix</name>
+			<text>Lifelink
+This spell deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/52_CB10 Blood Helix.jpg" num="52">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB12 Reflected Rending</name>
+			<text>Exile target creature.
+{2}{B}, Exile this card from your graveyard: Wander. You lose 1 life. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/54_CB12 Reflected Rending.jpg" num="54">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB11 Inundation of Insanity</name>
+			<text>Destroy target creature or enchantment. You mill cards equal to its mana value.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/53_CB11 Inundation of Insanity.jpg" num="53">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB14 Lunacy Totem</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or exile three cards from your graveyard.
+When this artifact enters or leaves the battlefield, each opponent discards a card.
+{T}, Sacrifice a creature or exile three cards from your graveyard: Sacrifice this artifact. Activate only as a sorcery.
+Moonflow 2 (You may cast this spell from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/56_CB14 Lunacy Totem.jpg" num="56">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB13 Visions of Conspiracy</name>
+			<text>Create two Clue tokens. You lose 2 life.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/55_CB13 Visions of Conspiracy.jpg" num="55">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Clue Token ADD</name>
+			<text>{2}, Sacrifice this token: Draw a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/4t_Clue Token.jpg" num="4">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Clue</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>RU03 Timewinder Supreme</reverse-related>
+			<reverse-related>CB13 Visions of Conspiracy</reverse-related>
+		</card>
+		<card>
+			<name>CB15 Enduring Metal</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+You may sacrifice an artifact. If you do, draw two cards.
+---
+(Back): Enduring Mettle</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/57_CB15 Enduring Metal_front.jpg" num="57a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Enduring Mettle</related>
+		</card>
+		<card>
+			<name>Enduring Mettle</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Until end of turn, creatures you control gain &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;
+---
+(Front): CB15 Enduring Metal</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/57_CB15 Enduring Metal_back.jpg" num="57b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CB15 Enduring Metal</related>
+		</card>
+		<card>
+			<name>RW01 Gatel the Frozen</name>
+			<text>Formidable — Whenever this creature attacks, if creatures you control have total power 8 or greater, tap target permanent.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/19_RW01 Gatel the Frozen.jpg" num="19">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB01 Mindshattered Triclops</name>
+			<text>Formidable — Whenever this creature attacks, if creatures you control don&apos;t have total power 8 or greater, discard a card.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/58_UB01 Mindshattered Triclops.jpg" num="58">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RG02 Telegia the Thawed</name>
+			<text>Formidable — Whenever this creature attacks, if creatures you control have total power 8 or greater, untap target permanent.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/94_RG02 Telegia the Thawed.jpg" num="94">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR02 Sunfire Trainee</name>
+			<text>Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)
+This creature gets +1/+1 as long as you&apos;re grim. (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/61_CR02 Sunfire Trainee.jpg" num="61">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR03 Bladearm Ritualist</name>
+			<text>Haste
+Blaze of Glory — Whenever this creature attacks, you may add two mana in any combination of colors. This mana lasts until end of turn. If you do, sacrifice this creature at end of combat.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/62_CR03 Bladearm Ritualist.jpg" num="62">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR04 Foolish Smuggler</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+When this creature enters, mill a card. You may play that card until the end of your next turn.
+---
+(Back): Beastly Stowaway</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/63_CR04 Foolish Smuggler_front.jpg" num="63a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Beastly Stowaway</related>
+		</card>
+		<card>
+			<name>Beastly Stowaway</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Whenever this creature attacks, 
+When this creature enters, mill a card. You may play that card until the end of your next turn.
+---
+(Front): CR04 Foolish Smuggler</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/63_CR04 Foolish Smuggler_back.jpg" num="63b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Wolf Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CR04 Foolish Smuggler</related>
+		</card>
+		<card>
+			<name>CR05 Nomadic Brute</name>
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Menace</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/64_CR05 Nomadic Brute.jpg" num="64">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR06 Blazebolt Crossbowman</name>
+			<text>Reach
+Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/65_CR06 Blazebolt Crossbowman.jpg" num="65">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR07 Playful Ravager</name>
+			<text>Trample
+Whenever this creature attacks, if you&apos;re whimsical, it deals 3 damage to the defending player. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/66_CR07 Playful Ravager.jpg" num="66">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR08 Spinblade Demon</name>
+			<text>Blaze of Glory — Whenever this creature attacks, you may discard two cards. If you do, draw three cards, and sacrifice this creature at end of combat.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/67_CR08 Spinblade Demon.jpg" num="67">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR09 Land-Raze Gargantuan</name>
+			<text>When this creature enters, you may discard a card or sacrifice a land. If you do, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)
+This creature attacks each combat if able.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/68_CR09 Land-Raze Gargantuan.jpg" num="68">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Juggernaut Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>7/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR10 Seek Inner Fire</name>
+			<text>This spell deals 2 damage to any target. Surveil 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/69_CR10 Seek Inner Fire.jpg" num="69">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR12 Ruinous Pyre</name>
+			<text>This spell deals 5 damage to target creature. Put a -1/-1 counter on another target creature.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/71_CR12 Ruinous Pyre.jpg" num="71">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR13 Flames of Wanderlust</name>
+			<text>Destroy target artifact or nonbasic land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/72_CR13 Flames of Wanderlust.jpg" num="72">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR14 Fall into Might</name>
+			<text>Target creature gets +4/+0 until end of turn. Put a -1/-1 counter on it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/73_CR14 Fall into Might.jpg" num="73">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR15 Overwhelming Assault</name>
+			<text>Creatures you control get +2/+0 and gain trample until end of turn.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/74_CR15 Overwhelming Assault.jpg" num="74">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG02 Well-Fed Triclops</name>
+			<text>Trample
+Formidable — When this creature dies, if creatures you control have total power 8 or greater, you gain 3 life.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/79_CG02 Well-Fed Triclops.jpg" num="79">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG03 Sun-Basking Caretaker</name>
+			<text>Vigilance
+{T}: Add {G}.
+Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/80_CG03 Sun-Basking Caretaker.jpg" num="80">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG04 Eight-Legged Bartender</name>
+			<text>Reach, deathtouch
+When this creature dies, if you&apos;re whimsical, draw a card. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/81_CG04 Eight-Legged Bartender.jpg" num="81">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG05 Sun-Flame Berserker</name>
+			<text>Trample
+Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/82_CG05 Sun-Flame Berserker.jpg" num="82">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG06 Whimsyblighted Triclops</name>
+			<text>This creature enters with three -1/-1 counters on it.
+Formidable — Whenever this creature attacks, if creatures you control have total power 8 or greater and you&apos;re grim, remove a -1/-1 counter from this creature. (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/83_CG06 Whimsyblighted Triclops.jpg" num="83">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG07 Exploratory Herbalist</name>
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+When this creature enters, you gain 8 life.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/84_CG07 Exploratory Herbalist.jpg" num="84">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MM02 Varasti, Fluid Dancer</name>
+			<text>Whenever you draw a card, add {C}. If this is the second time this ability has resolved this turn, this creature deals 3 damage to each creature you don&apos;t control. If it&apos;s the third time, mill three cards. If it&apos;s the fourth time, draw a card.</text>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/112_MM02 Varasti, Fluid Dancer.jpg" num="112">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RG01 Sufelia the Devout</name>
+			<text>Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)
+When this creature enters, surveil 1.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/93_RG01 Sufelia the Devout.jpg" num="93">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RR02 Raflegos the Passionate</name>
+			<text>Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)
+You don&apos;t lose unspent mana as steps and phases end.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/75_RR02 Raflegos the Passionate.jpg" num="75">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG08 Recruiter of the Range</name>
+			<text>This creature enters with two -1/-1 counters.
+{2}{G}, {T}, Remove two -1/-1 counters from this creature: Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/85_CG08 Recruiter of the Range.jpg" num="85">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG09 Colossal Dreadbeast</name>
+			<text>Whenever this creature attacks, put target card from a graveyard on the bottom of its owner&apos;s library.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/86_CG09 Colossal Dreadbeast.jpg" num="86">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG10 Wild-Darkened Duelist</name>
+			<text>Whenever this creature deals combat damage to a player, it fights target creature that player controls.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/87_CG10 Wild-Darkened Duelist.jpg" num="87">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>6G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG12 Rotting Fangs</name>
+			<text>Target creature you control deals damage equal to its power to target creature you don&apos;t control. Mill two cards.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/89_CG12 Rotting Fangs.jpg" num="89">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>MM01 Season of Whimsy</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Mill five cards. Pay any amount of life.
+Choose up to X {J} worth of modes, where X is the amount of life paid. You may choose the same mode more than once.
+{J} — Add a card from your graveyard to the milled cards.
+{J}{J} — Put a land card from among the milled cards into your hand.
+{J}{J}{J} — Put a creature card from among the milled cards into your hand.
+---
+(Back): Season of Grim</text>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/111_MM01 Season of Whimsy_front.jpg" num="111a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2/BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Season of Grim</related>
+		</card>
+		<card>
+			<name>Season of Grim</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Pay any amount of life.
+Choose up to X {J} worth of modes, where X is the amount of life paid. You may choose the same mode more than once.
+[b]{J}[/b] — Mill a card.
+{J}{J}{J} — Add {B} or {G}.
+X {J} — Return a creature card with mana value X from your graveyard to the battlefield.
+---
+(Front): MM01 Season of Whimsy</text>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/111_MM01 Season of Whimsy_back.jpg" num="111b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>12/GB</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">MM01 Season of Whimsy</related>
+		</card>
+		<card>
+			<name>CG13 Commune with the Dead</name>
+			<text>Reveal the top four cards of your library. You may put a creature card from among them into your hand. Put the rest into your graveyard.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/90_CG13 Commune with the Dead.jpg" num="90">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG14 Bloody Growth</name>
+			<text>Kicker—Pay 3 life. (You may pay 3 life in addition to any other costs as you cast this spell.)
+Target creature gets +3/+2 until end of turn. If this spell was kicked, that creature gets +4/+4 until end of turn instead.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/91_CG14 Bloody Growth.jpg" num="91">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG15 Earth and Sun</name>
+			<text>Search your library for a basic land card, put it onto the battlefield tapped with a sunfire counter, then shuffle. (Sunfire means: Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/92_CG15 Earth and Sun.jpg" num="92">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CA01 Wildforged Golem</name>
+			<text>When this creature enters, surveil 1.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/114_CA01 Wildforged Golem.jpg" num="114">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC01 Whimsical Farmer</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+---
+(Back): Grim Farmer</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/1_CC01 Whimsical Farmer_front.jpg" num="1a">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Grim Farmer</related>
+		</card>
+		<card>
+			<name>Grim Farmer</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+---
+(Front): CC01 Whimsical Farmer</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/1_CC01 Whimsical Farmer_back.jpg" num="1b">ADD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CC01 Whimsical Farmer</related>
+		</card>
+		<card>
+			<name>CC02 Prophet&apos;s Downfall</name>
+			<text>Exile target creature.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/2_CC02 Prophet&apos;s Downfall.jpg" num="2">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CC03 Wilderness Essence</name>
+			<text>When this enchantment enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{1}, Sacrifice this enchantment: Draw a card.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/3_CC03 Wilderness Essence.jpg" num="3">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA03 Imposing Monolith</name>
+			<text>{T}, Mill two cards: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/116_CA03 Imposing Monolith.jpg" num="116">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RA01 Whimsy Monolith</name>
+			<text>This artifact doesn&apos;t untap during your untap step.
+{T}: Add {C}{C}{C}. If you&apos;re whimsical, add an additional {C}. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less.)
+{4}: Untap this artifact.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/117_RA01 Whimsy Monolith.jpg" num="117">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
