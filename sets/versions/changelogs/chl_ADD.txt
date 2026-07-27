@@ -1,4 +1,289 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+UW13 Crystalcore of Loyalty added.
+UU13 Crystalcore of Knowledge added.
+UB13 Crystalcore of Persistence added.
+UR13 Crystalcore of Courage added.
+UG13 Crystalcore of Strength added.
+RW06 Innefficient Exchange added.
+CU02 Deranged Lunarkin added.
+UU03 Hovering Platformite added.
+CU12 Moonlit Bauble added.
+CG06 Blighted Triclops added.
+CG13 Commune with Travelers added.
+CG14 Spontaneous Strength added.
+UW03 Cauterizing Healer added.
+UW01 Grounded Investigation added.
+UW04 Triclops Storyteller added.
+RG03 Three-Eyed Teller added.
+RB03 Three-Lie Teller added.
+UW05 Blighted Bard added.
+UM01 Brickfolk Kinmage added.
+UM02 Lunarkin Kinmage added.
+UM03 Blade Demon Kinmage added.
+UM04 Solarkin Kinmage added.
+UM05 Triclops Kinmage added.
+ML01 The Grand Foundation added.
+ML02 The Lunar Isle added.
+ML03 The Bladed Pass added.
+0/1 Demon Token added.
+ML04 The Solar Summit added.
+ML05 The Hall of Sight added.
+MR01 Vetari, Traitor added.
+MU01 Ketaro, Traitor added.
+ML06 The Dreamer's Home added.
+UC01 Essence of Kinship added.
+UW02 Pearl Dreamer of Whimsy added.
+UB02 Jet Dreamer of Whimsy added.
+UU02 Sapphire Dreamer of Whimsy added.
+UR02 Ruby Dreamer of Whimsy added.
+UG02 Emerald Dreamer of Whimsy added.
+UA02 Opal Dreamer of Whimsy added.
+UA01 Wildforged Automaton added.
+UC02 Serum Wanderings added.
+UW08 Wandering Recruiter added.
+RZ01 Harbinger of Whimsy Bone added.
+RZ02 Harbinger of Whimsy Thunder added.
+RZ03 Harbinger of Whimsy Death added.
+RZ04 Harbinger of Whimsy Light added.
+RZ05 Harbinger of Whimsy Water added.
+UG08 Wandering Strongman added.
+UU08 Wandering Magician added.
+UB08 Wandering Stitcher added.
+UR08 Wandering Firebreather added.
+UW06 Mason-Doctor added.
+UW07 Wanderlust Golem added.
+UW09 Fragmented Purge added.
+UU09 Fragmented Counterspell added.
+UB09 Fragmented Murder added.
+UR09 Fragmented Flames added.
+UG09 Fragmented Naturalization added.
+UW10 Formidable Hammer added.
+UW11 Foundational Virtue added.
+UW12 Loyal Wanderings added.
+UU12 Knowledgeable Wanderings added.
+UB12 Persistent Wanderings added.
+UR12 Courageous Wanderings added.
+UG12 Strengthful Wanderings added.
+UM06 Brickfolk Charm added.
+UM07 Lunarkin Charm added.
+UM08 Blade Demon Charm added.
+UM09 Solarkin Charm added.
+UM10 Triclops Charm added.
+UU04 Pacifist Flames added.
+UU05 Scholar of Wanderlust added.
+UU06 Flowbringer Lunarkin added.
+UU07 Whimsywinder added.
+UU10 Box of Lunacy added.
+RA02 Lunatic Sphere added.
+UU11 Foundational Curiosity added.
+UB03 Blighted Bully added.
+UB07 Blazing Blade Champion added.
+UB04 Wanderlust Channeler added.
+UB05 Lunarkin Assassin added.
+UB06 Fleshy Blight-Spreader added.
+UB10 Vengeant Venture added.
+UB11 Arena of Insanity added.
+UR03 Swift Seeker added.
+UR04 Solarflame Zealot added.
+UR05 Inspired Whimsyshaman added.
+UR06 Archival Pyromancer added.
+UR07 Grim-Might Fleshbeast added.
+UR11 Column of Swift Dreams added.
+UR10 Act of Courageous Treason added.
+UG01 Caretaking Figment added.
+UG03 Sniffing Wildebeast added.
+UG05 Oathsworn Triclops added.
+UG03 Wilderness Maniac added.
+UG07 Dreadmawform Solarkin added.
+UG06 Singer of Might added.
+UG10 Enhancement Flames added.
+UG11 Surveyor's Stone added.
+UL01 Festival of Frost added.
+UL02 Festival of Darkness added.
+UL06 Festival of Bone added.
+UL10 Festival of Water added.
+UL07 Festival of Thunder added.
+UL03 Festival of Blood added.
+UL08 Festival of Death added.
+UL04 Festival of Fire added.
+UL09 Festival of Light added.
+UL05 Festival of Light added.
+RG06 What a Whimsical World added.
+RU02 Vinki the Reflective added.
+RB01 Venshi the Absorbative added.
+RB02 Klaror the Brainslayer added.
+RR01 Katori the Brawnslayer added.
+
+UW15 Crystalcore of Loyalty removed.
+UU15 Crystalcore of Knowledge removed.
+UB15 Crystalcore of Persistence removed.
+UR15 Crystalcore of Courage removed.
+UG15 Crystalcore of Strength removed.
+RW07 Innefficient Exchange removed.
+CU02 Deranged Scholar removed.
+UU02 Hovering Platformite removed.
+CU12 Scouring Bauble removed.
+CG06 Whimsyblighted Triclops removed.
+CG13 Commune with the Dead removed.
+CG14 Bloody Growth removed.
+
+CZ01 Walking Stones
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Foundation [i](When this creature enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]Vigilance[/b]] => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]Vigilance[/b]]
+
+UR01 Running Stones
+rules_text: Foundation [i](When this creature enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]Haste[/b]] => Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]Haste[/b]]
+
+CZ02 Soaring Shadow
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Moonflow 1 [i](You may cast this spell from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+Flying => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Flying
+Moonflow 1 [i](You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+CZ04 Crushing Flame
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Trample
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)[/i] => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Trample
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i]
+
+CM01 Hero of Brick
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Foundation [i](When this creature enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]Whenever this creature deals combat damage to a player, you gain 3 life and scry 1.[/b]] => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]Whenever this creature deals combat damage to a player, you gain 3 life and scry 1.[/b]]
+
+CM02 Hero of Moon
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Moonflow 1 [i](You may cast this spell from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+When this creature enters, surveil 2. => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+When this creature enters, surveil 2.
+Moonflow 1 [i](You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+CM04 Hero of Sun
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)[/i]
+When this creature enters, exile the top card of your library. You may play that card this turn. => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i]
+When this creature enters, exile the top card of your library. You may play that card this turn.
+
+1/1 Peasant Token
+
+Building Token
+
+CW06 Clay Cleric
+rules_text: Foundation [i](When this creature enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]When this creature dies, draw a card.[/b]] => Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]When this creature dies, draw a card.[/b]]
+
+CW09 Stone Ressurector
+rules_text: Foundation [i](When this creature enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]When this creature dies, return target creature with lesser power from your graveyard to the battlefield.[/b]] => Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]When this creature dies, return target creature with lesser power from your graveyard to the battlefield.[/b]]
+
+2/2 Horror Token
+
+CU04 Brickfolk Surveyor
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Foundation [i](When this creature enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]Whenever this creature attacks, surveil 1.[/b]] => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]Whenever this creature attacks, surveil 1.[/b]]
+
+CU08 Sturdy Platformite
+rules_text: Foundation [i](When this creature enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]Whenever this creature attacks, it gets +1/+1 until end of turn.[/b]] => Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]Whenever this creature attacks, it gets +1/+1 until end of turn.[/b]]
+
+RU01 Braxtus the Breaker
+rules_text: Foundation [i](When this creature enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[1[b]U, Sacrifice this creature: Draw cards equal to its power.[/b]] => Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[1[b]U, Sacrifice this creature: Draw cards equal to its power.[/b]]
+
+RW02 Bethela the Builder
+rules_text: Foundation [i](When this creature enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]Whenever this creature becomes tapped, return target permanent card with mana value 2 or less from your graveyard to the battlefield tapped.[/b]] => Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]Whenever this creature becomes tapped, return target permanent card with mana value 2 or less from your graveyard to the battlefield tapped.[/b]]
+
+CB06 Tricky Timewinder
+
+CB07 Lunar Flesh Construct
+rules_text: As an additional cost to cast this spell, exile a creature card from your graveyard.
+Moonflow 2 [i](You may cast this spell from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => As an additional cost to cast this spell, exile a creature card from your graveyard.
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+CB14 Lunacy Totem
+rules_text: As an additional cost to cast this spell, sacrifice a creature or exile three cards from your graveyard.
+When this artifact enters or leaves the battlefield, each opponent discards a card.
+{T}, Sacrifice a creature or exile three cards from your graveyard: Sacrifice this artifact. Activate only as a sorcery.
+Moonflow 2 [i](You may cast this spell from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => As an additional cost to cast this spell, sacrifice a creature or exile three cards from your graveyard.
+When this artifact enters or leaves the battlefield, each opponent discards a card.
+{T}, Sacrifice a creature or exile three cards from your graveyard: Sacrifice this artifact. Activate only as a sorcery.
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+CB13 Visions of Conspiracy
+cost: {2}{B} => {B}
+
+Clue Token
+
+CR02 Sunfire Trainee
+rules_text: Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)[/i]
+This creature gets +1/+1 as long as you're grim. [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater.)[/i] => Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i]
+This creature gets +1/+1 as long as you're grim. [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater.)[/i]
+
+CR06 Blazebolt Crossbowman
+rules_text: Reach
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)[/i] => Reach
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i]
+
+CG03 Sun-Basking Caretaker
+rules_text: Vigilance
+{T}: Add {G}.
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)[/i] => Vigilance
+{T}: Add {G}.
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i]
+
+CG04 Eight-Legged Bartender
+rules_text: Reach, deathtouch
+When this creature dies, if you're whimsical, draw a card. [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less.)[/i] => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Reach, deathtouch
+When this creature dies, draw a card.
+
+CG05 Sun-Flame Berserker
+rules_text: Trample
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)[/i] => Trample
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i]
+
+RG01 Sufelia the Devout
+rules_text: Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)[/i]
+When this creature enters, surveil 1. => Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i]
+When this creature enters, surveil 1.
+
+RR02 Raflegos the Passionate
+rules_text: Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)[/i]
+You don't lose unspent mana as steps and phases end. => Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i]
+You don't lose unspent mana as steps and phases end.
+
+MM01 Season of Whimsy
+
+CA01 Wildforged Golem
+type: Artifact Creature — Golem => Artifact Creature — Golem Shapeshifter
+rules_text: When this creature enters, surveil 1. => Changeling [i](This card is every creature type.)[/i]
+When this creature enters, surveil 1.
+
+CC01 Whimsical Farmer
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

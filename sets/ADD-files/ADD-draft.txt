@@ -1,79 +1,79 @@
 ﻿[CustomCards]
 	[
 		{
-				"name": "UW15 Crystalcore of Loyalty",
+				"name": "UW13 Crystalcore of Loyalty",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{W}",
 				"type": "Artifact",
-				"collector_number": "22",
+				"collector_number": "36",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/22_UW15 Crystalcore of Loyalty_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/36_UW13 Crystalcore of Loyalty_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/22_UW15 Crystalcore of Loyalty_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/36_UW13 Crystalcore of Loyalty_front.jpg"
 				}
 			},
 			{
-				"name": "UW15 Crystalcore of Loyalty_foil",
+				"name": "UW13 Crystalcore of Loyalty_foil",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{W}",
 				"type": "Artifact",
-				"collector_number": "22",
+				"collector_number": "36",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/22_UW15 Crystalcore of Loyalty_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/36_UW13 Crystalcore of Loyalty_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/22_UW15 Crystalcore of Loyalty_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/36_UW13 Crystalcore of Loyalty_front.jpg"
 				}
 			},
 			{
-				"name": "UU15 Crystalcore of Knowledge",
+				"name": "UU13 Crystalcore of Knowledge",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{U}",
 				"type": "Artifact",
-				"collector_number": "42",
+				"collector_number": "68",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/42_UU15 Crystalcore of Knowledge_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/68_UU13 Crystalcore of Knowledge_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/42_UU15 Crystalcore of Knowledge_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/68_UU13 Crystalcore of Knowledge_front.jpg"
 				}
 			},
 			{
-				"name": "UU15 Crystalcore of Knowledge_foil",
+				"name": "UU13 Crystalcore of Knowledge_foil",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{U}",
 				"type": "Artifact",
-				"collector_number": "42",
+				"collector_number": "68",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/42_UU15 Crystalcore of Knowledge_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/68_UU13 Crystalcore of Knowledge_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/42_UU15 Crystalcore of Knowledge_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/68_UU13 Crystalcore of Knowledge_front.jpg"
 				}
 			},
 			{
@@ -81,11 +81,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{W/U}",
 				"type": "Creature — Wall Wanderer",
-				"collector_number": "106",
+				"collector_number": "173",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/106_CZ01 Walking Stones.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/173_CZ01 Walking Stones.jpg"
 				}
 			},
 			{
@@ -93,125 +93,125 @@
 				"rarity": "common",
 				"mana_cost": "{1}{W/U}",
 				"type": "Creature — Wall Wanderer",
-				"collector_number": "106",
+				"collector_number": "173",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/106_CZ01 Walking Stones.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/173_CZ01 Walking Stones.jpg"
 				}
 			},
 			{
-				"name": "UB15 Crystalcore of Persistence",
+				"name": "UB13 Crystalcore of Persistence",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{B}",
 				"type": "Artifact",
-				"collector_number": "59",
+				"collector_number": "99",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/59_UB15 Crystalcore of Persistence_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/99_UB13 Crystalcore of Persistence_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/59_UB15 Crystalcore of Persistence_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/99_UB13 Crystalcore of Persistence_front.jpg"
 				}
 			},
 			{
-				"name": "UB15 Crystalcore of Persistence_foil",
+				"name": "UB13 Crystalcore of Persistence_foil",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{B}",
 				"type": "Artifact",
-				"collector_number": "59",
+				"collector_number": "99",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/59_UB15 Crystalcore of Persistence_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/99_UB13 Crystalcore of Persistence_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/59_UB15 Crystalcore of Persistence_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/99_UB13 Crystalcore of Persistence_front.jpg"
 				}
 			},
 			{
-				"name": "UR15 Crystalcore of Courage",
+				"name": "UR13 Crystalcore of Courage",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{R}",
 				"type": "Artifact",
-				"collector_number": "77",
+				"collector_number": "130",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/77_UR15 Crystalcore of Courage_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/130_UR13 Crystalcore of Courage_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/77_UR15 Crystalcore of Courage_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/130_UR13 Crystalcore of Courage_front.jpg"
 				}
 			},
 			{
-				"name": "UR15 Crystalcore of Courage_foil",
+				"name": "UR13 Crystalcore of Courage_foil",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{R}",
 				"type": "Artifact",
-				"collector_number": "77",
+				"collector_number": "130",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/77_UR15 Crystalcore of Courage_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/130_UR13 Crystalcore of Courage_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/77_UR15 Crystalcore of Courage_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/130_UR13 Crystalcore of Courage_front.jpg"
 				}
 			},
 			{
-				"name": "UG15 Crystalcore of Strength",
+				"name": "UG13 Crystalcore of Strength",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{G}",
 				"type": "Artifact",
-				"collector_number": "95",
+				"collector_number": "162",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/95_UG15 Crystalcore of Strength_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/162_UG13 Crystalcore of Strength_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/95_UG15 Crystalcore of Strength_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/162_UG13 Crystalcore of Strength_front.jpg"
 				}
 			},
 			{
-				"name": "UG15 Crystalcore of Strength_foil",
+				"name": "UG13 Crystalcore of Strength_foil",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{G}",
 				"type": "Artifact",
-				"collector_number": "95",
+				"collector_number": "162",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/95_UG15 Crystalcore of Strength_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/162_UG13 Crystalcore of Strength_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/95_UG15 Crystalcore of Strength_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/162_UG13 Crystalcore of Strength_front.jpg"
 				}
 			},
 			{
@@ -219,11 +219,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{R}",
 				"type": "Creature — Wall Scout",
-				"collector_number": "76",
+				"collector_number": "118",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/76_UR01 Running Stones.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/118_UR01 Running Stones.jpg"
 				}
 			},
 			{
@@ -231,11 +231,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{R}",
 				"type": "Creature — Wall Scout",
-				"collector_number": "76",
+				"collector_number": "118",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/76_UR01 Running Stones.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/118_UR01 Running Stones.jpg"
 				}
 			},
 			{
@@ -243,11 +243,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{U/B}",
 				"type": "Creature — Reflection Wanderer",
-				"collector_number": "107",
+				"collector_number": "174",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/107_CZ02 Soaring Shadow.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/174_CZ02 Soaring Shadow.jpg"
 				}
 			},
 			{
@@ -255,35 +255,35 @@
 				"rarity": "common",
 				"mana_cost": "{2}{U/B}",
 				"type": "Creature — Reflection Wanderer",
-				"collector_number": "107",
+				"collector_number": "174",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/107_CZ02 Soaring Shadow.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/174_CZ02 Soaring Shadow.jpg"
 				}
 			},
 			{
-				"name": "RW07 Innefficient Exchange",
+				"name": "RW06 Innefficient Exchange",
 				"rarity": "rare",
 				"mana_cost": "{W}",
 				"type": "Enchantment",
-				"collector_number": "21",
+				"collector_number": "23",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/21_RW07 Innefficient Exchange.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/23_RW06 Innefficient Exchange.jpg"
 				}
 			},
 			{
-				"name": "RW07 Innefficient Exchange_foil",
+				"name": "RW06 Innefficient Exchange_foil",
 				"rarity": "rare",
 				"mana_cost": "{W}",
 				"type": "Enchantment",
-				"collector_number": "21",
+				"collector_number": "23",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/21_RW07 Innefficient Exchange.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/23_RW06 Innefficient Exchange.jpg"
 				}
 			},
 			{
@@ -291,11 +291,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{B/R}",
 				"type": "Creature — Demon Wanderer",
-				"collector_number": "108",
+				"collector_number": "175",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/108_CZ03 Sprinting Blade.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/175_CZ03 Sprinting Blade.jpg"
 				}
 			},
 			{
@@ -303,11 +303,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{B/R}",
 				"type": "Creature — Demon Wanderer",
-				"collector_number": "108",
+				"collector_number": "175",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/108_CZ03 Sprinting Blade.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/175_CZ03 Sprinting Blade.jpg"
 				}
 			},
 			{
@@ -315,11 +315,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{R/G}",
 				"type": "Creature — Elemental Wanderer",
-				"collector_number": "109",
+				"collector_number": "176",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/109_CZ04 Crushing Flame.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/176_CZ04 Crushing Flame.jpg"
 				}
 			},
 			{
@@ -327,11 +327,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{R/G}",
 				"type": "Creature — Elemental Wanderer",
-				"collector_number": "109",
+				"collector_number": "176",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/109_CZ04 Crushing Flame.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/176_CZ04 Crushing Flame.jpg"
 				}
 			},
 			{
@@ -339,11 +339,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{G/W}",
 				"type": "Creature — Giant Wanderer",
-				"collector_number": "110",
+				"collector_number": "177",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/110_CZ05 Warding Eyes.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/177_CZ05 Warding Eyes.jpg"
 				}
 			},
 			{
@@ -351,11 +351,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{G/W}",
 				"type": "Creature — Giant Wanderer",
-				"collector_number": "110",
+				"collector_number": "177",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/110_CZ05 Warding Eyes.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/177_CZ05 Warding Eyes.jpg"
 				}
 			},
 			{
@@ -363,18 +363,18 @@
 				"rarity": "common",
 				"mana_cost": "{W}{U}",
 				"type": "Creature — Wall Hero",
-				"collector_number": "96",
+				"collector_number": "163",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/96_CM01 Hero of Brick_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/163_CM01 Hero of Brick_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/96_CM01 Hero of Brick_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/163_CM01 Hero of Brick_front.jpg"
 				}
 			},
 			{
@@ -382,18 +382,18 @@
 				"rarity": "common",
 				"mana_cost": "{W}{U}",
 				"type": "Creature — Wall Hero",
-				"collector_number": "96",
+				"collector_number": "163",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/96_CM01 Hero of Brick_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/163_CM01 Hero of Brick_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/96_CM01 Hero of Brick_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/163_CM01 Hero of Brick_front.jpg"
 				}
 			},
 			{
@@ -401,18 +401,18 @@
 				"rarity": "common",
 				"mana_cost": "{U}{B}",
 				"type": "Creature — Reflection Hero",
-				"collector_number": "97",
+				"collector_number": "164",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/97_CM02 Hero of Moon_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/164_CM02 Hero of Moon_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/97_CM02 Hero of Moon_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/164_CM02 Hero of Moon_front.jpg"
 				}
 			},
 			{
@@ -420,18 +420,18 @@
 				"rarity": "common",
 				"mana_cost": "{U}{B}",
 				"type": "Creature — Reflection Hero",
-				"collector_number": "97",
+				"collector_number": "164",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/97_CM02 Hero of Moon_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/164_CM02 Hero of Moon_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/97_CM02 Hero of Moon_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/164_CM02 Hero of Moon_front.jpg"
 				}
 			},
 			{
@@ -439,18 +439,18 @@
 				"rarity": "common",
 				"mana_cost": "{B}{R}",
 				"type": "Creature — Demon Hero",
-				"collector_number": "98",
+				"collector_number": "165",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/98_CM03 Hero of Blade_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/165_CM03 Hero of Blade_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/98_CM03 Hero of Blade_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/165_CM03 Hero of Blade_front.jpg"
 				}
 			},
 			{
@@ -458,18 +458,18 @@
 				"rarity": "common",
 				"mana_cost": "{B}{R}",
 				"type": "Creature — Demon Hero",
-				"collector_number": "98",
+				"collector_number": "165",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/98_CM03 Hero of Blade_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/165_CM03 Hero of Blade_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/98_CM03 Hero of Blade_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/165_CM03 Hero of Blade_front.jpg"
 				}
 			},
 			{
@@ -477,18 +477,18 @@
 				"rarity": "common",
 				"mana_cost": "{R}{G}",
 				"type": "Creature — Elemental Hero",
-				"collector_number": "99",
+				"collector_number": "166",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/99_CM04 Hero of Sun_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/166_CM04 Hero of Sun_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/99_CM04 Hero of Sun_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/166_CM04 Hero of Sun_front.jpg"
 				}
 			},
 			{
@@ -496,18 +496,18 @@
 				"rarity": "common",
 				"mana_cost": "{R}{G}",
 				"type": "Creature — Elemental Hero",
-				"collector_number": "99",
+				"collector_number": "166",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/99_CM04 Hero of Sun_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/166_CM04 Hero of Sun_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/99_CM04 Hero of Sun_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/166_CM04 Hero of Sun_front.jpg"
 				}
 			},
 			{
@@ -515,18 +515,18 @@
 				"rarity": "common",
 				"mana_cost": "{G}{W}",
 				"type": "Creature — Giant Hero",
-				"collector_number": "100",
+				"collector_number": "167",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/100_CM05 Hero of Sight_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/167_CM05 Hero of Sight_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/100_CM05 Hero of Sight_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/167_CM05 Hero of Sight_front.jpg"
 				}
 			},
 			{
@@ -534,18 +534,18 @@
 				"rarity": "common",
 				"mana_cost": "{G}{W}",
 				"type": "Creature — Giant Hero",
-				"collector_number": "100",
+				"collector_number": "167",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/100_CM05 Hero of Sight_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/167_CM05 Hero of Sight_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/100_CM05 Hero of Sight_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/167_CM05 Hero of Sight_front.jpg"
 				}
 			},
 			{
@@ -553,11 +553,11 @@
 				"rarity": "common",
 				"mana_cost": "{5}",
 				"type": "Artifact Creature — Construct Wanderer",
-				"collector_number": "115",
+				"collector_number": "197",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/115_CA02 Mechanical Pilgrim.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/197_CA02 Mechanical Pilgrim.jpg"
 				}
 			},
 			{
@@ -565,11 +565,11 @@
 				"rarity": "common",
 				"mana_cost": "{5}",
 				"type": "Artifact Creature — Construct Wanderer",
-				"collector_number": "115",
+				"collector_number": "197",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/115_CA02 Mechanical Pilgrim.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/197_CA02 Mechanical Pilgrim.jpg"
 				}
 			},
 			{
@@ -577,11 +577,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{U}",
 				"type": "Sorcery",
-				"collector_number": "35",
+				"collector_number": "49",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/35_CU13 Wisdom of Wanderlust.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/49_CU13 Wisdom of Wanderlust.jpg"
 				}
 			},
 			{
@@ -589,11 +589,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{U}",
 				"type": "Sorcery",
-				"collector_number": "35",
+				"collector_number": "49",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/35_CU13 Wisdom of Wanderlust.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/49_CU13 Wisdom of Wanderlust.jpg"
 				}
 			},
 			{
@@ -601,11 +601,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
 				"type": "Creature — Human Scout",
-				"collector_number": "7",
+				"collector_number": "9",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/7_CW04 Helpful Seeker.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/9_CW04 Helpful Seeker.jpg"
 				}
 			},
 			{
@@ -613,11 +613,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
 				"type": "Creature — Human Scout",
-				"collector_number": "7",
+				"collector_number": "9",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/7_CW04 Helpful Seeker.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/9_CW04 Helpful Seeker.jpg"
 				}
 			},
 			{
@@ -625,18 +625,18 @@
 				"rarity": "common",
 				"mana_cost": "{W}",
 				"type": "Creature — Human Spirit",
-				"collector_number": "4",
+				"collector_number": "6",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/4_CW01 White Dreamer of Whimsy_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/6_CW01 White Dreamer of Whimsy_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/4_CW01 White Dreamer of Whimsy_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/6_CW01 White Dreamer of Whimsy_front.jpg"
 				}
 			},
 			{
@@ -644,18 +644,18 @@
 				"rarity": "common",
 				"mana_cost": "{W}",
 				"type": "Creature — Human Spirit",
-				"collector_number": "4",
+				"collector_number": "6",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/4_CW01 White Dreamer of Whimsy_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/6_CW01 White Dreamer of Whimsy_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/4_CW01 White Dreamer of Whimsy_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/6_CW01 White Dreamer of Whimsy_front.jpg"
 				}
 			},
 			{
@@ -663,18 +663,18 @@
 				"rarity": "common",
 				"mana_cost": "{U}",
 				"type": "Creature — Human Spirit",
-				"collector_number": "23",
+				"collector_number": "37",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/23_CU01 Blue Dreamer of Whimsy_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/37_CU01 Blue Dreamer of Whimsy_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/23_CU01 Blue Dreamer of Whimsy_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/37_CU01 Blue Dreamer of Whimsy_front.jpg"
 				}
 			},
 			{
@@ -682,18 +682,18 @@
 				"rarity": "common",
 				"mana_cost": "{U}",
 				"type": "Creature — Human Spirit",
-				"collector_number": "23",
+				"collector_number": "37",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/23_CU01 Blue Dreamer of Whimsy_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/37_CU01 Blue Dreamer of Whimsy_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/23_CU01 Blue Dreamer of Whimsy_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/37_CU01 Blue Dreamer of Whimsy_front.jpg"
 				}
 			},
 			{
@@ -701,18 +701,18 @@
 				"rarity": "common",
 				"mana_cost": "{B}",
 				"type": "Creature — Human Spirit",
-				"collector_number": "43",
+				"collector_number": "69",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/43_CB01 Black Dreamer of Whimsy_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/69_CB01 Black Dreamer of Whimsy_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/43_CB01 Black Dreamer of Whimsy_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/69_CB01 Black Dreamer of Whimsy_front.jpg"
 				}
 			},
 			{
@@ -720,18 +720,18 @@
 				"rarity": "common",
 				"mana_cost": "{B}",
 				"type": "Creature — Human Spirit",
-				"collector_number": "43",
+				"collector_number": "69",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/43_CB01 Black Dreamer of Whimsy_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/69_CB01 Black Dreamer of Whimsy_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/43_CB01 Black Dreamer of Whimsy_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/69_CB01 Black Dreamer of Whimsy_front.jpg"
 				}
 			},
 			{
@@ -739,18 +739,18 @@
 				"rarity": "common",
 				"mana_cost": "{R}",
 				"type": "Creature — Human Spirit",
-				"collector_number": "60",
+				"collector_number": "100",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/60_CR01 Red Dreamer of Whimsy_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/100_CR01 Red Dreamer of Whimsy_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/60_CR01 Red Dreamer of Whimsy_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/100_CR01 Red Dreamer of Whimsy_front.jpg"
 				}
 			},
 			{
@@ -758,18 +758,18 @@
 				"rarity": "common",
 				"mana_cost": "{R}",
 				"type": "Creature — Human Spirit",
-				"collector_number": "60",
+				"collector_number": "100",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/60_CR01 Red Dreamer of Whimsy_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/100_CR01 Red Dreamer of Whimsy_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/60_CR01 Red Dreamer of Whimsy_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/100_CR01 Red Dreamer of Whimsy_front.jpg"
 				}
 			},
 			{
@@ -777,18 +777,18 @@
 				"rarity": "common",
 				"mana_cost": "{G}",
 				"type": "Creature — Human Spirit",
-				"collector_number": "78",
+				"collector_number": "131",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/78_CG01 Green Dreamer of Whimsy_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/131_CG01 Green Dreamer of Whimsy_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/78_CG01 Green Dreamer of Whimsy_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/131_CG01 Green Dreamer of Whimsy_front.jpg"
 				}
 			},
 			{
@@ -796,18 +796,18 @@
 				"rarity": "common",
 				"mana_cost": "{G}",
 				"type": "Creature — Human Spirit",
-				"collector_number": "78",
+				"collector_number": "131",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/78_CG01 Green Dreamer of Whimsy_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/131_CG01 Green Dreamer of Whimsy_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/78_CG01 Green Dreamer of Whimsy_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/131_CG01 Green Dreamer of Whimsy_front.jpg"
 				}
 			},
 			{
@@ -815,11 +815,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
 				"type": "Creature — Giant Peasant",
-				"collector_number": "5",
+				"collector_number": "7",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/5_CW02 Starving Triclops.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/7_CW02 Starving Triclops.jpg"
 				}
 			},
 			{
@@ -827,11 +827,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
 				"type": "Creature — Giant Peasant",
-				"collector_number": "5",
+				"collector_number": "7",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/5_CW02 Starving Triclops.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/7_CW02 Starving Triclops.jpg"
 				}
 			},
 			{
@@ -863,11 +863,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Artifact Creature — Building",
-				"collector_number": "3",
+				"collector_number": "4",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/3t_Building Token.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/4t_Building Token.jpg"
 				}
 			},
 			{
@@ -875,11 +875,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Artifact Creature — Building",
-				"collector_number": "3",
+				"collector_number": "4",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/3t_Building Token.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/4t_Building Token.jpg"
 				}
 			},
 			{
@@ -887,11 +887,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
 				"type": "Creature — Bird",
-				"collector_number": "6",
+				"collector_number": "8",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/6_CW03 Silly Mockingbird.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/8_CW03 Silly Mockingbird.jpg"
 				}
 			},
 			{
@@ -899,11 +899,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
 				"type": "Creature — Bird",
-				"collector_number": "6",
+				"collector_number": "8",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/6_CW03 Silly Mockingbird.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/8_CW03 Silly Mockingbird.jpg"
 				}
 			},
 			{
@@ -911,11 +911,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{W}",
 				"type": "Creature — Human Peasant",
-				"collector_number": "10",
+				"collector_number": "12",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/10_CW07 Elder Populace.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/12_CW07 Elder Populace.jpg"
 				}
 			},
 			{
@@ -923,11 +923,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{W}",
 				"type": "Creature — Human Peasant",
-				"collector_number": "10",
+				"collector_number": "12",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/10_CW07 Elder Populace.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/12_CW07 Elder Populace.jpg"
 				}
 			},
 			{
@@ -935,11 +935,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{W}",
 				"type": "Creature — Wall Cleric",
-				"collector_number": "9",
+				"collector_number": "11",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/9_CW06 Clay Cleric.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/11_CW06 Clay Cleric.jpg"
 				}
 			},
 			{
@@ -947,11 +947,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{W}",
 				"type": "Creature — Wall Cleric",
-				"collector_number": "9",
+				"collector_number": "11",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/9_CW06 Clay Cleric.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/11_CW06 Clay Cleric.jpg"
 				}
 			},
 			{
@@ -959,18 +959,18 @@
 				"rarity": "common",
 				"mana_cost": "{2}{W}",
 				"type": "Artifact Creature — Scarecrow",
-				"collector_number": "8",
+				"collector_number": "10",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/8_CW05 Pranking Pumpkin_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/10_CW05 Pranking Pumpkin_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/8_CW05 Pranking Pumpkin_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/10_CW05 Pranking Pumpkin_front.jpg"
 				}
 			},
 			{
@@ -978,18 +978,18 @@
 				"rarity": "common",
 				"mana_cost": "{2}{W}",
 				"type": "Artifact Creature — Scarecrow",
-				"collector_number": "8",
+				"collector_number": "10",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/8_CW05 Pranking Pumpkin_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/10_CW05 Pranking Pumpkin_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/8_CW05 Pranking Pumpkin_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/10_CW05 Pranking Pumpkin_front.jpg"
 				}
 			},
 			{
@@ -997,11 +997,11 @@
 				"rarity": "rare",
 				"mana_cost": "{X}{W}{W}{U}{U}",
 				"type": "Instant",
-				"collector_number": "113",
+				"collector_number": "180",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/113_RM06 Mortared Revelation.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/180_RM06 Mortared Revelation.jpg"
 				}
 			},
 			{
@@ -1009,11 +1009,11 @@
 				"rarity": "rare",
 				"mana_cost": "{X}{W}{W}{U}{U}",
 				"type": "Instant",
-				"collector_number": "113",
+				"collector_number": "180",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/113_RM06 Mortared Revelation.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/180_RM06 Mortared Revelation.jpg"
 				}
 			},
 			{
@@ -1021,11 +1021,11 @@
 				"rarity": "common",
 				"mana_cost": "{W}{U}",
 				"type": "Instant",
-				"collector_number": "101",
+				"collector_number": "168",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/101_CM06 Safe Construction.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/168_CM06 Safe Construction.jpg"
 				}
 			},
 			{
@@ -1033,11 +1033,11 @@
 				"rarity": "common",
 				"mana_cost": "{W}{U}",
 				"type": "Instant",
-				"collector_number": "101",
+				"collector_number": "168",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/101_CM06 Safe Construction.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/168_CM06 Safe Construction.jpg"
 				}
 			},
 			{
@@ -1045,18 +1045,18 @@
 				"rarity": "common",
 				"mana_cost": "{G}",
 				"type": "Instant",
-				"collector_number": "88",
+				"collector_number": "141",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/88_CG11 Whom to Pray_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/141_CG11 Whom to Pray_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/88_CG11 Whom to Pray_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/141_CG11 Whom to Pray_front.jpg"
 				}
 			},
 			{
@@ -1064,18 +1064,18 @@
 				"rarity": "common",
 				"mana_cost": "{G}",
 				"type": "Instant",
-				"collector_number": "88",
+				"collector_number": "141",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/88_CG11 Whom to Pray_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/141_CG11 Whom to Pray_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/88_CG11 Whom to Pray_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/141_CG11 Whom to Pray_front.jpg"
 				}
 			},
 			{
@@ -1083,11 +1083,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{U}{B}",
 				"type": "Artifact",
-				"collector_number": "102",
+				"collector_number": "169",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/102_CM07 Lunar Current-Rod.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/169_CM07 Lunar Current-Rod.jpg"
 				}
 			},
 			{
@@ -1095,11 +1095,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{U}{B}",
 				"type": "Artifact",
-				"collector_number": "102",
+				"collector_number": "169",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/102_CM07 Lunar Current-Rod.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/169_CM07 Lunar Current-Rod.jpg"
 				}
 			},
 			{
@@ -1107,11 +1107,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{B}{R}",
 				"type": "Instant",
-				"collector_number": "103",
+				"collector_number": "170",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/103_CM08 Violent Return.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/170_CM08 Violent Return.jpg"
 				}
 			},
 			{
@@ -1119,11 +1119,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{B}{R}",
 				"type": "Instant",
-				"collector_number": "103",
+				"collector_number": "170",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/103_CM08 Violent Return.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/170_CM08 Violent Return.jpg"
 				}
 			},
 			{
@@ -1131,18 +1131,18 @@
 				"rarity": "common",
 				"mana_cost": "{1}{R}",
 				"type": "Instant",
-				"collector_number": "70",
+				"collector_number": "110",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/70_CR11 Return Again_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/110_CR11 Return Again_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/70_CR11 Return Again_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/110_CR11 Return Again_front.jpg"
 				}
 			},
 			{
@@ -1150,18 +1150,18 @@
 				"rarity": "common",
 				"mana_cost": "{1}{R}",
 				"type": "Instant",
-				"collector_number": "70",
+				"collector_number": "110",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/70_CR11 Return Again_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/110_CR11 Return Again_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/70_CR11 Return Again_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/110_CR11 Return Again_front.jpg"
 				}
 			},
 			{
@@ -1169,18 +1169,18 @@
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
 				"type": "Instant",
-				"collector_number": "15",
+				"collector_number": "17",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/15_CW12 Knightly Execution_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/17_CW12 Knightly Execution_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/15_CW12 Knightly Execution_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/17_CW12 Knightly Execution_front.jpg"
 				}
 			},
 			{
@@ -1188,18 +1188,18 @@
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
 				"type": "Instant",
-				"collector_number": "15",
+				"collector_number": "17",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/15_CW12 Knightly Execution_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/17_CW12 Knightly Execution_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/15_CW12 Knightly Execution_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/17_CW12 Knightly Execution_front.jpg"
 				}
 			},
 			{
@@ -1207,11 +1207,11 @@
 				"rarity": "common",
 				"mana_cost": "{R}{G}",
 				"type": "Sorcery",
-				"collector_number": "104",
+				"collector_number": "171",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/104_CM09 Expressive Conflagration.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/171_CM09 Expressive Conflagration.jpg"
 				}
 			},
 			{
@@ -1219,11 +1219,11 @@
 				"rarity": "common",
 				"mana_cost": "{R}{G}",
 				"type": "Sorcery",
-				"collector_number": "104",
+				"collector_number": "171",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/104_CM09 Expressive Conflagration.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/171_CM09 Expressive Conflagration.jpg"
 				}
 			},
 			{
@@ -1231,11 +1231,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{G}{W}",
 				"type": "Enchantment",
-				"collector_number": "105",
+				"collector_number": "172",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/105_CM10 Formidable Anthem.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/172_CM10 Formidable Anthem.jpg"
 				}
 			},
 			{
@@ -1243,11 +1243,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{G}{W}",
 				"type": "Enchantment",
-				"collector_number": "105",
+				"collector_number": "172",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/105_CM10 Formidable Anthem.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/172_CM10 Formidable Anthem.jpg"
 				}
 			},
 			{
@@ -1255,11 +1255,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{W}",
 				"type": "Creature — Human Bard Wanderer",
-				"collector_number": "11",
+				"collector_number": "13",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/11_CW08 Meandering Minstrel.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/13_CW08 Meandering Minstrel.jpg"
 				}
 			},
 			{
@@ -1267,11 +1267,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{W}",
 				"type": "Creature — Human Bard Wanderer",
-				"collector_number": "11",
+				"collector_number": "13",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/11_CW08 Meandering Minstrel.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/13_CW08 Meandering Minstrel.jpg"
 				}
 			},
 			{
@@ -1279,11 +1279,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{W}",
 				"type": "Creature — Wall Cleric",
-				"collector_number": "12",
+				"collector_number": "14",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/12_CW09 Stone Ressurector.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/14_CW09 Stone Ressurector.jpg"
 				}
 			},
 			{
@@ -1291,11 +1291,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{W}",
 				"type": "Creature — Wall Cleric",
-				"collector_number": "12",
+				"collector_number": "14",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/12_CW09 Stone Ressurector.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/14_CW09 Stone Ressurector.jpg"
 				}
 			},
 			{
@@ -1303,11 +1303,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{W}",
 				"type": "Creature — Giant Soldier Scout",
-				"collector_number": "13",
+				"collector_number": "15",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/13_CW10 Triclops Sentinel.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/15_CW10 Triclops Sentinel.jpg"
 				}
 			},
 			{
@@ -1315,11 +1315,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{W}",
 				"type": "Creature — Giant Soldier Scout",
-				"collector_number": "13",
+				"collector_number": "15",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/13_CW10 Triclops Sentinel.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/15_CW10 Triclops Sentinel.jpg"
 				}
 			},
 			{
@@ -1327,18 +1327,18 @@
 				"rarity": "common",
 				"mana_cost": "{3}{U}",
 				"type": "Instant",
-				"collector_number": "37",
+				"collector_number": "51",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/37_CU15 Trader's Intent_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/51_CU15 Trader's Intent_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/37_CU15 Trader's Intent_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/51_CU15 Trader's Intent_front.jpg"
 				}
 			},
 			{
@@ -1346,18 +1346,18 @@
 				"rarity": "common",
 				"mana_cost": "{3}{U}",
 				"type": "Instant",
-				"collector_number": "37",
+				"collector_number": "51",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/37_CU15 Trader's Intent_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/51_CU15 Trader's Intent_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/37_CU15 Trader's Intent_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/51_CU15 Trader's Intent_front.jpg"
 				}
 			},
 			{
@@ -1365,11 +1365,11 @@
 				"rarity": "common",
 				"mana_cost": "{5}{W}",
 				"type": "Creature — Angel",
-				"collector_number": "14",
+				"collector_number": "16",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/14_CW11 Shrouded Angel.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/16_CW11 Shrouded Angel.jpg"
 				}
 			},
 			{
@@ -1377,11 +1377,11 @@
 				"rarity": "common",
 				"mana_cost": "{5}{W}",
 				"type": "Creature — Angel",
-				"collector_number": "14",
+				"collector_number": "16",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/14_CW11 Shrouded Angel.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/16_CW11 Shrouded Angel.jpg"
 				}
 			},
 			{
@@ -1389,11 +1389,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
 				"type": "Enchantment — Aura",
-				"collector_number": "16",
+				"collector_number": "18",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/16_CW13 Three-Eyed Pacifism.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/18_CW13 Three-Eyed Pacifism.jpg"
 				}
 			},
 			{
@@ -1401,11 +1401,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
 				"type": "Enchantment — Aura",
-				"collector_number": "16",
+				"collector_number": "18",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/16_CW13 Three-Eyed Pacifism.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/18_CW13 Three-Eyed Pacifism.jpg"
 				}
 			},
 			{
@@ -1413,11 +1413,11 @@
 				"rarity": "common",
 				"mana_cost": "{W}",
 				"type": "Instant",
-				"collector_number": "17",
+				"collector_number": "19",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/17_CW14 Honorable Exertion.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/19_CW14 Honorable Exertion.jpg"
 				}
 			},
 			{
@@ -1425,11 +1425,11 @@
 				"rarity": "common",
 				"mana_cost": "{W}",
 				"type": "Instant",
-				"collector_number": "17",
+				"collector_number": "19",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/17_CW14 Honorable Exertion.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/19_CW14 Honorable Exertion.jpg"
 				}
 			},
 			{
@@ -1437,11 +1437,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
 				"type": "Sorcery",
-				"collector_number": "18",
+				"collector_number": "20",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/18_CW15 Ruinous Rendezvous.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/20_CW15 Ruinous Rendezvous.jpg"
 				}
 			},
 			{
@@ -1449,35 +1449,35 @@
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
 				"type": "Sorcery",
-				"collector_number": "18",
+				"collector_number": "20",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/18_CW15 Ruinous Rendezvous.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/20_CW15 Ruinous Rendezvous.jpg"
 				}
 			},
 			{
-				"name": "CU02 Deranged Scholar",
+				"name": "CU02 Deranged Lunarkin",
 				"rarity": "common",
 				"mana_cost": "{1}{U}",
-				"type": "Creature — Human Advisor",
-				"collector_number": "24",
+				"type": "Creature — Reflection Advisor",
+				"collector_number": "38",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/24_CU02 Deranged Scholar.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/38_CU02 Deranged Lunarkin.jpg"
 				}
 			},
 			{
-				"name": "CU02 Deranged Scholar_foil",
+				"name": "CU02 Deranged Lunarkin_foil",
 				"rarity": "common",
 				"mana_cost": "{1}{U}",
-				"type": "Creature — Human Advisor",
-				"collector_number": "24",
+				"type": "Creature — Reflection Advisor",
+				"collector_number": "38",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/24_CU02 Deranged Scholar.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/38_CU02 Deranged Lunarkin.jpg"
 				}
 			},
 			{
@@ -1485,11 +1485,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{U}",
 				"type": "Artifact Creature — Thopter Horror",
-				"collector_number": "25",
+				"collector_number": "39",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/25_CU03 Incomplete Fleshthopter.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/39_CU03 Incomplete Fleshthopter.jpg"
 				}
 			},
 			{
@@ -1497,11 +1497,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{U}",
 				"type": "Artifact Creature — Thopter Horror",
-				"collector_number": "25",
+				"collector_number": "39",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/25_CU03 Incomplete Fleshthopter.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/39_CU03 Incomplete Fleshthopter.jpg"
 				}
 			},
 			{
@@ -1509,11 +1509,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{B}",
 				"type": "Creature — Bird",
-				"collector_number": "45",
+				"collector_number": "71",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/45_CB03 Cutting Mockingbird.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/71_CB03 Cutting Mockingbird.jpg"
 				}
 			},
 			{
@@ -1521,35 +1521,35 @@
 				"rarity": "common",
 				"mana_cost": "{1}{B}",
 				"type": "Creature — Bird",
-				"collector_number": "45",
+				"collector_number": "71",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/45_CB03 Cutting Mockingbird.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/71_CB03 Cutting Mockingbird.jpg"
 				}
 			},
 			{
-				"name": "UU02 Hovering Platformite",
+				"name": "UU03 Hovering Platformite",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{U}",
 				"type": "Creature — Wall Laborer",
-				"collector_number": "41",
+				"collector_number": "58",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/41_UU02 Hovering Platformite.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/58_UU03 Hovering Platformite.jpg"
 				}
 			},
 			{
-				"name": "UU02 Hovering Platformite_foil",
+				"name": "UU03 Hovering Platformite_foil",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{U}",
 				"type": "Creature — Wall Laborer",
-				"collector_number": "41",
+				"collector_number": "58",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/41_UU02 Hovering Platformite.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/58_UU03 Hovering Platformite.jpg"
 				}
 			},
 			{
@@ -1581,18 +1581,18 @@
 				"rarity": "common",
 				"mana_cost": "{2}{U}",
 				"type": "Creature — Wall Scout",
-				"collector_number": "26",
+				"collector_number": "40",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/26_CU04 Brickfolk Surveyor_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/40_CU04 Brickfolk Surveyor_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/26_CU04 Brickfolk Surveyor_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/40_CU04 Brickfolk Surveyor_front.jpg"
 				}
 			},
 			{
@@ -1600,18 +1600,18 @@
 				"rarity": "common",
 				"mana_cost": "{2}{U}",
 				"type": "Creature — Wall Scout",
-				"collector_number": "26",
+				"collector_number": "40",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/26_CU04 Brickfolk Surveyor_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/40_CU04 Brickfolk Surveyor_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/26_CU04 Brickfolk Surveyor_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/40_CU04 Brickfolk Surveyor_front.jpg"
 				}
 			},
 			{
@@ -1619,11 +1619,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{U}",
 				"type": "Creature — Human Wizard Scientist",
-				"collector_number": "27",
+				"collector_number": "41",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/27_CU05 Grim Fleshcrafter.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/41_CU05 Grim Fleshcrafter.jpg"
 				}
 			},
 			{
@@ -1631,11 +1631,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{U}",
 				"type": "Creature — Human Wizard Scientist",
-				"collector_number": "27",
+				"collector_number": "41",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/27_CU05 Grim Fleshcrafter.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/41_CU05 Grim Fleshcrafter.jpg"
 				}
 			},
 			{
@@ -1643,11 +1643,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{U}",
 				"type": "Creature — Faerie Horror",
-				"collector_number": "28",
+				"collector_number": "42",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/28_CU06 Wanderlust Eater.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/42_CU06 Wanderlust Eater.jpg"
 				}
 			},
 			{
@@ -1655,11 +1655,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{U}",
 				"type": "Creature — Faerie Horror",
-				"collector_number": "28",
+				"collector_number": "42",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/28_CU06 Wanderlust Eater.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/42_CU06 Wanderlust Eater.jpg"
 				}
 			},
 			{
@@ -1667,11 +1667,11 @@
 				"rarity": "common",
 				"mana_cost": "{5}{U}",
 				"type": "Creature — Wall Laborer",
-				"collector_number": "30",
+				"collector_number": "44",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/30_CU08 Sturdy Platformite.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/44_CU08 Sturdy Platformite.jpg"
 				}
 			},
 			{
@@ -1679,11 +1679,11 @@
 				"rarity": "common",
 				"mana_cost": "{5}{U}",
 				"type": "Creature — Wall Laborer",
-				"collector_number": "30",
+				"collector_number": "44",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/30_CU08 Sturdy Platformite.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/44_CU08 Sturdy Platformite.jpg"
 				}
 			},
 			{
@@ -1691,11 +1691,11 @@
 				"rarity": "rare",
 				"mana_cost": "{U}",
 				"type": "Legendary Creature — Wall Druid",
-				"collector_number": "38",
+				"collector_number": "53",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/38_RU01 Braxtus the Breaker.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/53_RU01 Braxtus the Breaker.jpg"
 				}
 			},
 			{
@@ -1703,11 +1703,11 @@
 				"rarity": "rare",
 				"mana_cost": "{U}",
 				"type": "Legendary Creature — Wall Druid",
-				"collector_number": "38",
+				"collector_number": "53",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/38_RU01 Braxtus the Breaker.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/53_RU01 Braxtus the Breaker.jpg"
 				}
 			},
 			{
@@ -1715,11 +1715,11 @@
 				"rarity": "rare",
 				"mana_cost": "{1}{W}",
 				"type": "Legendary Creature — Wall Cleric",
-				"collector_number": "20",
+				"collector_number": "22",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/20_RW02 Bethela the Builder.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/22_RW02 Bethela the Builder.jpg"
 				}
 			},
 			{
@@ -1727,11 +1727,11 @@
 				"rarity": "rare",
 				"mana_cost": "{1}{W}",
 				"type": "Legendary Creature — Wall Cleric",
-				"collector_number": "20",
+				"collector_number": "22",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/20_RW02 Bethela the Builder.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/22_RW02 Bethela the Builder.jpg"
 				}
 			},
 			{
@@ -1739,11 +1739,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{U}",
 				"type": "Creature — Sphinx Advisor Wanderer",
-				"collector_number": "29",
+				"collector_number": "43",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/29_CU07 Riddleless Riddler.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/43_CU07 Riddleless Riddler.jpg"
 				}
 			},
 			{
@@ -1751,11 +1751,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{U}",
 				"type": "Creature — Sphinx Advisor Wanderer",
-				"collector_number": "29",
+				"collector_number": "43",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/29_CU07 Riddleless Riddler.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/43_CU07 Riddleless Riddler.jpg"
 				}
 			},
 			{
@@ -1763,11 +1763,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{U}",
 				"type": "Instant",
-				"collector_number": "31",
+				"collector_number": "45",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/31_CU09 Delusions of Idiocy.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/45_CU09 Delusions of Idiocy.jpg"
 				}
 			},
 			{
@@ -1775,11 +1775,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{U}",
 				"type": "Instant",
-				"collector_number": "31",
+				"collector_number": "45",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/31_CU09 Delusions of Idiocy.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/45_CU09 Delusions of Idiocy.jpg"
 				}
 			},
 			{
@@ -1787,11 +1787,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{U}",
 				"type": "Enchantment — Aura",
-				"collector_number": "32",
+				"collector_number": "46",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/32_CU10 Flimsy Transformation.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/46_CU10 Flimsy Transformation.jpg"
 				}
 			},
 			{
@@ -1799,11 +1799,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{U}",
 				"type": "Enchantment — Aura",
-				"collector_number": "32",
+				"collector_number": "46",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/32_CU10 Flimsy Transformation.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/46_CU10 Flimsy Transformation.jpg"
 				}
 			},
 			{
@@ -1811,11 +1811,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{U}{U}",
 				"type": "Instant",
-				"collector_number": "33",
+				"collector_number": "47",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/33_CU11 Delirious Cancellation.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/47_CU11 Delirious Cancellation.jpg"
 				}
 			},
 			{
@@ -1823,35 +1823,35 @@
 				"rarity": "common",
 				"mana_cost": "{1}{U}{U}",
 				"type": "Instant",
-				"collector_number": "33",
+				"collector_number": "47",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/33_CU11 Delirious Cancellation.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/47_CU11 Delirious Cancellation.jpg"
 				}
 			},
 			{
-				"name": "CU12 Scouring Bauble",
+				"name": "CU12 Moonlit Bauble",
 				"rarity": "common",
 				"mana_cost": "{U}",
-				"type": "Artifact",
-				"collector_number": "34",
+				"type": "Kindred Artifact — Reflection",
+				"collector_number": "48",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/34_CU12 Scouring Bauble.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/48_CU12 Moonlit Bauble.jpg"
 				}
 			},
 			{
-				"name": "CU12 Scouring Bauble_foil",
+				"name": "CU12 Moonlit Bauble_foil",
 				"rarity": "common",
 				"mana_cost": "{U}",
-				"type": "Artifact",
-				"collector_number": "34",
+				"type": "Kindred Artifact — Reflection",
+				"collector_number": "48",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/34_CU12 Scouring Bauble.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/48_CU12 Moonlit Bauble.jpg"
 				}
 			},
 			{
@@ -1859,11 +1859,11 @@
 				"rarity": "common",
 				"mana_cost": "{U}",
 				"type": "Instant",
-				"collector_number": "36",
+				"collector_number": "50",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/36_CU14 Bloody Guardianship.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/50_CU14 Bloody Guardianship.jpg"
 				}
 			},
 			{
@@ -1871,11 +1871,11 @@
 				"rarity": "common",
 				"mana_cost": "{U}",
 				"type": "Instant",
-				"collector_number": "36",
+				"collector_number": "50",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/36_CU14 Bloody Guardianship.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/50_CU14 Bloody Guardianship.jpg"
 				}
 			},
 			{
@@ -1883,11 +1883,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{B}",
 				"type": "Creature — Human Vampire Wanderer",
-				"collector_number": "44",
+				"collector_number": "70",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/44_CB02 Roaming Bloodsucker.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/70_CB02 Roaming Bloodsucker.jpg"
 				}
 			},
 			{
@@ -1895,11 +1895,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{B}",
 				"type": "Creature — Human Vampire Wanderer",
-				"collector_number": "44",
+				"collector_number": "70",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/44_CB02 Roaming Bloodsucker.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/70_CB02 Roaming Bloodsucker.jpg"
 				}
 			},
 			{
@@ -1907,11 +1907,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{B}",
 				"type": "Creature — Demon Warrior",
-				"collector_number": "46",
+				"collector_number": "72",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/46_CB04 Terrorizing Bladearm.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/72_CB04 Terrorizing Bladearm.jpg"
 				}
 			},
 			{
@@ -1919,11 +1919,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{B}",
 				"type": "Creature — Demon Warrior",
-				"collector_number": "46",
+				"collector_number": "72",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/46_CB04 Terrorizing Bladearm.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/72_CB04 Terrorizing Bladearm.jpg"
 				}
 			},
 			{
@@ -1931,11 +1931,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{B}",
 				"type": "Creature — Human Scout",
-				"collector_number": "47",
+				"collector_number": "73",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/47_CB05 Hopeless Seeker.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/73_CB05 Hopeless Seeker.jpg"
 				}
 			},
 			{
@@ -1943,11 +1943,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{B}",
 				"type": "Creature — Human Scout",
-				"collector_number": "47",
+				"collector_number": "73",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/47_CB05 Hopeless Seeker.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/73_CB05 Hopeless Seeker.jpg"
 				}
 			},
 			{
@@ -1955,11 +1955,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{U}",
 				"type": "Creature — Bird",
-				"collector_number": "40",
+				"collector_number": "56",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/40_UU01 Timewinder Motivator.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/56_UU01 Timewinder Motivator.jpg"
 				}
 			},
 			{
@@ -1967,11 +1967,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{U}",
 				"type": "Creature — Bird",
-				"collector_number": "40",
+				"collector_number": "56",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/40_UU01 Timewinder Motivator.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/56_UU01 Timewinder Motivator.jpg"
 				}
 			},
 			{
@@ -1979,11 +1979,11 @@
 				"rarity": "rare",
 				"mana_cost": "{2}{U}",
 				"type": "Creature — Bird",
-				"collector_number": "39",
+				"collector_number": "55",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/39_RU03 Timewinder Supreme.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/55_RU03 Timewinder Supreme.jpg"
 				}
 			},
 			{
@@ -1991,11 +1991,11 @@
 				"rarity": "rare",
 				"mana_cost": "{2}{U}",
 				"type": "Creature — Bird",
-				"collector_number": "39",
+				"collector_number": "55",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/39_RU03 Timewinder Supreme.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/55_RU03 Timewinder Supreme.jpg"
 				}
 			},
 			{
@@ -2003,18 +2003,18 @@
 				"rarity": "common",
 				"mana_cost": "{3}{B}",
 				"type": "Creature — Bird",
-				"collector_number": "48",
+				"collector_number": "74",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/48_CB06 Tricky Timewinder_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/74_CB06 Tricky Timewinder_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/48_CB06 Tricky Timewinder_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/74_CB06 Tricky Timewinder_front.jpg"
 				}
 			},
 			{
@@ -2022,18 +2022,18 @@
 				"rarity": "common",
 				"mana_cost": "{3}{B}",
 				"type": "Creature — Bird",
-				"collector_number": "48",
+				"collector_number": "74",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/48_CB06 Tricky Timewinder_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/74_CB06 Tricky Timewinder_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/48_CB06 Tricky Timewinder_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/74_CB06 Tricky Timewinder_front.jpg"
 				}
 			},
 			{
@@ -2041,11 +2041,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{B}",
 				"type": "Artifact Creature — Zombie Horror",
-				"collector_number": "49",
+				"collector_number": "75",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/49_CB07 Lunar Flesh Construct.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/75_CB07 Lunar Flesh Construct.jpg"
 				}
 			},
 			{
@@ -2053,11 +2053,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{B}",
 				"type": "Artifact Creature — Zombie Horror",
-				"collector_number": "49",
+				"collector_number": "75",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/49_CB07 Lunar Flesh Construct.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/75_CB07 Lunar Flesh Construct.jpg"
 				}
 			},
 			{
@@ -2065,11 +2065,11 @@
 				"rarity": "common",
 				"mana_cost": "{5}{B}",
 				"type": "Creature — Demon Warrior",
-				"collector_number": "50",
+				"collector_number": "76",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/50_CB08 Shrouded Demon.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/76_CB08 Shrouded Demon.jpg"
 				}
 			},
 			{
@@ -2077,11 +2077,11 @@
 				"rarity": "common",
 				"mana_cost": "{5}{B}",
 				"type": "Creature — Demon Warrior",
-				"collector_number": "50",
+				"collector_number": "76",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/50_CB08 Shrouded Demon.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/76_CB08 Shrouded Demon.jpg"
 				}
 			},
 			{
@@ -2089,11 +2089,11 @@
 				"rarity": "common",
 				"mana_cost": "{6}{B}",
 				"type": "Creature — Avatar",
-				"collector_number": "51",
+				"collector_number": "77",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/51_CB09 Scion of the Dark.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/77_CB09 Scion of the Dark.jpg"
 				}
 			},
 			{
@@ -2101,11 +2101,11 @@
 				"rarity": "common",
 				"mana_cost": "{6}{B}",
 				"type": "Creature — Avatar",
-				"collector_number": "51",
+				"collector_number": "77",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/51_CB09 Scion of the Dark.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/77_CB09 Scion of the Dark.jpg"
 				}
 			},
 			{
@@ -2113,11 +2113,11 @@
 				"rarity": "common",
 				"mana_cost": "{B}{B}",
 				"type": "Sorcery",
-				"collector_number": "52",
+				"collector_number": "78",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/52_CB10 Blood Helix.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/78_CB10 Blood Helix.jpg"
 				}
 			},
 			{
@@ -2125,11 +2125,11 @@
 				"rarity": "common",
 				"mana_cost": "{B}{B}",
 				"type": "Sorcery",
-				"collector_number": "52",
+				"collector_number": "78",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/52_CB10 Blood Helix.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/78_CB10 Blood Helix.jpg"
 				}
 			},
 			{
@@ -2137,11 +2137,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{B}",
 				"type": "Sorcery",
-				"collector_number": "54",
+				"collector_number": "80",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/54_CB12 Reflected Rending.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/80_CB12 Reflected Rending.jpg"
 				}
 			},
 			{
@@ -2149,11 +2149,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{B}",
 				"type": "Sorcery",
-				"collector_number": "54",
+				"collector_number": "80",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/54_CB12 Reflected Rending.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/80_CB12 Reflected Rending.jpg"
 				}
 			},
 			{
@@ -2161,11 +2161,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{B}",
 				"type": "Instant",
-				"collector_number": "53",
+				"collector_number": "79",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/53_CB11 Inundation of Insanity.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/79_CB11 Inundation of Insanity.jpg"
 				}
 			},
 			{
@@ -2173,11 +2173,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{B}",
 				"type": "Instant",
-				"collector_number": "53",
+				"collector_number": "79",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/53_CB11 Inundation of Insanity.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/79_CB11 Inundation of Insanity.jpg"
 				}
 			},
 			{
@@ -2185,11 +2185,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{B}",
 				"type": "Artifact",
-				"collector_number": "56",
+				"collector_number": "82",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/56_CB14 Lunacy Totem.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/82_CB14 Lunacy Totem.jpg"
 				}
 			},
 			{
@@ -2197,35 +2197,35 @@
 				"rarity": "common",
 				"mana_cost": "{1}{B}",
 				"type": "Artifact",
-				"collector_number": "56",
+				"collector_number": "82",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/56_CB14 Lunacy Totem.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/82_CB14 Lunacy Totem.jpg"
 				}
 			},
 			{
 				"name": "CB13 Visions of Conspiracy",
 				"rarity": "common",
-				"mana_cost": "{2}{B}",
+				"mana_cost": "{B}",
 				"type": "Instant",
-				"collector_number": "55",
+				"collector_number": "81",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/55_CB13 Visions of Conspiracy.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/81_CB13 Visions of Conspiracy.jpg"
 				}
 			},
 			{
 				"name": "CB13 Visions of Conspiracy_foil",
 				"rarity": "common",
-				"mana_cost": "{2}{B}",
+				"mana_cost": "{B}",
 				"type": "Instant",
-				"collector_number": "55",
+				"collector_number": "81",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/55_CB13 Visions of Conspiracy.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/81_CB13 Visions of Conspiracy.jpg"
 				}
 			},
 			{
@@ -2233,11 +2233,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Artifact — Clue",
-				"collector_number": "4",
+				"collector_number": "5",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/4t_Clue Token.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/5t_Clue Token.jpg"
 				}
 			},
 			{
@@ -2245,11 +2245,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Artifact — Clue",
-				"collector_number": "4",
+				"collector_number": "5",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/4t_Clue Token.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/5t_Clue Token.jpg"
 				}
 			},
 			{
@@ -2257,18 +2257,18 @@
 				"rarity": "common",
 				"mana_cost": "{1}{B}",
 				"type": "Instant",
-				"collector_number": "57",
+				"collector_number": "83",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/57_CB15 Enduring Metal_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/83_CB15 Enduring Metal_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/57_CB15 Enduring Metal_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/83_CB15 Enduring Metal_front.jpg"
 				}
 			},
 			{
@@ -2276,18 +2276,18 @@
 				"rarity": "common",
 				"mana_cost": "{1}{B}",
 				"type": "Instant",
-				"collector_number": "57",
+				"collector_number": "83",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/57_CB15 Enduring Metal_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/83_CB15 Enduring Metal_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/57_CB15 Enduring Metal_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/83_CB15 Enduring Metal_front.jpg"
 				}
 			},
 			{
@@ -2295,11 +2295,11 @@
 				"rarity": "rare",
 				"mana_cost": "{W}",
 				"type": "Legendary Creature — Giant Shaman",
-				"collector_number": "19",
+				"collector_number": "21",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/19_RW01 Gatel the Frozen.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/21_RW01 Gatel the Frozen.jpg"
 				}
 			},
 			{
@@ -2307,11 +2307,11 @@
 				"rarity": "rare",
 				"mana_cost": "{W}",
 				"type": "Legendary Creature — Giant Shaman",
-				"collector_number": "19",
+				"collector_number": "21",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/19_RW01 Gatel the Frozen.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/21_RW01 Gatel the Frozen.jpg"
 				}
 			},
 			{
@@ -2319,11 +2319,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{B}",
 				"type": "Creature — Giant Warlock",
-				"collector_number": "58",
+				"collector_number": "87",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/58_UB01 Mindshattered Triclops.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/87_UB01 Mindshattered Triclops.jpg"
 				}
 			},
 			{
@@ -2331,11 +2331,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{B}",
 				"type": "Creature — Giant Warlock",
-				"collector_number": "58",
+				"collector_number": "87",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/58_UB01 Mindshattered Triclops.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/87_UB01 Mindshattered Triclops.jpg"
 				}
 			},
 			{
@@ -2343,11 +2343,11 @@
 				"rarity": "rare",
 				"mana_cost": "{1}{G}",
 				"type": "Legendary Creature — Giant Druid",
-				"collector_number": "94",
+				"collector_number": "147",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/94_RG02 Telegia the Thawed.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/147_RG02 Telegia the Thawed.jpg"
 				}
 			},
 			{
@@ -2355,11 +2355,11 @@
 				"rarity": "rare",
 				"mana_cost": "{1}{G}",
 				"type": "Legendary Creature — Giant Druid",
-				"collector_number": "94",
+				"collector_number": "147",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/94_RG02 Telegia the Thawed.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/147_RG02 Telegia the Thawed.jpg"
 				}
 			},
 			{
@@ -2367,11 +2367,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{R}",
 				"type": "Creature — Elemental Warrior",
-				"collector_number": "61",
+				"collector_number": "101",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/61_CR02 Sunfire Trainee.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/101_CR02 Sunfire Trainee.jpg"
 				}
 			},
 			{
@@ -2379,11 +2379,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{R}",
 				"type": "Creature — Elemental Warrior",
-				"collector_number": "61",
+				"collector_number": "101",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/61_CR02 Sunfire Trainee.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/101_CR02 Sunfire Trainee.jpg"
 				}
 			},
 			{
@@ -2391,11 +2391,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{R}",
 				"type": "Creature — Demon Warrior",
-				"collector_number": "62",
+				"collector_number": "102",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/62_CR03 Bladearm Ritualist.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/102_CR03 Bladearm Ritualist.jpg"
 				}
 			},
 			{
@@ -2403,11 +2403,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{R}",
 				"type": "Creature — Demon Warrior",
-				"collector_number": "62",
+				"collector_number": "102",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/62_CR03 Bladearm Ritualist.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/102_CR03 Bladearm Ritualist.jpg"
 				}
 			},
 			{
@@ -2415,18 +2415,18 @@
 				"rarity": "common",
 				"mana_cost": "{2}{R}",
 				"type": "Creature — Human Werewolf",
-				"collector_number": "63",
+				"collector_number": "103",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/63_CR04 Foolish Smuggler_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/103_CR04 Foolish Smuggler_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/63_CR04 Foolish Smuggler_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/103_CR04 Foolish Smuggler_front.jpg"
 				}
 			},
 			{
@@ -2434,18 +2434,18 @@
 				"rarity": "common",
 				"mana_cost": "{2}{R}",
 				"type": "Creature — Human Werewolf",
-				"collector_number": "63",
+				"collector_number": "103",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/63_CR04 Foolish Smuggler_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/103_CR04 Foolish Smuggler_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/63_CR04 Foolish Smuggler_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/103_CR04 Foolish Smuggler_front.jpg"
 				}
 			},
 			{
@@ -2453,11 +2453,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{R}",
 				"type": "Creature — Human Berserker Wanderer",
-				"collector_number": "64",
+				"collector_number": "104",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/64_CR05 Nomadic Brute.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/104_CR05 Nomadic Brute.jpg"
 				}
 			},
 			{
@@ -2465,11 +2465,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{R}",
 				"type": "Creature — Human Berserker Wanderer",
-				"collector_number": "64",
+				"collector_number": "104",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/64_CR05 Nomadic Brute.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/104_CR05 Nomadic Brute.jpg"
 				}
 			},
 			{
@@ -2477,11 +2477,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{R}",
 				"type": "Creature — Elemental Archer",
-				"collector_number": "65",
+				"collector_number": "105",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/65_CR06 Blazebolt Crossbowman.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/105_CR06 Blazebolt Crossbowman.jpg"
 				}
 			},
 			{
@@ -2489,11 +2489,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{R}",
 				"type": "Creature — Elemental Archer",
-				"collector_number": "65",
+				"collector_number": "105",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/65_CR06 Blazebolt Crossbowman.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/105_CR06 Blazebolt Crossbowman.jpg"
 				}
 			},
 			{
@@ -2501,11 +2501,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{R}",
 				"type": "Creature — Beast Horror",
-				"collector_number": "66",
+				"collector_number": "106",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/66_CR07 Playful Ravager.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/106_CR07 Playful Ravager.jpg"
 				}
 			},
 			{
@@ -2513,11 +2513,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{R}",
 				"type": "Creature — Beast Horror",
-				"collector_number": "66",
+				"collector_number": "106",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/66_CR07 Playful Ravager.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/106_CR07 Playful Ravager.jpg"
 				}
 			},
 			{
@@ -2525,11 +2525,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{R}",
 				"type": "Creature — Demon Warrior",
-				"collector_number": "67",
+				"collector_number": "107",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/67_CR08 Spinblade Demon.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/107_CR08 Spinblade Demon.jpg"
 				}
 			},
 			{
@@ -2537,11 +2537,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{R}",
 				"type": "Creature — Demon Warrior",
-				"collector_number": "67",
+				"collector_number": "107",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/67_CR08 Spinblade Demon.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/107_CR08 Spinblade Demon.jpg"
 				}
 			},
 			{
@@ -2549,11 +2549,11 @@
 				"rarity": "common",
 				"mana_cost": "{5}{R}",
 				"type": "Creature — Beast Juggernaut Horror",
-				"collector_number": "68",
+				"collector_number": "108",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/68_CR09 Land-Raze Gargantuan.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/108_CR09 Land-Raze Gargantuan.jpg"
 				}
 			},
 			{
@@ -2561,11 +2561,11 @@
 				"rarity": "common",
 				"mana_cost": "{5}{R}",
 				"type": "Creature — Beast Juggernaut Horror",
-				"collector_number": "68",
+				"collector_number": "108",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/68_CR09 Land-Raze Gargantuan.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/108_CR09 Land-Raze Gargantuan.jpg"
 				}
 			},
 			{
@@ -2573,11 +2573,11 @@
 				"rarity": "common",
 				"mana_cost": "{R}",
 				"type": "Sorcery",
-				"collector_number": "69",
+				"collector_number": "109",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/69_CR10 Seek Inner Fire.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/109_CR10 Seek Inner Fire.jpg"
 				}
 			},
 			{
@@ -2585,11 +2585,11 @@
 				"rarity": "common",
 				"mana_cost": "{R}",
 				"type": "Sorcery",
-				"collector_number": "69",
+				"collector_number": "109",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/69_CR10 Seek Inner Fire.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/109_CR10 Seek Inner Fire.jpg"
 				}
 			},
 			{
@@ -2597,11 +2597,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{R}",
 				"type": "Sorcery",
-				"collector_number": "71",
+				"collector_number": "111",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/71_CR12 Ruinous Pyre.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/111_CR12 Ruinous Pyre.jpg"
 				}
 			},
 			{
@@ -2609,11 +2609,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{R}",
 				"type": "Sorcery",
-				"collector_number": "71",
+				"collector_number": "111",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/71_CR12 Ruinous Pyre.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/111_CR12 Ruinous Pyre.jpg"
 				}
 			},
 			{
@@ -2621,11 +2621,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{R}",
 				"type": "Sorcery",
-				"collector_number": "72",
+				"collector_number": "112",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/72_CR13 Flames of Wanderlust.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/112_CR13 Flames of Wanderlust.jpg"
 				}
 			},
 			{
@@ -2633,11 +2633,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{R}",
 				"type": "Sorcery",
-				"collector_number": "72",
+				"collector_number": "112",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/72_CR13 Flames of Wanderlust.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/112_CR13 Flames of Wanderlust.jpg"
 				}
 			},
 			{
@@ -2645,11 +2645,11 @@
 				"rarity": "common",
 				"mana_cost": "{R}",
 				"type": "Instant",
-				"collector_number": "73",
+				"collector_number": "113",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/73_CR14 Fall into Might.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/113_CR14 Fall into Might.jpg"
 				}
 			},
 			{
@@ -2657,11 +2657,11 @@
 				"rarity": "common",
 				"mana_cost": "{R}",
 				"type": "Instant",
-				"collector_number": "73",
+				"collector_number": "113",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/73_CR14 Fall into Might.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/113_CR14 Fall into Might.jpg"
 				}
 			},
 			{
@@ -2669,11 +2669,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{R}",
 				"type": "Instant",
-				"collector_number": "74",
+				"collector_number": "114",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/74_CR15 Overwhelming Assault.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/114_CR15 Overwhelming Assault.jpg"
 				}
 			},
 			{
@@ -2681,11 +2681,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{R}",
 				"type": "Instant",
-				"collector_number": "74",
+				"collector_number": "114",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/74_CR15 Overwhelming Assault.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/114_CR15 Overwhelming Assault.jpg"
 				}
 			},
 			{
@@ -2693,11 +2693,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{G}",
 				"type": "Creature — Giant Peasant",
-				"collector_number": "79",
+				"collector_number": "132",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/79_CG02 Well-Fed Triclops.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/132_CG02 Well-Fed Triclops.jpg"
 				}
 			},
 			{
@@ -2705,11 +2705,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{G}",
 				"type": "Creature — Giant Peasant",
-				"collector_number": "79",
+				"collector_number": "132",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/79_CG02 Well-Fed Triclops.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/132_CG02 Well-Fed Triclops.jpg"
 				}
 			},
 			{
@@ -2717,11 +2717,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{G}",
 				"type": "Creature — Elemental Druid",
-				"collector_number": "80",
+				"collector_number": "133",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/80_CG03 Sun-Basking Caretaker.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/133_CG03 Sun-Basking Caretaker.jpg"
 				}
 			},
 			{
@@ -2729,11 +2729,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{G}",
 				"type": "Creature — Elemental Druid",
-				"collector_number": "80",
+				"collector_number": "133",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/80_CG03 Sun-Basking Caretaker.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/133_CG03 Sun-Basking Caretaker.jpg"
 				}
 			},
 			{
@@ -2741,11 +2741,18 @@
 				"rarity": "common",
 				"mana_cost": "{2}{G}",
 				"type": "Creature — Spider",
-				"collector_number": "81",
+				"collector_number": "134",
 				"foil": false,
 
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/134_CG04 Eight-Legged Bartender_back.jpg"
+					}
+				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/81_CG04 Eight-Legged Bartender.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/134_CG04 Eight-Legged Bartender_front.jpg"
 				}
 			},
 			{
@@ -2753,11 +2760,18 @@
 				"rarity": "common",
 				"mana_cost": "{2}{G}",
 				"type": "Creature — Spider",
-				"collector_number": "81",
+				"collector_number": "134",
 				"foil": true,
 
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/134_CG04 Eight-Legged Bartender_back.jpg"
+					}
+				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/81_CG04 Eight-Legged Bartender.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/134_CG04 Eight-Legged Bartender_front.jpg"
 				}
 			},
 			{
@@ -2765,11 +2779,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{G}",
 				"type": "Creature — Elemental Berserker",
-				"collector_number": "82",
+				"collector_number": "135",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/82_CG05 Sun-Flame Berserker.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/135_CG05 Sun-Flame Berserker.jpg"
 				}
 			},
 			{
@@ -2777,35 +2791,35 @@
 				"rarity": "common",
 				"mana_cost": "{2}{G}",
 				"type": "Creature — Elemental Berserker",
-				"collector_number": "82",
+				"collector_number": "135",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/82_CG05 Sun-Flame Berserker.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/135_CG05 Sun-Flame Berserker.jpg"
 				}
 			},
 			{
-				"name": "CG06 Whimsyblighted Triclops",
+				"name": "CG06 Blighted Triclops",
 				"rarity": "common",
 				"mana_cost": "{3}{G}",
 				"type": "Creature — Giant Horror",
-				"collector_number": "83",
+				"collector_number": "136",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/83_CG06 Whimsyblighted Triclops.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/136_CG06 Blighted Triclops.jpg"
 				}
 			},
 			{
-				"name": "CG06 Whimsyblighted Triclops_foil",
+				"name": "CG06 Blighted Triclops_foil",
 				"rarity": "common",
 				"mana_cost": "{3}{G}",
 				"type": "Creature — Giant Horror",
-				"collector_number": "83",
+				"collector_number": "136",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/83_CG06 Whimsyblighted Triclops.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/136_CG06 Blighted Triclops.jpg"
 				}
 			},
 			{
@@ -2813,11 +2827,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{G}",
 				"type": "Creature — Human Druid Wanderer",
-				"collector_number": "84",
+				"collector_number": "137",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/84_CG07 Exploratory Herbalist.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/137_CG07 Exploratory Herbalist.jpg"
 				}
 			},
 			{
@@ -2825,11 +2839,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}{G}",
 				"type": "Creature — Human Druid Wanderer",
-				"collector_number": "84",
+				"collector_number": "137",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/84_CG07 Exploratory Herbalist.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/137_CG07 Exploratory Herbalist.jpg"
 				}
 			},
 			{
@@ -2837,11 +2851,11 @@
 				"rarity": "mythic",
 				"mana_cost": "{G}{U}{R}",
 				"type": "Legendary Creature — Elemental Bard",
-				"collector_number": "112",
+				"collector_number": "179",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/112_MM02 Varasti, Fluid Dancer.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/179_MM02 Varasti, Fluid Dancer.jpg"
 				}
 			},
 			{
@@ -2849,11 +2863,11 @@
 				"rarity": "mythic",
 				"mana_cost": "{G}{U}{R}",
 				"type": "Legendary Creature — Elemental Bard",
-				"collector_number": "112",
+				"collector_number": "179",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/112_MM02 Varasti, Fluid Dancer.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/179_MM02 Varasti, Fluid Dancer.jpg"
 				}
 			},
 			{
@@ -2861,11 +2875,11 @@
 				"rarity": "rare",
 				"mana_cost": "{G}",
 				"type": "Legendary Creature — Elemental Warlock",
-				"collector_number": "93",
+				"collector_number": "146",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/93_RG01 Sufelia the Devout.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/146_RG01 Sufelia the Devout.jpg"
 				}
 			},
 			{
@@ -2873,11 +2887,11 @@
 				"rarity": "rare",
 				"mana_cost": "{G}",
 				"type": "Legendary Creature — Elemental Warlock",
-				"collector_number": "93",
+				"collector_number": "146",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/93_RG01 Sufelia the Devout.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/146_RG01 Sufelia the Devout.jpg"
 				}
 			},
 			{
@@ -2885,11 +2899,11 @@
 				"rarity": "rare",
 				"mana_cost": "{1}{R}",
 				"type": "Legendary Creature — Elemental Shaman",
-				"collector_number": "75",
+				"collector_number": "117",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/75_RR02 Raflegos the Passionate.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/117_RR02 Raflegos the Passionate.jpg"
 				}
 			},
 			{
@@ -2897,11 +2911,11 @@
 				"rarity": "rare",
 				"mana_cost": "{1}{R}",
 				"type": "Legendary Creature — Elemental Shaman",
-				"collector_number": "75",
+				"collector_number": "117",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/75_RR02 Raflegos the Passionate.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/117_RR02 Raflegos the Passionate.jpg"
 				}
 			},
 			{
@@ -2909,11 +2923,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{G}",
 				"type": "Creature — Human Ranger",
-				"collector_number": "85",
+				"collector_number": "138",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/85_CG08 Recruiter of the Range.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/138_CG08 Recruiter of the Range.jpg"
 				}
 			},
 			{
@@ -2921,11 +2935,11 @@
 				"rarity": "common",
 				"mana_cost": "{4}{G}",
 				"type": "Creature — Human Ranger",
-				"collector_number": "85",
+				"collector_number": "138",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/85_CG08 Recruiter of the Range.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/138_CG08 Recruiter of the Range.jpg"
 				}
 			},
 			{
@@ -2933,11 +2947,11 @@
 				"rarity": "common",
 				"mana_cost": "{5}{G}",
 				"type": "Creature — Beast Horror",
-				"collector_number": "86",
+				"collector_number": "139",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/86_CG09 Colossal Dreadbeast.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/139_CG09 Colossal Dreadbeast.jpg"
 				}
 			},
 			{
@@ -2945,11 +2959,11 @@
 				"rarity": "common",
 				"mana_cost": "{5}{G}",
 				"type": "Creature — Beast Horror",
-				"collector_number": "86",
+				"collector_number": "139",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/86_CG09 Colossal Dreadbeast.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/139_CG09 Colossal Dreadbeast.jpg"
 				}
 			},
 			{
@@ -2957,11 +2971,11 @@
 				"rarity": "common",
 				"mana_cost": "{6}{G}",
 				"type": "Creature — Human Knight",
-				"collector_number": "87",
+				"collector_number": "140",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/87_CG10 Wild-Darkened Duelist.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/140_CG10 Wild-Darkened Duelist.jpg"
 				}
 			},
 			{
@@ -2969,11 +2983,11 @@
 				"rarity": "common",
 				"mana_cost": "{6}{G}",
 				"type": "Creature — Human Knight",
-				"collector_number": "87",
+				"collector_number": "140",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/87_CG10 Wild-Darkened Duelist.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/140_CG10 Wild-Darkened Duelist.jpg"
 				}
 			},
 			{
@@ -2981,11 +2995,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{G}",
 				"type": "Sorcery",
-				"collector_number": "89",
+				"collector_number": "142",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/89_CG12 Rotting Fangs.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/142_CG12 Rotting Fangs.jpg"
 				}
 			},
 			{
@@ -2993,11 +3007,11 @@
 				"rarity": "common",
 				"mana_cost": "{1}{G}",
 				"type": "Sorcery",
-				"collector_number": "89",
+				"collector_number": "142",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/89_CG12 Rotting Fangs.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/142_CG12 Rotting Fangs.jpg"
 				}
 			},
 			{
@@ -3005,18 +3019,18 @@
 				"rarity": "mythic",
 				"mana_cost": "{2/B}{G}",
 				"type": "Sorcery",
-				"collector_number": "111",
+				"collector_number": "178",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/111_MM01 Season of Whimsy_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/178_MM01 Season of Whimsy_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/111_MM01 Season of Whimsy_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/178_MM01 Season of Whimsy_front.jpg"
 				}
 			},
 			{
@@ -3024,66 +3038,66 @@
 				"rarity": "mythic",
 				"mana_cost": "{2/B}{G}",
 				"type": "Sorcery",
-				"collector_number": "111",
+				"collector_number": "178",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/ADD-files/img/111_MM01 Season of Whimsy_back.jpg"
+						"en": "https://ethershade.github.io/sets/ADD-files/img/178_MM01 Season of Whimsy_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/111_MM01 Season of Whimsy_front.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/178_MM01 Season of Whimsy_front.jpg"
 				}
 			},
 			{
-				"name": "CG13 Commune with the Dead",
+				"name": "CG13 Commune with Travelers",
 				"rarity": "common",
 				"mana_cost": "{G}",
 				"type": "Sorcery",
-				"collector_number": "90",
+				"collector_number": "143",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/90_CG13 Commune with the Dead.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/143_CG13 Commune with Travelers.jpg"
 				}
 			},
 			{
-				"name": "CG13 Commune with the Dead_foil",
+				"name": "CG13 Commune with Travelers_foil",
 				"rarity": "common",
 				"mana_cost": "{G}",
 				"type": "Sorcery",
-				"collector_number": "90",
+				"collector_number": "143",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/90_CG13 Commune with the Dead.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/143_CG13 Commune with Travelers.jpg"
 				}
 			},
 			{
-				"name": "CG14 Bloody Growth",
+				"name": "CG14 Spontaneous Strength",
 				"rarity": "common",
-				"mana_cost": "{G}",
-				"type": "Instant",
-				"collector_number": "91",
+				"mana_cost": "{1}{G}",
+				"type": "Enchantment — Aura",
+				"collector_number": "144",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/91_CG14 Bloody Growth.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/144_CG14 Spontaneous Strength.jpg"
 				}
 			},
 			{
-				"name": "CG14 Bloody Growth_foil",
+				"name": "CG14 Spontaneous Strength_foil",
 				"rarity": "common",
-				"mana_cost": "{G}",
-				"type": "Instant",
-				"collector_number": "91",
+				"mana_cost": "{1}{G}",
+				"type": "Enchantment — Aura",
+				"collector_number": "144",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/91_CG14 Bloody Growth.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/144_CG14 Spontaneous Strength.jpg"
 				}
 			},
 			{
@@ -3091,11 +3105,11 @@
 				"rarity": "common",
 				"mana_cost": "{2}{G}",
 				"type": "Sorcery",
-				"collector_number": "92",
+				"collector_number": "145",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/92_CG15 Earth and Sun.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/145_CG15 Earth and Sun.jpg"
 				}
 			},
 			{
@@ -3103,35 +3117,35 @@
 				"rarity": "common",
 				"mana_cost": "{2}{G}",
 				"type": "Sorcery",
-				"collector_number": "92",
+				"collector_number": "145",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/92_CG15 Earth and Sun.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/145_CG15 Earth and Sun.jpg"
 				}
 			},
 			{
 				"name": "CA01 Wildforged Golem",
 				"rarity": "common",
 				"mana_cost": "{2}",
-				"type": "Artifact Creature — Golem",
-				"collector_number": "114",
+				"type": "Artifact Creature — Golem Shapeshifter",
+				"collector_number": "196",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/114_CA01 Wildforged Golem.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/196_CA01 Wildforged Golem.jpg"
 				}
 			},
 			{
 				"name": "CA01 Wildforged Golem_foil",
 				"rarity": "common",
 				"mana_cost": "{2}",
-				"type": "Artifact Creature — Golem",
-				"collector_number": "114",
+				"type": "Artifact Creature — Golem Shapeshifter",
+				"collector_number": "196",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/114_CA01 Wildforged Golem.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/196_CA01 Wildforged Golem.jpg"
 				}
 			},
 			{
@@ -3225,11 +3239,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}",
 				"type": "Artifact",
-				"collector_number": "116",
+				"collector_number": "198",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/116_CA03 Imposing Monolith.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/198_CA03 Imposing Monolith.jpg"
 				}
 			},
 			{
@@ -3237,11 +3251,11 @@
 				"rarity": "common",
 				"mana_cost": "{3}",
 				"type": "Artifact",
-				"collector_number": "116",
+				"collector_number": "198",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/116_CA03 Imposing Monolith.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/198_CA03 Imposing Monolith.jpg"
 				}
 			},
 			{
@@ -3249,11 +3263,11 @@
 				"rarity": "rare",
 				"mana_cost": "{3}",
 				"type": "Artifact",
-				"collector_number": "117",
+				"collector_number": "199",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/117_RA01 Whimsy Monolith.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/199_RA01 Whimsy Monolith.jpg"
 				}
 			},
 			{
@@ -3261,17 +3275,2773 @@
 				"rarity": "rare",
 				"mana_cost": "{3}",
 				"type": "Artifact",
-				"collector_number": "117",
+				"collector_number": "199",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/117_RA01 Whimsy Monolith.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/199_RA01 Whimsy Monolith.jpg"
+				}
+			},
+			{
+				"name": "UW03 Cauterizing Healer",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Demon Cleric",
+				"collector_number": "26",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/26_UW03 Cauterizing Healer.jpg"
+				}
+			},
+			{
+				"name": "UW03 Cauterizing Healer_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Demon Cleric",
+				"collector_number": "26",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/26_UW03 Cauterizing Healer.jpg"
+				}
+			},
+			{
+				"name": "UW01 Grounded Investigation",
+				"rarity": "uncommon",
+				"mana_cost": "{W}",
+				"type": "Instant",
+				"collector_number": "24",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/24_UW01 Grounded Investigation.jpg"
+				}
+			},
+			{
+				"name": "UW01 Grounded Investigation_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{W}",
+				"type": "Instant",
+				"collector_number": "24",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/24_UW01 Grounded Investigation.jpg"
+				}
+			},
+			{
+				"name": "UW04 Triclops Storyteller",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{W}",
+				"type": "Creature — Giant Bard",
+				"collector_number": "27",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/27_UW04 Triclops Storyteller.jpg"
+				}
+			},
+			{
+				"name": "UW04 Triclops Storyteller_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{W}",
+				"type": "Creature — Giant Bard",
+				"collector_number": "27",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/27_UW04 Triclops Storyteller.jpg"
+				}
+			},
+			{
+				"name": "RG03 Three-Eyed Teller",
+				"rarity": "rare",
+				"mana_cost": "{2}{G}",
+				"type": "Creature — Giant Bard",
+				"collector_number": "148",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/148_RG03 Three-Eyed Teller.jpg"
+				}
+			},
+			{
+				"name": "RG03 Three-Eyed Teller_foil",
+				"rarity": "rare",
+				"mana_cost": "{2}{G}",
+				"type": "Creature — Giant Bard",
+				"collector_number": "148",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/148_RG03 Three-Eyed Teller.jpg"
+				}
+			},
+			{
+				"name": "RB03 Three-Lie Teller",
+				"rarity": "rare",
+				"mana_cost": "{1}{B}",
+				"type": "Creature — Reflection Bard",
+				"collector_number": "86",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/86_RB03 Three-Lie Teller.jpg"
+				}
+			},
+			{
+				"name": "RB03 Three-Lie Teller_foil",
+				"rarity": "rare",
+				"mana_cost": "{1}{B}",
+				"type": "Creature — Reflection Bard",
+				"collector_number": "86",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/86_RB03 Three-Lie Teller.jpg"
+				}
+			},
+			{
+				"name": "UW05 Blighted Bard",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{W}",
+				"type": "Creature — Human Bard",
+				"collector_number": "28",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/28_UW05 Blighted Bard.jpg"
+				}
+			},
+			{
+				"name": "UW05 Blighted Bard_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{W}",
+				"type": "Creature — Human Bard",
+				"collector_number": "28",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/28_UW05 Blighted Bard.jpg"
+				}
+			},
+			{
+				"name": "UM01 Brickfolk Kinmage",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}{U}",
+				"type": "Creature — Wall Spellshaper",
+				"collector_number": "186",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/186_UM01 Brickfolk Kinmage.jpg"
+				}
+			},
+			{
+				"name": "UM01 Brickfolk Kinmage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}{U}",
+				"type": "Creature — Wall Spellshaper",
+				"collector_number": "186",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/186_UM01 Brickfolk Kinmage.jpg"
+				}
+			},
+			{
+				"name": "UM02 Lunarkin Kinmage",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{U}{B}",
+				"type": "Creature — Reflection Spellshaper",
+				"collector_number": "187",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/187_UM02 Lunarkin Kinmage.jpg"
+				}
+			},
+			{
+				"name": "UM02 Lunarkin Kinmage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{U}{B}",
+				"type": "Creature — Reflection Spellshaper",
+				"collector_number": "187",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/187_UM02 Lunarkin Kinmage.jpg"
+				}
+			},
+			{
+				"name": "UM03 Blade Demon Kinmage",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{B}{R}",
+				"type": "Creature — Demon Spellshaper",
+				"collector_number": "188",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/188_UM03 Blade Demon Kinmage.jpg"
+				}
+			},
+			{
+				"name": "UM03 Blade Demon Kinmage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{B}{R}",
+				"type": "Creature — Demon Spellshaper",
+				"collector_number": "188",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/188_UM03 Blade Demon Kinmage.jpg"
+				}
+			},
+			{
+				"name": "UM04 Solarkin Kinmage",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{R}{G}",
+				"type": "Creature — Elemental Spellshaper",
+				"collector_number": "189",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/189_UM04 Solarkin Kinmage.jpg"
+				}
+			},
+			{
+				"name": "UM04 Solarkin Kinmage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{R}{G}",
+				"type": "Creature — Elemental Spellshaper",
+				"collector_number": "189",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/189_UM04 Solarkin Kinmage.jpg"
+				}
+			},
+			{
+				"name": "UM05 Triclops Kinmage",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{G}{W}",
+				"type": "Creature — Giant Spellshaper",
+				"collector_number": "190",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/190_UM05 Triclops Kinmage.jpg"
+				}
+			},
+			{
+				"name": "UM05 Triclops Kinmage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{G}{W}",
+				"type": "Creature — Giant Spellshaper",
+				"collector_number": "190",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/190_UM05 Triclops Kinmage.jpg"
+				}
+			},
+			{
+				"name": "ML01 The Grand Foundation",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "Legendary Kindred Land — Wall",
+				"collector_number": "203",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/203_ML01 The Grand Foundation.jpg"
+				}
+			},
+			{
+				"name": "ML01 The Grand Foundation_foil",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "Legendary Kindred Land — Wall",
+				"collector_number": "203",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/203_ML01 The Grand Foundation.jpg"
+				}
+			},
+			{
+				"name": "ML02 The Lunar Isle",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "Legendary Kindred Land — Reflection",
+				"collector_number": "204",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/204_ML02 The Lunar Isle.jpg"
+				}
+			},
+			{
+				"name": "ML02 The Lunar Isle_foil",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "Legendary Kindred Land — Reflection",
+				"collector_number": "204",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/204_ML02 The Lunar Isle.jpg"
+				}
+			},
+			{
+				"name": "ML03 The Bladed Pass",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "Legendary Kindred Land — Demon",
+				"collector_number": "205",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/205_ML03 The Bladed Pass.jpg"
+				}
+			},
+			{
+				"name": "ML03 The Bladed Pass_foil",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "Legendary Kindred Land — Demon",
+				"collector_number": "205",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/205_ML03 The Bladed Pass.jpg"
+				}
+			},
+			{
+				"name": "0/1 Demon Token",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Demon",
+				"collector_number": "3",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/3t_0/1 Demon Token.jpg"
+				}
+			},
+			{
+				"name": "0/1 Demon Token_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Demon",
+				"collector_number": "3",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/3t_0/1 Demon Token.jpg"
+				}
+			},
+			{
+				"name": "ML04 The Solar Summit",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "Legendary Kindred Land — Elemental",
+				"collector_number": "206",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/206_ML04 The Solar Summit.jpg"
+				}
+			},
+			{
+				"name": "ML04 The Solar Summit_foil",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "Legendary Kindred Land — Elemental",
+				"collector_number": "206",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/206_ML04 The Solar Summit.jpg"
+				}
+			},
+			{
+				"name": "ML05 The Hall of Sight",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "Legendary Kindred Land — Giant",
+				"collector_number": "207",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/207_ML05 The Hall of Sight.jpg"
+				}
+			},
+			{
+				"name": "ML05 The Hall of Sight_foil",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "Legendary Kindred Land — Giant",
+				"collector_number": "207",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/207_ML05 The Hall of Sight.jpg"
+				}
+			},
+			{
+				"name": "MR01 Vetari, Traitor",
+				"rarity": "mythic",
+				"mana_cost": "{2}{R}",
+				"type": "Legendary Creature — Elemental Rogue",
+				"collector_number": "115",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/115_MR01 Vetari, Traitor.jpg"
+				}
+			},
+			{
+				"name": "MR01 Vetari, Traitor_foil",
+				"rarity": "mythic",
+				"mana_cost": "{2}{R}",
+				"type": "Legendary Creature — Elemental Rogue",
+				"collector_number": "115",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/115_MR01 Vetari, Traitor.jpg"
+				}
+			},
+			{
+				"name": "MU01 Ketaro, Traitor",
+				"rarity": "mythic",
+				"mana_cost": "{2}{U}",
+				"type": "Legendary Creature — Reflection Rogue",
+				"collector_number": "52",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/52_MU01 Ketaro, Traitor.jpg"
+				}
+			},
+			{
+				"name": "MU01 Ketaro, Traitor_foil",
+				"rarity": "mythic",
+				"mana_cost": "{2}{U}",
+				"type": "Legendary Creature — Reflection Rogue",
+				"collector_number": "52",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/52_MU01 Ketaro, Traitor.jpg"
+				}
+			},
+			{
+				"name": "ML06 The Dreamer's Home",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "Legendary Land",
+				"collector_number": "208",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/208_ML06 The Dreamer's Home_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/208_ML06 The Dreamer's Home_front.jpg"
+				}
+			},
+			{
+				"name": "ML06 The Dreamer's Home_foil",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "Legendary Land",
+				"collector_number": "208",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/208_ML06 The Dreamer's Home_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/208_ML06 The Dreamer's Home_front.jpg"
+				}
+			},
+			{
+				"name": "UC01 Essence of Kinship",
+				"rarity": "uncommon",
+				"mana_cost": "{1}",
+				"type": "Enchantment",
+				"collector_number": "4",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/4_UC01 Essence of Kinship.jpg"
+				}
+			},
+			{
+				"name": "UC01 Essence of Kinship_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}",
+				"type": "Enchantment",
+				"collector_number": "4",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/4_UC01 Essence of Kinship.jpg"
+				}
+			},
+			{
+				"name": "UW02 Pearl Dreamer of Whimsy",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}",
+				"type": "Artifact Creature — Construct Spirit",
+				"collector_number": "25",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/25_UW02 Pearl Dreamer of Whimsy_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/25_UW02 Pearl Dreamer of Whimsy_front.jpg"
+				}
+			},
+			{
+				"name": "UW02 Pearl Dreamer of Whimsy_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}",
+				"type": "Artifact Creature — Construct Spirit",
+				"collector_number": "25",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/25_UW02 Pearl Dreamer of Whimsy_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/25_UW02 Pearl Dreamer of Whimsy_front.jpg"
+				}
+			},
+			{
+				"name": "UB02 Jet Dreamer of Whimsy",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{B}",
+				"type": "Artifact Creature — Construct Spirit",
+				"collector_number": "88",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/88_UB02 Jet Dreamer of Whimsy_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/88_UB02 Jet Dreamer of Whimsy_front.jpg"
+				}
+			},
+			{
+				"name": "UB02 Jet Dreamer of Whimsy_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{B}",
+				"type": "Artifact Creature — Construct Spirit",
+				"collector_number": "88",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/88_UB02 Jet Dreamer of Whimsy_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/88_UB02 Jet Dreamer of Whimsy_front.jpg"
+				}
+			},
+			{
+				"name": "UU02 Sapphire Dreamer of Whimsy",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{U}",
+				"type": "Artifact Creature — Construct Spirit",
+				"collector_number": "57",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/57_UU02 Sapphire Dreamer of Whimsy_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/57_UU02 Sapphire Dreamer of Whimsy_front.jpg"
+				}
+			},
+			{
+				"name": "UU02 Sapphire Dreamer of Whimsy_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{U}",
+				"type": "Artifact Creature — Construct Spirit",
+				"collector_number": "57",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/57_UU02 Sapphire Dreamer of Whimsy_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/57_UU02 Sapphire Dreamer of Whimsy_front.jpg"
+				}
+			},
+			{
+				"name": "UR02 Ruby Dreamer of Whimsy",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{R}",
+				"type": "Artifact Creature — Construct Spirit",
+				"collector_number": "119",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/119_UR02 Ruby Dreamer of Whimsy_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/119_UR02 Ruby Dreamer of Whimsy_front.jpg"
+				}
+			},
+			{
+				"name": "UR02 Ruby Dreamer of Whimsy_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{R}",
+				"type": "Artifact Creature — Construct Spirit",
+				"collector_number": "119",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/119_UR02 Ruby Dreamer of Whimsy_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/119_UR02 Ruby Dreamer of Whimsy_front.jpg"
+				}
+			},
+			{
+				"name": "UG02 Emerald Dreamer of Whimsy",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{G}",
+				"type": "Artifact Creature — Construct Spirit",
+				"collector_number": "151",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/151_UG02 Emerald Dreamer of Whimsy_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/151_UG02 Emerald Dreamer of Whimsy_front.jpg"
+				}
+			},
+			{
+				"name": "UG02 Emerald Dreamer of Whimsy_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{G}",
+				"type": "Artifact Creature — Construct Spirit",
+				"collector_number": "151",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/151_UG02 Emerald Dreamer of Whimsy_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/151_UG02 Emerald Dreamer of Whimsy_front.jpg"
+				}
+			},
+			{
+				"name": "UA02 Opal Dreamer of Whimsy",
+				"rarity": "uncommon",
+				"mana_cost": "{2}",
+				"type": "Artifact Creature — Construct Spirit",
+				"collector_number": "202",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/202_UA02 Opal Dreamer of Whimsy_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/202_UA02 Opal Dreamer of Whimsy_front.jpg"
+				}
+			},
+			{
+				"name": "UA02 Opal Dreamer of Whimsy_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{2}",
+				"type": "Artifact Creature — Construct Spirit",
+				"collector_number": "202",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/202_UA02 Opal Dreamer of Whimsy_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/202_UA02 Opal Dreamer of Whimsy_front.jpg"
+				}
+			},
+			{
+				"name": "UA01 Wildforged Automaton",
+				"rarity": "uncommon",
+				"mana_cost": "{1}",
+				"type": "Artifact Creature — Construct Shapeshifter",
+				"collector_number": "201",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/201_UA01 Wildforged Automaton.jpg"
+				}
+			},
+			{
+				"name": "UA01 Wildforged Automaton_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}",
+				"type": "Artifact Creature — Construct Shapeshifter",
+				"collector_number": "201",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/201_UA01 Wildforged Automaton.jpg"
+				}
+			},
+			{
+				"name": "UC02 Serum Wanderings",
+				"rarity": "uncommon",
+				"mana_cost": "{3}",
+				"type": "Kindred Instant — Wanderer",
+				"collector_number": "5",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/5_UC02 Serum Wanderings.jpg"
+				}
+			},
+			{
+				"name": "UC02 Serum Wanderings_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{3}",
+				"type": "Kindred Instant — Wanderer",
+				"collector_number": "5",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/5_UC02 Serum Wanderings.jpg"
+				}
+			},
+			{
+				"name": "UW08 Wandering Recruiter",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{W}{W}",
+				"type": "Creature — Human Peasant Soldier Wanderer",
+				"collector_number": "31",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/31_UW08 Wandering Recruiter.jpg"
+				}
+			},
+			{
+				"name": "UW08 Wandering Recruiter_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{W}{W}",
+				"type": "Creature — Human Peasant Soldier Wanderer",
+				"collector_number": "31",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/31_UW08 Wandering Recruiter.jpg"
+				}
+			},
+			{
+				"name": "RZ01 Harbinger of Whimsy Bone",
+				"rarity": "rare",
+				"mana_cost": "{2/B}{W}",
+				"type": "Creature — Skeleton Wanderer",
+				"collector_number": "181",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/181_RZ01 Harbinger of Whimsy Bone_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/181_RZ01 Harbinger of Whimsy Bone_front.jpg"
+				}
+			},
+			{
+				"name": "RZ01 Harbinger of Whimsy Bone_foil",
+				"rarity": "rare",
+				"mana_cost": "{2/B}{W}",
+				"type": "Creature — Skeleton Wanderer",
+				"collector_number": "181",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/181_RZ01 Harbinger of Whimsy Bone_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/181_RZ01 Harbinger of Whimsy Bone_front.jpg"
+				}
+			},
+			{
+				"name": "RZ02 Harbinger of Whimsy Thunder",
+				"rarity": "rare",
+				"mana_cost": "{2/R}{U}",
+				"type": "Creature — Efreet Wanderer",
+				"collector_number": "182",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/182_RZ02 Harbinger of Whimsy Thunder_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/182_RZ02 Harbinger of Whimsy Thunder_front.jpg"
+				}
+			},
+			{
+				"name": "RZ02 Harbinger of Whimsy Thunder_foil",
+				"rarity": "rare",
+				"mana_cost": "{2/R}{U}",
+				"type": "Creature — Efreet Wanderer",
+				"collector_number": "182",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/182_RZ02 Harbinger of Whimsy Thunder_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/182_RZ02 Harbinger of Whimsy Thunder_front.jpg"
+				}
+			},
+			{
+				"name": "RZ03 Harbinger of Whimsy Death",
+				"rarity": "rare",
+				"mana_cost": "{2/G}{B}",
+				"type": "Creature — Zombie Wanderer",
+				"collector_number": "183",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/183_RZ03 Harbinger of Whimsy Death_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/183_RZ03 Harbinger of Whimsy Death_front.jpg"
+				}
+			},
+			{
+				"name": "RZ03 Harbinger of Whimsy Death_foil",
+				"rarity": "rare",
+				"mana_cost": "{2/G}{B}",
+				"type": "Creature — Zombie Wanderer",
+				"collector_number": "183",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/183_RZ03 Harbinger of Whimsy Death_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/183_RZ03 Harbinger of Whimsy Death_front.jpg"
+				}
+			},
+			{
+				"name": "RZ04 Harbinger of Whimsy Light",
+				"rarity": "rare",
+				"mana_cost": "{2/W}{R}",
+				"type": "Creature — Glimmer Wanderer",
+				"collector_number": "184",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/184_RZ04 Harbinger of Whimsy Light_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/184_RZ04 Harbinger of Whimsy Light_front.jpg"
+				}
+			},
+			{
+				"name": "RZ04 Harbinger of Whimsy Light_foil",
+				"rarity": "rare",
+				"mana_cost": "{2/W}{R}",
+				"type": "Creature — Glimmer Wanderer",
+				"collector_number": "184",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/184_RZ04 Harbinger of Whimsy Light_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/184_RZ04 Harbinger of Whimsy Light_front.jpg"
+				}
+			},
+			{
+				"name": "RZ05 Harbinger of Whimsy Water",
+				"rarity": "rare",
+				"mana_cost": "{2/U}{G}",
+				"type": "Creature — Merfolk Wanderer",
+				"collector_number": "185",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/185_RZ05 Harbinger of Whimsy Water_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/185_RZ05 Harbinger of Whimsy Water_front.jpg"
+				}
+			},
+			{
+				"name": "RZ05 Harbinger of Whimsy Water_foil",
+				"rarity": "rare",
+				"mana_cost": "{2/U}{G}",
+				"type": "Creature — Merfolk Wanderer",
+				"collector_number": "185",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/185_RZ05 Harbinger of Whimsy Water_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/185_RZ05 Harbinger of Whimsy Water_front.jpg"
+				}
+			},
+			{
+				"name": "UG08 Wandering Strongman",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{G}{G}",
+				"type": "Creature — Human Warrior Performer Wanderer",
+				"collector_number": "157",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/157_UG08 Wandering Strongman.jpg"
+				}
+			},
+			{
+				"name": "UG08 Wandering Strongman_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{G}{G}",
+				"type": "Creature — Human Warrior Performer Wanderer",
+				"collector_number": "157",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/157_UG08 Wandering Strongman.jpg"
+				}
+			},
+			{
+				"name": "UU08 Wandering Magician",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{U}{U}",
+				"type": "Creature — Human Wizard Performer Wanderer",
+				"collector_number": "63",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/63_UU08 Wandering Magician.jpg"
+				}
+			},
+			{
+				"name": "UU08 Wandering Magician_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{U}{U}",
+				"type": "Creature — Human Wizard Performer Wanderer",
+				"collector_number": "63",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/63_UU08 Wandering Magician.jpg"
+				}
+			},
+			{
+				"name": "UB08 Wandering Stitcher",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{B}{B}",
+				"type": "Creature — Human Wizard Scientist Wanderer",
+				"collector_number": "94",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/94_UB08 Wandering Stitcher.jpg"
+				}
+			},
+			{
+				"name": "UB08 Wandering Stitcher_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{B}{B}",
+				"type": "Creature — Human Wizard Scientist Wanderer",
+				"collector_number": "94",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/94_UB08 Wandering Stitcher.jpg"
+				}
+			},
+			{
+				"name": "UR08 Wandering Firebreather",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{R}{R}",
+				"type": "Creature — Human Sorcerer Performer Wanderer",
+				"collector_number": "125",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/125_UR08 Wandering Firebreather.jpg"
+				}
+			},
+			{
+				"name": "UR08 Wandering Firebreather_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{R}{R}",
+				"type": "Creature — Human Sorcerer Performer Wanderer",
+				"collector_number": "125",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/125_UR08 Wandering Firebreather.jpg"
+				}
+			},
+			{
+				"name": "UW06 Mason-Doctor",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{W}",
+				"type": "Creature — Wall Cleric",
+				"collector_number": "29",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/29_UW06 Mason-Doctor.jpg"
+				}
+			},
+			{
+				"name": "UW06 Mason-Doctor_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{W}",
+				"type": "Creature — Wall Cleric",
+				"collector_number": "29",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/29_UW06 Mason-Doctor.jpg"
+				}
+			},
+			{
+				"name": "UW07 Wanderlust Golem",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{W}",
+				"type": "Artifact Creature — Golem",
+				"collector_number": "30",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/30_UW07 Wanderlust Golem.jpg"
+				}
+			},
+			{
+				"name": "UW07 Wanderlust Golem_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{W}",
+				"type": "Artifact Creature — Golem",
+				"collector_number": "30",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/30_UW07 Wanderlust Golem.jpg"
+				}
+			},
+			{
+				"name": "UW09 Fragmented Purge",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{W}",
+				"type": "Instant",
+				"collector_number": "32",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/32_UW09 Fragmented Purge.jpg"
+				}
+			},
+			{
+				"name": "UW09 Fragmented Purge_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{W}",
+				"type": "Instant",
+				"collector_number": "32",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/32_UW09 Fragmented Purge.jpg"
+				}
+			},
+			{
+				"name": "UU09 Fragmented Counterspell",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{U}",
+				"type": "Instant",
+				"collector_number": "64",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/64_UU09 Fragmented Counterspell.jpg"
+				}
+			},
+			{
+				"name": "UU09 Fragmented Counterspell_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{U}",
+				"type": "Instant",
+				"collector_number": "64",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/64_UU09 Fragmented Counterspell.jpg"
+				}
+			},
+			{
+				"name": "UB09 Fragmented Murder",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{B}",
+				"type": "Instant",
+				"collector_number": "95",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/95_UB09 Fragmented Murder.jpg"
+				}
+			},
+			{
+				"name": "UB09 Fragmented Murder_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{B}",
+				"type": "Instant",
+				"collector_number": "95",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/95_UB09 Fragmented Murder.jpg"
+				}
+			},
+			{
+				"name": "UR09 Fragmented Flames",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{R}",
+				"type": "Instant",
+				"collector_number": "126",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/126_UR09 Fragmented Flames.jpg"
+				}
+			},
+			{
+				"name": "UR09 Fragmented Flames_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{R}",
+				"type": "Instant",
+				"collector_number": "126",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/126_UR09 Fragmented Flames.jpg"
+				}
+			},
+			{
+				"name": "UG09 Fragmented Naturalization",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{G}",
+				"type": "Instant",
+				"collector_number": "158",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/158_UG09 Fragmented Naturalization.jpg"
+				}
+			},
+			{
+				"name": "UG09 Fragmented Naturalization_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{G}",
+				"type": "Instant",
+				"collector_number": "158",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/158_UG09 Fragmented Naturalization.jpg"
+				}
+			},
+			{
+				"name": "UW10 Formidable Hammer",
+				"rarity": "uncommon",
+				"mana_cost": "{W}",
+				"type": "Artifact — Equipment",
+				"collector_number": "33",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/33_UW10 Formidable Hammer.jpg"
+				}
+			},
+			{
+				"name": "UW10 Formidable Hammer_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{W}",
+				"type": "Artifact — Equipment",
+				"collector_number": "33",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/33_UW10 Formidable Hammer.jpg"
+				}
+			},
+			{
+				"name": "UW11 Foundational Virtue",
+				"rarity": "uncommon",
+				"mana_cost": "{W}",
+				"type": "Enchantment — Aura",
+				"collector_number": "34",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/34_UW11 Foundational Virtue.jpg"
+				}
+			},
+			{
+				"name": "UW11 Foundational Virtue_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{W}",
+				"type": "Enchantment — Aura",
+				"collector_number": "34",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/34_UW11 Foundational Virtue.jpg"
+				}
+			},
+			{
+				"name": "UW12 Loyal Wanderings",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{W}",
+				"type": "Kindred Sorcery — Wanderer",
+				"collector_number": "35",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/35_UW12 Loyal Wanderings.jpg"
+				}
+			},
+			{
+				"name": "UW12 Loyal Wanderings_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{W}",
+				"type": "Kindred Sorcery — Wanderer",
+				"collector_number": "35",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/35_UW12 Loyal Wanderings.jpg"
+				}
+			},
+			{
+				"name": "UU12 Knowledgeable Wanderings",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{U}",
+				"type": "Kindred Sorcery — Wanderer",
+				"collector_number": "67",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/67_UU12 Knowledgeable Wanderings.jpg"
+				}
+			},
+			{
+				"name": "UU12 Knowledgeable Wanderings_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{U}",
+				"type": "Kindred Sorcery — Wanderer",
+				"collector_number": "67",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/67_UU12 Knowledgeable Wanderings.jpg"
+				}
+			},
+			{
+				"name": "UB12 Persistent Wanderings",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{B}",
+				"type": "Kindred Sorcery — Wanderer",
+				"collector_number": "98",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/98_UB12 Persistent Wanderings.jpg"
+				}
+			},
+			{
+				"name": "UB12 Persistent Wanderings_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{B}",
+				"type": "Kindred Sorcery — Wanderer",
+				"collector_number": "98",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/98_UB12 Persistent Wanderings.jpg"
+				}
+			},
+			{
+				"name": "UR12 Courageous Wanderings",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{R}",
+				"type": "Kindred Sorcery — Wanderer",
+				"collector_number": "129",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/129_UR12 Courageous Wanderings.jpg"
+				}
+			},
+			{
+				"name": "UR12 Courageous Wanderings_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{R}",
+				"type": "Kindred Sorcery — Wanderer",
+				"collector_number": "129",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/129_UR12 Courageous Wanderings.jpg"
+				}
+			},
+			{
+				"name": "UG12 Strengthful Wanderings",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{G}",
+				"type": "Kindred Sorcery — Wanderer",
+				"collector_number": "161",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/161_UG12 Strengthful Wanderings.jpg"
+				}
+			},
+			{
+				"name": "UG12 Strengthful Wanderings_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{G}",
+				"type": "Kindred Sorcery — Wanderer",
+				"collector_number": "161",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/161_UG12 Strengthful Wanderings.jpg"
+				}
+			},
+			{
+				"name": "UM06 Brickfolk Charm",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}{U}",
+				"type": "Kindred Instant — Wall",
+				"collector_number": "191",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/191_UM06 Brickfolk Charm.jpg"
+				}
+			},
+			{
+				"name": "UM06 Brickfolk Charm_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}{U}",
+				"type": "Kindred Instant — Wall",
+				"collector_number": "191",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/191_UM06 Brickfolk Charm.jpg"
+				}
+			},
+			{
+				"name": "UM07 Lunarkin Charm",
+				"rarity": "uncommon",
+				"mana_cost": "{U}{B}",
+				"type": "Kindred Instant — Reflection",
+				"collector_number": "192",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/192_UM07 Lunarkin Charm.jpg"
+				}
+			},
+			{
+				"name": "UM07 Lunarkin Charm_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{U}{B}",
+				"type": "Kindred Instant — Reflection",
+				"collector_number": "192",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/192_UM07 Lunarkin Charm.jpg"
+				}
+			},
+			{
+				"name": "UM08 Blade Demon Charm",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{R}",
+				"type": "Kindred Instant — Demon",
+				"collector_number": "193",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/193_UM08 Blade Demon Charm.jpg"
+				}
+			},
+			{
+				"name": "UM08 Blade Demon Charm_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{R}",
+				"type": "Kindred Instant — Demon",
+				"collector_number": "193",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/193_UM08 Blade Demon Charm.jpg"
+				}
+			},
+			{
+				"name": "UM09 Solarkin Charm",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{R}{G}",
+				"type": "Kindred Instant — Elemental",
+				"collector_number": "194",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/194_UM09 Solarkin Charm.jpg"
+				}
+			},
+			{
+				"name": "UM09 Solarkin Charm_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{R}{G}",
+				"type": "Kindred Instant — Elemental",
+				"collector_number": "194",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/194_UM09 Solarkin Charm.jpg"
+				}
+			},
+			{
+				"name": "UM10 Triclops Charm",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{W}",
+				"type": "Kindred Instant — Giant",
+				"collector_number": "195",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/195_UM10 Triclops Charm.jpg"
+				}
+			},
+			{
+				"name": "UM10 Triclops Charm_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{W}",
+				"type": "Kindred Instant — Giant",
+				"collector_number": "195",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/195_UM10 Triclops Charm.jpg"
+				}
+			},
+			{
+				"name": "UU04 Pacifist Flames",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{U}",
+				"type": "Creature — Elemental Wizard",
+				"collector_number": "59",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/59_UU04 Pacifist Flames.jpg"
+				}
+			},
+			{
+				"name": "UU04 Pacifist Flames_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{U}",
+				"type": "Creature — Elemental Wizard",
+				"collector_number": "59",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/59_UU04 Pacifist Flames.jpg"
+				}
+			},
+			{
+				"name": "UU05 Scholar of Wanderlust",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{U}",
+				"type": "Creature — Human Advisor",
+				"collector_number": "60",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/60_UU05 Scholar of Wanderlust.jpg"
+				}
+			},
+			{
+				"name": "UU05 Scholar of Wanderlust_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{U}",
+				"type": "Creature — Human Advisor",
+				"collector_number": "60",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/60_UU05 Scholar of Wanderlust.jpg"
+				}
+			},
+			{
+				"name": "UU06 Flowbringer Lunarkin",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{U}",
+				"type": "Creature — Reflection Sorcerer",
+				"collector_number": "61",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/61_UU06 Flowbringer Lunarkin.jpg"
+				}
+			},
+			{
+				"name": "UU06 Flowbringer Lunarkin_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{U}",
+				"type": "Creature — Reflection Sorcerer",
+				"collector_number": "61",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/61_UU06 Flowbringer Lunarkin.jpg"
+				}
+			},
+			{
+				"name": "UU07 Whimsywinder",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{U}",
+				"type": "Creature — Serpent",
+				"collector_number": "62",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/62_UU07 Whimsywinder.jpg"
+				}
+			},
+			{
+				"name": "UU07 Whimsywinder_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{U}",
+				"type": "Creature — Serpent",
+				"collector_number": "62",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/62_UU07 Whimsywinder.jpg"
+				}
+			},
+			{
+				"name": "UU10 Box of Lunacy",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{U}",
+				"type": "Artifact",
+				"collector_number": "65",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/65_UU10 Box of Lunacy.jpg"
+				}
+			},
+			{
+				"name": "UU10 Box of Lunacy_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{U}",
+				"type": "Artifact",
+				"collector_number": "65",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/65_UU10 Box of Lunacy.jpg"
+				}
+			},
+			{
+				"name": "RA02 Lunatic Sphere",
+				"rarity": "rare",
+				"mana_cost": "{2}",
+				"type": "Artifact",
+				"collector_number": "200",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/200_RA02 Lunatic Sphere.jpg"
+				}
+			},
+			{
+				"name": "RA02 Lunatic Sphere_foil",
+				"rarity": "rare",
+				"mana_cost": "{2}",
+				"type": "Artifact",
+				"collector_number": "200",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/200_RA02 Lunatic Sphere.jpg"
+				}
+			},
+			{
+				"name": "UU11 Foundational Curiosity",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{U}",
+				"type": "Enchantment — Aura",
+				"collector_number": "66",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/66_UU11 Foundational Curiosity.jpg"
+				}
+			},
+			{
+				"name": "UU11 Foundational Curiosity_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{U}",
+				"type": "Enchantment — Aura",
+				"collector_number": "66",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/66_UU11 Foundational Curiosity.jpg"
+				}
+			},
+			{
+				"name": "UB03 Blighted Bully",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{B}",
+				"type": "Creature — Human Horror",
+				"collector_number": "89",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/89_UB03 Blighted Bully.jpg"
+				}
+			},
+			{
+				"name": "UB03 Blighted Bully_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{B}",
+				"type": "Creature — Human Horror",
+				"collector_number": "89",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/89_UB03 Blighted Bully.jpg"
+				}
+			},
+			{
+				"name": "UB07 Blazing Blade Champion",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{B}",
+				"type": "Creature — Demon Warrior",
+				"collector_number": "93",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/93_UB07 Blazing Blade Champion.jpg"
+				}
+			},
+			{
+				"name": "UB07 Blazing Blade Champion_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{B}",
+				"type": "Creature — Demon Warrior",
+				"collector_number": "93",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/93_UB07 Blazing Blade Champion.jpg"
+				}
+			},
+			{
+				"name": "UB04 Wanderlust Channeler",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{B}",
+				"type": "Creature — Human Warlock",
+				"collector_number": "90",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/90_UB04 Wanderlust Channeler.jpg"
+				}
+			},
+			{
+				"name": "UB04 Wanderlust Channeler_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{B}",
+				"type": "Creature — Human Warlock",
+				"collector_number": "90",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/90_UB04 Wanderlust Channeler.jpg"
+				}
+			},
+			{
+				"name": "UB05 Lunarkin Assassin",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{B}",
+				"type": "Creature — Reflection Rogue",
+				"collector_number": "91",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/91_UB05 Lunarkin Assassin.jpg"
+				}
+			},
+			{
+				"name": "UB05 Lunarkin Assassin_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{B}",
+				"type": "Creature — Reflection Rogue",
+				"collector_number": "91",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/91_UB05 Lunarkin Assassin.jpg"
+				}
+			},
+			{
+				"name": "UB06 Fleshy Blight-Spreader",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{B}",
+				"type": "Creature — Horror",
+				"collector_number": "92",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/92_UB06 Fleshy Blight-Spreader.jpg"
+				}
+			},
+			{
+				"name": "UB06 Fleshy Blight-Spreader_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{B}",
+				"type": "Creature — Horror",
+				"collector_number": "92",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/92_UB06 Fleshy Blight-Spreader.jpg"
+				}
+			},
+			{
+				"name": "UB10 Vengeant Venture",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{B}",
+				"type": "Sorcery",
+				"collector_number": "96",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/96_UB10 Vengeant Venture.jpg"
+				}
+			},
+			{
+				"name": "UB10 Vengeant Venture_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{B}",
+				"type": "Sorcery",
+				"collector_number": "96",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/96_UB10 Vengeant Venture.jpg"
+				}
+			},
+			{
+				"name": "UB11 Arena of Insanity",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{B}",
+				"type": "Enchantment — Aura",
+				"collector_number": "97",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/97_UB11 Arena of Insanity.jpg"
+				}
+			},
+			{
+				"name": "UB11 Arena of Insanity_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{B}",
+				"type": "Enchantment — Aura",
+				"collector_number": "97",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/97_UB11 Arena of Insanity.jpg"
+				}
+			},
+			{
+				"name": "UR03 Swift Seeker",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{R}",
+				"type": "Creature — Human Scout",
+				"collector_number": "120",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/120_UR03 Swift Seeker.jpg"
+				}
+			},
+			{
+				"name": "UR03 Swift Seeker_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{R}",
+				"type": "Creature — Human Scout",
+				"collector_number": "120",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/120_UR03 Swift Seeker.jpg"
+				}
+			},
+			{
+				"name": "UR04 Solarflame Zealot",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{R}",
+				"type": "Creature — Elemental Warrior",
+				"collector_number": "121",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/121_UR04 Solarflame Zealot.jpg"
+				}
+			},
+			{
+				"name": "UR04 Solarflame Zealot_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{R}",
+				"type": "Creature — Elemental Warrior",
+				"collector_number": "121",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/121_UR04 Solarflame Zealot.jpg"
+				}
+			},
+			{
+				"name": "UR05 Inspired Whimsyshaman",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{R}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "122",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/122_UR05 Inspired Whimsyshaman.jpg"
+				}
+			},
+			{
+				"name": "UR05 Inspired Whimsyshaman_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{R}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "122",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/122_UR05 Inspired Whimsyshaman.jpg"
+				}
+			},
+			{
+				"name": "UR06 Archival Pyromancer",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{R}",
+				"type": "Creature — Demon Sorcerer",
+				"collector_number": "123",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/123_UR06 Archival Pyromancer.jpg"
+				}
+			},
+			{
+				"name": "UR06 Archival Pyromancer_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{R}",
+				"type": "Creature — Demon Sorcerer",
+				"collector_number": "123",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/123_UR06 Archival Pyromancer.jpg"
+				}
+			},
+			{
+				"name": "UR07 Grim-Might Fleshbeast",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{R}",
+				"type": "Creature — Beast Horror",
+				"collector_number": "124",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/124_UR07 Grim-Might Fleshbeast.jpg"
+				}
+			},
+			{
+				"name": "UR07 Grim-Might Fleshbeast_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{R}",
+				"type": "Creature — Beast Horror",
+				"collector_number": "124",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/124_UR07 Grim-Might Fleshbeast.jpg"
+				}
+			},
+			{
+				"name": "UR11 Column of Swift Dreams",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{R}",
+				"type": "Artifact",
+				"collector_number": "128",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/128_UR11 Column of Swift Dreams.jpg"
+				}
+			},
+			{
+				"name": "UR11 Column of Swift Dreams_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{R}",
+				"type": "Artifact",
+				"collector_number": "128",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/128_UR11 Column of Swift Dreams.jpg"
+				}
+			},
+			{
+				"name": "UR10 Act of Courageous Treason",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{R}",
+				"type": "Sorcery",
+				"collector_number": "127",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/127_UR10 Act of Courageous Treason.jpg"
+				}
+			},
+			{
+				"name": "UR10 Act of Courageous Treason_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{R}",
+				"type": "Sorcery",
+				"collector_number": "127",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/127_UR10 Act of Courageous Treason.jpg"
+				}
+			},
+			{
+				"name": "UG01 Caretaking Figment",
+				"rarity": "uncommon",
+				"mana_cost": "{G}",
+				"type": "Creature — Reflection Druid",
+				"collector_number": "150",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/150_UG01 Caretaking Figment.jpg"
+				}
+			},
+			{
+				"name": "UG01 Caretaking Figment_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{G}",
+				"type": "Creature — Reflection Druid",
+				"collector_number": "150",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/150_UG01 Caretaking Figment.jpg"
+				}
+			},
+			{
+				"name": "UG03 Sniffing Wildebeast",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{G}",
+				"type": "Creature — Beast",
+				"collector_number": "152",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/152_UG03 Sniffing Wildebeast.jpg"
+				}
+			},
+			{
+				"name": "UG03 Sniffing Wildebeast_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{G}",
+				"type": "Creature — Beast",
+				"collector_number": "152",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/152_UG03 Sniffing Wildebeast.jpg"
+				}
+			},
+			{
+				"name": "UG05 Oathsworn Triclops",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{G}",
+				"type": "Creature — Giant Druid",
+				"collector_number": "154",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/154_UG05 Oathsworn Triclops.jpg"
+				}
+			},
+			{
+				"name": "UG05 Oathsworn Triclops_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{G}",
+				"type": "Creature — Giant Druid",
+				"collector_number": "154",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/154_UG05 Oathsworn Triclops.jpg"
+				}
+			},
+			{
+				"name": "UG03 Wilderness Maniac",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{G}",
+				"type": "Creature — Human Advisor",
+				"collector_number": "153",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/153_UG03 Wilderness Maniac.jpg"
+				}
+			},
+			{
+				"name": "UG03 Wilderness Maniac_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{G}",
+				"type": "Creature — Human Advisor",
+				"collector_number": "153",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/153_UG03 Wilderness Maniac.jpg"
+				}
+			},
+			{
+				"name": "UG07 Dreadmawform Solarkin",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{G}",
+				"type": "Creature — Elemental Dinosaur",
+				"collector_number": "156",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/156_UG07 Dreadmawform Solarkin.jpg"
+				}
+			},
+			{
+				"name": "UG07 Dreadmawform Solarkin_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{5}{G}",
+				"type": "Creature — Elemental Dinosaur",
+				"collector_number": "156",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/156_UG07 Dreadmawform Solarkin.jpg"
+				}
+			},
+			{
+				"name": "UG06 Singer of Might",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{G}",
+				"type": "Creature — Human Bard",
+				"collector_number": "155",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/155_UG06 Singer of Might.jpg"
+				}
+			},
+			{
+				"name": "UG06 Singer of Might_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{G}",
+				"type": "Creature — Human Bard",
+				"collector_number": "155",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/155_UG06 Singer of Might.jpg"
+				}
+			},
+			{
+				"name": "UG10 Enhancement Flames",
+				"rarity": "uncommon",
+				"mana_cost": "{G}",
+				"type": "Enchantment — Aura",
+				"collector_number": "159",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/159_UG10 Enhancement Flames.jpg"
+				}
+			},
+			{
+				"name": "UG10 Enhancement Flames_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{G}",
+				"type": "Enchantment — Aura",
+				"collector_number": "159",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/159_UG10 Enhancement Flames.jpg"
+				}
+			},
+			{
+				"name": "UG11 Surveyor's Stone",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{G}",
+				"type": "Artifact",
+				"collector_number": "160",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/160_UG11 Surveyor's Stone.jpg"
+				}
+			},
+			{
+				"name": "UG11 Surveyor's Stone_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{G}",
+				"type": "Artifact",
+				"collector_number": "160",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/160_UG11 Surveyor's Stone.jpg"
+				}
+			},
+			{
+				"name": "UL01 Festival of Frost",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "209",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/209_UL01 Festival of Frost_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/209_UL01 Festival of Frost_front.jpg"
+				}
+			},
+			{
+				"name": "UL01 Festival of Frost_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "209",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/209_UL01 Festival of Frost_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/209_UL01 Festival of Frost_front.jpg"
+				}
+			},
+			{
+				"name": "UL02 Festival of Darkness",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "210",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/210_UL02 Festival of Darkness_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/210_UL02 Festival of Darkness_front.jpg"
+				}
+			},
+			{
+				"name": "UL02 Festival of Darkness_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "210",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/210_UL02 Festival of Darkness_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/210_UL02 Festival of Darkness_front.jpg"
+				}
+			},
+			{
+				"name": "UL06 Festival of Bone",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "214",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/214_UL06 Festival of Bone_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/214_UL06 Festival of Bone_front.jpg"
+				}
+			},
+			{
+				"name": "UL06 Festival of Bone_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "214",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/214_UL06 Festival of Bone_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/214_UL06 Festival of Bone_front.jpg"
+				}
+			},
+			{
+				"name": "UL10 Festival of Water",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "218",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/218_UL10 Festival of Water_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/218_UL10 Festival of Water_front.jpg"
+				}
+			},
+			{
+				"name": "UL10 Festival of Water_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "218",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/218_UL10 Festival of Water_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/218_UL10 Festival of Water_front.jpg"
+				}
+			},
+			{
+				"name": "UL07 Festival of Thunder",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "215",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/215_UL07 Festival of Thunder_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/215_UL07 Festival of Thunder_front.jpg"
+				}
+			},
+			{
+				"name": "UL07 Festival of Thunder_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "215",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/215_UL07 Festival of Thunder_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/215_UL07 Festival of Thunder_front.jpg"
+				}
+			},
+			{
+				"name": "UL03 Festival of Blood",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "211",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/211_UL03 Festival of Blood_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/211_UL03 Festival of Blood_front.jpg"
+				}
+			},
+			{
+				"name": "UL03 Festival of Blood_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "211",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/211_UL03 Festival of Blood_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/211_UL03 Festival of Blood_front.jpg"
+				}
+			},
+			{
+				"name": "UL08 Festival of Death",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "216",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/216_UL08 Festival of Death_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/216_UL08 Festival of Death_front.jpg"
+				}
+			},
+			{
+				"name": "UL08 Festival of Death_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "216",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/216_UL08 Festival of Death_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/216_UL08 Festival of Death_front.jpg"
+				}
+			},
+			{
+				"name": "UL04 Festival of Fire",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "212",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/212_UL04 Festival of Fire_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/212_UL04 Festival of Fire_front.jpg"
+				}
+			},
+			{
+				"name": "UL04 Festival of Fire_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "212",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/212_UL04 Festival of Fire_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/212_UL04 Festival of Fire_front.jpg"
+				}
+			},
+			{
+				"name": "UL09 Festival of Light",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "217",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/217_UL09 Festival of Light_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/217_UL09 Festival of Light_front.jpg"
+				}
+			},
+			{
+				"name": "UL09 Festival of Light_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "217",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/217_UL09 Festival of Light_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/217_UL09 Festival of Light_front.jpg"
+				}
+			},
+			{
+				"name": "UL05 Festival of Light",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "213",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/213_UL05 Festival of Light_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/213_UL05 Festival of Light_front.jpg"
+				}
+			},
+			{
+				"name": "UL05 Festival of Light_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "213",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/ADD-files/img/213_UL05 Festival of Light_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/213_UL05 Festival of Light_front.jpg"
+				}
+			},
+			{
+				"name": "RG06 What a Whimsical World",
+				"rarity": "rare",
+				"mana_cost": "{1}{G}",
+				"type": "Enchantment",
+				"collector_number": "149",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/149_RG06 What a Whimsical World.jpg"
+				}
+			},
+			{
+				"name": "RG06 What a Whimsical World_foil",
+				"rarity": "rare",
+				"mana_cost": "{1}{G}",
+				"type": "Enchantment",
+				"collector_number": "149",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/149_RG06 What a Whimsical World.jpg"
+				}
+			},
+			{
+				"name": "RU02 Vinki the Reflective",
+				"rarity": "rare",
+				"mana_cost": "{1}{U}",
+				"type": "Legendary Creature — Reflection Wizard",
+				"collector_number": "54",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/54_RU02 Vinki the Reflective.jpg"
+				}
+			},
+			{
+				"name": "RU02 Vinki the Reflective_foil",
+				"rarity": "rare",
+				"mana_cost": "{1}{U}",
+				"type": "Legendary Creature — Reflection Wizard",
+				"collector_number": "54",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/54_RU02 Vinki the Reflective.jpg"
+				}
+			},
+			{
+				"name": "RB01 Venshi the Absorbative",
+				"rarity": "rare",
+				"mana_cost": "{B}",
+				"type": "Legendary Creature — Reflection Cleric",
+				"collector_number": "84",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/84_RB01 Venshi the Absorbative.jpg"
+				}
+			},
+			{
+				"name": "RB01 Venshi the Absorbative_foil",
+				"rarity": "rare",
+				"mana_cost": "{B}",
+				"type": "Legendary Creature — Reflection Cleric",
+				"collector_number": "84",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/84_RB01 Venshi the Absorbative.jpg"
+				}
+			},
+			{
+				"name": "RB02 Klaror the Brainslayer",
+				"rarity": "rare",
+				"mana_cost": "{1}{B}",
+				"type": "Legendary Creature — Demon Warlock",
+				"collector_number": "85",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/85_RB02 Klaror the Brainslayer.jpg"
+				}
+			},
+			{
+				"name": "RB02 Klaror the Brainslayer_foil",
+				"rarity": "rare",
+				"mana_cost": "{1}{B}",
+				"type": "Legendary Creature — Demon Warlock",
+				"collector_number": "85",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/85_RB02 Klaror the Brainslayer.jpg"
+				}
+			},
+			{
+				"name": "RR01 Katori the Brawnslayer",
+				"rarity": "rare",
+				"mana_cost": "{R}",
+				"type": "Legendary Creature — Demon Wizard",
+				"collector_number": "116",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/116_RR01 Katori the Brawnslayer.jpg"
+				}
+			},
+			{
+				"name": "RR01 Katori the Brawnslayer_foil",
+				"rarity": "rare",
+				"mana_cost": "{R}",
+				"type": "Legendary Creature — Demon Wizard",
+				"collector_number": "116",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/ADD-files/img/116_RR01 Katori the Brawnslayer.jpg"
 				}
 			}
 		]
 
 [rare(1)]
-	5 RW07 Innefficient Exchange
+	5 RW06 Innefficient Exchange
 	5 RM06 Mortared Revelation
 	5 RU01 Braxtus the Breaker
 	5 RW02 Bethela the Builder
@@ -3283,16 +6053,117 @@
 	5 RR02 Raflegos the Passionate
 	5 MM01 Season of Whimsy
 	5 RA01 Whimsy Monolith
+	5 RG03 Three-Eyed Teller
+	5 RB03 Three-Lie Teller
+	5 ML01 The Grand Foundation
+	5 ML02 The Lunar Isle
+	5 ML03 The Bladed Pass
+	5 ML04 The Solar Summit
+	5 ML05 The Hall of Sight
+	5 MR01 Vetari, Traitor
+	5 MU01 Ketaro, Traitor
+	5 ML06 The Dreamer's Home
+	5 RZ01 Harbinger of Whimsy Bone
+	5 RZ02 Harbinger of Whimsy Thunder
+	5 RZ03 Harbinger of Whimsy Death
+	5 RZ04 Harbinger of Whimsy Light
+	5 RZ05 Harbinger of Whimsy Water
+	5 RA02 Lunatic Sphere
+	5 RG06 What a Whimsical World
+	5 RU02 Vinki the Reflective
+	5 RB01 Venshi the Absorbative
+	5 RB02 Klaror the Brainslayer
+	5 RR01 Katori the Brawnslayer
 [uncommon(3)]
-	5 UW15 Crystalcore of Loyalty
-	5 UU15 Crystalcore of Knowledge
-	5 UB15 Crystalcore of Persistence
-	5 UR15 Crystalcore of Courage
-	5 UG15 Crystalcore of Strength
+	5 UW13 Crystalcore of Loyalty
+	5 UU13 Crystalcore of Knowledge
+	5 UB13 Crystalcore of Persistence
+	5 UR13 Crystalcore of Courage
+	5 UG13 Crystalcore of Strength
 	5 UR01 Running Stones
-	5 UU02 Hovering Platformite
+	5 UU03 Hovering Platformite
 	5 UU01 Timewinder Motivator
 	5 UB01 Mindshattered Triclops
+	5 UW03 Cauterizing Healer
+	5 UW01 Grounded Investigation
+	5 UW04 Triclops Storyteller
+	5 UW05 Blighted Bard
+	5 UM01 Brickfolk Kinmage
+	5 UM02 Lunarkin Kinmage
+	5 UM03 Blade Demon Kinmage
+	5 UM04 Solarkin Kinmage
+	5 UM05 Triclops Kinmage
+	5 UC01 Essence of Kinship
+	5 UW02 Pearl Dreamer of Whimsy
+	5 UB02 Jet Dreamer of Whimsy
+	5 UU02 Sapphire Dreamer of Whimsy
+	5 UR02 Ruby Dreamer of Whimsy
+	5 UG02 Emerald Dreamer of Whimsy
+	5 UA02 Opal Dreamer of Whimsy
+	5 UA01 Wildforged Automaton
+	5 UC02 Serum Wanderings
+	5 UW08 Wandering Recruiter
+	5 UG08 Wandering Strongman
+	5 UU08 Wandering Magician
+	5 UB08 Wandering Stitcher
+	5 UR08 Wandering Firebreather
+	5 UW06 Mason-Doctor
+	5 UW07 Wanderlust Golem
+	5 UW09 Fragmented Purge
+	5 UU09 Fragmented Counterspell
+	5 UB09 Fragmented Murder
+	5 UR09 Fragmented Flames
+	5 UG09 Fragmented Naturalization
+	5 UW10 Formidable Hammer
+	5 UW11 Foundational Virtue
+	5 UW12 Loyal Wanderings
+	5 UU12 Knowledgeable Wanderings
+	5 UB12 Persistent Wanderings
+	5 UR12 Courageous Wanderings
+	5 UG12 Strengthful Wanderings
+	5 UM06 Brickfolk Charm
+	5 UM07 Lunarkin Charm
+	5 UM08 Blade Demon Charm
+	5 UM09 Solarkin Charm
+	5 UM10 Triclops Charm
+	5 UU04 Pacifist Flames
+	5 UU05 Scholar of Wanderlust
+	5 UU06 Flowbringer Lunarkin
+	5 UU07 Whimsywinder
+	5 UU10 Box of Lunacy
+	5 UU11 Foundational Curiosity
+	5 UB03 Blighted Bully
+	5 UB07 Blazing Blade Champion
+	5 UB04 Wanderlust Channeler
+	5 UB05 Lunarkin Assassin
+	5 UB06 Fleshy Blight-Spreader
+	5 UB10 Vengeant Venture
+	5 UB11 Arena of Insanity
+	5 UR03 Swift Seeker
+	5 UR04 Solarflame Zealot
+	5 UR05 Inspired Whimsyshaman
+	5 UR06 Archival Pyromancer
+	5 UR07 Grim-Might Fleshbeast
+	5 UR11 Column of Swift Dreams
+	5 UR10 Act of Courageous Treason
+	5 UG01 Caretaking Figment
+	5 UG03 Sniffing Wildebeast
+	5 UG05 Oathsworn Triclops
+	5 UG03 Wilderness Maniac
+	5 UG07 Dreadmawform Solarkin
+	5 UG06 Singer of Might
+	5 UG10 Enhancement Flames
+	5 UG11 Surveyor's Stone
+	5 UL01 Festival of Frost
+	5 UL02 Festival of Darkness
+	5 UL06 Festival of Bone
+	5 UL10 Festival of Water
+	5 UL07 Festival of Thunder
+	5 UL03 Festival of Blood
+	5 UL08 Festival of Death
+	5 UL04 Festival of Fire
+	5 UL09 Festival of Light
+	5 UL05 Festival of Light
 [common(10)]
 	5 CZ01 Walking Stones
 	5 CZ02 Soaring Shadow
@@ -3333,7 +6204,7 @@
 	5 CW13 Three-Eyed Pacifism
 	5 CW14 Honorable Exertion
 	5 CW15 Ruinous Rendezvous
-	5 CU02 Deranged Scholar
+	5 CU02 Deranged Lunarkin
 	5 CU03 Incomplete Fleshthopter
 	5 CB03 Cutting Mockingbird
 	5 CU04 Brickfolk Surveyor
@@ -3344,7 +6215,7 @@
 	5 CU09 Delusions of Idiocy
 	5 CU10 Flimsy Transformation
 	5 CU11 Delirious Cancellation
-	5 CU12 Scouring Bauble
+	5 CU12 Moonlit Bauble
 	5 CU14 Bloody Guardianship
 	5 CB02 Roaming Bloodsucker
 	5 CB04 Terrorizing Bladearm
@@ -3376,14 +6247,14 @@
 	5 CG03 Sun-Basking Caretaker
 	5 CG04 Eight-Legged Bartender
 	5 CG05 Sun-Flame Berserker
-	5 CG06 Whimsyblighted Triclops
+	5 CG06 Blighted Triclops
 	5 CG07 Exploratory Herbalist
 	5 CG08 Recruiter of the Range
 	5 CG09 Colossal Dreadbeast
 	5 CG10 Wild-Darkened Duelist
 	5 CG12 Rotting Fangs
-	5 CG13 Commune with the Dead
-	5 CG14 Bloody Growth
+	5 CG13 Commune with Travelers
+	5 CG14 Spontaneous Strength
 	5 CG15 Earth and Sun
 	5 CA01 Wildforged Golem
 	5 CC01 Whimsical Farmer
