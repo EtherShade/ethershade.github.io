@@ -6040,7 +6040,7 @@
 			}
 		]
 
-[rare(1)]
+[rare(0)]
 	5 RW06 Innefficient Exchange
 	5 RM06 Mortared Revelation
 	5 RU01 Braxtus the Breaker
@@ -6074,7 +6074,7 @@
 	5 RB01 Venshi the Absorbative
 	5 RB02 Klaror the Brainslayer
 	5 RR01 Katori the Brawnslayer
-[uncommon(3)]
+[uncommon(4)]
 	5 UW13 Crystalcore of Loyalty
 	5 UU13 Crystalcore of Knowledge
 	5 UB13 Crystalcore of Persistence
@@ -6164,7 +6164,7 @@
 	5 UL04 Festival of Fire
 	5 UL09 Festival of Light
 	5 UL05 Festival of Light
-[common(10)]
+[common(8)]
 	5 CZ01 Walking Stones
 	5 CZ02 Soaring Shadow
 	5 CZ03 Sprinting Blade
