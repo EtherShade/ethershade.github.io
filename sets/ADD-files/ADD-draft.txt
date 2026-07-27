@@ -1325,7 +1325,7 @@
 			{
 				"name": "CU15 Trader's Intent",
 				"rarity": "common",
-				"mana_cost": "{3}{U}",
+				"mana_cost": "{1}{U}",
 				"type": "Instant",
 				"collector_number": "51",
 				"foil": false,
@@ -1344,7 +1344,7 @@
 			{
 				"name": "CU15 Trader's Intent_foil",
 				"rarity": "common",
-				"mana_cost": "{3}{U}",
+				"mana_cost": "{1}{U}",
 				"type": "Instant",
 				"collector_number": "51",
 				"foil": true,
@@ -1433,27 +1433,27 @@
 				}
 			},
 			{
-				"name": "CW15 Ruinous Rendezvous",
+				"name": "CW15 Enhancement of Seeking",
 				"rarity": "common",
-				"mana_cost": "{1}{W}",
-				"type": "Sorcery",
+				"mana_cost": "{2}{W}",
+				"type": "Enchantment",
 				"collector_number": "20",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/20_CW15 Ruinous Rendezvous.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/20_CW15 Enhancement of Seeking.jpg"
 				}
 			},
 			{
-				"name": "CW15 Ruinous Rendezvous_foil",
+				"name": "CW15 Enhancement of Seeking_foil",
 				"rarity": "common",
-				"mana_cost": "{1}{W}",
-				"type": "Sorcery",
+				"mana_cost": "{2}{W}",
+				"type": "Enchantment",
 				"collector_number": "20",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/20_CW15 Ruinous Rendezvous.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/20_CW15 Enhancement of Seeking.jpg"
 				}
 			},
 			{
@@ -4843,7 +4843,7 @@
 				}
 			},
 			{
-				"name": "UU04 Pacifist Flames",
+				"name": "UU04 Pacifist Fireborn",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{U}",
 				"type": "Creature — Elemental Wizard",
@@ -4851,11 +4851,11 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/59_UU04 Pacifist Flames.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/59_UU04 Pacifist Fireborn.jpg"
 				}
 			},
 			{
-				"name": "UU04 Pacifist Flames_foil",
+				"name": "UU04 Pacifist Fireborn_foil",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{U}",
 				"type": "Creature — Elemental Wizard",
@@ -4863,7 +4863,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/59_UU04 Pacifist Flames.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/59_UU04 Pacifist Fireborn.jpg"
 				}
 			},
 			{
@@ -5157,7 +5157,7 @@
 			{
 				"name": "UB11 Arena of Insanity",
 				"rarity": "uncommon",
-				"mana_cost": "{2}{B}",
+				"mana_cost": "{3}{B}",
 				"type": "Enchantment — Aura",
 				"collector_number": "97",
 				"foil": false,
@@ -5169,7 +5169,7 @@
 			{
 				"name": "UB11 Arena of Insanity_foil",
 				"rarity": "uncommon",
-				"mana_cost": "{2}{B}",
+				"mana_cost": "{3}{B}",
 				"type": "Enchantment — Aura",
 				"collector_number": "97",
 				"foil": true,
@@ -5491,27 +5491,27 @@
 				}
 			},
 			{
-				"name": "UG10 Enhancement Flames",
+				"name": "UG10 Enhancement of Finding",
 				"rarity": "uncommon",
-				"mana_cost": "{G}",
+				"mana_cost": "{1}{G}",
 				"type": "Enchantment — Aura",
 				"collector_number": "159",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/159_UG10 Enhancement Flames.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/159_UG10 Enhancement of Finding.jpg"
 				}
 			},
 			{
-				"name": "UG10 Enhancement Flames_foil",
+				"name": "UG10 Enhancement of Finding_foil",
 				"rarity": "uncommon",
-				"mana_cost": "{G}",
+				"mana_cost": "{1}{G}",
 				"type": "Enchantment — Aura",
 				"collector_number": "159",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/159_UG10 Enhancement Flames.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/159_UG10 Enhancement of Finding.jpg"
 				}
 			},
 			{
@@ -6040,41 +6040,7 @@
 			}
 		]
 
-[rare(0)]
-	5 RW06 Innefficient Exchange
-	5 RM06 Mortared Revelation
-	5 RU01 Braxtus the Breaker
-	5 RW02 Bethela the Builder
-	5 RU03 Timewinder Supreme
-	5 RW01 Gatel the Frozen
-	5 RG02 Telegia the Thawed
-	5 MM02 Varasti, Fluid Dancer
-	5 RG01 Sufelia the Devout
-	5 RR02 Raflegos the Passionate
-	5 MM01 Season of Whimsy
-	5 RA01 Whimsy Monolith
-	5 RG03 Three-Eyed Teller
-	5 RB03 Three-Lie Teller
-	5 ML01 The Grand Foundation
-	5 ML02 The Lunar Isle
-	5 ML03 The Bladed Pass
-	5 ML04 The Solar Summit
-	5 ML05 The Hall of Sight
-	5 MR01 Vetari, Traitor
-	5 MU01 Ketaro, Traitor
-	5 ML06 The Dreamer's Home
-	5 RZ01 Harbinger of Whimsy Bone
-	5 RZ02 Harbinger of Whimsy Thunder
-	5 RZ03 Harbinger of Whimsy Death
-	5 RZ04 Harbinger of Whimsy Light
-	5 RZ05 Harbinger of Whimsy Water
-	5 RA02 Lunatic Sphere
-	5 RG06 What a Whimsical World
-	5 RU02 Vinki the Reflective
-	5 RB01 Venshi the Absorbative
-	5 RB02 Klaror the Brainslayer
-	5 RR01 Katori the Brawnslayer
-[uncommon(4)]
+[uncommon(6)]
 	5 UW13 Crystalcore of Loyalty
 	5 UU13 Crystalcore of Knowledge
 	5 UB13 Crystalcore of Persistence
@@ -6126,7 +6092,7 @@
 	5 UM08 Blade Demon Charm
 	5 UM09 Solarkin Charm
 	5 UM10 Triclops Charm
-	5 UU04 Pacifist Flames
+	5 UU04 Pacifist Fireborn
 	5 UU05 Scholar of Wanderlust
 	5 UU06 Flowbringer Lunarkin
 	5 UU07 Whimsywinder
@@ -6152,7 +6118,7 @@
 	5 UG03 Wilderness Maniac
 	5 UG07 Dreadmawform Solarkin
 	5 UG06 Singer of Might
-	5 UG10 Enhancement Flames
+	5 UG10 Enhancement of Finding
 	5 UG11 Surveyor's Stone
 	5 UL01 Festival of Frost
 	5 UL02 Festival of Darkness
@@ -6203,7 +6169,7 @@
 	5 CW11 Shrouded Angel
 	5 CW13 Three-Eyed Pacifism
 	5 CW14 Honorable Exertion
-	5 CW15 Ruinous Rendezvous
+	5 CW15 Enhancement of Seeking
 	5 CU02 Deranged Lunarkin
 	5 CU03 Incomplete Fleshthopter
 	5 CB03 Cutting Mockingbird

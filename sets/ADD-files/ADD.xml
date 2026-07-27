@@ -5,7 +5,7 @@
 			<name>ADD</name>
 			<longname>A Dream of Darkness</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-26</releasedate>
+			<releasedate>2026-07-27</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -250,7 +250,7 @@ This land enters tapped.
 			<name>CZ02 Soaring Shadow</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Flying
-Moonflow 1 (You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/174_CZ02 Soaring Shadow.jpg" num="174">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -305,7 +305,7 @@ Blaze of Glory — Whenever this creature attacks, you may have it gain menace u
 			<name>CZ04 Crushing Flame</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Trample
-Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)</text>
+Sunfire — This creature gets +0/+2 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/176_CZ04 Crushing Flame.jpg" num="176">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -387,7 +387,7 @@ Foundation (When this enters, if you don&apos;t control a Building, create a 0/0
 			<name>CM02 Hero of Moon</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 When this creature enters, surveil 2.
-Moonflow 1 (You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)
 ---
 (Back): Villain of Moon</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/164_CM02 Hero of Moon_front.jpg" num="164a">ADD</set>
@@ -409,7 +409,7 @@ Moonflow 1 (You may play this card from your graveyard as long as 1 or more crea
 			<name>Villain of Moon</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 When this creature enters, surveil 1.
-Moonflow 1 (You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)
 ---
 (Front): CM02 Hero of Moon</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/164_CM02 Hero of Moon_back.jpg" num="164b">ADD</set>
@@ -473,8 +473,7 @@ Blaze of Glory — Whenever this creature attacks, you may have it gain trample 
 		<card>
 			<name>CM04 Hero of Sun</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)
-When this creature enters, exile the top card of your library. You may play that card this turn.
+Sunfire — Exile the top card of your library. You may play that card this turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 ---
 (Back): Villain of Sun</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/166_CM04 Hero of Sun_front.jpg" num="166a">ADD</set>
@@ -495,7 +494,7 @@ When this creature enters, exile the top card of your library. You may play that
 		<card>
 			<name>Villain of Sun</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)
+Sunfire — Exile the top card of your library. You may play that card this turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 ---
 (Front): CM04 Hero of Sun</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/166_CM04 Hero of Sun_back.jpg" num="166b">ADD</set>
@@ -1056,7 +1055,7 @@ Target creature you control fights target creature you don&apos;t control.
 		<card>
 			<name>CM07 Lunar Current-Rod</name>
 			<text>When this artifact enters or is put into your graveyard from the battlefield, draw a card.
-{T}, Sacrifice an artifact or creature: Draw a card.</text>
+{T}, Sacrifice an artifact or creature: Draw a card. Activate only as a sorcery.</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/169_CM07 Lunar Current-Rod.jpg" num="169">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1149,7 +1148,7 @@ This spell deals 2 damage to target attacking or blocking creature.
 		<card>
 			<name>Nightly Execution</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Exile two target creatures with total power 6 or greater.
+Exile two target creatures with total power 7 or greater.
 ---
 (Front): CW12 Knightly Execution</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/17_CW12 Knightly Execution_back.jpg" num="17b">ADD</set>
@@ -1158,8 +1157,8 @@ Exile two target creatures with total power 6 or greater.
 				<side>back</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>3W</manacost>
-				<cmc>4</cmc>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -1256,7 +1255,7 @@ This creature enters with a -1/-1 counter.
 		<card>
 			<name>CU15 Trader&apos;s Intent</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-Exchange control of two target creatures.
+Exchange control of two target creatures controlled by different players until end of turn. They gain haste until end of turn.
 ---
 (Back): Traitor&apos;s Intent</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/51_CU15 Trader&apos;s Intent_front.jpg" num="51a">ADD</set>
@@ -1265,8 +1264,8 @@ Exchange control of two target creatures.
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>3U</manacost>
-				<cmc>4</cmc>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -1276,7 +1275,7 @@ Exchange control of two target creatures.
 		<card>
 			<name>Traitor&apos;s Intent</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Gain control of target creature.
+Gain control of target creature you don&apos;t control until end of turn. It gains haste until end of turn.
 ---
 (Front): CU15 Trader&apos;s Intent</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/51_CU15 Trader&apos;s Intent_back.jpg" num="51b">ADD</set>
@@ -1285,8 +1284,8 @@ Gain control of target creature.
 				<side>back</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>6U</manacost>
-				<cmc>7</cmc>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -1346,25 +1345,27 @@ Formidable — {1}{W}: Exile enchanted creature. Activate only if creatures you 
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CW15 Ruinous Rendezvous</name>
-			<text>Each player may put two -1/-1 counters on a creature they control. Each player who does so wanders twice. (To wander, reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/20_CW15 Ruinous Rendezvous.jpg" num="20">ADD</set>
+			<name>CW15 Enhancement of Seeking</name>
+			<text>Enchant creature
+When this enchantment enters, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)
+Enchanted creature gets +2/+2.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/20_CW15 Enhancement of Seeking.jpg" num="20">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>CU02 Deranged Lunarkin</name>
 			<text>{T}, Mill a card or tap an untapped permanent you control: Add {C}.
-Moonflow 1 (You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/38_CU02 Deranged Lunarkin.jpg" num="38">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1660,7 +1661,7 @@ Enchanted creature loses all abilities and has power and toughness 1/1.</text>
 			<name>CU12 Moonlit Bauble</name>
 			<text>{T}: Mill a card.
 Sacrifice this artifact: Draw a card.
-Moonflow 1 (You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/48_CU12 Moonlit Bauble.jpg" num="48">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2073,7 +2074,7 @@ Until end of turn, creatures you control gain &quot;When this creature dies, ret
 		</card>
 		<card>
 			<name>CR02 Sunfire Trainee</name>
-			<text>Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)
+			<text>Sunfire — Add {R} or this creature gets +1/+0 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 This creature gets +1/+1 as long as you&apos;re grim. (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/101_CR02 Sunfire Trainee.jpg" num="101">ADD</set>
 			<prop>
@@ -2092,7 +2093,7 @@ This creature gets +1/+1 as long as you&apos;re grim. (You&apos;re grim if the l
 		<card>
 			<name>CR03 Bladearm Ritualist</name>
 			<text>Haste
-Blaze of Glory — Whenever this creature attacks, you may add two mana in any combination of colors. This mana lasts until end of turn. If you do, sacrifice this creature at end of combat.</text>
+Blaze of Glory — Whenever this creature attacks, you may add one mana of any color. This mana lasts until end of turn. If you do, sacrifice this creature at end of combat.</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/102_CR03 Bladearm Ritualist.jpg" num="102">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2131,8 +2132,7 @@ When this creature enters, mill a card. You may play that card until the end of 
 		<card>
 			<name>Beastly Stowaway</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Whenever this creature attacks, 
-When this creature enters, mill a card. You may play that card until the end of your next turn.
+Whenever this creature attacks, mill a card. You may play that card until the end of your next turn.
 ---
 (Front): CR04 Foolish Smuggler</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/103_CR04 Foolish Smuggler_back.jpg" num="103b">ADD</set>
@@ -2171,7 +2171,7 @@ Menace</text>
 		<card>
 			<name>CR06 Blazebolt Crossbowman</name>
 			<text>Reach
-Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)</text>
+Sunfire — This creature gets +2/+1 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/105_CR06 Blazebolt Crossbowman.jpg" num="105">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2182,14 +2182,14 @@ Sunfire (Exile a creature card from your graveyard: Add one mana of any color or
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CR07 Playful Ravager</name>
 			<text>Trample
-Whenever this creature attacks, if you&apos;re whimsical, it deals 3 damage to the defending player. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less.)</text>
+Whenever this creature attacks, if you&apos;re whimsical, it deals 4 damage to the defending player. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/106_CR07 Playful Ravager.jpg" num="106">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2200,7 +2200,7 @@ Whenever this creature attacks, if you&apos;re whimsical, it deals 3 damage to t
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>5/3</pt>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2217,7 +2217,7 @@ Whenever this creature attacks, if you&apos;re whimsical, it deals 3 damage to t
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>6/1</pt>
+				<pt>5/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2342,7 +2342,7 @@ Formidable — When this creature dies, if creatures you control have total powe
 			<name>CG03 Sun-Basking Caretaker</name>
 			<text>Vigilance
 {T}: Add {G}.
-Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)</text>
+Sunfire — Add {G}. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/133_CG03 Sun-Basking Caretaker.jpg" num="133">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2404,7 +2404,7 @@ When this creature dies, mill three cards.
 		<card>
 			<name>CG05 Sun-Flame Berserker</name>
 			<text>Trample
-Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)</text>
+Sunfire — Add {G} or this creature gets +0/+1 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/135_CG05 Sun-Flame Berserker.jpg" num="135">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2474,7 +2474,7 @@ When this creature enters, you gain 8 life.</text>
 		</card>
 		<card>
 			<name>RG01 Sufelia the Devout</name>
-			<text>Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)
+			<text>Sunfire — Add {G} or this creature gets +1/+1 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 When this creature enters, surveil 1.</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/146_RG01 Sufelia the Devout.jpg" num="146">ADD</set>
 			<prop>
@@ -2492,7 +2492,7 @@ When this creature enters, surveil 1.</text>
 		</card>
 		<card>
 			<name>RR02 Raflegos the Passionate</name>
-			<text>Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)
+			<text>Sunfire — Add one mana of any color. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 You don&apos;t lose unspent mana as steps and phases end.</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/117_RR02 Raflegos the Passionate.jpg" num="117">ADD</set>
 			<prop>
@@ -2660,7 +2660,7 @@ Enchanted creature gets +2/+2.</text>
 		</card>
 		<card>
 			<name>CG15 Earth and Sun</name>
-			<text>Search your library for a basic land card, put it onto the battlefield tapped with a sunfire counter, then shuffle. (Sunfire means: Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)</text>
+			<text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Mill two cards.</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/145_CG15 Earth and Sun.jpg" num="145">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2945,7 +2945,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 		</card>
 		<card>
 			<name>UM04 Solarkin Kinmage</name>
-			<text>Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)
+			<text>Sunfire — Add {R} or {G}. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 {R}{G}, {T}, Discard an Elemental card: Add {R}{R}{G}{G}. Mill four cards.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/189_UM04 Solarkin Kinmage.jpg" num="189">ADD</set>
 			<prop>
@@ -3050,7 +3050,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 		<card>
 			<name>ML04 The Solar Summit</name>
 			<text>This land enters tapped.
-Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)
+Sunfire — Add {R} or {G}. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 {T}: Add {R} or {G}.</text>
 			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/206_ML04 The Solar Summit.jpg" num="206">ADD</set>
 			<prop>
@@ -3083,7 +3083,7 @@ Formidable — {T}: Add {G} or {W}. If creatures you control have total power 8 
 		<card>
 			<name>MR01 Vetari, Traitor</name>
 			<text>Partner with Ketaro, Traitor (When this creature enters, target player may put Ketaro into their hand from their library, then shuffle.)
-Sunfire abilities you control have &quot;or discard a card, then draw a card.&quot; as an additional mode.</text>
+If a sunfire ability you control would trigger, you may instead discard a card, then draw a card.</text>
 			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/115_MR01 Vetari, Traitor.jpg" num="115">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -4079,10 +4079,10 @@ Enchanted creature has &quot;Whenever this creature deals combat damage to a pla
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UU04 Pacifist Flames</name>
-			<text>Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)
+			<name>UU04 Pacifist Fireborn</name>
+			<text>Sunfire — You may pay {U}. If you do, draw a card. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 Whenever you activate a sunfire ability, mill a card.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/59_UU04 Pacifist Flames.jpg" num="59">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/59_UU04 Pacifist Fireborn.jpg" num="59">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4128,7 +4128,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>4/4</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4317,8 +4317,8 @@ At the beginning of your precombat main phase, you lose 1 life, mill a card, the
 				<side>front</side>
 				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -4345,7 +4345,7 @@ Sacrifice this creature: Wander. (Reveal the top card of your library. If it&apo
 		<card>
 			<name>UR04 Solarflame Zealot</name>
 			<text>When this creature enters, surveil 2.
-Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)</text>
+Sunfire — Add {R} or this creature gets +1/+2 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/121_UR04 Solarflame Zealot.jpg" num="121">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -4356,7 +4356,7 @@ Sunfire (Exile a creature card from your graveyard: Add one mana of any color or
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/2</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4450,7 +4450,7 @@ This artifact enters tapped.
 		<card>
 			<name>UG01 Caretaking Figment</name>
 			<text>{T}: Add {G}.
-Moonflow 1 (You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/150_UG01 Caretaking Figment.jpg" num="150">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -4519,7 +4519,7 @@ Moonflow 1 (You may play this card from your graveyard as long as 1 or more crea
 		<card>
 			<name>UG07 Dreadmawform Solarkin</name>
 			<text>Trample
-Sunfire (Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)</text>
+Sunfire — This creature gets +1/+1 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/156_UG07 Dreadmawform Solarkin.jpg" num="156">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -4530,7 +4530,7 @@ Sunfire (Exile a creature card from your graveyard: Add one mana of any color or
 				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>5/6</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4552,17 +4552,17 @@ Sunfire (Exile a creature card from your graveyard: Add one mana of any color or
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG10 Enhancement Flames</name>
+			<name>UG10 Enhancement of Finding</name>
 			<text>Enchant creature
-Enchanted creature has sunfire and &quot;Whenever this creature attacks, surveil 1.&quot; (Exile a creature card from your graveyard: Add one mana of any color or that creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.) (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/159_UG10 Enhancement Flames.jpg" num="159">ADD</set>
+Enchanted creature gets +2/+2 and has &quot;Whenever this creature attacks, surveil 1.&quot;</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/159_UG10 Enhancement of Finding.jpg" num="159">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -5005,7 +5005,7 @@ As long as you&apos;re whimsical, you may play an additional land on each of you
 		<card>
 			<name>RU02 Vinki the Reflective</name>
 			<text>Whenever this creature attacks, create a Clue token.
-Moonflow 1 (You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/54_RU02 Vinki the Reflective.jpg" num="54">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -5024,7 +5024,7 @@ Moonflow 1 (You may play this card from your graveyard as long as 1 or more crea
 			<name>RB01 Venshi the Absorbative</name>
 			<text>Lifelink
 Cycling—Pay 2 life (Pay 2 life, Discard this card: Draw a card.)
-Moonflow 1 (You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/84_RB01 Venshi the Absorbative.jpg" num="84">ADD</set>
 			<prop>
 				<layout>normal</layout>

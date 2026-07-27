@@ -1,4 +1,172 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CW15 Enhancement of Seeking added.
+UU04 Pacifist Fireborn added.
+UG10 Enhancement of Finding added.
+
+CW15 Ruinous Rendezvous removed.
+UU04 Pacifist Flames removed.
+UG10 Enhancement Flames removed.
+
+CZ02 Soaring Shadow
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Flying
+Moonflow 1 [i](You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Flying
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+CZ04 Crushing Flame
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Trample
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i] => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Trample
+Sunfire — This creature gets +0/+2 until end of turn. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+
+CM02 Hero of Moon
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+When this creature enters, surveil 2.
+Moonflow 1 [i](You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+When this creature enters, surveil 2.
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+CM04 Hero of Sun
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i]
+When this creature enters, exile the top card of your library. You may play that card this turn. => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Sunfire — Exile the top card of your library. You may play that card this turn. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+
+CM07 Lunar Current-Rod
+rules_text: When this artifact enters or is put into your graveyard from the battlefield, draw a card.
+{T}, Sacrifice an artifact or creature: Draw a card. => When this artifact enters or is put into your graveyard from the battlefield, draw a card.
+{T}, Sacrifice an artifact or creature: Draw a card. Activate only as a sorcery.
+
+CW12 Knightly Execution
+
+CU15 Trader's Intent
+cost: {3}{U} => {1}{U}
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Exchange control of two target creatures. => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Exchange control of two target creatures controlled by different players until end of turn. They gain haste until end of turn.
+
+CU02 Deranged Lunarkin
+rules_text: {T}, Mill a card or tap an untapped permanent you control: Add {C}.
+Moonflow 1 [i](You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => {T}, Mill a card or tap an untapped permanent you control: Add {C}.
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+CU12 Moonlit Bauble
+rules_text: {T}: Mill a card.
+Sacrifice this artifact: Draw a card.
+Moonflow 1 [i](You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => {T}: Mill a card.
+Sacrifice this artifact: Draw a card.
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+CR02 Sunfire Trainee
+rules_text: Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i]
+This creature gets +1/+1 as long as you're grim. [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater.)[/i] => Sunfire — Add {R} or this creature gets +1/+0 until end of turn. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+This creature gets +1/+1 as long as you're grim. [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater.)[/i]
+
+CR03 Bladearm Ritualist
+rules_text: Haste
+[i]Blaze of Glory[/i] — Whenever this creature attacks, you may add two mana in any combination of colors. This mana lasts until end of turn. If you do, sacrifice this creature at end of combat. => Haste
+[i]Blaze of Glory[/i] — Whenever this creature attacks, you may add one mana of any color. This mana lasts until end of turn. If you do, sacrifice this creature at end of combat.
+
+CR04 Foolish Smuggler
+
+CR06 Blazebolt Crossbowman
+rules_text: Reach
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i] => Reach
+Sunfire — This creature gets +2/+1 until end of turn. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+pt: 3/3 => 3/4
+
+CR07 Playful Ravager
+rules_text: Trample
+Whenever this creature attacks, if you're whimsical, it deals 3 damage to the defending player. [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less.)[/i] => Trample
+Whenever this creature attacks, if you're whimsical, it deals 4 damage to the defending player. [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less.)[/i]
+pt: 5/3 => 5/4
+
+CR08 Spinblade Demon
+pt: 6/1 => 5/3
+
+CG03 Sun-Basking Caretaker
+rules_text: Vigilance
+{T}: Add {G}.
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i] => Vigilance
+{T}: Add {G}.
+Sunfire — Add {G}. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+
+CG05 Sun-Flame Berserker
+rules_text: Trample
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i] => Trample
+Sunfire — Add {G} or this creature gets +0/+1 until end of turn. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+
+RG01 Sufelia the Devout
+rules_text: Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i]
+When this creature enters, surveil 1. => Sunfire — Add {G} or this creature gets +1/+1 until end of turn. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+When this creature enters, surveil 1.
+
+RR02 Raflegos the Passionate
+rules_text: Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i]
+You don't lose unspent mana as steps and phases end. => Sunfire — Add one mana of any color. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+You don't lose unspent mana as steps and phases end.
+
+CG15 Earth and Sun
+rules_text: Search your library for a basic land card, put it onto the battlefield tapped with a sunfire counter, then shuffle. [i](Sunfire means: Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn.)[/i] => Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Mill two cards.
+
+UM04 Solarkin Kinmage
+rules_text: Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i]
+{R}{G}, {T}, Discard an Elemental card: Add {R}{R}{G}{G}. Mill four cards. => Sunfire — Add {R} or {G}. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+{R}{G}, {T}, Discard an Elemental card: Add {R}{R}{G}{G}. Mill four cards.
+
+ML04 The Solar Summit
+rules_text: This land enters tapped.
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i]
+{T}: Add {R} or {G}. => This land enters tapped.
+Sunfire — Add {R} or {G}. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+{T}: Add {R} or {G}.
+
+MR01 Vetari, Traitor
+rules_text: Partner with Ketaro, Traitor [i](When this creature enters, target player may put Ketaro into their hand from their library, then shuffle.)[/i]
+Sunfire abilities you control have “or discard a card, then draw a card.” as an additional mode. => Partner with Ketaro, Traitor [i](When this creature enters, target player may put Ketaro into their hand from their library, then shuffle.)[/i]
+If a sunfire ability you control would trigger, you may instead discard a card, then draw a card.
+
+UU06 Flowbringer Lunarkin
+pt: 4/4 => 3/2
+
+UB11 Arena of Insanity
+cost: {2}{B} => {3}{B}
+
+UR04 Solarflame Zealot
+rules_text: When this creature enters, surveil 2.
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i] => When this creature enters, surveil 2.
+Sunfire — Add {R} or this creature gets +1/+2 until end of turn. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+pt: 3/2 => 2/1
+
+UG01 Caretaking Figment
+rules_text: {T}: Add {G}.
+Moonflow 1 [i](You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => {T}: Add {G}.
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+UG07 Dreadmawform Solarkin
+rules_text: Trample
+Sunfire [i](Exile a creature card from your graveyard: Add one mana of any color or this creature gets +2/+1 until end of turn. Activate only once each turn and only as a sorcery.)[/i] => Trample
+Sunfire — This creature gets +1/+1 until end of turn. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+pt: 5/6 => 5/5
+
+RU02 Vinki the Reflective
+rules_text: Whenever this creature attacks, create a Clue token.
+Moonflow 1 [i](You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => Whenever this creature attacks, create a Clue token.
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+RB01 Venshi the Absorbative
+rules_text: Lifelink
+Cycling—Pay 2 life [i](Pay 2 life, Discard this card: Draw a card.)[/i]
+Moonflow 1 [i](You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => Lifelink
+Cycling—Pay 2 life [i](Pay 2 life, Discard this card: Draw a card.)[/i]
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
