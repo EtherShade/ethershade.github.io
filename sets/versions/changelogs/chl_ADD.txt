@@ -1,4 +1,56 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+ML07 The Wandering Refuge added.
+RL01 City of Building and Breaking added.
+RL02 City of Reflecting and Absorbing added.
+RL03 City of Brain and Brawn added.
+RL04 City of Passion and Devotion added.
+RL05 City of Thaw and Frost added.
+RC01 Epitome of Wanderlust added.
+RM01 Lord of the Foundation added.
+RM02 Lord of the Isle added.
+RW04 Banishing Ranger added.
+RU04 Opting Ranger added.
+RB04 Thoughtseizing Ranger added.
+RR04 Bolting Ranger added.
+RG04 Cultivating Ranger added.
+RM03 Lord of the Pass added.
+RM04 Lord of the Summit added.
+RM05 Lord of the Hall added.
+
+
+RU03 Timewinder Supreme
+rules_text: Haste, flying
+When this creature enters, if its your turn, end the turn. [i](Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and “this turn” and “until end of turn” effects end.)[/i]
+{T}: Target creature gets -2/-0 until the start of your next turn. Create a Clue token. => Haste, flying
+When this creature enters, if it's your turn, end the turn. [i](Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and “this turn” and “until end of turn” effects end.)[/i]
+{T}: Target creature gets -2/-0 until the start of your next turn. Create a Clue token.
+
+CC01 Whimsical Farmer
+
+UM06 Brickfolk Charm
+rules_text: Choose one —
+• Target creature with foundation gains “[[b]Whenever this creature deals combat damage to player this turn, you gain 1 life and draw a card.[/b]]”
+• Exile target creature you control, then return it to the battlefield tapped under its owner's control.
+• Return to the battlefield tapped target creature card in your graveyard that was put there this turn from the battlefield. => Choose one —
+• Until end of turn, target creature with foundation gains “[[b]Whenever this creature deals combat damage to player this turn, you gain 1 life and draw a card.[/b]]”
+• Exile target creature you control, then return it to the battlefield tapped under its owner's control.
+• Return to the battlefield tapped target creature card in your graveyard that was put there this turn from the battlefield.
+
+RA02 Lunatic Sphere
+rules_text: Each spell that would cost less than two mana to cast costs two mana to cast. [i](Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {B} to cast costs {1}{B} to cast instead.)[/i]
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => Each spell that would cost less than two mana to cast costs two mana to cast. [i](Additional mana in the cost may be paid with any type of mana. For example, a spell that would cost {B} to cast costs {1}{B} to cast instead.)[/i]
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+UG01 Caretaking Figment
+rules_text: {T}: Add {G}.
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => {T}: Add {G}.
+Moonflow 3 [i](You may play this card from your graveyard as long as 3 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+pt: 1/1 => 0/1
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CW15 Enhancement of Seeking added.

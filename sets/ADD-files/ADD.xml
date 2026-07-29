@@ -5,7 +5,7 @@
 			<name>ADD</name>
 			<longname>A Dream of Darkness</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-27</releasedate>
+			<releasedate>2026-07-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -15,7 +15,7 @@
 {T}: Add {W}.
 ---
 (Back): Bastion of Loyalty</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/36_UW13 Crystalcore of Loyalty_front.jpg" num="36a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/38_UW13 Crystalcore of Loyalty_front.jpg" num="38a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -36,7 +36,7 @@ This land enters tapped.
 {T}: Add {W}.
 ---
 (Front): UW13 Crystalcore of Loyalty</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/36_UW13 Crystalcore of Loyalty_back.jpg" num="36b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/38_UW13 Crystalcore of Loyalty_back.jpg" num="38b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -55,7 +55,7 @@ This land enters tapped.
 {T}: Add {U}.
 ---
 (Back): Bastion of Knowledge</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/68_UU13 Crystalcore of Knowledge_front.jpg" num="68a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/71_UU13 Crystalcore of Knowledge_front.jpg" num="71a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -76,7 +76,7 @@ This land enters tapped.
 {T}: Add {U}.
 ---
 (Front): UU13 Crystalcore of Knowledge</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/68_UU13 Crystalcore of Knowledge_back.jpg" num="68b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/71_UU13 Crystalcore of Knowledge_back.jpg" num="71b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -94,7 +94,7 @@ This land enters tapped.
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Vigilance[/b]]</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/173_CZ01 Walking Stones.jpg" num="173">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/179_CZ01 Walking Stones.jpg" num="179">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -114,7 +114,7 @@ Foundation (When this enters, if you don&apos;t control a Building, create a 0/0
 {T}: Add {B}.
 ---
 (Back): Bastion of Persistence</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/99_UB13 Crystalcore of Persistence_front.jpg" num="99a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/103_UB13 Crystalcore of Persistence_front.jpg" num="103a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -135,7 +135,7 @@ This land enters tapped.
 {T}: Add {B}.
 ---
 (Front): UB13 Crystalcore of Persistence</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/99_UB13 Crystalcore of Persistence_back.jpg" num="99b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/103_UB13 Crystalcore of Persistence_back.jpg" num="103b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -154,7 +154,7 @@ This land enters tapped.
 {T}: Add {R}.
 ---
 (Back): Bastion of Courage</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/130_UR13 Crystalcore of Courage_front.jpg" num="130a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/135_UR13 Crystalcore of Courage_front.jpg" num="135a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -175,7 +175,7 @@ This land enters tapped.
 {T}: Add {R}.
 ---
 (Front): UR13 Crystalcore of Courage</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/130_UR13 Crystalcore of Courage_back.jpg" num="130b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/135_UR13 Crystalcore of Courage_back.jpg" num="135b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -194,7 +194,7 @@ This land enters tapped.
 {T}: Add {G}.
 ---
 (Back): Bastion of Strength</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/162_UG13 Crystalcore of Strength_front.jpg" num="162a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/168_UG13 Crystalcore of Strength_front.jpg" num="168a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -215,7 +215,7 @@ This land enters tapped.
 {T}: Add {G}.
 ---
 (Front): UG13 Crystalcore of Strength</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/162_UG13 Crystalcore of Strength_back.jpg" num="162b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/168_UG13 Crystalcore of Strength_back.jpg" num="168b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -232,7 +232,7 @@ This land enters tapped.
 			<name>UR01 Running Stones</name>
 			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Haste[/b]]</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/118_UR01 Running Stones.jpg" num="118">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/123_UR01 Running Stones.jpg" num="123">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -251,7 +251,7 @@ This land enters tapped.
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Flying
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/174_CZ02 Soaring Shadow.jpg" num="174">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/180_CZ02 Soaring Shadow.jpg" num="180">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -269,7 +269,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<name>RW06 Innefficient Exchange</name>
 			<text>At the beginning of each player&apos;s upkeep, exile the top card of that player&apos;s library.
 During each player&apos;s turn, that player may play cards they don&apos;t own exiled with this enchantment, and they may spend mana as if it was mana of any color to cast those cards.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/23_RW06 Innefficient Exchange.jpg" num="23">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/25_RW06 Innefficient Exchange.jpg" num="25">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -287,7 +287,7 @@ During each player&apos;s turn, that player may play cards they don&apos;t own e
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Haste
 Blaze of Glory — Whenever this creature attacks, you may have it gain menace until end of turn. If you do, sacrifice this creature at end of combat.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/175_CZ03 Sprinting Blade.jpg" num="175">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/181_CZ03 Sprinting Blade.jpg" num="181">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -306,7 +306,7 @@ Blaze of Glory — Whenever this creature attacks, you may have it gain menace u
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Trample
 Sunfire — This creature gets +0/+2 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/176_CZ04 Crushing Flame.jpg" num="176">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/182_CZ04 Crushing Flame.jpg" num="182">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -325,7 +325,7 @@ Sunfire — This creature gets +0/+2 until end of turn. (Exile a creature card f
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
 Formidable — When this creature dies, if creatures you control have total power 8 or greater, you gain 4 life.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/177_CZ05 Warding Eyes.jpg" num="177">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/183_CZ05 Warding Eyes.jpg" num="183">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -346,7 +346,7 @@ Foundation (When this enters, if you don&apos;t control a Building, create a 0/0
 [[b]Whenever this creature deals combat damage to a player, you gain 3 life and scry 1.[/b]]
 ---
 (Back): Villain of Brick</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/163_CM01 Hero of Brick_front.jpg" num="163a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/169_CM01 Hero of Brick_front.jpg" num="169a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -368,7 +368,7 @@ Foundation (When this enters, if you don&apos;t control a Building, create a 0/0
 [[b]Whenever this creature deals combat damage to a player, you gain 1 life and draw a card.[/b]]
 ---
 (Front): CM01 Hero of Brick</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/163_CM01 Hero of Brick_back.jpg" num="163b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/169_CM01 Hero of Brick_back.jpg" num="169b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -390,7 +390,7 @@ When this creature enters, surveil 2.
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)
 ---
 (Back): Villain of Moon</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/164_CM02 Hero of Moon_front.jpg" num="164a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/170_CM02 Hero of Moon_front.jpg" num="170a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -412,7 +412,7 @@ When this creature enters, surveil 1.
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)
 ---
 (Front): CM02 Hero of Moon</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/164_CM02 Hero of Moon_back.jpg" num="164b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/170_CM02 Hero of Moon_back.jpg" num="170b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -434,7 +434,7 @@ Haste
 Blaze of Glory — Whenever this creature attacks, you may have it gain trample until end of turn. If you do, sacrifice it at end of turn.
 ---
 (Back): Villain of Blade</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/165_CM03 Hero of Blade_front.jpg" num="165a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/171_CM03 Hero of Blade_front.jpg" num="171a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -455,7 +455,7 @@ Blaze of Glory — Whenever this creature attacks, you may have it gain trample 
 Blaze of Glory — Whenever this creature attacks, you may have it gain trample and menace until end of turn. If you do, sacrifice it at end of turn.
 ---
 (Front): CM03 Hero of Blade</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/165_CM03 Hero of Blade_back.jpg" num="165b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/171_CM03 Hero of Blade_back.jpg" num="171b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -476,7 +476,7 @@ Blaze of Glory — Whenever this creature attacks, you may have it gain trample 
 Sunfire — Exile the top card of your library. You may play that card this turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 ---
 (Back): Villain of Sun</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/166_CM04 Hero of Sun_front.jpg" num="166a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/172_CM04 Hero of Sun_front.jpg" num="172a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -497,7 +497,7 @@ Sunfire — Exile the top card of your library. You may play that card this turn
 Sunfire — Exile the top card of your library. You may play that card this turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 ---
 (Front): CM04 Hero of Sun</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/166_CM04 Hero of Sun_back.jpg" num="166b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/172_CM04 Hero of Sun_back.jpg" num="172b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -518,7 +518,7 @@ Sunfire — Exile the top card of your library. You may play that card this turn
 Formidable — When this creature enters, if creatures you control have total power 8 or greater, draw a card.
 ---
 (Back): Villain of Sight</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/167_CM05 Hero of Sight_front.jpg" num="167a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/173_CM05 Hero of Sight_front.jpg" num="173a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -539,7 +539,7 @@ Formidable — When this creature enters, if creatures you control have total po
 Formidable — Whenever this creature attacks, if creatures you control have total power 8 or greater, this creature gets +0/+2 until end of turn.
 ---
 (Front): CM05 Hero of Sight</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/167_CM05 Hero of Sight_back.jpg" num="167b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/173_CM05 Hero of Sight_back.jpg" num="173b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -557,7 +557,7 @@ Formidable — Whenever this creature attacks, if creatures you control have tot
 		<card>
 			<name>CA02 Mechanical Pilgrim</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/197_CA02 Mechanical Pilgrim.jpg" num="197">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/208_CA02 Mechanical Pilgrim.jpg" num="208">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -573,7 +573,7 @@ Formidable — Whenever this creature attacks, if creatures you control have tot
 			<name>CU13 Wisdom of Wanderlust</name>
 			<text>Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)
 Draw a card.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/49_CU13 Wisdom of Wanderlust.jpg" num="49">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/51_CU13 Wisdom of Wanderlust.jpg" num="51">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -589,7 +589,7 @@ Draw a card.</text>
 		<card>
 			<name>CW04 Helpful Seeker</name>
 			<text>When this creature enters, Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/9_CW04 Helpful Seeker.jpg" num="9">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/10_CW04 Helpful Seeker.jpg" num="10">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -609,7 +609,7 @@ Draw a card.</text>
 Lifelink
 ---
 (Back): White Dreamer of Darkness</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/6_CW01 White Dreamer of Whimsy_front.jpg" num="6a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/7_CW01 White Dreamer of Whimsy_front.jpg" num="7a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -629,7 +629,7 @@ Lifelink
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 ---
 (Front): CW01 White Dreamer of Whimsy</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/6_CW01 White Dreamer of Whimsy_back.jpg" num="6b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/7_CW01 White Dreamer of Whimsy_back.jpg" num="7b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -650,7 +650,7 @@ Lifelink
 Vigilance
 ---
 (Back): Blue Dreamer of Darkness</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/37_CU01 Blue Dreamer of Whimsy_front.jpg" num="37a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/39_CU01 Blue Dreamer of Whimsy_front.jpg" num="39a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -671,7 +671,7 @@ Vigilance
 Flying
 ---
 (Front): CU01 Blue Dreamer of Whimsy</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/37_CU01 Blue Dreamer of Whimsy_back.jpg" num="37b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/39_CU01 Blue Dreamer of Whimsy_back.jpg" num="39b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -692,7 +692,7 @@ Flying
 Menace
 ---
 (Back): Black Dreamer of Darkness</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/69_CB01 Black Dreamer of Whimsy_front.jpg" num="69a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/72_CB01 Black Dreamer of Whimsy_front.jpg" num="72a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -713,7 +713,7 @@ Menace
 Deathtouch
 ---
 (Front): CB01 Black Dreamer of Whimsy</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/69_CB01 Black Dreamer of Whimsy_back.jpg" num="69b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/72_CB01 Black Dreamer of Whimsy_back.jpg" num="72b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -734,7 +734,7 @@ Deathtouch
 Haste
 ---
 (Back): Red Dreamer of Darkness</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/100_CR01 Red Dreamer of Whimsy_front.jpg" num="100a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/104_CR01 Red Dreamer of Whimsy_front.jpg" num="104a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -755,7 +755,7 @@ Haste
 Prowess
 ---
 (Front): CR01 Red Dreamer of Whimsy</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/100_CR01 Red Dreamer of Whimsy_back.jpg" num="100b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/104_CR01 Red Dreamer of Whimsy_back.jpg" num="104b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -776,7 +776,7 @@ Prowess
 Ward {1}
 ---
 (Back): Green Dreamer of Darkness</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/131_CG01 Green Dreamer of Whimsy_front.jpg" num="131a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/136_CG01 Green Dreamer of Whimsy_front.jpg" num="136a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -797,7 +797,7 @@ Ward {1}
 Defender, reach
 ---
 (Front): CG01 Green Dreamer of Whimsy</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/131_CG01 Green Dreamer of Whimsy_back.jpg" num="131b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/136_CG01 Green Dreamer of Whimsy_back.jpg" num="136b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -815,7 +815,7 @@ Defender, reach
 		<card>
 			<name>CW02 Starving Triclops</name>
 			<text>Formidable — When this creature dies, if creatures you control have total power 8 or greater, create a 1/1 colorless Human creature token.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/7_CW02 Starving Triclops.jpg" num="7">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/8_CW02 Starving Triclops.jpg" num="8">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -887,7 +887,7 @@ Defender, reach
 			<text>Flying
 When this creature enters, you gain 2 life.
 This creature gets +1/+0 as long as you&apos;re whimsical. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/8_CW03 Silly Mockingbird.jpg" num="8">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/9_CW03 Silly Mockingbird.jpg" num="9">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -905,7 +905,7 @@ This creature gets +1/+0 as long as you&apos;re whimsical. (You&apos;re whimsica
 			<name>CW07 Elder Populace</name>
 			<text>When you cast this spell, create a 1/1 colorless Peasant creature token.
 Flashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/12_CW07 Elder Populace.jpg" num="12">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/13_CW07 Elder Populace.jpg" num="13">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -923,7 +923,7 @@ Flashback {1}{W} (You may cast this card from your graveyard for its flashback c
 			<name>CW06 Clay Cleric</name>
 			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]When this creature dies, draw a card.[/b]]</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/11_CW06 Clay Cleric.jpg" num="11">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/12_CW06 Clay Cleric.jpg" num="12">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -943,7 +943,7 @@ Flashback {1}{W} (You may cast this card from your graveyard for its flashback c
 {1}{W}, {T}: Tap target artifact or creature. Put a stun counter on it. Activate only as a sorcery.
 ---
 (Back): Freed-Beak Crow</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/10_CW05 Pranking Pumpkin_front.jpg" num="10a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/11_CW05 Pranking Pumpkin_front.jpg" num="11a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -964,7 +964,7 @@ Flashback {1}{W} (You may cast this card from your graveyard for its flashback c
 Flying
 ---
 (Front): CW05 Pranking Pumpkin</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/10_CW05 Pranking Pumpkin_back.jpg" num="10b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/11_CW05 Pranking Pumpkin_back.jpg" num="11b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -983,7 +983,7 @@ Flying
 			<name>RM06 Mortared Revelation</name>
 			<text>This spell costs {X} less to cast, where X is the greatest power among Buildings you control.
 You gain X life and draw X cards.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/180_RM06 Mortared Revelation.jpg" num="180">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/191_RM06 Mortared Revelation.jpg" num="191">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -999,7 +999,7 @@ You gain X life and draw X cards.</text>
 		<card>
 			<name>CM06 Safe Construction</name>
 			<text>Target creature you control gains hexproof and lifelink until end of turn. Draw a card.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/168_CM06 Safe Construction.jpg" num="168">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/174_CM06 Safe Construction.jpg" num="174">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1018,7 +1018,7 @@ You gain X life and draw X cards.</text>
 You gain 2 life. Surveil 2.
 ---
 (Back): Whom to Prey</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/141_CG11 Whom to Pray_front.jpg" num="141a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/146_CG11 Whom to Pray_front.jpg" num="146a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1038,7 +1038,7 @@ You gain 2 life. Surveil 2.
 Target creature you control fights target creature you don&apos;t control.
 ---
 (Front): CG11 Whom to Pray</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/141_CG11 Whom to Pray_back.jpg" num="141b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/146_CG11 Whom to Pray_back.jpg" num="146b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1056,7 +1056,7 @@ Target creature you control fights target creature you don&apos;t control.
 			<name>CM07 Lunar Current-Rod</name>
 			<text>When this artifact enters or is put into your graveyard from the battlefield, draw a card.
 {T}, Sacrifice an artifact or creature: Draw a card. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/169_CM07 Lunar Current-Rod.jpg" num="169">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/175_CM07 Lunar Current-Rod.jpg" num="175">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1072,7 +1072,7 @@ Target creature you control fights target creature you don&apos;t control.
 		<card>
 			<name>CM08 Violent Return</name>
 			<text>Until end of turn, target creature you control gains &quot;When this creature dies, return it to the battlefield tapped. It deals damage equal to its power to each opponent.&quot;</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/170_CM08 Violent Return.jpg" num="170">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/176_CM08 Violent Return.jpg" num="176">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1091,7 +1091,7 @@ Target creature you control fights target creature you don&apos;t control.
 Mill two cards. You may play them this turn.
 ---
 (Back): We Burn Again</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/110_CR11 Return Again_front.jpg" num="110a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/114_CR11 Return Again_front.jpg" num="114a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1111,7 +1111,7 @@ Mill two cards. You may play them this turn.
 This spell deals 4 damage to any target.
 ---
 (Front): CR11 Return Again</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/110_CR11 Return Again_back.jpg" num="110b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/114_CR11 Return Again_back.jpg" num="114b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1131,7 +1131,7 @@ This spell deals 4 damage to any target.
 This spell deals 2 damage to target attacking or blocking creature.
 ---
 (Back): Nightly Execution</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/17_CW12 Knightly Execution_front.jpg" num="17a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/18_CW12 Knightly Execution_front.jpg" num="18a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1151,7 +1151,7 @@ This spell deals 2 damage to target attacking or blocking creature.
 Exile two target creatures with total power 7 or greater.
 ---
 (Front): CW12 Knightly Execution</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/17_CW12 Knightly Execution_back.jpg" num="17b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/18_CW12 Knightly Execution_back.jpg" num="18b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1168,7 +1168,7 @@ Exile two target creatures with total power 7 or greater.
 		<card>
 			<name>CM09 Expressive Conflagration</name>
 			<text>Mill three cards. Put a creature or land card from among them into your hand. You may play one of the remaining cards this turn.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/171_CM09 Expressive Conflagration.jpg" num="171">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/177_CM09 Expressive Conflagration.jpg" num="177">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1184,7 +1184,7 @@ Exile two target creatures with total power 7 or greater.
 		<card>
 			<name>CM10 Formidable Anthem</name>
 			<text>Creatures you control get +2/+2.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/172_CM10 Formidable Anthem.jpg" num="172">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/178_CM10 Formidable Anthem.jpg" num="178">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1201,7 +1201,7 @@ Exile two target creatures with total power 7 or greater.
 			<name>CW08 Meandering Minstrel</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 When this creature enters, draw a card.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/13_CW08 Meandering Minstrel.jpg" num="13">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/14_CW08 Meandering Minstrel.jpg" num="14">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1219,7 +1219,7 @@ When this creature enters, draw a card.</text>
 			<name>CW09 Stone Ressurector</name>
 			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]When this creature dies, return target creature with lesser power from your graveyard to the battlefield.[/b]]</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/14_CW09 Stone Ressurector.jpg" num="14">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/15_CW09 Stone Ressurector.jpg" num="15">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1238,7 +1238,7 @@ When this creature enters, draw a card.</text>
 			<text>Vigilance
 This creature enters with a -1/-1 counter.
 {1}{W}, {T}, Remove a -1/-1 counter from this creature: Destroy target artifact or enchantment.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/15_CW10 Triclops Sentinel.jpg" num="15">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/16_CW10 Triclops Sentinel.jpg" num="16">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1258,7 +1258,7 @@ This creature enters with a -1/-1 counter.
 Exchange control of two target creatures controlled by different players until end of turn. They gain haste until end of turn.
 ---
 (Back): Traitor&apos;s Intent</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/51_CU15 Trader&apos;s Intent_front.jpg" num="51a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/53_CU15 Trader&apos;s Intent_front.jpg" num="53a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1278,7 +1278,7 @@ Exchange control of two target creatures controlled by different players until e
 Gain control of target creature you don&apos;t control until end of turn. It gains haste until end of turn.
 ---
 (Front): CU15 Trader&apos;s Intent</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/51_CU15 Trader&apos;s Intent_back.jpg" num="51b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/53_CU15 Trader&apos;s Intent_back.jpg" num="53b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1296,7 +1296,7 @@ Gain control of target creature you don&apos;t control until end of turn. It gai
 			<name>CW11 Shrouded Angel</name>
 			<text>Flying
 Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/16_CW11 Shrouded Angel.jpg" num="16">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/17_CW11 Shrouded Angel.jpg" num="17">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1315,7 +1315,7 @@ Ward {1} (Whenever this creature becomes the target of a spell or ability an opp
 			<text>Enchant creature
 Enchanted creature can&apos;t attack or block.
 Formidable — {1}{W}: Exile enchanted creature. Activate only if creatures you control have total power 8 or greater.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/18_CW13 Three-Eyed Pacifism.jpg" num="18">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/19_CW13 Three-Eyed Pacifism.jpg" num="19">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1331,7 +1331,7 @@ Formidable — {1}{W}: Exile enchanted creature. Activate only if creatures you 
 		<card>
 			<name>CW14 Honorable Exertion</name>
 			<text>Target creature gets +2/+3 until end of turn. Put a stun counter on it.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/19_CW14 Honorable Exertion.jpg" num="19">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/20_CW14 Honorable Exertion.jpg" num="20">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1349,7 +1349,7 @@ Formidable — {1}{W}: Exile enchanted creature. Activate only if creatures you 
 			<text>Enchant creature
 When this enchantment enters, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)
 Enchanted creature gets +2/+2.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/20_CW15 Enhancement of Seeking.jpg" num="20">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/21_CW15 Enhancement of Seeking.jpg" num="21">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1366,7 +1366,7 @@ Enchanted creature gets +2/+2.</text>
 			<name>CU02 Deranged Lunarkin</name>
 			<text>{T}, Mill a card or tap an untapped permanent you control: Add {C}.
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/38_CU02 Deranged Lunarkin.jpg" num="38">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/40_CU02 Deranged Lunarkin.jpg" num="40">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1385,7 +1385,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<text>Kicker—Exile a creature card from your graveyard. (You may exile a creature card from your graveyard in addition to any other costs as you cast this spell.)
 Flying
 This creature enters with a -1/-1 counter unless it was kicked.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/39_CU03 Incomplete Fleshthopter.jpg" num="39">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/41_CU03 Incomplete Fleshthopter.jpg" num="41">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1404,7 +1404,7 @@ This creature enters with a -1/-1 counter unless it was kicked.</text>
 			<text>Flying
 When this creature enters, you gain 1 life and each opponent loses 1 life.
 This creature gets +1/+0 as long as you&apos;re grim. (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/71_CB03 Cutting Mockingbird.jpg" num="71">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/74_CB03 Cutting Mockingbird.jpg" num="74">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1422,7 +1422,7 @@ This creature gets +1/+0 as long as you&apos;re grim. (You&apos;re grim if the l
 			<name>UU03 Hovering Platformite</name>
 			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Flying[/b]]</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/58_UU03 Hovering Platformite.jpg" num="58">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/61_UU03 Hovering Platformite.jpg" num="61">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1462,7 +1462,7 @@ Foundation (When this enters, if you don&apos;t control a Building, create a 0/0
 [[b]Whenever this creature attacks, surveil 1.[/b]]
 ---
 (Back): Brickfolk Delusionist</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/40_CU04 Brickfolk Surveyor_front.jpg" num="40a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/42_CU04 Brickfolk Surveyor_front.jpg" num="42a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1484,7 +1484,7 @@ Foundation (When this enters, if you don&apos;t control a Building, create a 0/0
 [[b]Whenever this creature attacks, mill two cards.[/b]]
 ---
 (Front): CU04 Brickfolk Surveyor</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/40_CU04 Brickfolk Surveyor_back.jpg" num="40b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/42_CU04 Brickfolk Surveyor_back.jpg" num="42b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1503,7 +1503,7 @@ Foundation (When this enters, if you don&apos;t control a Building, create a 0/0
 			<name>CU05 Grim Fleshcrafter</name>
 			<text>When this creature dies, mill two cards.
 {1}{U}, {T}: Create a 2/2 black Horror creature token, then sacrifice a creature. This ability costs {1}{U} less to activate if you&apos;re grim. (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/41_CU05 Grim Fleshcrafter.jpg" num="41">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/43_CU05 Grim Fleshcrafter.jpg" num="43">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1521,7 +1521,7 @@ Foundation (When this enters, if you don&apos;t control a Building, create a 0/0
 			<name>CU06 Wanderlust Eater</name>
 			<text>Vigilance
 Whenever this creature deals combat damage to a player, if you&apos;re whimsical, Wander. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. To wander, reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/42_CU06 Wanderlust Eater.jpg" num="42">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/44_CU06 Wanderlust Eater.jpg" num="44">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1539,7 +1539,7 @@ Whenever this creature deals combat damage to a player, if you&apos;re whimsical
 			<name>CU08 Sturdy Platformite</name>
 			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Whenever this creature attacks, it gets +1/+1 until end of turn.[/b]]</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/44_CU08 Sturdy Platformite.jpg" num="44">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/46_CU08 Sturdy Platformite.jpg" num="46">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1557,7 +1557,7 @@ Whenever this creature deals combat damage to a player, if you&apos;re whimsical
 			<name>RU01 Braxtus the Breaker</name>
 			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [1[b]U, Sacrifice this creature: Draw cards equal to its power.[/b]]</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/53_RU01 Braxtus the Breaker.jpg" num="53">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/55_RU01 Braxtus the Breaker.jpg" num="55">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1575,7 +1575,7 @@ Whenever this creature deals combat damage to a player, if you&apos;re whimsical
 			<name>RW02 Bethela the Builder</name>
 			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Whenever this creature becomes tapped, return target permanent card with mana value 2 or less from your graveyard to the battlefield tapped.[/b]]</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/22_RW02 Bethela the Builder.jpg" num="22">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/23_RW02 Bethela the Builder.jpg" num="23">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1594,7 +1594,7 @@ Whenever this creature deals combat damage to a player, if you&apos;re whimsical
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Flying
 When this creature dies, draw a card.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/43_CU07 Riddleless Riddler.jpg" num="43">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/45_CU07 Riddleless Riddler.jpg" num="45">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1611,7 +1611,7 @@ When this creature dies, draw a card.</text>
 		<card>
 			<name>CU09 Delusions of Idiocy</name>
 			<text>Return target nonland permanent to its owner&apos;s hand. Mill two cards.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/45_CU09 Delusions of Idiocy.jpg" num="45">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/47_CU09 Delusions of Idiocy.jpg" num="47">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1628,7 +1628,7 @@ When this creature dies, draw a card.</text>
 			<name>CU10 Flimsy Transformation</name>
 			<text>Enchant creature
 Enchanted creature loses all abilities and has power and toughness 1/1.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/46_CU10 Flimsy Transformation.jpg" num="46">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/48_CU10 Flimsy Transformation.jpg" num="48">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1644,7 +1644,7 @@ Enchanted creature loses all abilities and has power and toughness 1/1.</text>
 		<card>
 			<name>CU11 Delirious Cancellation</name>
 			<text>Counter target spell. Each player mills two cards.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/47_CU11 Delirious Cancellation.jpg" num="47">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/49_CU11 Delirious Cancellation.jpg" num="49">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1662,7 +1662,7 @@ Enchanted creature loses all abilities and has power and toughness 1/1.</text>
 			<text>{T}: Mill a card.
 Sacrifice this artifact: Draw a card.
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/48_CU12 Moonlit Bauble.jpg" num="48">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/50_CU12 Moonlit Bauble.jpg" num="50">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1679,7 +1679,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<name>CU14 Bloody Guardianship</name>
 			<text>Kicker—Sacrifice a creature (You may sacrifice a creature in addition to any other costs as you cast this spell.)
 Target creature you control gets +0/+2 and gains reach until end of turn. If this spell was kicked, that creature gets an additional +0/+1 and gains hexproof until end of turn.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/50_CU14 Bloody Guardianship.jpg" num="50">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/52_CU14 Bloody Guardianship.jpg" num="52">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1696,7 +1696,7 @@ Target creature you control gets +0/+2 and gains reach until end of turn. If thi
 			<name>CB02 Roaming Bloodsucker</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Lifelink</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/70_CB02 Roaming Bloodsucker.jpg" num="70">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/73_CB02 Roaming Bloodsucker.jpg" num="73">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1714,7 +1714,7 @@ Lifelink</text>
 			<name>CB04 Terrorizing Bladearm</name>
 			<text>Menace
 Blaze of Glory — Whenever this creature attacks, you may have it get +2/+2 until end of turn. If you do, sacrifice this creature at end of combat.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/72_CB04 Terrorizing Bladearm.jpg" num="72">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/75_CB04 Terrorizing Bladearm.jpg" num="75">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1731,7 +1731,7 @@ Blaze of Glory — Whenever this creature attacks, you may have it get +2/+2 unt
 		<card>
 			<name>CB05 Hopeless Seeker</name>
 			<text>When this creature dies, Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/73_CB05 Hopeless Seeker.jpg" num="73">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/76_CB05 Hopeless Seeker.jpg" num="76">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1748,7 +1748,7 @@ Blaze of Glory — Whenever this creature attacks, you may have it get +2/+2 unt
 		<card>
 			<name>UU01 Timewinder Motivator</name>
 			<text>{T}: Target creature gains haste until the start of your next turn. If its your turn, end the turn. (Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/56_UU01 Timewinder Motivator.jpg" num="56">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/59_UU01 Timewinder Motivator.jpg" num="59">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1765,9 +1765,9 @@ Blaze of Glory — Whenever this creature attacks, you may have it get +2/+2 unt
 		<card>
 			<name>RU03 Timewinder Supreme</name>
 			<text>Haste, flying
-When this creature enters, if its your turn, end the turn. (Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)
+When this creature enters, if it&apos;s your turn, end the turn. (Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)
 {T}: Target creature gets -2/-0 until the start of your next turn. Create a Clue token.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/55_RU03 Timewinder Supreme.jpg" num="55">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/57_RU03 Timewinder Supreme.jpg" num="57">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1789,7 +1789,7 @@ Whenever this creature deals combat damage to a player, you may pay 1 life. If y
 {T}, Pay 1 life: Draw a card.
 ---
 (Back): Bloodstained Chronowurm</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/74_CB06 Tricky Timewinder_front.jpg" num="74a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/77_CB06 Tricky Timewinder_front.jpg" num="77a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1810,7 +1810,7 @@ Whenever this creature deals combat damage to a player, you may pay 1 life. If y
 Whenever this creature deals combat damage to player, end the turn. (Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)
 ---
 (Front): CB06 Tricky Timewinder</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/74_CB06 Tricky Timewinder_back.jpg" num="74b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/77_CB06 Tricky Timewinder_back.jpg" num="77b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1829,7 +1829,7 @@ Whenever this creature deals combat damage to player, end the turn. (Exile all s
 			<name>CB07 Lunar Flesh Construct</name>
 			<text>As an additional cost to cast this spell, exile a creature card from your graveyard.
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/75_CB07 Lunar Flesh Construct.jpg" num="75">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/78_CB07 Lunar Flesh Construct.jpg" num="78">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1847,7 +1847,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<name>CB08 Shrouded Demon</name>
 			<text>Ward—Pay 2 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
 Blaze of Glory — Whenever this creature attacks, you may have it deal 3 damage to target creature. If you do, sacrifice this creature at end of combat.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/76_CB08 Shrouded Demon.jpg" num="76">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/79_CB08 Shrouded Demon.jpg" num="79">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1864,7 +1864,7 @@ Blaze of Glory — Whenever this creature attacks, you may have it deal 3 damage
 		<card>
 			<name>CB09 Scion of the Dark</name>
 			<text>When this creature enters, draw two cards. You lose 2 life. Mill two cards. Add {B}{B}.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/77_CB09 Scion of the Dark.jpg" num="77">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/80_CB09 Scion of the Dark.jpg" num="80">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1882,7 +1882,7 @@ Blaze of Glory — Whenever this creature attacks, you may have it deal 3 damage
 			<name>CB10 Blood Helix</name>
 			<text>Lifelink
 This spell deals 3 damage to any target.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/78_CB10 Blood Helix.jpg" num="78">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/81_CB10 Blood Helix.jpg" num="81">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1899,7 +1899,7 @@ This spell deals 3 damage to any target.</text>
 			<name>CB12 Reflected Rending</name>
 			<text>Exile target creature.
 {2}{B}, Exile this card from your graveyard: Wander. You lose 1 life. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/80_CB12 Reflected Rending.jpg" num="80">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/83_CB12 Reflected Rending.jpg" num="83">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1915,7 +1915,7 @@ This spell deals 3 damage to any target.</text>
 		<card>
 			<name>CB11 Inundation of Insanity</name>
 			<text>Destroy target creature or enchantment. You mill cards equal to its mana value.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/79_CB11 Inundation of Insanity.jpg" num="79">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/82_CB11 Inundation of Insanity.jpg" num="82">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1934,7 +1934,7 @@ This spell deals 3 damage to any target.</text>
 When this artifact enters or leaves the battlefield, each opponent discards a card.
 {T}, Sacrifice a creature or exile three cards from your graveyard: Sacrifice this artifact. Activate only as a sorcery.
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/82_CB14 Lunacy Totem.jpg" num="82">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/85_CB14 Lunacy Totem.jpg" num="85">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1950,7 +1950,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 		<card>
 			<name>CB13 Visions of Conspiracy</name>
 			<text>Create two Clue tokens. You lose 2 life.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/81_CB13 Visions of Conspiracy.jpg" num="81">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/84_CB13 Visions of Conspiracy.jpg" num="84">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1987,7 +1987,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 You may sacrifice an artifact. If you do, draw two cards.
 ---
 (Back): Enduring Mettle</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/83_CB15 Enduring Metal_front.jpg" num="83a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/86_CB15 Enduring Metal_front.jpg" num="86a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -2007,7 +2007,7 @@ You may sacrifice an artifact. If you do, draw two cards.
 Until end of turn, creatures you control gain &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;
 ---
 (Front): CB15 Enduring Metal</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/83_CB15 Enduring Metal_back.jpg" num="83b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/86_CB15 Enduring Metal_back.jpg" num="86b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2024,7 +2024,7 @@ Until end of turn, creatures you control gain &quot;When this creature dies, ret
 		<card>
 			<name>RW01 Gatel the Frozen</name>
 			<text>Formidable — Whenever this creature attacks, if creatures you control have total power 8 or greater, tap target permanent.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/21_RW01 Gatel the Frozen.jpg" num="21">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/22_RW01 Gatel the Frozen.jpg" num="22">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2041,7 +2041,7 @@ Until end of turn, creatures you control gain &quot;When this creature dies, ret
 		<card>
 			<name>UB01 Mindshattered Triclops</name>
 			<text>Formidable — Whenever this creature attacks, if creatures you control don&apos;t have total power 8 or greater, discard a card.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/87_UB01 Mindshattered Triclops.jpg" num="87">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/91_UB01 Mindshattered Triclops.jpg" num="91">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2058,7 +2058,7 @@ Until end of turn, creatures you control gain &quot;When this creature dies, ret
 		<card>
 			<name>RG02 Telegia the Thawed</name>
 			<text>Formidable — Whenever this creature attacks, if creatures you control have total power 8 or greater, untap target permanent.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/147_RG02 Telegia the Thawed.jpg" num="147">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/152_RG02 Telegia the Thawed.jpg" num="152">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2076,7 +2076,7 @@ Until end of turn, creatures you control gain &quot;When this creature dies, ret
 			<name>CR02 Sunfire Trainee</name>
 			<text>Sunfire — Add {R} or this creature gets +1/+0 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 This creature gets +1/+1 as long as you&apos;re grim. (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/101_CR02 Sunfire Trainee.jpg" num="101">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/105_CR02 Sunfire Trainee.jpg" num="105">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2094,7 +2094,7 @@ This creature gets +1/+1 as long as you&apos;re grim. (You&apos;re grim if the l
 			<name>CR03 Bladearm Ritualist</name>
 			<text>Haste
 Blaze of Glory — Whenever this creature attacks, you may add one mana of any color. This mana lasts until end of turn. If you do, sacrifice this creature at end of combat.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/102_CR03 Bladearm Ritualist.jpg" num="102">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/106_CR03 Bladearm Ritualist.jpg" num="106">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2114,7 +2114,7 @@ Blaze of Glory — Whenever this creature attacks, you may add one mana of any c
 When this creature enters, mill a card. You may play that card until the end of your next turn.
 ---
 (Back): Beastly Stowaway</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/103_CR04 Foolish Smuggler_front.jpg" num="103a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/107_CR04 Foolish Smuggler_front.jpg" num="107a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -2135,7 +2135,7 @@ When this creature enters, mill a card. You may play that card until the end of 
 Whenever this creature attacks, mill a card. You may play that card until the end of your next turn.
 ---
 (Front): CR04 Foolish Smuggler</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/103_CR04 Foolish Smuggler_back.jpg" num="103b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/107_CR04 Foolish Smuggler_back.jpg" num="107b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2154,7 +2154,7 @@ Whenever this creature attacks, mill a card. You may play that card until the en
 			<name>CR05 Nomadic Brute</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Menace</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/104_CR05 Nomadic Brute.jpg" num="104">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/108_CR05 Nomadic Brute.jpg" num="108">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2172,7 +2172,7 @@ Menace</text>
 			<name>CR06 Blazebolt Crossbowman</name>
 			<text>Reach
 Sunfire — This creature gets +2/+1 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/105_CR06 Blazebolt Crossbowman.jpg" num="105">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/109_CR06 Blazebolt Crossbowman.jpg" num="109">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2190,7 +2190,7 @@ Sunfire — This creature gets +2/+1 until end of turn. (Exile a creature card f
 			<name>CR07 Playful Ravager</name>
 			<text>Trample
 Whenever this creature attacks, if you&apos;re whimsical, it deals 4 damage to the defending player. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/106_CR07 Playful Ravager.jpg" num="106">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/110_CR07 Playful Ravager.jpg" num="110">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2207,7 +2207,7 @@ Whenever this creature attacks, if you&apos;re whimsical, it deals 4 damage to t
 		<card>
 			<name>CR08 Spinblade Demon</name>
 			<text>Blaze of Glory — Whenever this creature attacks, you may discard two cards. If you do, draw three cards, and sacrifice this creature at end of combat.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/107_CR08 Spinblade Demon.jpg" num="107">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/111_CR08 Spinblade Demon.jpg" num="111">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2225,7 +2225,7 @@ Whenever this creature attacks, if you&apos;re whimsical, it deals 4 damage to t
 			<name>CR09 Land-Raze Gargantuan</name>
 			<text>When this creature enters, you may discard a card or sacrifice a land. If you do, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)
 This creature attacks each combat if able.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/108_CR09 Land-Raze Gargantuan.jpg" num="108">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/112_CR09 Land-Raze Gargantuan.jpg" num="112">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2242,7 +2242,7 @@ This creature attacks each combat if able.</text>
 		<card>
 			<name>CR10 Seek Inner Fire</name>
 			<text>This spell deals 2 damage to any target. Surveil 1.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/109_CR10 Seek Inner Fire.jpg" num="109">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/113_CR10 Seek Inner Fire.jpg" num="113">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2258,7 +2258,7 @@ This creature attacks each combat if able.</text>
 		<card>
 			<name>CR12 Ruinous Pyre</name>
 			<text>This spell deals 5 damage to target creature. Put a -1/-1 counter on another target creature.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/111_CR12 Ruinous Pyre.jpg" num="111">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/115_CR12 Ruinous Pyre.jpg" num="115">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2275,7 +2275,7 @@ This creature attacks each combat if able.</text>
 			<name>CR13 Flames of Wanderlust</name>
 			<text>Destroy target artifact or nonbasic land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
 Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/112_CR13 Flames of Wanderlust.jpg" num="112">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/116_CR13 Flames of Wanderlust.jpg" num="116">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2291,7 +2291,7 @@ Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wandere
 		<card>
 			<name>CR14 Fall into Might</name>
 			<text>Target creature gets +4/+0 until end of turn. Put a -1/-1 counter on it.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/113_CR14 Fall into Might.jpg" num="113">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/117_CR14 Fall into Might.jpg" num="117">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2307,7 +2307,7 @@ Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wandere
 		<card>
 			<name>CR15 Overwhelming Assault</name>
 			<text>Creatures you control get +2/+0 and gain trample until end of turn.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/114_CR15 Overwhelming Assault.jpg" num="114">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/118_CR15 Overwhelming Assault.jpg" num="118">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2324,7 +2324,7 @@ Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wandere
 			<name>CG02 Well-Fed Triclops</name>
 			<text>Trample
 Formidable — When this creature dies, if creatures you control have total power 8 or greater, you gain 3 life.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/132_CG02 Well-Fed Triclops.jpg" num="132">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/137_CG02 Well-Fed Triclops.jpg" num="137">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2343,7 +2343,7 @@ Formidable — When this creature dies, if creatures you control have total powe
 			<text>Vigilance
 {T}: Add {G}.
 Sunfire — Add {G}. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/133_CG03 Sun-Basking Caretaker.jpg" num="133">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/138_CG03 Sun-Basking Caretaker.jpg" num="138">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2364,7 +2364,7 @@ Reach, deathtouch
 When this creature dies, draw a card.
 ---
 (Back): Eight-Legged Terror</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/134_CG04 Eight-Legged Bartender_front.jpg" num="134a">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/139_CG04 Eight-Legged Bartender_front.jpg" num="139a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -2386,7 +2386,7 @@ Reach, deathtouch
 When this creature dies, mill three cards.
 ---
 (Front): CG04 Eight-Legged Bartender</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/134_CG04 Eight-Legged Bartender_back.jpg" num="134b">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/139_CG04 Eight-Legged Bartender_back.jpg" num="139b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2405,7 +2405,7 @@ When this creature dies, mill three cards.
 			<name>CG05 Sun-Flame Berserker</name>
 			<text>Trample
 Sunfire — Add {G} or this creature gets +0/+1 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/135_CG05 Sun-Flame Berserker.jpg" num="135">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/140_CG05 Sun-Flame Berserker.jpg" num="140">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2423,7 +2423,7 @@ Sunfire — Add {G} or this creature gets +0/+1 until end of turn. (Exile a crea
 			<name>CG06 Blighted Triclops</name>
 			<text>This creature enters with three -1/-1 counters on it.
 Formidable — Whenever this creature attacks, if creatures you control have total power 8 or greater remove a -1/-1 counter from this creature.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/136_CG06 Blighted Triclops.jpg" num="136">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/141_CG06 Blighted Triclops.jpg" num="141">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2441,7 +2441,7 @@ Formidable — Whenever this creature attacks, if creatures you control have tot
 			<name>CG07 Exploratory Herbalist</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 When this creature enters, you gain 8 life.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/137_CG07 Exploratory Herbalist.jpg" num="137">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/142_CG07 Exploratory Herbalist.jpg" num="142">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2458,7 +2458,7 @@ When this creature enters, you gain 8 life.</text>
 		<card>
 			<name>MM02 Varasti, Fluid Dancer</name>
 			<text>Whenever you draw a card, add {C}. If this is the second time this ability has resolved this turn, this creature deals 3 damage to each creature you don&apos;t control. If it&apos;s the third time, mill three cards. If it&apos;s the fourth time, draw a card.</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/179_MM02 Varasti, Fluid Dancer.jpg" num="179">ADD</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/185_MM02 Varasti, Fluid Dancer.jpg" num="185">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2476,7 +2476,7 @@ When this creature enters, you gain 8 life.</text>
 			<name>RG01 Sufelia the Devout</name>
 			<text>Sunfire — Add {G} or this creature gets +1/+1 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 When this creature enters, surveil 1.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/146_RG01 Sufelia the Devout.jpg" num="146">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/151_RG01 Sufelia the Devout.jpg" num="151">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2494,7 +2494,7 @@ When this creature enters, surveil 1.</text>
 			<name>RR02 Raflegos the Passionate</name>
 			<text>Sunfire — Add one mana of any color. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 You don&apos;t lose unspent mana as steps and phases end.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/117_RR02 Raflegos the Passionate.jpg" num="117">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/121_RR02 Raflegos the Passionate.jpg" num="121">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2512,7 +2512,7 @@ You don&apos;t lose unspent mana as steps and phases end.</text>
 			<name>CG08 Recruiter of the Range</name>
 			<text>This creature enters with two -1/-1 counters.
 {2}{G}, {T}, Remove two -1/-1 counters from this creature: Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/138_CG08 Recruiter of the Range.jpg" num="138">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/143_CG08 Recruiter of the Range.jpg" num="143">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2529,7 +2529,7 @@ You don&apos;t lose unspent mana as steps and phases end.</text>
 		<card>
 			<name>CG09 Colossal Dreadbeast</name>
 			<text>Whenever this creature attacks, put target card from a graveyard on the bottom of its owner&apos;s library.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/139_CG09 Colossal Dreadbeast.jpg" num="139">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/144_CG09 Colossal Dreadbeast.jpg" num="144">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2546,7 +2546,7 @@ You don&apos;t lose unspent mana as steps and phases end.</text>
 		<card>
 			<name>CG10 Wild-Darkened Duelist</name>
 			<text>Whenever this creature deals combat damage to a player, it fights target creature that player controls.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/140_CG10 Wild-Darkened Duelist.jpg" num="140">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/145_CG10 Wild-Darkened Duelist.jpg" num="145">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2563,7 +2563,7 @@ You don&apos;t lose unspent mana as steps and phases end.</text>
 		<card>
 			<name>CG12 Rotting Fangs</name>
 			<text>Target creature you control deals damage equal to its power to target creature you don&apos;t control. Mill two cards.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/142_CG12 Rotting Fangs.jpg" num="142">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/147_CG12 Rotting Fangs.jpg" num="147">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2586,7 +2586,7 @@ Choose up to X {J} worth of modes, where X is the amount of life paid. You may c
 {J}{J}{J} — Put a creature card from among the milled cards into your hand.
 ---
 (Back): Season of Grim</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/178_MM01 Season of Whimsy_front.jpg" num="178a">ADD</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/184_MM01 Season of Whimsy_front.jpg" num="184a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -2610,7 +2610,7 @@ Choose up to X {J} worth of modes, where X is the amount of life paid. You may c
 X {J} — Return a creature card with mana value X from your graveyard to the battlefield.
 ---
 (Front): MM01 Season of Whimsy</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/178_MM01 Season of Whimsy_back.jpg" num="178b">ADD</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/184_MM01 Season of Whimsy_back.jpg" num="184b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2627,7 +2627,7 @@ X {J} — Return a creature card with mana value X from your graveyard to the ba
 		<card>
 			<name>CG13 Commune with Travelers</name>
 			<text>Reveal the top four cards of your library. You may put a creature card from among them into your hand. Put the rest into your graveyard. If you didn&apos;t put a creature card into your hand this way, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/143_CG13 Commune with Travelers.jpg" num="143">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/148_CG13 Commune with Travelers.jpg" num="148">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2645,7 +2645,7 @@ X {J} — Return a creature card with mana value X from your graveyard to the ba
 			<text>Flash
 Enchant creature
 Enchanted creature gets +2/+2.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/144_CG14 Spontaneous Strength.jpg" num="144">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/149_CG14 Spontaneous Strength.jpg" num="149">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2661,7 +2661,7 @@ Enchanted creature gets +2/+2.</text>
 		<card>
 			<name>CG15 Earth and Sun</name>
 			<text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Mill two cards.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/145_CG15 Earth and Sun.jpg" num="145">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/150_CG15 Earth and Sun.jpg" num="150">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2678,7 +2678,7 @@ Enchanted creature gets +2/+2.</text>
 			<name>CA01 Wildforged Golem</name>
 			<text>Changeling (This card is every creature type.)
 When this creature enters, surveil 1.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/196_CA01 Wildforged Golem.jpg" num="196">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/207_CA01 Wildforged Golem.jpg" num="207">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2721,7 +2721,7 @@ When this creature enters, surveil 1.</text>
 				<maintype>Creature</maintype>
 				<manacost>4</manacost>
 				<cmc>4</cmc>
-				<pt>4/3</pt>
+				<pt>4/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related attach="transform">CC01 Whimsical Farmer</related>
@@ -2759,7 +2759,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>CA03 Imposing Monolith</name>
 			<text>{T}, Mill two cards: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/198_CA03 Imposing Monolith.jpg" num="198">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/209_CA03 Imposing Monolith.jpg" num="209">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2775,7 +2775,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<text>This artifact doesn&apos;t untap during your untap step.
 {T}: Add {C}{C}{C}. If you&apos;re whimsical, add an additional {C}. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less.)
 {4}: Untap this artifact.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/199_RA01 Whimsy Monolith.jpg" num="199">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/210_RA01 Whimsy Monolith.jpg" num="210">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2789,7 +2789,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UW03 Cauterizing Healer</name>
 			<text>Blaze of Glory — Whenever this creature attacks, you may have it gain lifelink until end of turn. If you do, sacrifice this creature at end of combat.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/26_UW03 Cauterizing Healer.jpg" num="26">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/28_UW03 Cauterizing Healer.jpg" num="28">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2806,7 +2806,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UW01 Grounded Investigation</name>
 			<text>Create a Clue token and a 1/1 colorless Peasant creature token.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/24_UW01 Grounded Investigation.jpg" num="24">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/26_UW01 Grounded Investigation.jpg" num="26">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2822,7 +2822,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UW04 Triclops Storyteller</name>
 			<text>Formidable — Whenever this creature attacks, Giants you control get +1/+1 until end of turn. Then if creatures you control have total power 8 or greater, Giants you control get an additional +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/27_UW04 Triclops Storyteller.jpg" num="27">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/29_UW04 Triclops Storyteller.jpg" num="29">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2839,7 +2839,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RG03 Three-Eyed Teller</name>
 			<text>Formidable — When this creature enters, if creatures you control have total power 8 or greater, add {G}{G}{G}{G}.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/148_RG03 Three-Eyed Teller.jpg" num="148">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/153_RG03 Three-Eyed Teller.jpg" num="153">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2857,7 +2857,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<name>RB03 Three-Lie Teller</name>
 			<text>When this creature enters from your graveyard, add {B}{B}{B}.
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/86_RB03 Three-Lie Teller.jpg" num="86">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/89_RB03 Three-Lie Teller.jpg" num="89">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2875,7 +2875,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<name>UW05 Blighted Bard</name>
 			<text>This creature enters with a -1/-1 counter.
 {T}, Remove a -1/-1 counter from a creature you control: Create a 1/1 colorless Peasant creature token. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/28_UW05 Blighted Bard.jpg" num="28">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/30_UW05 Blighted Bard.jpg" num="30">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2893,7 +2893,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<name>UM01 Brickfolk Kinmage</name>
 			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]{W}{U}, {T}, Discard a Wall card: Counter target spell unless its controller pays {1}.[/b]]</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/186_UM01 Brickfolk Kinmage.jpg" num="186">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/197_UM01 Brickfolk Kinmage.jpg" num="197">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2911,7 +2911,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<name>UM02 Lunarkin Kinmage</name>
 			<text>{U}{B}, {T}, Discard a Reflection card: Draw two cards, then discard a card.
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/187_UM02 Lunarkin Kinmage.jpg" num="187">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/198_UM02 Lunarkin Kinmage.jpg" num="198">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2929,7 +2929,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<name>UM03 Blade Demon Kinmage</name>
 			<text>Blaze of Glory — Whenever this creature attacks, you may draw two cards. If you do, you lose 2 life, discard two cards, and sacrifice this creature at end of combat.
 {B}{R}, {T}, Discard a Demon card: This creature deals 3 damage to any target. You gain 3 life.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/188_UM03 Blade Demon Kinmage.jpg" num="188">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/199_UM03 Blade Demon Kinmage.jpg" num="199">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2947,7 +2947,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<name>UM04 Solarkin Kinmage</name>
 			<text>Sunfire — Add {R} or {G}. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 {R}{G}, {T}, Discard an Elemental card: Add {R}{R}{G}{G}. Mill four cards.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/189_UM04 Solarkin Kinmage.jpg" num="189">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/200_UM04 Solarkin Kinmage.jpg" num="200">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2965,7 +2965,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<name>UM05 Triclops Kinmage</name>
 			<text>Formidable — Whenever you discard a creature or land card, if creatures you control have total power 8 or greater, you may put it on top of your library.
 {G}{W}, {T}, Discard a Giant card: Creatures you control get +2/+2 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/190_UM05 Triclops Kinmage.jpg" num="190">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/201_UM05 Triclops Kinmage.jpg" num="201">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2984,7 +2984,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]This permanent enters tapped.[/b]]
 {T}: Add {W} or {U}.</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/203_ML01 The Grand Foundation.jpg" num="203">ADD</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/214_ML01 The Grand Foundation.jpg" num="214">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3001,7 +3001,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<text>This land enters tapped.
 {T}: Add {U} or {B}.
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/204_ML02 The Lunar Isle.jpg" num="204">ADD</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/215_ML02 The Lunar Isle.jpg" num="215">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3017,7 +3017,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<name>ML03 The Bladed Pass</name>
 			<text>This land enters tapped. When it does, create a 0/1 black and red Demon creature token with &quot;Blaze of Glory — Whenever this creature attacks, you may have it get +2/+1. If you do, sacrifice it at end of combat.&quot;
 {T}: Add {B} or {R}.</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/205_ML03 The Bladed Pass.jpg" num="205">ADD</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/216_ML03 The Bladed Pass.jpg" num="216">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3052,7 +3052,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<text>This land enters tapped.
 Sunfire — Add {R} or {G}. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 {T}: Add {R} or {G}.</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/206_ML04 The Solar Summit.jpg" num="206">ADD</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/217_ML04 The Solar Summit.jpg" num="217">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3068,7 +3068,7 @@ Sunfire — Add {R} or {G}. (Exile a creature card from your graveyard as a sorc
 			<name>ML05 The Hall of Sight</name>
 			<text>This land enters tapped.
 Formidable — {T}: Add {G} or {W}. If creatures you control have total power 8 or greater, add {G}{W} instead.</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/207_ML05 The Hall of Sight.jpg" num="207">ADD</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/218_ML05 The Hall of Sight.jpg" num="218">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3084,7 +3084,7 @@ Formidable — {T}: Add {G} or {W}. If creatures you control have total power 8 
 			<name>MR01 Vetari, Traitor</name>
 			<text>Partner with Ketaro, Traitor (When this creature enters, target player may put Ketaro into their hand from their library, then shuffle.)
 If a sunfire ability you control would trigger, you may instead discard a card, then draw a card.</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/115_MR01 Vetari, Traitor.jpg" num="115">ADD</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/119_MR01 Vetari, Traitor.jpg" num="119">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3102,7 +3102,7 @@ If a sunfire ability you control would trigger, you may instead discard a card, 
 			<name>MU01 Ketaro, Traitor</name>
 			<text>Partner with Vetari, Traitor (When this creature enters, target player may put Vetari into their hand from their library, then shuffle.)
 Replace &quot;as long as N or more creatures have died this turn&quot; with &quot;as long as N or more creature cards were put into graveyards this turn&quot; in moonflow abilities of cards you own.</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/52_MU01 Ketaro, Traitor.jpg" num="52">ADD</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/54_MU01 Ketaro, Traitor.jpg" num="54">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3122,7 +3122,7 @@ Replace &quot;as long as N or more creatures have died this turn&quot; with &quo
 {T}: Add {C}. You gain 1 life.
 ---
 (Back): The Dreamer&apos;s World</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/208_ML06 The Dreamer&apos;s Home_front.jpg" num="208a">ADD</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/219_ML06 The Dreamer&apos;s Home_front.jpg" num="219a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3140,7 +3140,7 @@ Replace &quot;as long as N or more creatures have died this turn&quot; with &quo
 {T}, Pay 2 life: Add {C}{C}.
 ---
 (Front): ML06 The Dreamer&apos;s Home</text>
-			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/208_ML06 The Dreamer&apos;s Home_back.jpg" num="208b">ADD</set>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/219_ML06 The Dreamer&apos;s Home_back.jpg" num="219b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3156,7 +3156,7 @@ Replace &quot;as long as N or more creatures have died this turn&quot; with &quo
 			<name>UC01 Essence of Kinship</name>
 			<text>As this enchantment enters, choose a creature type.
 Creatures you control of the chosen type get +1/+1.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/4_UC01 Essence of Kinship.jpg" num="4">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/5_UC01 Essence of Kinship.jpg" num="5">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3173,7 +3173,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 {T}, Put a -1/-1 counter on a creature you control: Add {W}.
 ---
 (Back): Pearl Dreamer of Grim</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/25_UW02 Pearl Dreamer of Whimsy_front.jpg" num="25a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/27_UW02 Pearl Dreamer of Whimsy_front.jpg" num="27a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3194,7 +3194,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 {T}: Add {W}.
 ---
 (Front): UW02 Pearl Dreamer of Whimsy</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/25_UW02 Pearl Dreamer of Whimsy_back.jpg" num="25b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/27_UW02 Pearl Dreamer of Whimsy_back.jpg" num="27b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3215,7 +3215,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 {T}, Put a -1/-1 counter on a creature you control: Add {B}.
 ---
 (Back): Jet Dreamer of Grim</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/88_UB02 Jet Dreamer of Whimsy_front.jpg" num="88a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/92_UB02 Jet Dreamer of Whimsy_front.jpg" num="92a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3236,7 +3236,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 {T}: Add {B}.
 ---
 (Front): UB02 Jet Dreamer of Whimsy</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/88_UB02 Jet Dreamer of Whimsy_back.jpg" num="88b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/92_UB02 Jet Dreamer of Whimsy_back.jpg" num="92b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3257,7 +3257,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 {T}, Put a -1/-1 counter on a creature you control: Add {U}.
 ---
 (Back): Sapphire Dreamer of Grim</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/57_UU02 Sapphire Dreamer of Whimsy_front.jpg" num="57a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/60_UU02 Sapphire Dreamer of Whimsy_front.jpg" num="60a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3278,7 +3278,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 {T}: Add {U}.
 ---
 (Front): UU02 Sapphire Dreamer of Whimsy</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/57_UU02 Sapphire Dreamer of Whimsy_back.jpg" num="57b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/60_UU02 Sapphire Dreamer of Whimsy_back.jpg" num="60b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3299,7 +3299,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 {T}, Put a -1/-1 counter on a creature you control: Add {R}.
 ---
 (Back): Ruby Dreamer of Grim</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/119_UR02 Ruby Dreamer of Whimsy_front.jpg" num="119a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/124_UR02 Ruby Dreamer of Whimsy_front.jpg" num="124a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3320,7 +3320,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 {T}: Add {R}.
 ---
 (Front): UR02 Ruby Dreamer of Whimsy</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/119_UR02 Ruby Dreamer of Whimsy_back.jpg" num="119b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/124_UR02 Ruby Dreamer of Whimsy_back.jpg" num="124b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3341,7 +3341,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 {T}, Put a -1/-1 counter on a creature you control: Add {G}.
 ---
 (Back): Emerald Dreamer of Grim</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/151_UG02 Emerald Dreamer of Whimsy_front.jpg" num="151a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/157_UG02 Emerald Dreamer of Whimsy_front.jpg" num="157a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3362,7 +3362,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 {T}: Add {G}.
 ---
 (Front): UG02 Emerald Dreamer of Whimsy</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/151_UG02 Emerald Dreamer of Whimsy_back.jpg" num="151b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/157_UG02 Emerald Dreamer of Whimsy_back.jpg" num="157b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3383,7 +3383,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 {T}, Put a -1/-1 counter on a creature you control: Add one mana of any color. Activate only if you control three or more artifacts.
 ---
 (Back): Opal Dreamer of Grim</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/202_UA02 Opal Dreamer of Whimsy_front.jpg" num="202a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/213_UA02 Opal Dreamer of Whimsy_front.jpg" num="213a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3402,7 +3402,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 {T}: Add one mana of any color. Activate only if you control three or more artifacts.
 ---
 (Front): UA02 Opal Dreamer of Whimsy</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/202_UA02 Opal Dreamer of Whimsy_back.jpg" num="202b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/213_UA02 Opal Dreamer of Whimsy_back.jpg" num="213b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3418,7 +3418,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 		<card>
 			<name>UA01 Wildforged Automaton</name>
 			<text>Changeling (This card is every creature type.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/201_UA01 Wildforged Automaton.jpg" num="201">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/212_UA01 Wildforged Automaton.jpg" num="212">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3434,7 +3434,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 			<name>UC02 Serum Wanderings</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Draw a card, then surveil 2.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/5_UC02 Serum Wanderings.jpg" num="5">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/6_UC02 Serum Wanderings.jpg" num="6">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3450,7 +3450,7 @@ Draw a card, then surveil 2.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Lifelink
 When this creature enters, create two 1/1 colorless Peasant creature token.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/31_UW08 Wandering Recruiter.jpg" num="31">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/33_UW08 Wandering Recruiter.jpg" num="33">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3470,7 +3470,7 @@ When this creature enters, create two 1/1 colorless Peasant creature token.</tex
 Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 ---
 (Back): Harbinger of Grim Bone</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/181_RZ01 Harbinger of Whimsy Bone_front.jpg" num="181a">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/192_RZ01 Harbinger of Whimsy Bone_front.jpg" num="192a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3491,7 +3491,7 @@ Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast 
 Extort, extort (Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life. Repeat this once.)
 ---
 (Front): RZ01 Harbinger of Whimsy Bone</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/181_RZ01 Harbinger of Whimsy Bone_back.jpg" num="181b">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/192_RZ01 Harbinger of Whimsy Bone_back.jpg" num="192b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3512,7 +3512,7 @@ Extort, extort (Whenever you cast a spell, you may pay {WB}. If you do, each opp
 Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 ---
 (Back): Harbinger of Grim Thunder</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/182_RZ02 Harbinger of Whimsy Thunder_front.jpg" num="182a">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/193_RZ02 Harbinger of Whimsy Thunder_front.jpg" num="193a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3533,7 +3533,7 @@ Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast 
 Prowess, prowess
 ---
 (Front): RZ02 Harbinger of Whimsy Thunder</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/182_RZ02 Harbinger of Whimsy Thunder_back.jpg" num="182b">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/193_RZ02 Harbinger of Whimsy Thunder_back.jpg" num="193b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3554,7 +3554,7 @@ Prowess, prowess
 Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 ---
 (Back): Harbinger of Grim Death</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/183_RZ03 Harbinger of Whimsy Death_front.jpg" num="183a">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/194_RZ03 Harbinger of Whimsy Death_front.jpg" num="194a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3575,7 +3575,7 @@ Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast 
 Deathtouch, trample
 ---
 (Front): RZ03 Harbinger of Whimsy Death</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/183_RZ03 Harbinger of Whimsy Death_back.jpg" num="183b">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/194_RZ03 Harbinger of Whimsy Death_back.jpg" num="194b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3596,7 +3596,7 @@ Deathtouch, trample
 Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 ---
 (Back): Harbinger of Grim Light</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/184_RZ04 Harbinger of Whimsy Light_front.jpg" num="184a">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/195_RZ04 Harbinger of Whimsy Light_front.jpg" num="195a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3617,7 +3617,7 @@ Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast 
 Battle cry, battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.Repeat this once.)
 ---
 (Front): RZ04 Harbinger of Whimsy Light</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/184_RZ04 Harbinger of Whimsy Light_back.jpg" num="184b">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/195_RZ04 Harbinger of Whimsy Light_back.jpg" num="195b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3638,7 +3638,7 @@ Battle cry, battle cry (Whenever this creature attacks, each other attacking cre
 Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 ---
 (Back): Harbinger of Grim Water</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/185_RZ05 Harbinger of Whimsy Water_front.jpg" num="185a">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/196_RZ05 Harbinger of Whimsy Water_front.jpg" num="196a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3659,7 +3659,7 @@ Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast 
 Evolve, evolve (Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature. Repeat this once.)
 ---
 (Front): RZ05 Harbinger of Whimsy Water</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/185_RZ05 Harbinger of Whimsy Water_back.jpg" num="185b">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/196_RZ05 Harbinger of Whimsy Water_back.jpg" num="196b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3678,7 +3678,7 @@ Evolve, evolve (Whenever a creature you control enters, if that creature has gre
 			<name>UG08 Wandering Strongman</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Trample</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/157_UG08 Wandering Strongman.jpg" num="157">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/163_UG08 Wandering Strongman.jpg" num="163">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3696,7 +3696,7 @@ Trample</text>
 			<name>UU08 Wandering Magician</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Flying</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/63_UU08 Wandering Magician.jpg" num="63">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/66_UU08 Wandering Magician.jpg" num="66">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3715,7 +3715,7 @@ Flying</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Menace
 When this creature enters, create a 2/2 black Horror creature token.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/94_UB08 Wandering Stitcher.jpg" num="94">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/98_UB08 Wandering Stitcher.jpg" num="98">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3734,7 +3734,7 @@ When this creature enters, create a 2/2 black Horror creature token.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Haste
 When this creature enters, it deals damage equal to its power to each opponent.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/125_UR08 Wandering Firebreather.jpg" num="125">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/130_UR08 Wandering Firebreather.jpg" num="130">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3752,7 +3752,7 @@ When this creature enters, it deals damage equal to its power to each opponent.<
 			<name>UW06 Mason-Doctor</name>
 			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Lifelink[/b]]</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/29_UW06 Mason-Doctor.jpg" num="29">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/31_UW06 Mason-Doctor.jpg" num="31">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3769,7 +3769,7 @@ When this creature enters, it deals damage equal to its power to each opponent.<
 		<card>
 			<name>UW07 Wanderlust Golem</name>
 			<text>When this creature enters, each player wanders twice. (To wander, reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/30_UW07 Wanderlust Golem.jpg" num="30">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/32_UW07 Wanderlust Golem.jpg" num="32">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3787,7 +3787,7 @@ When this creature enters, it deals damage equal to its power to each opponent.<
 			<name>UW09 Fragmented Purge</name>
 			<text>Cleave {W} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
 Destroy target enchantment [[b]or creature with power 3 or greater[/b]].</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/32_UW09 Fragmented Purge.jpg" num="32">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/34_UW09 Fragmented Purge.jpg" num="34">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3804,7 +3804,7 @@ Destroy target enchantment [[b]or creature with power 3 or greater[/b]].</text>
 			<name>UU09 Fragmented Counterspell</name>
 			<text>Cleave {U} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
 Counter target activated ability, triggered ability, [[b]or spell[/b]].</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/64_UU09 Fragmented Counterspell.jpg" num="64">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/67_UU09 Fragmented Counterspell.jpg" num="67">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3821,7 +3821,7 @@ Counter target activated ability, triggered ability, [[b]or spell[/b]].</text>
 			<name>UB09 Fragmented Murder</name>
 			<text>Cleave {B} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
 Destroy target creature [[b]with toughness 2 or less[/b]].</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/95_UB09 Fragmented Murder.jpg" num="95">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/99_UB09 Fragmented Murder.jpg" num="99">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3838,7 +3838,7 @@ Destroy target creature [[b]with toughness 2 or less[/b]].</text>
 			<name>UR09 Fragmented Flames</name>
 			<text>Cleave {R} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
 This spell deals 2 damage to [[b]up to two[/b]] target creature[[b]s[/b]].</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/126_UR09 Fragmented Flames.jpg" num="126">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/131_UR09 Fragmented Flames.jpg" num="131">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3855,7 +3855,7 @@ This spell deals 2 damage to [[b]up to two[/b]] target creature[[b]s[/b]].</text
 			<name>UG09 Fragmented Naturalization</name>
 			<text>Cleave {G} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
 Destroy target artifact [or creature with power less than the greatest power among creatures you control].</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/158_UG09 Fragmented Naturalization.jpg" num="158">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/164_UG09 Fragmented Naturalization.jpg" num="164">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3873,7 +3873,7 @@ Destroy target artifact [or creature with power less than the greatest power amo
 			<text>Equipped creature gets +2/+2.
 Equip Giant {W}
 Equip {2}{W}</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/33_UW10 Formidable Hammer.jpg" num="33">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/35_UW10 Formidable Hammer.jpg" num="35">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3890,7 +3890,7 @@ Equip {2}{W}</text>
 			<name>UW11 Foundational Virtue</name>
 			<text>Enchant creature
 Enchanted creature has &quot;Whenever this creature deals combat damage to a player, create a 1/1 colorless Peasant creature token.&quot;. This text is in square brackets ([]) as long as enchanted creature has foundation.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/34_UW11 Foundational Virtue.jpg" num="34">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/36_UW11 Foundational Virtue.jpg" num="36">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3906,7 +3906,7 @@ Enchanted creature has &quot;Whenever this creature deals combat damage to a pla
 		<card>
 			<name>UW12 Loyal Wanderings</name>
 			<text>Creatures you control get +2/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/35_UW12 Loyal Wanderings.jpg" num="35">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/37_UW12 Loyal Wanderings.jpg" num="37">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3922,7 +3922,7 @@ Enchanted creature has &quot;Whenever this creature deals combat damage to a pla
 		<card>
 			<name>UU12 Knowledgeable Wanderings</name>
 			<text>Draw two cards.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/67_UU12 Knowledgeable Wanderings.jpg" num="67">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/70_UU12 Knowledgeable Wanderings.jpg" num="70">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3938,7 +3938,7 @@ Enchanted creature has &quot;Whenever this creature deals combat damage to a pla
 		<card>
 			<name>UB12 Persistent Wanderings</name>
 			<text>Return target creature card from your graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/98_UB12 Persistent Wanderings.jpg" num="98">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/102_UB12 Persistent Wanderings.jpg" num="102">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3954,7 +3954,7 @@ Enchanted creature has &quot;Whenever this creature deals combat damage to a pla
 		<card>
 			<name>UR12 Courageous Wanderings</name>
 			<text>Add {R}{R}{R}{R}{R}{R}.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/129_UR12 Courageous Wanderings.jpg" num="129">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/134_UR12 Courageous Wanderings.jpg" num="134">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3970,7 +3970,7 @@ Enchanted creature has &quot;Whenever this creature deals combat damage to a pla
 		<card>
 			<name>UG12 Strengthful Wanderings</name>
 			<text>Search your library for an Equipment or Aura card, put it onto the battlefield attached to target creature you control it could equip or enchant, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/161_UG12 Strengthful Wanderings.jpg" num="161">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/167_UG12 Strengthful Wanderings.jpg" num="167">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3986,10 +3986,10 @@ Enchanted creature has &quot;Whenever this creature deals combat damage to a pla
 		<card>
 			<name>UM06 Brickfolk Charm</name>
 			<text>Choose one —
-• Target creature with foundation gains &quot;[[b]Whenever this creature deals combat damage to player this turn, you gain 1 life and draw a card.[/b]]&quot;
+• Until end of turn, target creature with foundation gains &quot;[[b]Whenever this creature deals combat damage to player this turn, you gain 1 life and draw a card.[/b]]&quot;
 • Exile target creature you control, then return it to the battlefield tapped under its owner&apos;s control.
 • Return to the battlefield tapped target creature card in your graveyard that was put there this turn from the battlefield.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/191_UM06 Brickfolk Charm.jpg" num="191">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/202_UM06 Brickfolk Charm.jpg" num="202">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4008,7 +4008,7 @@ Enchanted creature has &quot;Whenever this creature deals combat damage to a pla
 • Mill two cards, then draw a card.
 • Return target nonland permanent to its owner&apos;s hand.
 • Sacrifice a creature. If you did, draw two cards.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/192_UM07 Lunarkin Charm.jpg" num="192">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/203_UM07 Lunarkin Charm.jpg" num="203">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4027,7 +4027,7 @@ Enchanted creature has &quot;Whenever this creature deals combat damage to a pla
 • This spell deals 2 damage to target creature.
 • Return target creature card with mana value 3 or less from your graveyard to the battlefield.
 • You gain 2 life and each opponent loses 2 life.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/193_UM08 Blade Demon Charm.jpg" num="193">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/204_UM08 Blade Demon Charm.jpg" num="204">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4046,7 +4046,7 @@ Enchanted creature has &quot;Whenever this creature deals combat damage to a pla
 • Destroy target artifact.
 • Destroy target enchantment.
 • Add three mana in any combination of colors. Draw a card.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/194_UM09 Solarkin Charm.jpg" num="194">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/205_UM09 Solarkin Charm.jpg" num="205">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4065,7 +4065,7 @@ Enchanted creature has &quot;Whenever this creature deals combat damage to a pla
 • Search your library for a Giant, Aura, or Equipment card, reveal it, then shuffle and put that card on top.
 • Remove all -1/-1 counters from creatures you control.
 • Tap all creatures. You gain life equal to the number of creatures tapped this way.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/195_UM10 Triclops Charm.jpg" num="195">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/206_UM10 Triclops Charm.jpg" num="206">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4082,7 +4082,7 @@ Enchanted creature has &quot;Whenever this creature deals combat damage to a pla
 			<name>UU04 Pacifist Fireborn</name>
 			<text>Sunfire — You may pay {U}. If you do, draw a card. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 Whenever you activate a sunfire ability, mill a card.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/59_UU04 Pacifist Fireborn.jpg" num="59">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/62_UU04 Pacifist Fireborn.jpg" num="62">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4100,7 +4100,7 @@ Whenever you activate a sunfire ability, mill a card.</text>
 			<name>UU05 Scholar of Wanderlust</name>
 			<text>This creature enters with five -1/-1 counters.
 Whenever you draw a card or wander for the second time each turn, remove a -1/-1 counter from this creature.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/60_UU05 Scholar of Wanderlust.jpg" num="60">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/63_UU05 Scholar of Wanderlust.jpg" num="63">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4118,7 +4118,7 @@ Whenever you draw a card or wander for the second time each turn, remove a -1/-1
 			<name>UU06 Flowbringer Lunarkin</name>
 			<text>When this creature enters, return target nonland permanent to its owner&apos;s hand.
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/61_UU06 Flowbringer Lunarkin.jpg" num="61">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/64_UU06 Flowbringer Lunarkin.jpg" num="64">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4136,7 +4136,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<name>UU07 Whimsywinder</name>
 			<text>When this creature enters, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)
 This creature can&apos;t attack unless you&apos;re whimsical. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/62_UU07 Whimsywinder.jpg" num="62">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/65_UU07 Whimsywinder.jpg" num="65">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4155,7 +4155,7 @@ This creature can&apos;t attack unless you&apos;re whimsical. (You&apos;re whims
 			<text>When this artifact enters, draw three cards.
 {5}{U}: Sacrifice this artifact.
 Moonflow 4 (You may play this card from your graveyard as long as 4 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/65_UU10 Box of Lunacy.jpg" num="65">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/68_UU10 Box of Lunacy.jpg" num="68">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4170,9 +4170,9 @@ Moonflow 4 (You may play this card from your graveyard as long as 4 or more crea
 		</card>
 		<card>
 			<name>RA02 Lunatic Sphere</name>
-			<text>Each spell that would cost less than two mana to cast costs two mana to cast. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {B} to cast costs {1}{B} to cast instead.)
+			<text>Each spell that would cost less than two mana to cast costs two mana to cast. (Additional mana in the cost may be paid with any type of mana. For example, a spell that would cost {B} to cast costs {1}{B} to cast instead.)
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/200_RA02 Lunatic Sphere.jpg" num="200">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/211_RA02 Lunatic Sphere.jpg" num="211">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4188,7 +4188,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 Enchant creature
 [[b]Whenever this creature or enchanted creature attacks, draw a card.[/b]]</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/66_UU11 Foundational Curiosity.jpg" num="66">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/69_UU11 Foundational Curiosity.jpg" num="69">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4206,7 +4206,7 @@ Enchant creature
 			<text>This creature enters with a -1/-1 counter.
 Menace
 Whenever this creature attacks, you may sacrifice a creature and remove a -1/-1 counter from this creature. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/89_UB03 Blighted Bully.jpg" num="89">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/93_UB03 Blighted Bully.jpg" num="93">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4223,7 +4223,7 @@ Whenever this creature attacks, you may sacrifice a creature and remove a -1/-1 
 		<card>
 			<name>UB07 Blazing Blade Champion</name>
 			<text>Blaze of Glory — Whenever this creature attacks, you may have each opponent lose 5 life. If you do, sacrifice this creature at end of turn.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/93_UB07 Blazing Blade Champion.jpg" num="93">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/97_UB07 Blazing Blade Champion.jpg" num="97">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4241,7 +4241,7 @@ Whenever this creature attacks, you may sacrifice a creature and remove a -1/-1 
 			<name>UB04 Wanderlust Channeler</name>
 			<text>When this creature enters, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)
 {B}, Discard this card: Wander.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/90_UB04 Wanderlust Channeler.jpg" num="90">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/94_UB04 Wanderlust Channeler.jpg" num="94">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4260,7 +4260,7 @@ Whenever this creature attacks, you may sacrifice a creature and remove a -1/-1 
 			<text>Flash
 Flying
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/91_UB05 Lunarkin Assassin.jpg" num="91">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/95_UB05 Lunarkin Assassin.jpg" num="95">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4277,7 +4277,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 		<card>
 			<name>UB06 Fleshy Blight-Spreader</name>
 			<text>When this creature dies, put a -1/-1 counter on target creature.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/92_UB06 Fleshy Blight-Spreader.jpg" num="92">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/96_UB06 Fleshy Blight-Spreader.jpg" num="96">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4294,7 +4294,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 		<card>
 			<name>UB10 Vengeant Venture</name>
 			<text>Destroy target creature. Reveal the top card of your library and put it into your hand. You lose life equal to the greater mana value among those cards.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/96_UB10 Vengeant Venture.jpg" num="96">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/100_UB10 Vengeant Venture.jpg" num="100">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4311,7 +4311,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<name>UB11 Arena of Insanity</name>
 			<text>Enchant creature
 At the beginning of your precombat main phase, you lose 1 life, mill a card, then draw a card.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/97_UB11 Arena of Insanity.jpg" num="97">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/101_UB11 Arena of Insanity.jpg" num="101">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4328,7 +4328,7 @@ At the beginning of your precombat main phase, you lose 1 life, mill a card, the
 			<name>UR03 Swift Seeker</name>
 			<text>Haste
 Sacrifice this creature: Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/120_UR03 Swift Seeker.jpg" num="120">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/125_UR03 Swift Seeker.jpg" num="125">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4346,7 +4346,7 @@ Sacrifice this creature: Wander. (Reveal the top card of your library. If it&apo
 			<name>UR04 Solarflame Zealot</name>
 			<text>When this creature enters, surveil 2.
 Sunfire — Add {R} or this creature gets +1/+2 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/121_UR04 Solarflame Zealot.jpg" num="121">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/126_UR04 Solarflame Zealot.jpg" num="126">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4364,7 +4364,7 @@ Sunfire — Add {R} or this creature gets +1/+2 until end of turn. (Exile a crea
 			<name>UR05 Inspired Whimsyshaman</name>
 			<text>Menace
 When this creature dies, if you&apos;re whimsical, mill a card. You may play that card until the end of your next turn. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/122_UR05 Inspired Whimsyshaman.jpg" num="122">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/127_UR05 Inspired Whimsyshaman.jpg" num="127">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4381,7 +4381,7 @@ When this creature dies, if you&apos;re whimsical, mill a card. You may play tha
 		<card>
 			<name>UR06 Archival Pyromancer</name>
 			<text>Blaze of Glory — Whenever this creature attacks, you may have target instant or sorcery card in your graveyard gain flashback until end of turn. The flashback cost is equal to its mana cost reduced by {1}.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/123_UR06 Archival Pyromancer.jpg" num="123">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/128_UR06 Archival Pyromancer.jpg" num="128">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4398,7 +4398,7 @@ When this creature dies, if you&apos;re whimsical, mill a card. You may play tha
 		<card>
 			<name>UR07 Grim-Might Fleshbeast</name>
 			<text>This creature gets +2/+3 and has trample as long as you&apos;re grim. (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/124_UR07 Grim-Might Fleshbeast.jpg" num="124">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/129_UR07 Grim-Might Fleshbeast.jpg" num="129">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4418,7 +4418,7 @@ When this creature dies, if you&apos;re whimsical, mill a card. You may play tha
 This artifact enters tapped.
 {T}: Add {R}.
 {1}, Sacrifice this enchantment: Creatures you control gain haste until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/128_UR11 Column of Swift Dreams.jpg" num="128">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/133_UR11 Column of Swift Dreams.jpg" num="133">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4434,7 +4434,7 @@ This artifact enters tapped.
 		<card>
 			<name>UR10 Act of Courageous Treason</name>
 			<text>Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn. When it dies this turn, add {R}{R}.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/127_UR10 Act of Courageous Treason.jpg" num="127">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/132_UR10 Act of Courageous Treason.jpg" num="132">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4450,8 +4450,8 @@ This artifact enters tapped.
 		<card>
 			<name>UG01 Caretaking Figment</name>
 			<text>{T}: Add {G}.
-Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/150_UG01 Caretaking Figment.jpg" num="150">ADD</set>
+Moonflow 3 (You may play this card from your graveyard as long as 3 or more creatures have died this turn. It enters with a finality counter on it.)</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/156_UG01 Caretaking Figment.jpg" num="156">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4461,14 +4461,14 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 				<cmc>1</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>1/1</pt>
+				<pt>0/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UG03 Sniffing Wildebeast</name>
 			<text>When this creature dies, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/152_UG03 Sniffing Wildebeast.jpg" num="152">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/158_UG03 Sniffing Wildebeast.jpg" num="158">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4485,7 +4485,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 		<card>
 			<name>UG05 Oathsworn Triclops</name>
 			<text>Formidable — When this creature dies, if creatures you control have total power 8 or greater, reveal cards from the top of your library until you reveal a creature card, put it onto the battlefield, and the the rest into your graveyard.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/154_UG05 Oathsworn Triclops.jpg" num="154">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/160_UG05 Oathsworn Triclops.jpg" num="160">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4502,7 +4502,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 		<card>
 			<name>UG03 Wilderness Maniac</name>
 			<text>If you would draw a card from an empty library while there are one or more land cards in your graveyard, instead return a land card from your graveyard to the battlefield tapped.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/153_UG03 Wilderness Maniac.jpg" num="153">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/159_UG03 Wilderness Maniac.jpg" num="159">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4520,7 +4520,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<name>UG07 Dreadmawform Solarkin</name>
 			<text>Trample
 Sunfire — This creature gets +1/+1 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/156_UG07 Dreadmawform Solarkin.jpg" num="156">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/162_UG07 Dreadmawform Solarkin.jpg" num="162">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4537,7 +4537,7 @@ Sunfire — This creature gets +1/+1 until end of turn. (Exile a creature card f
 		<card>
 			<name>UG06 Singer of Might</name>
 			<text>Creatures you control get +3/+3.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/155_UG06 Singer of Might.jpg" num="155">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/161_UG06 Singer of Might.jpg" num="161">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4555,7 +4555,7 @@ Sunfire — This creature gets +1/+1 until end of turn. (Exile a creature card f
 			<name>UG10 Enhancement of Finding</name>
 			<text>Enchant creature
 Enchanted creature gets +2/+2 and has &quot;Whenever this creature attacks, surveil 1.&quot;</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/159_UG10 Enhancement of Finding.jpg" num="159">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/165_UG10 Enhancement of Finding.jpg" num="165">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4572,7 +4572,7 @@ Enchanted creature gets +2/+2 and has &quot;Whenever this creature attacks, surv
 			<name>UG11 Surveyor&apos;s Stone</name>
 			<text>{T}: Surveil X, where X is the total power of creatures you control.
 Sacrifice this artifact: Reveal the top card of your library. If it&apos;s a land or creature card, put it into your hand.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/160_UG11 Surveyor&apos;s Stone.jpg" num="160">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/166_UG11 Surveyor&apos;s Stone.jpg" num="166">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4592,7 +4592,7 @@ This land enters tapped.
 {T}: Add {W} or {U}.
 ---
 (Back): Favor of Frost</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/209_UL01 Festival of Frost_front.jpg" num="209a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/226_UL01 Festival of Frost_front.jpg" num="226a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4611,7 +4611,7 @@ This land enters tapped.
 Draw a card.
 ---
 (Front): UL01 Festival of Frost</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/209_UL01 Festival of Frost_back.jpg" num="209b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/226_UL01 Festival of Frost_back.jpg" num="226b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4632,7 +4632,7 @@ This land enters tapped.
 {T}: Add {U} or {B}.
 ---
 (Back): Favor of Darkness</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/210_UL02 Festival of Darkness_front.jpg" num="210a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/227_UL02 Festival of Darkness_front.jpg" num="227a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4651,7 +4651,7 @@ This land enters tapped.
 Draw a card.
 ---
 (Front): UL02 Festival of Darkness</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/210_UL02 Festival of Darkness_back.jpg" num="210b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/227_UL02 Festival of Darkness_back.jpg" num="227b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4672,7 +4672,7 @@ This land enters tapped.
 {T}: Add {W} or {B}.
 ---
 (Back): Favor of Bone</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/214_UL06 Festival of Bone_front.jpg" num="214a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/231_UL06 Festival of Bone_front.jpg" num="231a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4691,7 +4691,7 @@ This land enters tapped.
 Draw a card.
 ---
 (Front): UL06 Festival of Bone</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/214_UL06 Festival of Bone_back.jpg" num="214b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/231_UL06 Festival of Bone_back.jpg" num="231b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4712,7 +4712,7 @@ This land enters tapped.
 {T}: Add {G} or {U}.
 ---
 (Back): Favor of Water</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/218_UL10 Festival of Water_front.jpg" num="218a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/235_UL10 Festival of Water_front.jpg" num="235a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4731,7 +4731,7 @@ This land enters tapped.
 Draw a card.
 ---
 (Front): UL10 Festival of Water</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/218_UL10 Festival of Water_back.jpg" num="218b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/235_UL10 Festival of Water_back.jpg" num="235b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4752,7 +4752,7 @@ This land enters tapped.
 {T}: Add {U} or {R}.
 ---
 (Back): Favor of Thunder</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/215_UL07 Festival of Thunder_front.jpg" num="215a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/232_UL07 Festival of Thunder_front.jpg" num="232a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4771,7 +4771,7 @@ This land enters tapped.
 Draw a card.
 ---
 (Front): UL07 Festival of Thunder</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/215_UL07 Festival of Thunder_back.jpg" num="215b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/232_UL07 Festival of Thunder_back.jpg" num="232b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4792,7 +4792,7 @@ This land enters tapped.
 {T}: Add {B} or {R}.
 ---
 (Back): Favor of Blood</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/211_UL03 Festival of Blood_front.jpg" num="211a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/228_UL03 Festival of Blood_front.jpg" num="228a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4811,7 +4811,7 @@ This land enters tapped.
 Draw a card.
 ---
 (Front): UL03 Festival of Blood</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/211_UL03 Festival of Blood_back.jpg" num="211b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/228_UL03 Festival of Blood_back.jpg" num="228b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4832,7 +4832,7 @@ This land enters tapped.
 {T}: Add {B} or {G}.
 ---
 (Back): Favor of Death</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/216_UL08 Festival of Death_front.jpg" num="216a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/233_UL08 Festival of Death_front.jpg" num="233a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4851,7 +4851,7 @@ This land enters tapped.
 Draw a card.
 ---
 (Front): UL08 Festival of Death</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/216_UL08 Festival of Death_back.jpg" num="216b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/233_UL08 Festival of Death_back.jpg" num="233b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4872,7 +4872,7 @@ This land enters tapped.
 {T}: Add {R} or {G}.
 ---
 (Back): Favor of Fire</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/212_UL04 Festival of Fire_front.jpg" num="212a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/229_UL04 Festival of Fire_front.jpg" num="229a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4891,7 +4891,7 @@ This land enters tapped.
 Draw a card.
 ---
 (Front): UL04 Festival of Fire</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/212_UL04 Festival of Fire_back.jpg" num="212b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/229_UL04 Festival of Fire_back.jpg" num="229b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4912,7 +4912,7 @@ This land enters tapped.
 {T}: Add {R} or {W}.
 ---
 (Back): Favor of Light</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/217_UL09 Festival of Light_front.jpg" num="217a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/234_UL09 Festival of Light_front.jpg" num="234a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4931,7 +4931,7 @@ This land enters tapped.
 Draw a card.
 ---
 (Front): UL09 Festival of Light</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/217_UL09 Festival of Light_back.jpg" num="217b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/234_UL09 Festival of Light_back.jpg" num="234b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4952,7 +4952,7 @@ This land enters tapped.
 {T}: Add {G} or {W}.
 ---
 (Back): Favor of Light</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/213_UL05 Festival of Light_front.jpg" num="213a">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/230_UL05 Festival of Light_front.jpg" num="230a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4971,7 +4971,7 @@ This land enters tapped.
 Draw a card.
 ---
 (Front): UL05 Festival of Light</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/213_UL05 Festival of Light_back.jpg" num="213b">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/230_UL05 Festival of Light_back.jpg" num="230b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4989,7 +4989,7 @@ Draw a card.
 			<name>RG06 What a Whimsical World</name>
 			<text>When this enchantment enters, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)
 As long as you&apos;re whimsical, you may play an additional land on each of your turns. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less.)</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/149_RG06 What a Whimsical World.jpg" num="149">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/155_RG06 What a Whimsical World.jpg" num="155">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5006,7 +5006,7 @@ As long as you&apos;re whimsical, you may play an additional land on each of you
 			<name>RU02 Vinki the Reflective</name>
 			<text>Whenever this creature attacks, create a Clue token.
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/54_RU02 Vinki the Reflective.jpg" num="54">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/56_RU02 Vinki the Reflective.jpg" num="56">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5025,7 +5025,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<text>Lifelink
 Cycling—Pay 2 life (Pay 2 life, Discard this card: Draw a card.)
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/84_RB01 Venshi the Absorbative.jpg" num="84">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/87_RB01 Venshi the Absorbative.jpg" num="87">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5042,7 +5042,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 		<card>
 			<name>RB02 Klaror the Brainslayer</name>
 			<text>Blaze of Glory — Whenever this creature attacks, you may have each opponent discard a card at random. If you do, sacrifice this creature at end of combat.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/85_RB02 Klaror the Brainslayer.jpg" num="85">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/88_RB02 Klaror the Brainslayer.jpg" num="88">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5059,7 +5059,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 		<card>
 			<name>RR01 Katori the Brawnslayer</name>
 			<text>Blaze of Glory — Whenever this creature attacks, you may have this creature deal 2 damage to the defending player. If you do, sacrifice this creature at end of combat.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/116_RR01 Katori the Brawnslayer.jpg" num="116">ADD</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/120_RR01 Katori the Brawnslayer.jpg" num="120">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5070,6 +5070,360 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text>({T}: Add {W}.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/236_Plains.jpg" num="236">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text>({T}: Add {U}.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/237_Island.jpg" num="237">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text>({T}: Add {B}.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/238_Swamp.jpg" num="238">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text>({T}: Add {R}.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/239_Mountain.jpg" num="239">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text>({T}: Add {G}.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/240_Forest.jpg" num="240">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>ML07 The Wandering Refuge</name>
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+{T}: Add {C}. If you&apos;ve wandered this turn, add one mana of any color instead.</text>
+			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/220_ML07 The Wandering Refuge.jpg" num="220">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Kindred Land — Wanderer</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL01 City of Building and Breaking</name>
+			<text>As this creature enters, you may behold a Wall. If you didn&apos;t, this land enters tapped. (To behold a Wall, choose a Wall you control or reveal a Wall card from your hand.)
+{T}: Add {W} or {U}.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/221_RL01 City of Building and Breaking.jpg" num="221">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL02 City of Reflecting and Absorbing</name>
+			<text>As this creature enters, you may behold a Reflection. If you didn&apos;t, this land enters tapped. (To behold a Reflection, choose a Reflection you control or reveal a Reflection card from your hand.)
+{T}: Add {U} or {B}.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/222_RL02 City of Reflecting and Absorbing.jpg" num="222">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL03 City of Brain and Brawn</name>
+			<text>As this creature enters, you may behold a Demon. If you didn&apos;t, this land enters tapped. (To behold a Demon, choose a Demon you control or reveal a Demon card from your hand.)
+{T}: Add {B} or {R}.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/223_RL03 City of Brain and Brawn.jpg" num="223">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL04 City of Passion and Devotion</name>
+			<text>As this creature enters, you may behold an Elemental. If you didn&apos;t, this land enters tapped. (To behold an Elemental, choose an Elemental you control or reveal an Elemental card from your hand.)
+{T}: Add {R} or {G}.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/224_RL04 City of Passion and Devotion.jpg" num="224">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL05 City of Thaw and Frost</name>
+			<text>As this creature enters, you may behold a Giant. If you didn&apos;t, this land enters tapped. (To behold a Giant, choose a Giant you control or reveal a Giant card from your hand.)
+{T}: Add {G} or {W}.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/225_RL05 City of Thaw and Frost.jpg" num="225">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RC01 Epitome of Wanderlust</name>
+			<text>Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/4_RC01 Epitome of Wanderlust.jpg" num="4">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RM01 Lord of the Foundation</name>
+			<text>Other Walls you control have Foundation. (When they enter, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on those cards. This stacks.)</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/186_RM01 Lord of the Foundation.jpg" num="186">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wall Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RM02 Lord of the Isle</name>
+			<text>Reflection cards in your graveyard have Moonflow 1. (You may play those cards from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/187_RM02 Lord of the Isle.jpg" num="187">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Reflection Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RW04 Banishing Ranger</name>
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+When this creature enters, exile target nonland permanent until this creature leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/24_RW04 Banishing Ranger.jpg" num="24">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RU04 Opting Ranger</name>
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+When this creature enters, scry 1, then draw a card.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/58_RU04 Opting Ranger.jpg" num="58">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RB04 Thoughtseizing Ranger</name>
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+When this creature enters, target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/90_RB04 Thoughtseizing Ranger.jpg" num="90">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RR04 Bolting Ranger</name>
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+When this creature enters, it deals 3 damage to any target.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/122_RR04 Bolting Ranger.jpg" num="122">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RG04 Cultivating Ranger</name>
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+When this creature enters, search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/154_RG04 Cultivating Ranger.jpg" num="154">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RM03 Lord of the Pass</name>
+			<text>Whenever a Demon you control dies, return it to the battlefield tapped with a finality counter.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/188_RM03 Lord of the Pass.jpg" num="188">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RM04 Lord of the Summit</name>
+			<text>Other Elementals you control have &quot;Sunfire — Add {R}{G}. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/189_RM04 Lord of the Summit.jpg" num="189">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RM05 Lord of the Hall</name>
+			<text>Other Giants you control have &quot;Formidable — Whenever this creature attacks, if creatures you control have total power 8 or greater, this creature gets +2/+2 until end of turn.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/190_RM05 Lord of the Hall.jpg" num="190">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
