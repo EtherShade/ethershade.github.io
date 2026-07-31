@@ -1,4 +1,39 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+MC01 The Wanderer of Worlds added.
+MG01 Ambassador of Thorns added.
+MG02 Solatic added.
+RG05 Moodbound Hydra added.
+MU02 Omniscient Builder added.
+RC02 Minion of Lunacy added.
+RW05 Whimsical Greater Angel added.
+RB05 Grim Greater Demon added.
+RU05 Riddle Stealer added.
+RR05 Moodhoarder Dragon added.
+MW02 Formidable Fluxuation added.
+MW01 Sungleam added.
+MR02 Bladearm of Eternal Warfare added.
+RB07 Ruinous Slice added.
+RW07 Ruinous Wrath added.
+MB02 Relic of Obsession added.
+MB01 Shifter of Secrets added.
+RW03 Purveyor of Change added.
+RR03 Raging Hero added.
+RR06 Foolish Mockery added.
+RU06 Wanderlust Musings added.
+RB06 Visions of Darkness added.
+RM07 Flowing Renewal added.
+RM08 Army of Blades added.
+RM09 Solar Ritual added.
+RM10 Sight of Threes added.
+RU07 Ruinous Wanderlust added.
+RR07 Ruinous Lightning added.
+RG07 Ruinous Growth added.
+
+
+
+VERSION 3 CHANGELOG
 ====================
 
 ML07 The Wandering Refuge added.
