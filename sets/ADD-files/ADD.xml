@@ -11,7 +11,7 @@
 	<cards>
 		<card>
 			<name>CC01 Whimsical Farmer</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 ---
 (Back): Grim Farmer</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/1_CC01 Whimsical Farmer_front.jpg" num="1a">ADD</set>
@@ -29,7 +29,7 @@
 		</card>
 		<card>
 			<name>Grim Farmer</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 ---
 (Front): CC01 Whimsical Farmer</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/1_CC01 Whimsical Farmer_back.jpg" num="1b">ADD</set>
@@ -77,7 +77,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		</card>
 		<card>
 			<name>MC01 The Wanderer of Worlds</name>
-			<text>Elsewhere 3
+			<text>Elsewhere 3 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Defender
 {T}, Put a -1/-1 counter on this creature: Scry 1.
 {T}, Remove two -1/-1 counters from this creature: Draw a card.
@@ -96,7 +96,7 @@ When this creature dies, if it had seven -1/-1 counters on it, draw seven cards.
 		</card>
 		<card>
 			<name>RC01 Epitome of Wanderlust</name>
-			<text>Wander.</text>
+			<text>Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/5_RC01 Epitome of Wanderlust.jpg" num="5">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -110,7 +110,7 @@ When this creature dies, if it had seven -1/-1 counters on it, draw seven cards.
 		</card>
 		<card>
 			<name>RC02 Minion of Lunacy</name>
-			<text>Moonflow 3</text>
+			<text>Moonflow 3 (You may play this card from your graveyard as long as 3 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/6_RC02 Minion of Lunacy.jpg" num="6">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -140,7 +140,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 		</card>
 		<card>
 			<name>UC02 Serum Wanderings</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Draw a card, then surveil 2.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/8_UC02 Serum Wanderings.jpg" num="8">ADD</set>
 			<prop>
@@ -155,7 +155,7 @@ Draw a card, then surveil 2.</text>
 		</card>
 		<card>
 			<name>CW01 White Dreamer of Whimsy</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Lifelink
 ---
 (Back): White Dreamer of Darkness</text>
@@ -176,7 +176,7 @@ Lifelink
 		</card>
 		<card>
 			<name>White Dreamer of Darkness</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 ---
 (Front): CW01 White Dreamer of Whimsy</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/9_CW01 White Dreamer of Whimsy_back.jpg" num="9b">ADD</set>
@@ -232,7 +232,7 @@ This creature gets +1/+0 as long as you&apos;re whimsical. (You&apos;re whimsica
 		</card>
 		<card>
 			<name>CW04 Helpful Seeker</name>
-			<text>When this creature enters, Wander.</text>
+			<text>When this creature enters, Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/12_CW04 Helpful Seeker.jpg" num="12">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -249,7 +249,7 @@ This creature gets +1/+0 as long as you&apos;re whimsical. (You&apos;re whimsica
 		</card>
 		<card>
 			<name>CW05 Pranking Pumpkin</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 {1}{W}, {T}: Tap target artifact or creature. Put a stun counter on it. Activate only as a sorcery.
 ---
 (Back): Freed-Beak Crow</text>
@@ -270,7 +270,7 @@ This creature gets +1/+0 as long as you&apos;re whimsical. (You&apos;re whimsica
 		</card>
 		<card>
 			<name>Freed-Beak Crow</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Flying
 ---
 (Front): CW05 Pranking Pumpkin</text>
@@ -291,7 +291,7 @@ Flying
 		</card>
 		<card>
 			<name>CW06 Clay Cleric</name>
-			<text>Foundation
+			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]When this creature dies, draw a card.[/b]]</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/14_CW06 Clay Cleric.jpg" num="14">ADD</set>
 			<prop>
@@ -327,7 +327,7 @@ Flashback {1}{W} (You may cast this card from your graveyard for its flashback c
 		</card>
 		<card>
 			<name>CW08 Meandering Minstrel</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 When this creature enters, draw a card.</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/16_CW08 Meandering Minstrel.jpg" num="16">ADD</set>
 			<prop>
@@ -345,7 +345,7 @@ When this creature enters, draw a card.</text>
 		</card>
 		<card>
 			<name>CW09 Stone Ressurector</name>
-			<text>Foundation
+			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]When this creature dies, return target creature with lesser power from your graveyard to the battlefield.[/b]]</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/17_CW09 Stone Ressurector.jpg" num="17">ADD</set>
 			<prop>
@@ -400,7 +400,7 @@ Ward {1} (Whenever this creature becomes the target of a spell or ability an opp
 		</card>
 		<card>
 			<name>CW12 Knightly Execution</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This spell deals 2 damage to target attacking or blocking creature.
 ---
 (Back): Nightly Execution</text>
@@ -420,7 +420,7 @@ This spell deals 2 damage to target attacking or blocking creature.
 		</card>
 		<card>
 			<name>Nightly Execution</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Exile two target creatures with total power 7 or greater.
 ---
 (Front): CW12 Knightly Execution</text>
@@ -475,7 +475,7 @@ Formidable — {1}{W}: Exile enchanted creature. Activate only if creatures you 
 		<card>
 			<name>CW15 Enhancement of Seeking</name>
 			<text>Enchant creature
-When this enchantment enters, wander.
+When this enchantment enters, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)
 Enchanted creature gets +2/+2.</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/23_CW15 Enhancement of Seeking.jpg" num="23">ADD</set>
 			<prop>
@@ -543,7 +543,7 @@ Whenever you attack with one or more creatures, remove that many -1/-1 counters 
 		</card>
 		<card>
 			<name>RW02 Bethela the Builder</name>
-			<text>Foundation
+			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Whenever this creature becomes tapped, return target permanent card with mana value 2 or less from your graveyard to the battlefield tapped.[/b]]</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/27_RW02 Bethela the Builder.jpg" num="27">ADD</set>
 			<prop>
@@ -578,7 +578,7 @@ Whenever you attack with one or more creatures, remove that many -1/-1 counters 
 		</card>
 		<card>
 			<name>RW04 Banishing Ranger</name>
-			<text>Elsewhere 2
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 When this creature enters, exile target nonland permanent until this creature leaves the battlefield.</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/29_RW04 Banishing Ranger.jpg" num="29">ADD</set>
 			<prop>
@@ -663,7 +663,7 @@ During each player&apos;s turn, that player may play cards they don&apos;t own e
 		</card>
 		<card>
 			<name>UW02 Pearl Dreamer of Whimsy</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 {T}, Put a -1/-1 counter on a creature you control: Add {W}.
 ---
 (Back): Pearl Dreamer of Grim</text>
@@ -684,7 +684,7 @@ During each player&apos;s turn, that player may play cards they don&apos;t own e
 		</card>
 		<card>
 			<name>Pearl Dreamer of Grim</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add {W}.
 ---
 (Front): UW02 Pearl Dreamer of Whimsy</text>
@@ -757,7 +757,7 @@ During each player&apos;s turn, that player may play cards they don&apos;t own e
 		</card>
 		<card>
 			<name>UW06 Mason-Doctor</name>
-			<text>Foundation
+			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Lifelink[/b]]</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/38_UW06 Mason-Doctor.jpg" num="38">ADD</set>
 			<prop>
@@ -775,7 +775,7 @@ During each player&apos;s turn, that player may play cards they don&apos;t own e
 		</card>
 		<card>
 			<name>UW07 Wanderlust Golem</name>
-			<text>When this creature enters, each player wanders twice. (To wander, reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
+			<text>When this creature enters, each player wanders twice. (To wander, reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.) (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/39_UW07 Wanderlust Golem.jpg" num="39">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -792,7 +792,7 @@ During each player&apos;s turn, that player may play cards they don&apos;t own e
 		</card>
 		<card>
 			<name>UW08 Wandering Recruiter</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Lifelink
 When this creature enters, create two 1/1 colorless Peasant creature token.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/40_UW08 Wandering Recruiter.jpg" num="40">ADD</set>
@@ -847,7 +847,7 @@ Equip {2}{W}</text>
 		<card>
 			<name>UW11 Foundational Virtue</name>
 			<text>Enchant creature
-Enchanted creature has &quot;Whenever this creature deals combat damage to a player, create a 1/1 colorless Peasant creature token.&quot;. This text is in square brackets ([]) as long as enchanted creature has foundation.</text>
+Enchanted creature has &quot;Whenever this creature deals combat damage to a player, create a 1/1 colorless Peasant creature token.&quot;. This text is in square brackets ([]) as long as enchanted creature has foundation. (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/43_UW11 Foundational Virtue.jpg" num="43">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -863,7 +863,7 @@ Enchanted creature has &quot;Whenever this creature deals combat damage to a pla
 		</card>
 		<card>
 			<name>UW12 Loyal Wanderings</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Creatures you control get +2/+0 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/44_UW12 Loyal Wanderings.jpg" num="44">ADD</set>
 			<prop>
@@ -920,7 +920,7 @@ This land enters tapped.
 		</card>
 		<card>
 			<name>CU01 Blue Dreamer of Whimsy</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Vigilance
 ---
 (Back): Blue Dreamer of Darkness</text>
@@ -941,7 +941,7 @@ Vigilance
 		</card>
 		<card>
 			<name>Blue Dreamer of Darkness</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Flying
 ---
 (Front): CU01 Blue Dreamer of Whimsy</text>
@@ -963,7 +963,7 @@ Flying
 		<card>
 			<name>CU02 Deranged Lunarkin</name>
 			<text>{T}, Mill a card or tap an untapped permanent you control: Add {C}.
-Moonflow 2</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/47_CU02 Deranged Lunarkin.jpg" num="47">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -999,8 +999,8 @@ This creature enters with a -1/-1 counter unless it was kicked.</text>
 		</card>
 		<card>
 			<name>CU04 Brickfolk Surveyor</name>
-			<text>Whimsybound
-Foundation
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Whenever this creature attacks, surveil 1.[/b]]
 ---
 (Back): Brickfolk Delusionist</text>
@@ -1021,8 +1021,8 @@ Foundation
 		</card>
 		<card>
 			<name>Brickfolk Delusionist</name>
-			<text>Grimbound
-Foundation
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Whenever this creature attacks, mill two cards.[/b]]
 ---
 (Front): CU04 Brickfolk Surveyor</text>
@@ -1062,7 +1062,7 @@ Foundation
 		<card>
 			<name>CU06 Wanderlust Eater</name>
 			<text>Vigilance
-Whenever this creature deals combat damage to a player, if you&apos;re whimsical, Wander. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. To wander, reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
+Whenever this creature deals combat damage to a player, if you&apos;re whimsical, Wander. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. To wander, reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.) (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/51_CU06 Wanderlust Eater.jpg" num="51">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1079,7 +1079,7 @@ Whenever this creature deals combat damage to a player, if you&apos;re whimsical
 		</card>
 		<card>
 			<name>CU07 Riddleless Riddler</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Flying
 When this creature dies, draw a card.</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/52_CU07 Riddleless Riddler.jpg" num="52">ADD</set>
@@ -1098,7 +1098,7 @@ When this creature dies, draw a card.</text>
 		</card>
 		<card>
 			<name>CU08 Sturdy Platformite</name>
-			<text>Foundation
+			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Whenever this creature attacks, it gets +1/+1 until end of turn.[/b]]</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/53_CU08 Sturdy Platformite.jpg" num="53">ADD</set>
 			<prop>
@@ -1167,7 +1167,7 @@ Enchanted creature loses all abilities and has power and toughness 1/1.</text>
 			<name>CU12 Moonlit Bauble</name>
 			<text>{T}: Mill a card.
 Sacrifice this artifact: Draw a card.
-Moonflow 2</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/57_CU12 Moonlit Bauble.jpg" num="57">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1183,7 +1183,7 @@ Moonflow 2</text>
 		</card>
 		<card>
 			<name>CU13 Wisdom of Wanderlust</name>
-			<text>Wander.
+			<text>Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)
 Draw a card.</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/58_CU13 Wisdom of Wanderlust.jpg" num="58">ADD</set>
 			<prop>
@@ -1217,7 +1217,7 @@ Target creature you control gets +0/+2 and gains reach until end of turn. If thi
 		</card>
 		<card>
 			<name>CU15 Trader&apos;s Intent</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Exchange control of two target creatures controlled by different players until end of turn. They gain haste until end of turn.
 ---
 (Back): Traitor&apos;s Intent</text>
@@ -1237,7 +1237,7 @@ Exchange control of two target creatures controlled by different players until e
 		</card>
 		<card>
 			<name>Traitor&apos;s Intent</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Gain control of target creature you don&apos;t control until end of turn. It gains haste until end of turn.
 ---
 (Front): CU15 Trader&apos;s Intent</text>
@@ -1275,7 +1275,7 @@ Replace &quot;as long as N or more creatures have died this turn&quot; with &quo
 		</card>
 		<card>
 			<name>MU02 Omniscient Builder</name>
-			<text>Foundation
+			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Spells you cast cost {X} less to cast, where X is this creature&apos;s power.[/b]]</text>
 			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/62_MU02 Omniscient Builder.jpg" num="62">ADD</set>
 			<prop>
@@ -1293,7 +1293,7 @@ Replace &quot;as long as N or more creatures have died this turn&quot; with &quo
 		</card>
 		<card>
 			<name>RU01 Braxtus the Breaker</name>
-			<text>Foundation
+			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [1[b]U, Sacrifice this creature: Draw cards equal to its power.[/b]]</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/63_RU01 Braxtus the Breaker.jpg" num="63">ADD</set>
 			<prop>
@@ -1312,7 +1312,7 @@ Replace &quot;as long as N or more creatures have died this turn&quot; with &quo
 		<card>
 			<name>RU02 Vinki the Reflective</name>
 			<text>Whenever this creature attacks, create a Clue token.
-Moonflow 2</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/64_RU02 Vinki the Reflective.jpg" num="64">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1348,7 +1348,7 @@ When this creature enters, if it&apos;s your turn, end the turn. (Exile all spel
 		</card>
 		<card>
 			<name>RU04 Opting Ranger</name>
-			<text>Elsewhere 2
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 When this creature enters, scry 1, then draw a card.</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/66_RU04 Opting Ranger.jpg" num="66">ADD</set>
 			<prop>
@@ -1384,7 +1384,7 @@ Flying</text>
 		</card>
 		<card>
 			<name>RU06 Wanderlust Musings</name>
-			<text>If you would wander, wander twice instead.</text>
+			<text>If you would wander, wander twice instead. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/68_RU06 Wanderlust Musings.jpg" num="68">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1401,7 +1401,7 @@ Flying</text>
 		<card>
 			<name>RU07 Ruinous Wanderlust</name>
 			<text>As an additional cost to cast this spell, put a -1/-1 counter on three creatures you control.
-Wander twice.</text>
+Wander twice. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/69_RU07 Ruinous Wanderlust.jpg" num="69">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1434,7 +1434,7 @@ Wander twice.</text>
 		</card>
 		<card>
 			<name>UU02 Sapphire Dreamer of Whimsy</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 {T}, Put a -1/-1 counter on a creature you control: Add {U}.
 ---
 (Back): Sapphire Dreamer of Grim</text>
@@ -1455,7 +1455,7 @@ Wander twice.</text>
 		</card>
 		<card>
 			<name>Sapphire Dreamer of Grim</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add {U}.
 ---
 (Front): UU02 Sapphire Dreamer of Whimsy</text>
@@ -1476,7 +1476,7 @@ Wander twice.</text>
 		</card>
 		<card>
 			<name>UU03 Hovering Platformite</name>
-			<text>Foundation
+			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Flying[/b]]</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/72_UU03 Hovering Platformite.jpg" num="72">ADD</set>
 			<prop>
@@ -1494,8 +1494,8 @@ Wander twice.</text>
 		</card>
 		<card>
 			<name>UU04 Pacifist Fireborn</name>
-			<text>Sunfire — You may pay {U}. If you do, draw a card.
-Whenever you activate a sunfire ability, mill a card.</text>
+			<text>Sunfire — You may pay {U}. If you do, draw a card. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
+Whenever you activate a sunfire ability, mill a card. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/73_UU04 Pacifist Fireborn.jpg" num="73">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1513,7 +1513,7 @@ Whenever you activate a sunfire ability, mill a card.</text>
 		<card>
 			<name>UU05 Scholar of Wanderlust</name>
 			<text>This creature enters with five -1/-1 counters.
-Whenever you draw a card or wander for the second time each turn, remove a -1/-1 counter from this creature.</text>
+Whenever you draw a card or wander for the second time each turn, remove a -1/-1 counter from this creature. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/74_UU05 Scholar of Wanderlust.jpg" num="74">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1531,7 +1531,7 @@ Whenever you draw a card or wander for the second time each turn, remove a -1/-1
 		<card>
 			<name>UU06 Flowbringer Lunarkin</name>
 			<text>When this creature enters, return target nonland permanent to its owner&apos;s hand.
-Moonflow 2</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/75_UU06 Flowbringer Lunarkin.jpg" num="75">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1548,7 +1548,7 @@ Moonflow 2</text>
 		</card>
 		<card>
 			<name>UU07 Whimsywinder</name>
-			<text>When this creature enters, wander.
+			<text>When this creature enters, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)
 This creature can&apos;t attack unless you&apos;re whimsical. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/76_UU07 Whimsywinder.jpg" num="76">ADD</set>
 			<prop>
@@ -1566,7 +1566,7 @@ This creature can&apos;t attack unless you&apos;re whimsical. (You&apos;re whims
 		</card>
 		<card>
 			<name>UU08 Wandering Magician</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Flying</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/77_UU08 Wandering Magician.jpg" num="77">ADD</set>
 			<prop>
@@ -1603,7 +1603,7 @@ Counter target activated ability, triggered ability, [[b]or spell[/b]].</text>
 			<name>UU10 Box of Lunacy</name>
 			<text>When this artifact enters, draw three cards.
 {5}{U}: Sacrifice this artifact.
-Moonflow 4</text>
+Moonflow 4 (You may play this card from your graveyard as long as 4 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/79_UU10 Box of Lunacy.jpg" num="79">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1619,7 +1619,7 @@ Moonflow 4</text>
 		</card>
 		<card>
 			<name>UU11 Foundational Curiosity</name>
-			<text>Foundation
+			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 Enchant creature
 [[b]Whenever this creature or enchanted creature attacks, draw a card.[/b]]</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/80_UU11 Foundational Curiosity.jpg" num="80">ADD</set>
@@ -1637,7 +1637,7 @@ Enchant creature
 		</card>
 		<card>
 			<name>UU12 Knowledgeable Wanderings</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Draw two cards.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/81_UU12 Knowledgeable Wanderings.jpg" num="81">ADD</set>
 			<prop>
@@ -1694,7 +1694,7 @@ This land enters tapped.
 		</card>
 		<card>
 			<name>CB01 Black Dreamer of Whimsy</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Menace
 ---
 (Back): Black Dreamer of Darkness</text>
@@ -1715,7 +1715,7 @@ Menace
 		</card>
 		<card>
 			<name>Black Dreamer of Darkness</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Deathtouch
 ---
 (Front): CB01 Black Dreamer of Whimsy</text>
@@ -1736,7 +1736,7 @@ Deathtouch
 		</card>
 		<card>
 			<name>CB02 Roaming Bloodsucker</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Lifelink</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/84_CB02 Roaming Bloodsucker.jpg" num="84">ADD</set>
 			<prop>
@@ -1791,7 +1791,7 @@ Blaze of Glory — Whenever this creature attacks, you may have it get +2/+2 unt
 		</card>
 		<card>
 			<name>CB05 Hopeless Seeker</name>
-			<text>When this creature dies, Wander.</text>
+			<text>When this creature dies, Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/87_CB05 Hopeless Seeker.jpg" num="87">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1808,7 +1808,7 @@ Blaze of Glory — Whenever this creature attacks, you may have it get +2/+2 unt
 		</card>
 		<card>
 			<name>CB06 Tricky Timewinder</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Flying
 Whenever this creature deals combat damage to a player, you may pay 1 life. If you do, untap it.
 {T}, Pay 1 life: Draw a card.
@@ -1831,7 +1831,7 @@ Whenever this creature deals combat damage to a player, you may pay 1 life. If y
 		</card>
 		<card>
 			<name>Bloodstained Chronowurm</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Whenever this creature deals combat damage to player, end the turn. (Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)
 ---
 (Front): CB06 Tricky Timewinder</text>
@@ -1853,7 +1853,7 @@ Whenever this creature deals combat damage to player, end the turn. (Exile all s
 		<card>
 			<name>CB07 Lunar Flesh Construct</name>
 			<text>As an additional cost to cast this spell, exile a creature card from your graveyard.
-Moonflow 2</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/89_CB07 Lunar Flesh Construct.jpg" num="89">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1939,7 +1939,7 @@ This spell deals 3 damage to any target.</text>
 		<card>
 			<name>CB12 Reflected Rending</name>
 			<text>Exile target creature.
-{2}{B}, Exile this card from your graveyard: Wander. You lose 1 life.</text>
+{2}{B}, Exile this card from your graveyard: Wander. You lose 1 life. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/94_CB12 Reflected Rending.jpg" num="94">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1974,7 +1974,7 @@ This spell deals 3 damage to any target.</text>
 			<text>As an additional cost to cast this spell, sacrifice a creature or exile three cards from your graveyard.
 When this artifact enters or leaves the battlefield, each opponent discards a card.
 {T}, Sacrifice a creature or exile three cards from your graveyard: Sacrifice this artifact. Activate only as a sorcery.
-Moonflow 2</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/96_CB14 Lunacy Totem.jpg" num="96">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1990,7 +1990,7 @@ Moonflow 2</text>
 		</card>
 		<card>
 			<name>CB15 Enduring Metal</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 You may sacrifice an artifact. If you do, draw two cards.
 ---
 (Back): Enduring Mettle</text>
@@ -2010,7 +2010,7 @@ You may sacrifice an artifact. If you do, draw two cards.
 		</card>
 		<card>
 			<name>Enduring Mettle</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Until end of turn, creatures you control gain &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;
 ---
 (Front): CB15 Enduring Metal</text>
@@ -2066,7 +2066,7 @@ When this creature enters, transform target permanent or spell. It can&apos;t tr
 			<name>RB01 Venshi the Absorbative</name>
 			<text>Lifelink
 Cycling—Pay 2 life (Pay 2 life, Discard this card: Draw a card.)
-Moonflow 2</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/100_RB01 Venshi the Absorbative.jpg" num="100">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2101,7 +2101,7 @@ Moonflow 2</text>
 		<card>
 			<name>RB03 Three-Lie Teller</name>
 			<text>When this creature enters from your graveyard, add {B}{B}{B}.
-Moonflow 2</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/102_RB03 Three-Lie Teller.jpg" num="102">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2118,7 +2118,7 @@ Moonflow 2</text>
 		</card>
 		<card>
 			<name>RB04 Thoughtseizing Ranger</name>
-			<text>Elsewhere 2
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 When this creature enters, target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/103_RB04 Thoughtseizing Ranger.jpg" num="103">ADD</set>
 			<prop>
@@ -2203,7 +2203,7 @@ This creature can&apos;t attack or block unless you&apos;re grim. (You&apos;re g
 		</card>
 		<card>
 			<name>UB02 Jet Dreamer of Whimsy</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 {T}, Put a -1/-1 counter on a creature you control: Add {B}.
 ---
 (Back): Jet Dreamer of Grim</text>
@@ -2224,7 +2224,7 @@ This creature can&apos;t attack or block unless you&apos;re grim. (You&apos;re g
 		</card>
 		<card>
 			<name>Jet Dreamer of Grim</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add {B}.
 ---
 (Front): UB02 Jet Dreamer of Whimsy</text>
@@ -2264,8 +2264,8 @@ Whenever this creature attacks, you may sacrifice a creature and remove a -1/-1 
 		</card>
 		<card>
 			<name>UB04 Wanderlust Channeler</name>
-			<text>When this creature enters, wander.
-{B}, Discard this card: Wander.</text>
+			<text>When this creature enters, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)
+{B}, Discard this card: Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/110_UB04 Wanderlust Channeler.jpg" num="110">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2284,7 +2284,7 @@ Whenever this creature attacks, you may sacrifice a creature and remove a -1/-1 
 			<name>UB05 Lunarkin Assassin</name>
 			<text>Flash
 Flying
-Moonflow 2</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/111_UB05 Lunarkin Assassin.jpg" num="111">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2335,7 +2335,7 @@ Moonflow 2</text>
 		</card>
 		<card>
 			<name>UB08 Wandering Stitcher</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Menace
 When this creature enters, create a 2/2 black Horror creature token.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/114_UB08 Wandering Stitcher.jpg" num="114">ADD</set>
@@ -2404,7 +2404,7 @@ At the beginning of your precombat main phase, you lose 1 life, mill a card, the
 		</card>
 		<card>
 			<name>UB12 Persistent Wanderings</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Return target creature card from your graveyard to the battlefield.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/118_UB12 Persistent Wanderings.jpg" num="118">ADD</set>
 			<prop>
@@ -2461,7 +2461,7 @@ This land enters tapped.
 		</card>
 		<card>
 			<name>CR01 Red Dreamer of Whimsy</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Haste
 ---
 (Back): Red Dreamer of Darkness</text>
@@ -2482,7 +2482,7 @@ Haste
 		</card>
 		<card>
 			<name>Red Dreamer of Darkness</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Prowess
 ---
 (Front): CR01 Red Dreamer of Whimsy</text>
@@ -2503,7 +2503,7 @@ Prowess
 		</card>
 		<card>
 			<name>CR02 Sunfire Trainee</name>
-			<text>Sunfire — Add {R} or this creature gets +1/+0 until end of turn.
+			<text>Sunfire — Add {R} or this creature gets +1/+0 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 This creature gets +1/+1 as long as you&apos;re grim. (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/121_CR02 Sunfire Trainee.jpg" num="121">ADD</set>
 			<prop>
@@ -2539,7 +2539,7 @@ Blaze of Glory — Whenever this creature attacks, you may add one mana of any c
 		</card>
 		<card>
 			<name>CR04 Foolish Smuggler</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 When this creature enters, mill a card. You may play that card until the end of your next turn.
 ---
 (Back): Beastly Stowaway</text>
@@ -2560,7 +2560,7 @@ When this creature enters, mill a card. You may play that card until the end of 
 		</card>
 		<card>
 			<name>Beastly Stowaway</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Whenever this creature attacks, mill a card. You may play that card until the end of your next turn.
 ---
 (Front): CR04 Foolish Smuggler</text>
@@ -2581,7 +2581,7 @@ Whenever this creature attacks, mill a card. You may play that card until the en
 		</card>
 		<card>
 			<name>CR05 Nomadic Brute</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Menace</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/124_CR05 Nomadic Brute.jpg" num="124">ADD</set>
 			<prop>
@@ -2600,7 +2600,7 @@ Menace</text>
 		<card>
 			<name>CR06 Blazebolt Crossbowman</name>
 			<text>Reach
-Sunfire — This creature gets +2/+1 until end of turn.</text>
+Sunfire — This creature gets +2/+1 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/125_CR06 Blazebolt Crossbowman.jpg" num="125">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2652,7 +2652,7 @@ Whenever this creature attacks, if you&apos;re whimsical, it deals 4 damage to t
 		</card>
 		<card>
 			<name>CR09 Land-Raze Gargantuan</name>
-			<text>When this creature enters, you may discard a card or sacrifice a land. If you do, wander.
+			<text>When this creature enters, you may discard a card or sacrifice a land. If you do, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)
 This creature attacks each combat if able.</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/128_CR09 Land-Raze Gargantuan.jpg" num="128">ADD</set>
 			<prop>
@@ -2686,7 +2686,7 @@ This creature attacks each combat if able.</text>
 		</card>
 		<card>
 			<name>CR11 Return Again</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Mill two cards. You may play them this turn.
 ---
 (Back): We Burn Again</text>
@@ -2706,7 +2706,7 @@ Mill two cards. You may play them this turn.
 		</card>
 		<card>
 			<name>We Burn Again</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 This spell deals 4 damage to any target.
 ---
 (Front): CR11 Return Again</text>
@@ -2743,7 +2743,7 @@ This spell deals 4 damage to any target.
 		<card>
 			<name>CR13 Flames of Wanderlust</name>
 			<text>Destroy target artifact or nonbasic land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
-Wander.</text>
+Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/132_CR13 Flames of Wanderlust.jpg" num="132">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2792,7 +2792,7 @@ Wander.</text>
 		<card>
 			<name>MR01 Vetari, Traitor</name>
 			<text>Partner with Ketaro, Traitor (When this creature enters, target player may put Ketaro into their hand from their library, then shuffle.)
-If a sunfire ability you control would trigger, you may instead discard a card, then draw a card.</text>
+If a sunfire ability you control would trigger, you may instead discard a card, then draw a card. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
 			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/135_MR01 Vetari, Traitor.jpg" num="135">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2843,7 +2843,7 @@ If a sunfire ability you control would trigger, you may instead discard a card, 
 		</card>
 		<card>
 			<name>RR02 Raflegos the Passionate</name>
-			<text>Sunfire — Add one mana of any color.
+			<text>Sunfire — Add one mana of any color. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 You don&apos;t lose unspent mana as steps and phases end.</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/138_RR02 Raflegos the Passionate.jpg" num="138">ADD</set>
 			<prop>
@@ -2880,7 +2880,7 @@ This creature deals double combat damage to players.</text>
 		</card>
 		<card>
 			<name>RR04 Bolting Ranger</name>
-			<text>Elsewhere 2
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 When this creature enters, it deals 3 damage to any target.</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/140_RR04 Bolting Ranger.jpg" num="140">ADD</set>
 			<prop>
@@ -2950,7 +2950,7 @@ This spell deals 3 damage to any target.</text>
 		</card>
 		<card>
 			<name>UR01 Running Stones</name>
-			<text>Foundation
+			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Haste[/b]]</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/144_UR01 Running Stones.jpg" num="144">ADD</set>
 			<prop>
@@ -2968,7 +2968,7 @@ This spell deals 3 damage to any target.</text>
 		</card>
 		<card>
 			<name>UR02 Ruby Dreamer of Whimsy</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 {T}, Put a -1/-1 counter on a creature you control: Add {R}.
 ---
 (Back): Ruby Dreamer of Grim</text>
@@ -2989,7 +2989,7 @@ This spell deals 3 damage to any target.</text>
 		</card>
 		<card>
 			<name>Ruby Dreamer of Grim</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add {R}.
 ---
 (Front): UR02 Ruby Dreamer of Whimsy</text>
@@ -3011,7 +3011,7 @@ This spell deals 3 damage to any target.</text>
 		<card>
 			<name>UR03 Swift Seeker</name>
 			<text>Haste
-Sacrifice this creature: Wander.</text>
+Sacrifice this creature: Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/146_UR03 Swift Seeker.jpg" num="146">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3098,7 +3098,7 @@ When this creature dies, if you&apos;re whimsical, mill a card. You may play tha
 		</card>
 		<card>
 			<name>UR08 Wandering Firebreather</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Haste
 When this creature enters, it deals damage equal to its power to each opponent.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/151_UR08 Wandering Firebreather.jpg" num="151">ADD</set>
@@ -3169,7 +3169,7 @@ This artifact enters tapped.
 		</card>
 		<card>
 			<name>UR12 Courageous Wanderings</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Add {R}{R}{R}{R}{R}{R}.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/155_UR12 Courageous Wanderings.jpg" num="155">ADD</set>
 			<prop>
@@ -3226,7 +3226,7 @@ This land enters tapped.
 		</card>
 		<card>
 			<name>CG01 Green Dreamer of Whimsy</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Ward {1}
 ---
 (Back): Green Dreamer of Darkness</text>
@@ -3247,7 +3247,7 @@ Ward {1}
 		</card>
 		<card>
 			<name>Green Dreamer of Darkness</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Defender, reach
 ---
 (Front): CG01 Green Dreamer of Whimsy</text>
@@ -3288,7 +3288,7 @@ Formidable — When this creature dies, if creatures you control have total powe
 			<name>CG03 Sun-Basking Caretaker</name>
 			<text>Vigilance
 {T}: Add {G}.
-Sunfire — Add {G}.</text>
+Sunfire — Add {G}. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/159_CG03 Sun-Basking Caretaker.jpg" num="159">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3305,7 +3305,7 @@ Sunfire — Add {G}.</text>
 		</card>
 		<card>
 			<name>CG04 Eight-Legged Bartender</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Reach, deathtouch
 When this creature dies, draw a card.
 ---
@@ -3327,7 +3327,7 @@ When this creature dies, draw a card.
 		</card>
 		<card>
 			<name>Eight-Legged Terror</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Reach, deathtouch
 When this creature dies, mill three cards.
 ---
@@ -3350,7 +3350,7 @@ When this creature dies, mill three cards.
 		<card>
 			<name>CG05 Sun-Flame Berserker</name>
 			<text>Trample
-Sunfire — Add {G} or this creature gets +0/+1 until end of turn.</text>
+Sunfire — Add {G} or this creature gets +0/+1 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/161_CG05 Sun-Flame Berserker.jpg" num="161">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3385,7 +3385,7 @@ Formidable — Whenever this creature attacks, if creatures you control have tot
 		</card>
 		<card>
 			<name>CG07 Exploratory Herbalist</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 When this creature enters, you gain 8 life.</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/163_CG07 Exploratory Herbalist.jpg" num="163">ADD</set>
 			<prop>
@@ -3404,7 +3404,7 @@ When this creature enters, you gain 8 life.</text>
 		<card>
 			<name>CG08 Recruiter of the Range</name>
 			<text>This creature enters with two -1/-1 counters.
-{2}{G}, {T}, Remove two -1/-1 counters from this creature: Wander.</text>
+{2}{G}, {T}, Remove two -1/-1 counters from this creature: Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/164_CG08 Recruiter of the Range.jpg" num="164">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3455,7 +3455,7 @@ When this creature enters, you gain 8 life.</text>
 		</card>
 		<card>
 			<name>CG11 Whom to Pray</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 You gain 2 life. Surveil 2.
 ---
 (Back): Whom to Prey</text>
@@ -3475,7 +3475,7 @@ You gain 2 life. Surveil 2.
 		</card>
 		<card>
 			<name>Whom to Prey</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Target creature you control fights target creature you don&apos;t control.
 ---
 (Front): CG11 Whom to Pray</text>
@@ -3511,7 +3511,7 @@ Target creature you control fights target creature you don&apos;t control.
 		</card>
 		<card>
 			<name>CG13 Commune with Travelers</name>
-			<text>Reveal the top four cards of your library. You may put a creature card from among them into your hand. Put the rest into your graveyard. If you didn&apos;t put a creature card into your hand this way, wander.</text>
+			<text>Reveal the top four cards of your library. You may put a creature card from among them into your hand. Put the rest into your graveyard. If you didn&apos;t put a creature card into your hand this way, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/169_CG13 Commune with Travelers.jpg" num="169">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3582,7 +3582,7 @@ Whenever this creature deals combat damage to a player, that player mills that m
 		<card>
 			<name>MG02 Solatic</name>
 			<text>Vigilance
-Sunfire — Mill two cards.
+Sunfire — Mill two cards. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 Exile three noncreature cards from your graveyard: Return this creature to its owner&apos;s hand.</text>
 			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/173_MG02 Solatic.jpg" num="173">ADD</set>
 			<prop>
@@ -3600,7 +3600,7 @@ Exile three noncreature cards from your graveyard: Return this creature to its o
 		</card>
 		<card>
 			<name>RG01 Sufelia the Devout</name>
-			<text>Sunfire — Add {G} or this creature gets +1/+1 until end of turn.
+			<text>Sunfire — Add {G} or this creature gets +1/+1 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 When this creature enters, surveil 1.</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/174_RG01 Sufelia the Devout.jpg" num="174">ADD</set>
 			<prop>
@@ -3652,7 +3652,7 @@ When this creature enters, surveil 1.</text>
 		</card>
 		<card>
 			<name>RG04 Cultivating Ranger</name>
-			<text>Elsewhere 2
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 When this creature enters, search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/177_RG04 Cultivating Ranger.jpg" num="177">ADD</set>
 			<prop>
@@ -3689,7 +3689,7 @@ When this creature enters, if you&apos;re grim, put a trample counter on it. (Yo
 		</card>
 		<card>
 			<name>RG06 What a Whimsical World</name>
-			<text>When this enchantment enters, wander.
+			<text>When this enchantment enters, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)
 As long as you&apos;re whimsical, you may play an additional land on each of your turns. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less.)</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/179_RG06 What a Whimsical World.jpg" num="179">ADD</set>
 			<prop>
@@ -3724,7 +3724,7 @@ Search your library for two land cards, reveal them, put them onto the battlefie
 		<card>
 			<name>UG01 Caretaking Figment</name>
 			<text>{T}: Add {G}.
-Moonflow 3</text>
+Moonflow 3 (You may play this card from your graveyard as long as 3 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/181_UG01 Caretaking Figment.jpg" num="181">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3741,7 +3741,7 @@ Moonflow 3</text>
 		</card>
 		<card>
 			<name>UG02 Emerald Dreamer of Whimsy</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 {T}, Put a -1/-1 counter on a creature you control: Add {G}.
 ---
 (Back): Emerald Dreamer of Grim</text>
@@ -3762,7 +3762,7 @@ Moonflow 3</text>
 		</card>
 		<card>
 			<name>Emerald Dreamer of Grim</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add {G}.
 ---
 (Front): UG02 Emerald Dreamer of Whimsy</text>
@@ -3783,7 +3783,7 @@ Moonflow 3</text>
 		</card>
 		<card>
 			<name>UG03 Sniffing Wildebeast</name>
-			<text>When this creature dies, wander.</text>
+			<text>When this creature dies, wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/183_UG03 Sniffing Wildebeast.jpg" num="183">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3852,7 +3852,7 @@ Moonflow 3</text>
 		<card>
 			<name>UG07 Dreadmawform Solarkin</name>
 			<text>Trample
-Sunfire — This creature gets +1/+1 until end of turn.</text>
+Sunfire — This creature gets +1/+1 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/187_UG07 Dreadmawform Solarkin.jpg" num="187">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3869,7 +3869,7 @@ Sunfire — This creature gets +1/+1 until end of turn.</text>
 		</card>
 		<card>
 			<name>UG08 Wandering Strongman</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Trample</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/188_UG08 Wandering Strongman.jpg" num="188">ADD</set>
 			<prop>
@@ -3938,7 +3938,7 @@ Sacrifice this artifact: Reveal the top card of your library. If it&apos;s a lan
 		</card>
 		<card>
 			<name>UG12 Strengthful Wanderings</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Search your library for an Equipment or Aura card, put it onto the battlefield attached to target creature you control it could equip or enchant, then shuffle.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/192_UG12 Strengthful Wanderings.jpg" num="192">ADD</set>
 			<prop>
@@ -3995,8 +3995,8 @@ This land enters tapped.
 		</card>
 		<card>
 			<name>CM01 Hero of Brick</name>
-			<text>Whimsybound
-Foundation
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Whenever this creature deals combat damage to a player, you gain 3 life and scry 1.[/b]]
 ---
 (Back): Villain of Brick</text>
@@ -4017,8 +4017,8 @@ Foundation
 		</card>
 		<card>
 			<name>Villain of Brick</name>
-			<text>Grimbound
-Foundation
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Whenever this creature deals combat damage to a player, you gain 1 life and draw a card.[/b]]
 ---
 (Front): CM01 Hero of Brick</text>
@@ -4039,7 +4039,7 @@ Foundation
 		</card>
 		<card>
 			<name>CM02 Hero of Moon</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 When this creature enters, surveil 2.
 Moonflow 2
 ---
@@ -4061,7 +4061,7 @@ Moonflow 2
 		</card>
 		<card>
 			<name>Villain of Moon</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 When this creature enters, surveil 1.
 Moonflow 2
 ---
@@ -4083,7 +4083,7 @@ Moonflow 2
 		</card>
 		<card>
 			<name>CM03 Hero of Blade</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Haste
 Blaze of Glory — Whenever this creature attacks, you may have it gain trample until end of turn. If you do, sacrifice it at end of turn.
 ---
@@ -4105,7 +4105,7 @@ Blaze of Glory — Whenever this creature attacks, you may have it gain trample 
 		</card>
 		<card>
 			<name>Villain of Blade</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Blaze of Glory — Whenever this creature attacks, you may have it gain trample and menace until end of turn. If you do, sacrifice it at end of turn.
 ---
 (Front): CM03 Hero of Blade</text>
@@ -4126,8 +4126,8 @@ Blaze of Glory — Whenever this creature attacks, you may have it gain trample 
 		</card>
 		<card>
 			<name>CM04 Hero of Sun</name>
-			<text>Whimsybound
-Sunfire — Exile the top card of your library. You may play that card this turn.
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Sunfire — Exile the top card of your library. You may play that card this turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 ---
 (Back): Villain of Sun</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/197_CM04 Hero of Sun_front.jpg" num="197a">ADD</set>
@@ -4147,8 +4147,8 @@ Sunfire — Exile the top card of your library. You may play that card this turn
 		</card>
 		<card>
 			<name>Villain of Sun</name>
-			<text>Grimbound
-Sunfire — Exile the top card of your library. You may play that card this turn.
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Sunfire — Exile the top card of your library. You may play that card this turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 ---
 (Front): CM04 Hero of Sun</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/197_CM04 Hero of Sun_back.jpg" num="197b">ADD</set>
@@ -4168,7 +4168,7 @@ Sunfire — Exile the top card of your library. You may play that card this turn
 		</card>
 		<card>
 			<name>CM05 Hero of Sight</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Formidable — When this creature enters, if creatures you control have total power 8 or greater, draw a card.
 ---
 (Back): Villain of Sight</text>
@@ -4189,7 +4189,7 @@ Formidable — When this creature enters, if creatures you control have total po
 		</card>
 		<card>
 			<name>Villain of Sight</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Formidable — Whenever this creature attacks, if creatures you control have total power 8 or greater, this creature gets +0/+2 until end of turn.
 ---
 (Front): CM05 Hero of Sight</text>
@@ -4291,8 +4291,8 @@ Formidable — Whenever this creature attacks, if creatures you control have tot
 		</card>
 		<card>
 			<name>CZ01 Walking Stones</name>
-			<text>Elsewhere 1
-Foundation
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]Vigilance[/b]]</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/204_CZ01 Walking Stones.jpg" num="204">ADD</set>
 			<prop>
@@ -4310,9 +4310,9 @@ Foundation
 		</card>
 		<card>
 			<name>CZ02 Soaring Shadow</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Flying
-Moonflow 2</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/205_CZ02 Soaring Shadow.jpg" num="205">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -4329,7 +4329,7 @@ Moonflow 2</text>
 		</card>
 		<card>
 			<name>CZ03 Sprinting Blade</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Haste
 Blaze of Glory — Whenever this creature attacks, you may have it gain menace until end of turn. If you do, sacrifice this creature at end of combat.</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/206_CZ03 Sprinting Blade.jpg" num="206">ADD</set>
@@ -4348,9 +4348,9 @@ Blaze of Glory — Whenever this creature attacks, you may have it gain menace u
 		</card>
 		<card>
 			<name>CZ04 Crushing Flame</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Trample
-Sunfire — This creature gets +0/+2 until end of turn.</text>
+Sunfire — This creature gets +0/+2 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/207_CZ04 Crushing Flame.jpg" num="207">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -4367,7 +4367,7 @@ Sunfire — This creature gets +0/+2 until end of turn.</text>
 		</card>
 		<card>
 			<name>CZ05 Warding Eyes</name>
-			<text>Elsewhere 1
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
 Formidable — When this creature dies, if creatures you control have total power 8 or greater, you gain 4 life.</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/208_CZ05 Warding Eyes.jpg" num="208">ADD</set>
@@ -4386,7 +4386,7 @@ Formidable — When this creature dies, if creatures you control have total powe
 		</card>
 		<card>
 			<name>MM01 Season of Whimsy</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Mill five cards. Pay any amount of life.
 Choose up to X {J} worth of modes, where X is the amount of life paid. You may choose the same mode more than once.
 {J} — Add a card from your graveyard to the milled cards.
@@ -4410,7 +4410,7 @@ Choose up to X {J} worth of modes, where X is the amount of life paid. You may c
 		</card>
 		<card>
 			<name>Season of Grim</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Pay any amount of life.
 Choose up to X {J} worth of modes, where X is the amount of life paid. You may choose the same mode more than once.
 [b]{J}[/b] — Mill a card.
@@ -4451,7 +4451,7 @@ X {J} — Return a creature card with mana value X from your graveyard to the ba
 		</card>
 		<card>
 			<name>RM01 Lord of the Foundation</name>
-			<text>Other Walls you control have Foundation. (When they enter, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on those cards. This stacks.)</text>
+			<text>Other Walls you control have Foundation. (When they enter, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on those cards. This stacks.) (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/211_RM01 Lord of the Foundation.jpg" num="211">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -4468,7 +4468,7 @@ X {J} — Return a creature card with mana value X from your graveyard to the ba
 		</card>
 		<card>
 			<name>RM02 Lord of the Isle</name>
-			<text>Reflection cards in your graveyard have Moonflow 1. (You may play those cards from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)</text>
+			<text>Reflection cards in your graveyard have Moonflow 1. (You may play those cards from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.) (You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/212_RM02 Lord of the Isle.jpg" num="212">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -4502,7 +4502,7 @@ X {J} — Return a creature card with mana value X from your graveyard to the ba
 		</card>
 		<card>
 			<name>RM04 Lord of the Summit</name>
-			<text>Other Elementals you control have &quot;Sunfire — Add {R}{G}.</text>
+			<text>Other Elementals you control have &quot;Sunfire — Add {R}{G}. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/214_RM04 Lord of the Summit.jpg" num="214">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -4617,8 +4617,8 @@ You gain X life and draw X cards.</text>
 		</card>
 		<card>
 			<name>RZ01 Harbinger of Whimsy Bone</name>
-			<text>Elsewhere 1
-Whimsybound
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 ---
 (Back): Harbinger of Grim Bone</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/221_RZ01 Harbinger of Whimsy Bone_front.jpg" num="221a">ADD</set>
@@ -4638,7 +4638,7 @@ Whimsybound
 		</card>
 		<card>
 			<name>Harbinger of Grim Bone</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Extort, extort (Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life. Repeat this once.)
 ---
 (Front): RZ01 Harbinger of Whimsy Bone</text>
@@ -4659,8 +4659,8 @@ Extort, extort (Whenever you cast a spell, you may pay {WB}. If you do, each opp
 		</card>
 		<card>
 			<name>RZ02 Harbinger of Whimsy Thunder</name>
-			<text>Elsewhere 1
-Whimsybound
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 ---
 (Back): Harbinger of Grim Thunder</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/222_RZ02 Harbinger of Whimsy Thunder_front.jpg" num="222a">ADD</set>
@@ -4680,7 +4680,7 @@ Whimsybound
 		</card>
 		<card>
 			<name>Harbinger of Grim Thunder</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Prowess, prowess
 ---
 (Front): RZ02 Harbinger of Whimsy Thunder</text>
@@ -4701,8 +4701,8 @@ Prowess, prowess
 		</card>
 		<card>
 			<name>RZ03 Harbinger of Whimsy Death</name>
-			<text>Elsewhere 1
-Whimsybound
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 ---
 (Back): Harbinger of Grim Death</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/223_RZ03 Harbinger of Whimsy Death_front.jpg" num="223a">ADD</set>
@@ -4722,7 +4722,7 @@ Whimsybound
 		</card>
 		<card>
 			<name>Harbinger of Grim Death</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Deathtouch, trample
 ---
 (Front): RZ03 Harbinger of Whimsy Death</text>
@@ -4743,8 +4743,8 @@ Deathtouch, trample
 		</card>
 		<card>
 			<name>RZ04 Harbinger of Whimsy Light</name>
-			<text>Elsewhere 1
-Whimsybound
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 ---
 (Back): Harbinger of Grim Light</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/224_RZ04 Harbinger of Whimsy Light_front.jpg" num="224a">ADD</set>
@@ -4764,7 +4764,7 @@ Whimsybound
 		</card>
 		<card>
 			<name>Harbinger of Grim Light</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Battle cry, battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.Repeat this once.)
 ---
 (Front): RZ04 Harbinger of Whimsy Light</text>
@@ -4785,8 +4785,8 @@ Battle cry, battle cry (Whenever this creature attacks, each other attacking cre
 		</card>
 		<card>
 			<name>RZ05 Harbinger of Whimsy Water</name>
-			<text>Elsewhere 1
-Whimsybound
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 ---
 (Back): Harbinger of Grim Water</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/225_RZ05 Harbinger of Whimsy Water_front.jpg" num="225a">ADD</set>
@@ -4806,7 +4806,7 @@ Whimsybound
 		</card>
 		<card>
 			<name>Harbinger of Grim Water</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Evolve, evolve (Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature. Repeat this once.)
 ---
 (Front): RZ05 Harbinger of Whimsy Water</text>
@@ -4827,7 +4827,7 @@ Evolve, evolve (Whenever a creature you control enters, if that creature has gre
 		</card>
 		<card>
 			<name>UM01 Brickfolk Kinmage</name>
-			<text>Foundation
+			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]{W}{U}, {T}, Discard a Wall card: Counter target spell unless its controller pays {1}.[/b]]</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/226_UM01 Brickfolk Kinmage.jpg" num="226">ADD</set>
 			<prop>
@@ -4846,7 +4846,7 @@ Evolve, evolve (Whenever a creature you control enters, if that creature has gre
 		<card>
 			<name>UM02 Lunarkin Kinmage</name>
 			<text>{U}{B}, {T}, Discard a Reflection card: Draw two cards, then discard a card.
-Moonflow 2</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/227_UM02 Lunarkin Kinmage.jpg" num="227">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -4881,7 +4881,7 @@ Moonflow 2</text>
 		</card>
 		<card>
 			<name>UM04 Solarkin Kinmage</name>
-			<text>Sunfire — Add {R} or {G}.
+			<text>Sunfire — Add {R} or {G}. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 {R}{G}, {T}, Discard an Elemental card: Add {R}{R}{G}{G}. Mill four cards.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/229_UM04 Solarkin Kinmage.jpg" num="229">ADD</set>
 			<prop>
@@ -4918,7 +4918,7 @@ Moonflow 2</text>
 		<card>
 			<name>UM06 Brickfolk Charm</name>
 			<text>Choose one —
-• Until end of turn, target creature with foundation gains &quot;[[b]Whenever this creature deals combat damage to player this turn, you gain 1 life and draw a card.[/b]]&quot;
+• Until end of turn, target creature with foundation gains &quot;[[b]Whenever this creature deals combat damage to player this turn, you gain 1 life and draw a card.[/b]]&quot; (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 • Exile target creature you control, then return it to the battlefield tapped under its owner&apos;s control.
 • Return to the battlefield tapped target creature card in your graveyard that was put there this turn from the battlefield.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/231_UM06 Brickfolk Charm.jpg" num="231">ADD</set>
@@ -5028,7 +5028,7 @@ When this creature enters, surveil 1.</text>
 		</card>
 		<card>
 			<name>CA02 Mechanical Pilgrim</name>
-			<text>Elsewhere 1</text>
+			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/237_CA02 Mechanical Pilgrim.jpg" num="237">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -5074,7 +5074,7 @@ When this creature enters, surveil 1.</text>
 		<card>
 			<name>RA02 Lunatic Sphere</name>
 			<text>Each spell that would cost less than two mana to cast costs two mana to cast. (Additional mana in the cost may be paid with any type of mana. For example, a spell that would cost {B} to cast costs {1}{B} to cast instead.)
-Moonflow 2</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/240_RA02 Lunatic Sphere.jpg" num="240">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -5103,7 +5103,7 @@ Moonflow 2</text>
 		</card>
 		<card>
 			<name>UA02 Opal Dreamer of Whimsy</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 {T}, Put a -1/-1 counter on a creature you control: Add one mana of any color. Activate only if you control three or more artifacts.
 ---
 (Back): Opal Dreamer of Grim</text>
@@ -5122,7 +5122,7 @@ Moonflow 2</text>
 		</card>
 		<card>
 			<name>Opal Dreamer of Grim</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add one mana of any color. Activate only if you control three or more artifacts.
 ---
 (Front): UA02 Opal Dreamer of Whimsy</text>
@@ -5141,7 +5141,7 @@ Moonflow 2</text>
 		</card>
 		<card>
 			<name>ML01 The Grand Foundation</name>
-			<text>Foundation
+			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
 [[b]This permanent enters tapped.[/b]]
 {T}: Add {W} or {U}.</text>
 			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/243_ML01 The Grand Foundation.jpg" num="243">ADD</set>
@@ -5160,7 +5160,7 @@ Moonflow 2</text>
 			<name>ML02 The Lunar Isle</name>
 			<text>This land enters tapped.
 {T}: Add {U} or {B}.
-Moonflow 2</text>
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/244_ML02 The Lunar Isle.jpg" num="244">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -5192,7 +5192,7 @@ Moonflow 2</text>
 		<card>
 			<name>ML04 The Solar Summit</name>
 			<text>This land enters tapped.
-Sunfire — Add {R} or {G}.
+Sunfire — Add {R} or {G}. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 {T}: Add {R} or {G}.</text>
 			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/246_ML04 The Solar Summit.jpg" num="246">ADD</set>
 			<prop>
@@ -5224,7 +5224,7 @@ Formidable — {T}: Add {G} or {W}. If creatures you control have total power 8 
 		</card>
 		<card>
 			<name>ML06 The Dreamer&apos;s Home</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 {T}: Add {C}. You gain 1 life.
 ---
 (Back): The Dreamer&apos;s World</text>
@@ -5242,7 +5242,7 @@ Formidable — {T}: Add {G} or {W}. If creatures you control have total power 8 
 		</card>
 		<card>
 			<name>The Dreamer&apos;s World</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}, Pay 2 life: Add {C}{C}.
 ---
 (Front): ML06 The Dreamer&apos;s Home</text>
@@ -5260,7 +5260,7 @@ Formidable — {T}: Add {G} or {W}. If creatures you control have total power 8 
 		</card>
 		<card>
 			<name>ML07 The Wandering Refuge</name>
-			<text>Elsewhere 2
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 {T}: Add {C}. If you&apos;ve wandered this turn, add one mana of any color instead.</text>
 			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/249_ML07 The Wandering Refuge.jpg" num="249">ADD</set>
 			<prop>
@@ -5355,7 +5355,7 @@ Formidable — {T}: Add {G} or {W}. If creatures you control have total power 8 
 		</card>
 		<card>
 			<name>UL01 Festival of Frost</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
 {T}: Add {W} or {U}.
 ---
@@ -5375,7 +5375,7 @@ This land enters tapped.
 		</card>
 		<card>
 			<name>Favor of Frost</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Draw a card.
 ---
 (Front): UL01 Festival of Frost</text>
@@ -5395,7 +5395,7 @@ Draw a card.
 		</card>
 		<card>
 			<name>UL02 Festival of Darkness</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
 {T}: Add {U} or {B}.
 ---
@@ -5415,7 +5415,7 @@ This land enters tapped.
 		</card>
 		<card>
 			<name>Favor of Darkness</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Draw a card.
 ---
 (Front): UL02 Festival of Darkness</text>
@@ -5435,7 +5435,7 @@ Draw a card.
 		</card>
 		<card>
 			<name>UL03 Festival of Blood</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
 {T}: Add {B} or {R}.
 ---
@@ -5455,7 +5455,7 @@ This land enters tapped.
 		</card>
 		<card>
 			<name>Favor of Blood</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Draw a card.
 ---
 (Front): UL03 Festival of Blood</text>
@@ -5475,7 +5475,7 @@ Draw a card.
 		</card>
 		<card>
 			<name>UL04 Festival of Fire</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
 {T}: Add {R} or {G}.
 ---
@@ -5495,7 +5495,7 @@ This land enters tapped.
 		</card>
 		<card>
 			<name>Favor of Fire</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Draw a card.
 ---
 (Front): UL04 Festival of Fire</text>
@@ -5515,7 +5515,7 @@ Draw a card.
 		</card>
 		<card>
 			<name>UL05 Festival of Life</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
 {T}: Add {G} or {W}.
 ---
@@ -5535,7 +5535,7 @@ This land enters tapped.
 		</card>
 		<card>
 			<name>Favor of Life</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Draw a card.
 ---
 (Front): UL05 Festival of Life</text>
@@ -5555,7 +5555,7 @@ Draw a card.
 		</card>
 		<card>
 			<name>UL06 Festival of Bone</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
 {T}: Add {W} or {B}.
 ---
@@ -5575,7 +5575,7 @@ This land enters tapped.
 		</card>
 		<card>
 			<name>Favor of Bone</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Draw a card.
 ---
 (Front): UL06 Festival of Bone</text>
@@ -5595,7 +5595,7 @@ Draw a card.
 		</card>
 		<card>
 			<name>UL07 Festival of Thunder</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
 {T}: Add {U} or {R}.
 ---
@@ -5615,7 +5615,7 @@ This land enters tapped.
 		</card>
 		<card>
 			<name>Favor of Thunder</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Draw a card.
 ---
 (Front): UL07 Festival of Thunder</text>
@@ -5635,7 +5635,7 @@ Draw a card.
 		</card>
 		<card>
 			<name>UL08 Festival of Death</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
 {T}: Add {B} or {G}.
 ---
@@ -5655,7 +5655,7 @@ This land enters tapped.
 		</card>
 		<card>
 			<name>Favor of Death</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Draw a card.
 ---
 (Front): UL08 Festival of Death</text>
@@ -5675,7 +5675,7 @@ Draw a card.
 		</card>
 		<card>
 			<name>UL09 Festival of Light</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
 {T}: Add {R} or {W}.
 ---
@@ -5695,7 +5695,7 @@ This land enters tapped.
 		</card>
 		<card>
 			<name>Favor of Light</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Draw a card.
 ---
 (Front): UL09 Festival of Light</text>
@@ -5715,7 +5715,7 @@ Draw a card.
 		</card>
 		<card>
 			<name>UL10 Festival of Water</name>
-			<text>Whimsybound
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
 {T}: Add {G} or {U}.
 ---
@@ -5735,7 +5735,7 @@ This land enters tapped.
 		</card>
 		<card>
 			<name>Favor of Water</name>
-			<text>Grimbound
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Draw a card.
 ---
 (Front): UL10 Festival of Water</text>
