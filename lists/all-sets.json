@@ -4,6 +4,11 @@
             "set_code": "ADD",
             "set_name": "A Dream of Darkness",
             "formats": ""
+        },
+        {
+            "set_code": "DPF",
+            "set_name": "Dominion Placeholder Files",
+            "formats": ""
         }
     ]
 }

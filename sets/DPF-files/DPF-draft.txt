@@ -1,0 +1,32 @@
+﻿[CustomCards]
+	[
+		{
+				"name": "ESC set symbol",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "1",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/DPF-files/img/1_ESC set symbol.jpg"
+				}
+			},
+			{
+				"name": "ESC set symbol_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "1",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/DPF-files/img/1_ESC set symbol.jpg"
+				}
+			}
+		]
+
+[rare(1)]
+[uncommon(3)]
+[common(10)]
+	5 ESC set symbol

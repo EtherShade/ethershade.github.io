@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>DPF</name>
+			<longname>Dominion Placeholder Files</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-08-01</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>ESC set symbol</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/DPF-files/img/1_ESC set symbol.jpg" num="1">DPF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

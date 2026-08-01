@@ -5949,6 +5949,26 @@
             "artist": "",
             "notes": "!exportname Clue Token\n!related UW01 Grounded Investigation;RU02 Vinki the Reflective;RU03 Timewinder Supreme;CB13 Visions of Conspiracy",
             "image_type": "jpg"
+        },
+        {
+            "card_name": "ESC set symbol",
+            "color": "",
+            "rarity": "common",
+            "type": "",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "DPF",
+            "loyalty": "",
+            "designer": "",
+            "artist": "",
+            "notes": "",
+            "image_type": "jpg"
         }
     ]
 }
