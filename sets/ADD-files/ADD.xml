@@ -1495,7 +1495,7 @@ Wander twice. (Reveal the top card of your library. If it&apos;s a land, put a W
 		<card>
 			<name>UU04 Pacifist Fireborn</name>
 			<text>Sunfire — You may pay {U}. If you do, draw a card. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
-Whenever you activate a sunfire ability, mill a card. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
+Whenever you activate a sunfire ability, mill a card.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/73_UU04 Pacifist Fireborn.jpg" num="73">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2792,7 +2792,7 @@ Wander. (Reveal the top card of your library. If it&apos;s a land, put a Wandere
 		<card>
 			<name>MR01 Vetari, Traitor</name>
 			<text>Partner with Ketaro, Traitor (When this creature enters, target player may put Ketaro into their hand from their library, then shuffle.)
-If a sunfire ability you control would trigger, you may instead discard a card, then draw a card. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
+If a sunfire ability you control would trigger, you may instead discard a card, then draw a card.</text>
 			<set rarity="mythic" picurl="https://ethershade.github.io/sets/ADD-files/img/135_MR01 Vetari, Traitor.jpg" num="135">ADD</set>
 			<prop>
 				<layout>normal</layout>
