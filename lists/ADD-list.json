@@ -618,7 +618,7 @@
         "position": ""
     },
     {
-        "card_name": "UB06 Fleshy Blight-Spreader",
+        "card_name": "UB06 Blighted Abomination",
         "number": 112,
         "shape": "normal",
         "set": "ADD",
@@ -669,7 +669,7 @@
         "position": ""
     },
     {
-        "card_name": "UR07 Grim-Might Fleshbeast",
+        "card_name": "UR07 Grim-Might Beast",
         "number": 150,
         "shape": "normal",
         "set": "ADD",
@@ -704,7 +704,7 @@
         "position": ""
     },
     {
-        "card_name": "UB08 Wandering Stitcher",
+        "card_name": "UB08 Wandering Summoner",
         "number": 114,
         "shape": "normal",
         "set": "ADD",
@@ -1040,7 +1040,7 @@
         "position": ""
     },
     {
-        "card_name": "CU03 Incomplete Fleshthopter",
+        "card_name": "CU03 Incomplete Scrapthopter",
         "number": 48,
         "shape": "normal",
         "set": "ADD",
@@ -1126,7 +1126,7 @@
         "position": ""
     },
     {
-        "card_name": "CU05 Grim Fleshcrafter",
+        "card_name": "CU05 Grim Looter",
         "number": 50,
         "shape": "normal",
         "set": "ADD",
@@ -1220,7 +1220,7 @@
         "position": ""
     },
     {
-        "card_name": "CB07 Lunar Flesh Construct",
+        "card_name": "CB07 Lunacy Construct",
         "number": 89,
         "shape": "normal",
         "set": "ADD",
@@ -2542,7 +2542,7 @@
     },
     {
         "card_name": "Building Token",
-        "number": 4,
+        "number": 3,
         "shape": "token",
         "set": "ADD",
         "rotated": false,
@@ -2550,15 +2550,7 @@
     },
     {
         "card_name": "Clue Token",
-        "number": 5,
-        "shape": "token",
-        "set": "ADD",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "2/2 Horror Token",
-        "number": 2,
+        "number": 4,
         "shape": "token",
         "set": "ADD",
         "rotated": false,
@@ -2566,11 +2558,14 @@
     },
     {
         "card_name": "0/1 Demon Token",
-        "number": 3,
+        "number": 2,
         "shape": "token",
         "set": "ADD",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

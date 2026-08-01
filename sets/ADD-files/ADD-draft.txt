@@ -1227,27 +1227,27 @@
 				}
 			},
 			{
-				"name": "CU03 Incomplete Fleshthopter",
+				"name": "CU03 Incomplete Scrapthopter",
 				"rarity": "common",
 				"mana_cost": "{2}{U}",
-				"type": "Artifact Creature — Thopter Horror",
+				"type": "Artifact Creature — Thopter",
 				"collector_number": "48",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/48_CU03 Incomplete Fleshthopter.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/48_CU03 Incomplete Scrapthopter.jpg"
 				}
 			},
 			{
-				"name": "CU03 Incomplete Fleshthopter_foil",
+				"name": "CU03 Incomplete Scrapthopter_foil",
 				"rarity": "common",
 				"mana_cost": "{2}{U}",
-				"type": "Artifact Creature — Thopter Horror",
+				"type": "Artifact Creature — Thopter",
 				"collector_number": "48",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/48_CU03 Incomplete Fleshthopter.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/48_CU03 Incomplete Scrapthopter.jpg"
 				}
 			},
 			{
@@ -1289,27 +1289,27 @@
 				}
 			},
 			{
-				"name": "CU05 Grim Fleshcrafter",
+				"name": "CU05 Grim Looter",
 				"rarity": "common",
 				"mana_cost": "{2}{U}",
-				"type": "Creature — Human Wizard Scientist",
+				"type": "Creature — Human Rogue",
 				"collector_number": "50",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/50_CU05 Grim Fleshcrafter.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/50_CU05 Grim Looter.jpg"
 				}
 			},
 			{
-				"name": "CU05 Grim Fleshcrafter_foil",
+				"name": "CU05 Grim Looter_foil",
 				"rarity": "common",
 				"mana_cost": "{2}{U}",
-				"type": "Creature — Human Wizard Scientist",
+				"type": "Creature — Human Rogue",
 				"collector_number": "50",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/50_CU05 Grim Fleshcrafter.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/50_CU05 Grim Looter.jpg"
 				}
 			},
 			{
@@ -1714,7 +1714,7 @@
 				"name": "RU05 Riddle Stealer",
 				"rarity": "rare",
 				"mana_cost": "{4}{U}",
-				"type": "Creature — Sphinx",
+				"type": "Creature — Sphinx Rogue",
 				"collector_number": "67",
 				"foil": false,
 
@@ -1726,7 +1726,7 @@
 				"name": "RU05 Riddle Stealer_foil",
 				"rarity": "rare",
 				"mana_cost": "{4}{U}",
-				"type": "Creature — Sphinx",
+				"type": "Creature — Sphinx Rogue",
 				"collector_number": "67",
 				"foil": true,
 
@@ -2295,7 +2295,7 @@
 				}
 			},
 			{
-				"name": "CB07 Lunar Flesh Construct",
+				"name": "CB07 Lunacy Construct",
 				"rarity": "common",
 				"mana_cost": "{4}{B}",
 				"type": "Artifact Creature — Zombie Horror",
@@ -2303,11 +2303,11 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/89_CB07 Lunar Flesh Construct.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/89_CB07 Lunacy Construct.jpg"
 				}
 			},
 			{
-				"name": "CB07 Lunar Flesh Construct_foil",
+				"name": "CB07 Lunacy Construct_foil",
 				"rarity": "common",
 				"mana_cost": "{4}{B}",
 				"type": "Artifact Creature — Zombie Horror",
@@ -2315,7 +2315,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/89_CB07 Lunar Flesh Construct.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/89_CB07 Lunacy Construct.jpg"
 				}
 			},
 			{
@@ -2672,7 +2672,7 @@
 				"name": "RB05 Grim Greater Demon",
 				"rarity": "rare",
 				"mana_cost": "{2}{B}",
-				"type": "Creature — Angel",
+				"type": "Creature — Demon",
 				"collector_number": "104",
 				"foil": false,
 
@@ -2684,7 +2684,7 @@
 				"name": "RB05 Grim Greater Demon_foil",
 				"rarity": "rare",
 				"mana_cost": "{2}{B}",
-				"type": "Creature — Angel",
+				"type": "Creature — Demon",
 				"collector_number": "104",
 				"foil": true,
 
@@ -2875,7 +2875,7 @@
 				}
 			},
 			{
-				"name": "UB06 Fleshy Blight-Spreader",
+				"name": "UB06 Blighted Abomination",
 				"rarity": "uncommon",
 				"mana_cost": "{4}{B}",
 				"type": "Creature — Horror",
@@ -2883,11 +2883,11 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/112_UB06 Fleshy Blight-Spreader.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/112_UB06 Blighted Abomination.jpg"
 				}
 			},
 			{
-				"name": "UB06 Fleshy Blight-Spreader_foil",
+				"name": "UB06 Blighted Abomination_foil",
 				"rarity": "uncommon",
 				"mana_cost": "{4}{B}",
 				"type": "Creature — Horror",
@@ -2895,7 +2895,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/112_UB06 Fleshy Blight-Spreader.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/112_UB06 Blighted Abomination.jpg"
 				}
 			},
 			{
@@ -2923,27 +2923,27 @@
 				}
 			},
 			{
-				"name": "UB08 Wandering Stitcher",
+				"name": "UB08 Wandering Summoner",
 				"rarity": "uncommon",
 				"mana_cost": "{5}{B}{B}",
-				"type": "Creature — Human Wizard Scientist Wanderer",
+				"type": "Creature — Human Wizard Warlock Wanderer",
 				"collector_number": "114",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/114_UB08 Wandering Stitcher.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/114_UB08 Wandering Summoner.jpg"
 				}
 			},
 			{
-				"name": "UB08 Wandering Stitcher_foil",
+				"name": "UB08 Wandering Summoner_foil",
 				"rarity": "uncommon",
 				"mana_cost": "{5}{B}{B}",
-				"type": "Creature — Human Wizard Scientist Wanderer",
+				"type": "Creature — Human Wizard Warlock Wanderer",
 				"collector_number": "114",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/114_UB08 Wandering Stitcher.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/114_UB08 Wandering Summoner.jpg"
 				}
 			},
 			{
@@ -3256,7 +3256,7 @@
 				"name": "CR07 Playful Ravager",
 				"rarity": "common",
 				"mana_cost": "{4}{R}",
-				"type": "Creature — Beast Horror",
+				"type": "Creature — Beast",
 				"collector_number": "126",
 				"foil": false,
 
@@ -3268,7 +3268,7 @@
 				"name": "CR07 Playful Ravager_foil",
 				"rarity": "common",
 				"mana_cost": "{4}{R}",
-				"type": "Creature — Beast Horror",
+				"type": "Creature — Beast",
 				"collector_number": "126",
 				"foil": true,
 
@@ -3857,27 +3857,27 @@
 				}
 			},
 			{
-				"name": "UR07 Grim-Might Fleshbeast",
+				"name": "UR07 Grim-Might Beast",
 				"rarity": "uncommon",
 				"mana_cost": "{5}{R}",
-				"type": "Creature — Beast Horror",
+				"type": "Creature — Beast",
 				"collector_number": "150",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/150_UR07 Grim-Might Fleshbeast.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/150_UR07 Grim-Might Beast.jpg"
 				}
 			},
 			{
-				"name": "UR07 Grim-Might Fleshbeast_foil",
+				"name": "UR07 Grim-Might Beast_foil",
 				"rarity": "uncommon",
 				"mana_cost": "{5}{R}",
-				"type": "Creature — Beast Horror",
+				"type": "Creature — Beast",
 				"collector_number": "150",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/150_UR07 Grim-Might Fleshbeast.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/150_UR07 Grim-Might Beast.jpg"
 				}
 			},
 			{
@@ -4262,7 +4262,7 @@
 				"name": "CG09 Colossal Dreadbeast",
 				"rarity": "common",
 				"mana_cost": "{5}{G}",
-				"type": "Creature — Beast Horror",
+				"type": "Creature — Beast",
 				"collector_number": "165",
 				"foil": false,
 
@@ -4274,7 +4274,7 @@
 				"name": "CG09 Colossal Dreadbeast_foil",
 				"rarity": "common",
 				"mana_cost": "{5}{G}",
-				"type": "Creature — Beast Horror",
+				"type": "Creature — Beast",
 				"collector_number": "165",
 				"foil": true,
 
@@ -7167,39 +7167,15 @@
 				}
 			},
 			{
-				"name": "2/2 Horror Token",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "Token Creature — Horror",
-				"collector_number": "2",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/2t_2/2 Horror Token.jpg"
-				}
-			},
-			{
-				"name": "2/2 Horror Token_foil",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "Token Creature — Horror",
-				"collector_number": "2",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/2t_2/2 Horror Token.jpg"
-				}
-			},
-			{
 				"name": "0/1 Demon Token",
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Creature — Demon",
-				"collector_number": "3",
+				"collector_number": "2",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/3t_0/1 Demon Token.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/2t_0/1 Demon Token.jpg"
 				}
 			},
 			{
@@ -7207,11 +7183,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Creature — Demon",
-				"collector_number": "3",
+				"collector_number": "2",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/3t_0/1 Demon Token.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/2t_0/1 Demon Token.jpg"
 				}
 			},
 			{
@@ -7219,11 +7195,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Artifact Creature — Building",
-				"collector_number": "4",
+				"collector_number": "3",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/4t_Building Token.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/3t_Building Token.jpg"
 				}
 			},
 			{
@@ -7231,11 +7207,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Artifact Creature — Building",
-				"collector_number": "4",
+				"collector_number": "3",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/4t_Building Token.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/3t_Building Token.jpg"
 				}
 			},
 			{
@@ -7243,11 +7219,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Artifact — Clue",
-				"collector_number": "5",
+				"collector_number": "4",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/5t_Clue Token.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/4t_Clue Token.jpg"
 				}
 			},
 			{
@@ -7255,11 +7231,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Artifact — Clue",
-				"collector_number": "5",
+				"collector_number": "4",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/ADD-files/img/5t_Clue Token.jpg"
+					"en": "https://ethershade.github.io/sets/ADD-files/img/4t_Clue Token.jpg"
 				}
 			}
 		]
@@ -7378,9 +7354,9 @@
 	5 UB03 Blighted Bully
 	5 UB04 Wanderlust Channeler
 	5 UB05 Lunarkin Assassin
-	5 UB06 Fleshy Blight-Spreader
+	5 UB06 Blighted Abomination
 	5 UB07 Blazing Blade Champion
-	5 UB08 Wandering Stitcher
+	5 UB08 Wandering Summoner
 	5 UB09 Fragmented Murder
 	5 UB10 Vengeant Venture
 	5 UB11 Arena of Insanity
@@ -7392,7 +7368,7 @@
 	5 UR04 Solarflame Zealot
 	5 UR05 Inspired Whimsyshaman
 	5 UR06 Archival Pyromancer
-	5 UR07 Grim-Might Fleshbeast
+	5 UR07 Grim-Might Beast
 	5 UR08 Wandering Firebreather
 	5 UR09 Fragmented Flames
 	5 UR10 Act of Courageous Treason
@@ -7455,9 +7431,9 @@
 	5 CW15 Enhancement of Seeking
 	5 CU01 Blue Dreamer of Whimsy
 	5 CU02 Deranged Lunarkin
-	5 CU03 Incomplete Fleshthopter
+	5 CU03 Incomplete Scrapthopter
 	5 CU04 Brickfolk Surveyor
-	5 CU05 Grim Fleshcrafter
+	5 CU05 Grim Looter
 	5 CU06 Wanderlust Eater
 	5 CU07 Riddleless Riddler
 	5 CU08 Sturdy Platformite
@@ -7474,7 +7450,7 @@
 	5 CB04 Terrorizing Bladearm
 	5 CB05 Hopeless Seeker
 	5 CB06 Tricky Timewinder
-	5 CB07 Lunar Flesh Construct
+	5 CB07 Lunacy Construct
 	5 CB08 Shrouded Demon
 	5 CB09 Scion of the Dark
 	5 CB10 Blood Helix

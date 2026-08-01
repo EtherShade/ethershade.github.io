@@ -1,4 +1,51 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CU03 Incomplete Scrapthopter added.
+CU05 Grim Looter added.
+CB07 Lunacy Construct added.
+UB06 Blighted Abomination added.
+UB08 Wandering Summoner added.
+UR07 Grim-Might Beast added.
+
+CU03 Incomplete Fleshthopter removed.
+CU05 Grim Fleshcrafter removed.
+CB07 Lunar Flesh Construct removed.
+UB06 Fleshy Blight-Spreader removed.
+UB08 Wandering Stitcher removed.
+UR07 Grim-Might Fleshbeast removed.
+2/2 Horror Token removed.
+
+CU06 Wanderlust Eater
+rules_text: Vigilance
+Whenever this creature deals combat damage to a player, if you're whimsical, Wander. [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. To wander, reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i] [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i] => Vigilance
+Whenever this creature deals combat damage to a player, if you're whimsical, Wander. [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. To wander, reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i]
+
+RU05 Riddle Stealer
+type: Creature — Sphinx => Creature — Sphinx Rogue
+
+RB03 Three-Lie Teller
+rules_text: When this creature enters from your graveyard, add {B}{B}{B}.
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => When this creature enters, if it entered from your graveyard or you cast it from your graveyard, add {B}{B}{B}.
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+RB05 Grim Greater Demon
+type: Creature — Angel => Creature — Demon
+
+UB07 Blazing Blade Champion
+rules_text: [i]Blaze of Glory[/i] — Whenever this creature attacks, you may have each opponent lose 5 life. If you do, sacrifice this creature at end of turn. => [i]Blaze of Glory[/i] — Whenever this creature attacks, you may have each opponent lose 4 life. If you do, sacrifice this creature at end of turn.
+pt: 5/3 => 4/4
+
+CR07 Playful Ravager
+type: Creature — Beast Horror => Creature — Beast
+
+CG09 Colossal Dreadbeast
+type: Creature — Beast Horror => Creature — Beast
+
+0/1 Demon Token
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

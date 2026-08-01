@@ -5,7 +5,7 @@
 			<name>ADD</name>
 			<longname>A Dream of Darkness</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-31</releasedate>
+			<releasedate>2026-08-01</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -979,15 +979,15 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CU03 Incomplete Fleshthopter</name>
-			<text>Kicker—Exile a creature card from your graveyard. (You may exile a creature card from your graveyard in addition to any other costs as you cast this spell.)
+			<name>CU03 Incomplete Scrapthopter</name>
+			<text>Kicker—Exile an artifact card from your graveyard. (You may exile an artifact card from your graveyard in addition to any other costs as you cast this spell.)
 Flying
 This creature enters with a -1/-1 counter unless it was kicked.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/48_CU03 Incomplete Fleshthopter.jpg" num="48">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/48_CU03 Incomplete Scrapthopter.jpg" num="48">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Thopter Horror</type>
+				<type>Artifact Creature — Thopter</type>
 				<maintype>Creature</maintype>
 				<manacost>2U</manacost>
 				<cmc>3</cmc>
@@ -1042,14 +1042,14 @@ Foundation (When this enters, if you don&apos;t control a Building, create a 0/0
 			<related attach="transform">CU04 Brickfolk Surveyor</related>
 		</card>
 		<card>
-			<name>CU05 Grim Fleshcrafter</name>
+			<name>CU05 Grim Looter</name>
 			<text>When this creature dies, mill two cards.
-{1}{U}, {T}: Create a 2/2 black Horror creature token, then sacrifice a creature. This ability costs {1}{U} less to activate if you&apos;re grim. (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/50_CU05 Grim Fleshcrafter.jpg" num="50">ADD</set>
+{1}{U}, {T}: Draw a card, then discard a card. This ability costs {1}{U} less to activate if you&apos;re grim. (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater.)</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/50_CU05 Grim Looter.jpg" num="50">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Wizard Scientist</type>
+				<type>Creature — Human Rogue</type>
 				<maintype>Creature</maintype>
 				<manacost>2U</manacost>
 				<cmc>3</cmc>
@@ -1062,7 +1062,7 @@ Foundation (When this enters, if you don&apos;t control a Building, create a 0/0
 		<card>
 			<name>CU06 Wanderlust Eater</name>
 			<text>Vigilance
-Whenever this creature deals combat damage to a player, if you&apos;re whimsical, Wander. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. To wander, reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.) (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
+Whenever this creature deals combat damage to a player, if you&apos;re whimsical, Wander. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. To wander, reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/51_CU06 Wanderlust Eater.jpg" num="51">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1372,7 +1372,7 @@ Flying</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Sphinx</type>
+				<type>Creature — Sphinx Rogue</type>
 				<maintype>Creature</maintype>
 				<manacost>4U</manacost>
 				<cmc>5</cmc>
@@ -1851,10 +1851,10 @@ Whenever this creature deals combat damage to player, end the turn. (Exile all s
 			<related attach="transform">CB06 Tricky Timewinder</related>
 		</card>
 		<card>
-			<name>CB07 Lunar Flesh Construct</name>
-			<text>As an additional cost to cast this spell, exile a creature card from your graveyard.
+			<name>CB07 Lunacy Construct</name>
+			<text>As an additional cost to cast this spell, exile three cards from your graveyard.
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/89_CB07 Lunar Flesh Construct.jpg" num="89">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/89_CB07 Lunacy Construct.jpg" num="89">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2100,7 +2100,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 		</card>
 		<card>
 			<name>RB03 Three-Lie Teller</name>
-			<text>When this creature enters from your graveyard, add {B}{B}{B}.
+			<text>When this creature enters, if it entered from your graveyard or you cast it from your graveyard, add {B}{B}{B}.
 Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
 			<set rarity="rare" picurl="https://ethershade.github.io/sets/ADD-files/img/102_RB03 Three-Lie Teller.jpg" num="102">ADD</set>
 			<prop>
@@ -2142,7 +2142,7 @@ This creature can&apos;t attack or block unless you&apos;re grim. (You&apos;re g
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Angel</type>
+				<type>Creature — Demon</type>
 				<maintype>Creature</maintype>
 				<manacost>2B</manacost>
 				<cmc>3</cmc>
@@ -2300,9 +2300,9 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UB06 Fleshy Blight-Spreader</name>
+			<name>UB06 Blighted Abomination</name>
 			<text>When this creature dies, put a -1/-1 counter on target creature.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/112_UB06 Fleshy Blight-Spreader.jpg" num="112">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/112_UB06 Blighted Abomination.jpg" num="112">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2318,7 +2318,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 		</card>
 		<card>
 			<name>UB07 Blazing Blade Champion</name>
-			<text>Blaze of Glory — Whenever this creature attacks, you may have each opponent lose 5 life. If you do, sacrifice this creature at end of turn.</text>
+			<text>Blaze of Glory — Whenever this creature attacks, you may have each opponent lose 4 life. If you do, sacrifice this creature at end of turn.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/113_UB07 Blazing Blade Champion.jpg" num="113">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2329,20 +2329,20 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>5/3</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UB08 Wandering Stitcher</name>
+			<name>UB08 Wandering Summoner</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Menace
-When this creature enters, create a 2/2 black Horror creature token.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/114_UB08 Wandering Stitcher.jpg" num="114">ADD</set>
+When this creature enters, create two 0/1 black and red Demon creature tokens with &quot;Blaze of Glory — Whenever this creature attacks, you may have it get +2/+1. If you do, sacrifice it at end of combat.&quot;</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/114_UB08 Wandering Summoner.jpg" num="114">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Wizard Scientist Wanderer</type>
+				<type>Creature — Human Wizard Warlock Wanderer</type>
 				<maintype>Creature</maintype>
 				<manacost>5BB</manacost>
 				<cmc>7</cmc>
@@ -2623,7 +2623,7 @@ Whenever this creature attacks, if you&apos;re whimsical, it deals 4 damage to t
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Beast Horror</type>
+				<type>Creature — Beast</type>
 				<maintype>Creature</maintype>
 				<manacost>4R</manacost>
 				<cmc>5</cmc>
@@ -3080,13 +3080,13 @@ When this creature dies, if you&apos;re whimsical, mill a card. You may play tha
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UR07 Grim-Might Fleshbeast</name>
+			<name>UR07 Grim-Might Beast</name>
 			<text>This creature gets +2/+3 and has trample as long as you&apos;re grim. (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater.)</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/150_UR07 Grim-Might Fleshbeast.jpg" num="150">ADD</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/ADD-files/img/150_UR07 Grim-Might Beast.jpg" num="150">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Beast Horror</type>
+				<type>Creature — Beast</type>
 				<maintype>Creature</maintype>
 				<manacost>5R</manacost>
 				<cmc>6</cmc>
@@ -3426,7 +3426,7 @@ When this creature enters, you gain 8 life.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Beast Horror</type>
+				<type>Creature — Beast</type>
 				<maintype>Creature</maintype>
 				<manacost>5G</manacost>
 				<cmc>6</cmc>
@@ -5847,28 +5847,9 @@ Draw a card.
 			<reverse-related>UW11 Foundational Virtue</reverse-related>
 		</card>
 		<card>
-			<name>2/2 Horror Token ADD</name>
-			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/2t_2/2 Horror Token.jpg" num="2">ADD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Horror</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>B</colors>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-			<reverse-related>CU05 Grim Fleshcrafter</reverse-related>
-			<reverse-related>UB08 Wandering Stitcher</reverse-related>
-		</card>
-		<card>
 			<name>0/1 Demon Token ADD</name>
 			<text>Blaze of Glory — Whenever this creature attacks, you may have it get +2/+1. If you do, sacrifice it at end of combat.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/3t_0/1 Demon Token.jpg" num="3">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/2t_0/1 Demon Token.jpg" num="2">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5881,12 +5862,13 @@ Draw a card.
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse-related>UB08 Wandering Summoner</reverse-related>
 			<reverse-related>ML03 The Bladed Pass</reverse-related>
 		</card>
 		<card>
 			<name>Building Token ADD</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/4t_Building Token.jpg" num="4">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/3t_Building Token.jpg" num="3">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5920,7 +5902,7 @@ Draw a card.
 		<card>
 			<name>Clue Token ADD</name>
 			<text>{2}, Sacrifice this token: Draw a card.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/5t_Clue Token.jpg" num="5">ADD</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/ADD-files/img/4t_Clue Token.jpg" num="4">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
