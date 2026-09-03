@@ -1,13 +1,13 @@
 ﻿{
     "sets": [
         {
-            "set_code": "ADD",
-            "set_name": "A Dream of Darkness",
+            "set_code": "INS",
+            "set_name": "Inscryption Engraved Draft",
             "formats": ""
         },
         {
-            "set_code": "DPF",
-            "set_name": "Dominion Placeholder Files",
+            "set_code": "INSI",
+            "set_name": "Inscryption Engraved Draft Items",
             "formats": ""
         }
     ]

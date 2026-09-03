@@ -1,0 +1,1482 @@
+﻿[CustomCards]
+	[
+		{
+				"name": "Academic",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "1",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/0.png"
+				}
+			},
+			{
+				"name": "Academic_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "1",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/0.png"
+				}
+			},
+			{
+				"name": "Avian",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "5",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/1.png"
+				}
+			},
+			{
+				"name": "Avian_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "5",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/1.png"
+				}
+			},
+			{
+				"name": "Bot",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "14",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/2.png"
+				}
+			},
+			{
+				"name": "Bot_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "14",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/2.png"
+				}
+			},
+			{
+				"name": "Canine",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "16",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/3.png"
+				}
+			},
+			{
+				"name": "Canine_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "16",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/3.png"
+				}
+			},
+			{
+				"name": "Cell",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "17",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/4.png"
+				}
+			},
+			{
+				"name": "Cell_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "17",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/4.png"
+				}
+			},
+			{
+				"name": "Conduit",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "18",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/5.png"
+				}
+			},
+			{
+				"name": "Conduit_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "18",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/5.png"
+				}
+			},
+			{
+				"name": "Harpies Birdleg Fan",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "25",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/6.png"
+				}
+			},
+			{
+				"name": "Harpies Birdleg Fan_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "25",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/6.png"
+				}
+			},
+			{
+				"name": "Warrior",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "55",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/7.png"
+				}
+			},
+			{
+				"name": "Warrior_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "55",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/7.png"
+				}
+			},
+			{
+				"name": "Hooved",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "27",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/8.png"
+				}
+			},
+			{
+				"name": "Hooved_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "27",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/8.png"
+				}
+			},
+			{
+				"name": "Insect",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "28",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/9.png"
+				}
+			},
+			{
+				"name": "Insect_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "28",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/9.png"
+				}
+			},
+			{
+				"name": "Latcher",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "29",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/10.png"
+				}
+			},
+			{
+				"name": "Latcher_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "29",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/10.png"
+				}
+			},
+			{
+				"name": "Mox",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "35",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/11.png"
+				}
+			},
+			{
+				"name": "Mox_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "35",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/11.png"
+				}
+			},
+			{
+				"name": "Puppeted",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "38",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/12.png"
+				}
+			},
+			{
+				"name": "Puppeted_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "38",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/12.png"
+				}
+			},
+			{
+				"name": "Reptile",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "39",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/13.png"
+				}
+			},
+			{
+				"name": "Reptile_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "39",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/13.png"
+				}
+			},
+			{
+				"name": "Rodent",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "40",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/14.png"
+				}
+			},
+			{
+				"name": "Rodent_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "40",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/14.png"
+				}
+			},
+			{
+				"name": "Sage",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "41",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/15.png"
+				}
+			},
+			{
+				"name": "Sage_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "41",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/15.png"
+				}
+			},
+			{
+				"name": "Skeletal",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "45",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/16.png"
+				}
+			},
+			{
+				"name": "Skeletal_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "45",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/16.png"
+				}
+			},
+			{
+				"name": "Spectral",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "48",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/17.png"
+				}
+			},
+			{
+				"name": "Spectral_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "48",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/17.png"
+				}
+			},
+			{
+				"name": "Station",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "51",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/18.png"
+				}
+			},
+			{
+				"name": "Station_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "51",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/18.png"
+				}
+			},
+			{
+				"name": "Vessel",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "54",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/19.png"
+				}
+			},
+			{
+				"name": "Vessel_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "54",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/19.png"
+				}
+			},
+			{
+				"name": "Wizard",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "57",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/20.png"
+				}
+			},
+			{
+				"name": "Wizard_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "57",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/20.png"
+				}
+			},
+			{
+				"name": "Zombie",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "59",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/21.png"
+				}
+			},
+			{
+				"name": "Zombie_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Head",
+				"collector_number": "59",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/21.png"
+				}
+			},
+			{
+				"name": "Airborne",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "2",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/22.png"
+				}
+			},
+			{
+				"name": "Airborne_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "2",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/22.png"
+				}
+			},
+			{
+				"name": "Ant Spawner",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "3",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/23.png"
+				}
+			},
+			{
+				"name": "Ant Spawner_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "3",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/23.png"
+				}
+			},
+			{
+				"name": "Armored",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "4",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/24.png"
+				}
+			},
+			{
+				"name": "Armored_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "4",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/24.png"
+				}
+			},
+			{
+				"name": "Battery Bearer",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "6",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/25.png"
+				}
+			},
+			{
+				"name": "Battery Bearer_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "6",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/25.png"
+				}
+			},
+			{
+				"name": "Bees Within",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "7",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/26.png"
+				}
+			},
+			{
+				"name": "Bees Within_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "7",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/26.png"
+				}
+			},
+			{
+				"name": "Bellist",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "8",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/27.png"
+				}
+			},
+			{
+				"name": "Bellist_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "8",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/27.png"
+				}
+			},
+			{
+				"name": "Bifurcated Strike",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "9",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/28.png"
+				}
+			},
+			{
+				"name": "Bifurcated Strike_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "9",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/28.png"
+				}
+			},
+			{
+				"name": "Blood Lust",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "10",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/29.png"
+				}
+			},
+			{
+				"name": "Blood Lust_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "10",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/29.png"
+				}
+			},
+			{
+				"name": "Blue Mox",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "11",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/30.png"
+				}
+			},
+			{
+				"name": "Blue Mox_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "11",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/30.png"
+				}
+			},
+			{
+				"name": "Bone Digger",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "12",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/31.png"
+				}
+			},
+			{
+				"name": "Bone Digger_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "12",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/31.png"
+				}
+			},
+			{
+				"name": "Bone King",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "13",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/32.png"
+				}
+			},
+			{
+				"name": "Bone King_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "13",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/32.png"
+				}
+			},
+			{
+				"name": "Burrower",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "15",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/33.png"
+				}
+			},
+			{
+				"name": "Burrower_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "15",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/33.png"
+				}
+			},
+			{
+				"name": "Corpse Eater",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "19",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/34.png"
+				}
+			},
+			{
+				"name": "Corpse Eater_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "19",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/34.png"
+				}
+			},
+			{
+				"name": "Dam Builder",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "20",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/35.png"
+				}
+			},
+			{
+				"name": "Dam Builder_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "20",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/35.png"
+				}
+			},
+			{
+				"name": "Double Strike",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "21",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/36.png"
+				}
+			},
+			{
+				"name": "Double Strike_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "21",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/36.png"
+				}
+			},
+			{
+				"name": "Green Mox",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "23",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/37.png"
+				}
+			},
+			{
+				"name": "Green Mox_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "23",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/37.png"
+				}
+			},
+			{
+				"name": "Guardian",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "24",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/38.png"
+				}
+			},
+			{
+				"name": "Guardian_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "24",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/38.png"
+				}
+			},
+			{
+				"name": "Leader",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "30",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/39.png"
+				}
+			},
+			{
+				"name": "Leader_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "30",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/39.png"
+				}
+			},
+			{
+				"name": "Made of Stone",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "31",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/40.png"
+				}
+			},
+			{
+				"name": "Made of Stone_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "31",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/40.png"
+				}
+			},
+			{
+				"name": "Mighty Leap",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "33",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/41.png"
+				}
+			},
+			{
+				"name": "Mighty Leap_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "33",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/41.png"
+				}
+			},
+			{
+				"name": "Morsel",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "34",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/42.png"
+				}
+			},
+			{
+				"name": "Morsel_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "34",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/42.png"
+				}
+			},
+			{
+				"name": "Orange Mox",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "36",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/43.png"
+				}
+			},
+			{
+				"name": "Orange Mox_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "36",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/43.png"
+				}
+			},
+			{
+				"name": "Sentry",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "43",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/44.png"
+				}
+			},
+			{
+				"name": "Sentry_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "43",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/44.png"
+				}
+			},
+			{
+				"name": "Sharp Quills",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "44",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/45.png"
+				}
+			},
+			{
+				"name": "Sharp Quills_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "44",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/45.png"
+				}
+			},
+			{
+				"name": "Sniper",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "46",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/46.png"
+				}
+			},
+			{
+				"name": "Sniper_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "46",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/46.png"
+				}
+			},
+			{
+				"name": "Sprinter",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "49",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/47.png"
+				}
+			},
+			{
+				"name": "Sprinter_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "49",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/47.png"
+				}
+			},
+			{
+				"name": "Stinky",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "52",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/48.png"
+				}
+			},
+			{
+				"name": "Stinky_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "52",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/48.png"
+				}
+			},
+			{
+				"name": "Trinket Bearer",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "53",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/49.png"
+				}
+			},
+			{
+				"name": "Trinket Bearer_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "53",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/49.png"
+				}
+			},
+			{
+				"name": "Waterborne",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "56",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/50.png"
+				}
+			},
+			{
+				"name": "Waterborne_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "56",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/50.png"
+				}
+			},
+			{
+				"name": "Worthy Sacrifice",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "58",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/51.png"
+				}
+			},
+			{
+				"name": "Worthy Sacrifice_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Totem — Body",
+				"collector_number": "58",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/51.png"
+				}
+			},
+			{
+				"name": "Squirrel in a Bottle",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "50",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/52.png"
+				}
+			},
+			{
+				"name": "Squirrel in a Bottle_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "50",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/52.png"
+				}
+			},
+			{
+				"name": "Goat in a Bottle",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "22",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/53.png"
+				}
+			},
+			{
+				"name": "Goat in a Bottle_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "22",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/53.png"
+				}
+			},
+			{
+				"name": "Hoggy Bank",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "26",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/54.png"
+				}
+			},
+			{
+				"name": "Hoggy Bank_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "26",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/54.png"
+				}
+			},
+			{
+				"name": "Pliers",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "37",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/55.png"
+				}
+			},
+			{
+				"name": "Pliers_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "37",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/55.png"
+				}
+			},
+			{
+				"name": "Scissors",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "42",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/56.png"
+				}
+			},
+			{
+				"name": "Scissors_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "42",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/56.png"
+				}
+			},
+			{
+				"name": "Magpies Lens",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "32",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/57.png"
+				}
+			},
+			{
+				"name": "Magpies Lens_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "32",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/57.png"
+				}
+			},
+			{
+				"name": "Spare Battery",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "47",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/58.png"
+				}
+			},
+			{
+				"name": "Spare Battery_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Item",
+				"collector_number": "47",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INSI-files/img/58.png"
+				}
+			}
+		]
+
+[rare(2)]
+	5 Ant Spawner
+	5 Armored
+	5 Bees Within
+	5 Bellist
+	5 Bifurcated Strike
+	5 Blood Lust
+	5 Corpse Eater
+	5 Dam Builder
+	5 Double Strike
+	5 Leader
+	5 Morsel
+	5 Sentry
+	5 Sniper
+	5 Trinket Bearer
+[uncommon(4)]
+	5 Battery Bearer
+	5 Blue Mox
+	5 Bone Digger
+	5 Bone King
+	5 Green Mox
+	5 Orange Mox
+	5 Sharp Quills
+	5 Stinky
+	5 Worthy Sacrifice
+	5 Scissors
+	5 Magpies Lens
+[common(8)]
+	5 Academic
+	5 Avian
+	5 Bot
+	5 Canine
+	5 Cell
+	5 Conduit
+	5 Harpies Birdleg Fan
+	5 Warrior
+	5 Hooved
+	5 Insect
+	5 Latcher
+	5 Mox
+	5 Puppeted
+	5 Reptile
+	5 Rodent
+	5 Sage
+	5 Skeletal
+	5 Spectral
+	5 Station
+	5 Vessel
+	5 Wizard
+	5 Zombie
+	5 Airborne
+	5 Burrower
+	5 Guardian
+	5 Made of Stone
+	5 Mighty Leap
+	5 Sprinter
+	5 Waterborne
+	5 Squirrel in a Bottle
+	5 Goat in a Bottle
+	5 Hoggy Bank
+	5 Pliers
+	5 Spare Battery

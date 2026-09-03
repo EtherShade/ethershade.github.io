@@ -1,0 +1,1237 @@
+﻿[
+    {
+        "card_name": "Amalgam",
+        "number": 5,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Bone Heap",
+        "number": 19,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "Bone Lords Horn",
+        "number": 20,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "Child 13",
+        "number": 26,
+        "shape": "transform double faced",
+        "set": "INS",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "The Daus",
+        "number": 30,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Dead Hand",
+        "number": 31,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "Geck",
+        "number": 47,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Headless Horseman",
+        "number": 61,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Hodag",
+        "number": 62,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Hrokkall",
+        "number": 64,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Mantis God",
+        "number": 76,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Master Bleene",
+        "number": 77,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "Master Goranj",
+        "number": 78,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "Master Orlu",
+        "number": 79,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "Mole Man",
+        "number": 82,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Mox Module",
+        "number": 84,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "Necromancer",
+        "number": 88,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "Ouroboros",
+        "number": 94,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Ourobot",
+        "number": 95,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "152"
+    },
+    {
+        "card_name": "Plasma Jimmy",
+        "number": 98,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "Shutterbug",
+        "number": 120,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "Squirrel Ball",
+        "number": 130,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Strange Larva",
+        "number": 133,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Stunted Wolf",
+        "number": 134,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Tomb Robber",
+        "number": 136,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "Urayuli",
+        "number": 139,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Alarm Bot",
+        "number": 3,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "148"
+    },
+    {
+        "card_name": "Alpha",
+        "number": 4,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Ant Queen",
+        "number": 6,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Beaver",
+        "number": 10,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Bleenes Mox",
+        "number": 13,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "Bleenes Vessel",
+        "number": 14,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "142"
+    },
+    {
+        "card_name": "Blue Mage",
+        "number": 16,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "126"
+    },
+    {
+        "card_name": "Bomb Latcher",
+        "number": 18,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "136"
+    },
+    {
+        "card_name": "Busted 3D Printer",
+        "number": 24,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "149"
+    },
+    {
+        "card_name": "Cockroach",
+        "number": 27,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Corpse Maggot",
+        "number": 28,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Dire Wolf Pup",
+        "number": 33,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Drowned Soul",
+        "number": 36,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Elk Fawn",
+        "number": 38,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Flying Ant",
+        "number": 44,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Force Mage",
+        "number": 45,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "127"
+    },
+    {
+        "card_name": "Gem Detonator",
+        "number": 48,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "145"
+    },
+    {
+        "card_name": "Gem Guardian",
+        "number": 50,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "146"
+    },
+    {
+        "card_name": "Goranjs Mox",
+        "number": 52,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "Goranjs Vessel",
+        "number": 53,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "143"
+    },
+    {
+        "card_name": "Gourmage",
+        "number": 54,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "117"
+    },
+    {
+        "card_name": "Gr1zz Bot",
+        "number": 55,
+        "shape": "transform double faced",
+        "set": "INS",
+        "rotated": false,
+        "position": "129"
+    },
+    {
+        "card_name": "Great White",
+        "number": 57,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Green Mage",
+        "number": 58,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "118"
+    },
+    {
+        "card_name": "Hover Mage",
+        "number": 63,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "128"
+    },
+    {
+        "card_name": "Junior Sage",
+        "number": 66,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "119"
+    },
+    {
+        "card_name": "Lammergeier",
+        "number": 69,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Magpie",
+        "number": 74,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Mealworm",
+        "number": 80,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Mole",
+        "number": 81,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Mud Turtle",
+        "number": 85,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Muscle Mage",
+        "number": 87,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "120"
+    },
+    {
+        "card_name": "Orange Mage",
+        "number": 91,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "125"
+    },
+    {
+        "card_name": "Orlus Mox",
+        "number": 92,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "Orlus Vessel",
+        "number": 93,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "144"
+    },
+    {
+        "card_name": "Pronghorn",
+        "number": 101,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Qu177 Bot",
+        "number": 102,
+        "shape": "transform double faced",
+        "set": "INS",
+        "rotated": false,
+        "position": "133"
+    },
+    {
+        "card_name": "Raccoon",
+        "number": 103,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Rat King",
+        "number": 104,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Raven Egg",
+        "number": 107,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Red Hart",
+        "number": 108,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Sarcophagus",
+        "number": 116,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "Shield Latcher",
+        "number": 118,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "138"
+    },
+    {
+        "card_name": "Shieldbot",
+        "number": 119,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "150"
+    },
+    {
+        "card_name": "Skel-e-Latcher",
+        "number": 121,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "137"
+    },
+    {
+        "card_name": "Skelemagus",
+        "number": 122,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "Skunk",
+        "number": 124,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Sniper Bot",
+        "number": 125,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "151"
+    },
+    {
+        "card_name": "Son1a Bot",
+        "number": 126,
+        "shape": "transform double faced",
+        "set": "INS",
+        "rotated": false,
+        "position": "131"
+    },
+    {
+        "card_name": "Stim Mage",
+        "number": 131,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "Tadpole",
+        "number": 135,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "The Walkers",
+        "number": 140,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "Wild Bull",
+        "number": 141,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "Wolf Cub",
+        "number": 143,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Wolverine",
+        "number": 144,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "49er",
+        "number": 1,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "Adder",
+        "number": 2,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Automaton",
+        "number": 7,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "Banshee",
+        "number": 8,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Bat",
+        "number": 9,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Beehive",
+        "number": 11,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Black Goat",
+        "number": 12,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Bloodhound",
+        "number": 15,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Bolthound",
+        "number": 17,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "Bonehound",
+        "number": 21,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "Buff Conduit",
+        "number": 22,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "Bullfrog",
+        "number": 23,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "Cat",
+        "number": 25,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Coyote",
+        "number": 29,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Dire Wolf",
+        "number": 32,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Doppelganger",
+        "number": 34,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "153"
+    },
+    {
+        "card_name": "Double gunner",
+        "number": 35,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "Elk",
+        "number": 37,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Emerald Mox",
+        "number": 39,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "113"
+    },
+    {
+        "card_name": "Empty Vessel",
+        "number": 40,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "147"
+    },
+    {
+        "card_name": "Energy Bot",
+        "number": 41,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "EXEskeleton",
+        "number": 42,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "135"
+    },
+    {
+        "card_name": "Explode Bot",
+        "number": 43,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "Frank n Stein",
+        "number": 46,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "Gem Fiend",
+        "number": 49,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "124"
+    },
+    {
+        "card_name": "Gems Conduit",
+        "number": 51,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "139"
+    },
+    {
+        "card_name": "Gravedigger",
+        "number": 56,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "Grizzly",
+        "number": 59,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Hawk",
+        "number": 60,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Insectodrone",
+        "number": 65,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "Kingfisher",
+        "number": 67,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "L33pb0t",
+        "number": 68,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "Living Hand",
+        "number": 70,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "154"
+    },
+    {
+        "card_name": "M3atb0t",
+        "number": 71,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "Mage Knight",
+        "number": 72,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "121"
+    },
+    {
+        "card_name": "Mage Pupil",
+        "number": 73,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "Mantis",
+        "number": 75,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Moose Buck",
+        "number": 83,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Mummy Lord",
+        "number": 86,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "Null Conduit",
+        "number": 89,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "Opossum",
+        "number": 90,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Pack Rat",
+        "number": 96,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Pharoahs Pets",
+        "number": 97,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "Porcupine",
+        "number": 99,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Practice Wizard",
+        "number": 100,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "Rattler",
+        "number": 105,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Raven",
+        "number": 106,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Revenant",
+        "number": 109,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "River Otter",
+        "number": 110,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "River Snapper",
+        "number": 111,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Ruby Golem",
+        "number": 112,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "123"
+    },
+    {
+        "card_name": "Ruby Mox",
+        "number": 113,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "114"
+    },
+    {
+        "card_name": "Salmon",
+        "number": 114,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Sapphire Mox",
+        "number": 115,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "Sentry Drone",
+        "number": 117,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "Skeleton",
+        "number": 123,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Sparrow",
+        "number": 127,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Splinter Cell",
+        "number": 128,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "141"
+    },
+    {
+        "card_name": "Squirrel",
+        "number": 129,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Stoat",
+        "number": 132,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Tough Cell",
+        "number": 137,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "140"
+    },
+    {
+        "card_name": "Turkey Vulture",
+        "number": 138,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Wolf",
+        "number": 142,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Worker Ant",
+        "number": 145,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Zombie",
+        "number": 146,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "Bee",
+        "number": 147,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Chime",
+        "number": 148,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Dam",
+        "number": 149,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Mothman",
+        "number": 150,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Strange Pupa",
+        "number": 151,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

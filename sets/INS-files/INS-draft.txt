@@ -1,0 +1,3833 @@
+﻿[CustomCards]
+	[
+		{
+				"name": "Kingfisher",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "67",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/0.png"
+				}
+			},
+			{
+				"name": "Kingfisher_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "67",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/0.png"
+				}
+			},
+			{
+				"name": "Raven Egg",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "107",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/1.png"
+				}
+			},
+			{
+				"name": "Raven Egg_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "107",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/1.png"
+				}
+			},
+			{
+				"name": "Raven",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "106",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/2.png"
+				}
+			},
+			{
+				"name": "Raven_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "106",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/2.png"
+				}
+			},
+			{
+				"name": "Sparrow",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "127",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/3.png"
+				}
+			},
+			{
+				"name": "Sparrow_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "127",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/3.png"
+				}
+			},
+			{
+				"name": "Magpie",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "74",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/4.png"
+				}
+			},
+			{
+				"name": "Magpie_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "74",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/4.png"
+				}
+			},
+			{
+				"name": "Turkey Vulture",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "138",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/5.png"
+				}
+			},
+			{
+				"name": "Turkey Vulture_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "138",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/5.png"
+				}
+			},
+			{
+				"name": "Stunted Wolf",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "134",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/6.png"
+				}
+			},
+			{
+				"name": "Stunted Wolf_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "134",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/6.png"
+				}
+			},
+			{
+				"name": "Wolf Cub",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "143",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/7.png"
+				}
+			},
+			{
+				"name": "Wolf Cub_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "143",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/7.png"
+				}
+			},
+			{
+				"name": "Wolf",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "142",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/8.png"
+				}
+			},
+			{
+				"name": "Wolf_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "142",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/8.png"
+				}
+			},
+			{
+				"name": "Bloodhound",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "15",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/9.png"
+				}
+			},
+			{
+				"name": "Bloodhound_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "15",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/9.png"
+				}
+			},
+			{
+				"name": "Coyote",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "29",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/10.png"
+				}
+			},
+			{
+				"name": "Coyote_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "29",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/10.png"
+				}
+			},
+			{
+				"name": "Alpha",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "4",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/11.png"
+				}
+			},
+			{
+				"name": "Alpha_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "4",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/11.png"
+				}
+			},
+			{
+				"name": "Black Goat",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "12",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/12.png"
+				}
+			},
+			{
+				"name": "Black Goat_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "12",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/12.png"
+				}
+			},
+			{
+				"name": "Elk Fawn",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "38",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/13.png"
+				}
+			},
+			{
+				"name": "Elk Fawn_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "38",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/13.png"
+				}
+			},
+			{
+				"name": "Child 13",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "26",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/INS-files/img/14_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/14_front.png"
+				}
+			},
+			{
+				"name": "Child 13_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "26",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/INS-files/img/14_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/14_front.png"
+				}
+			},
+			{
+				"name": "Elk",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "37",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/16.png"
+				}
+			},
+			{
+				"name": "Elk_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "37",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/16.png"
+				}
+			},
+			{
+				"name": "Pronghorn",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "101",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/17.png"
+				}
+			},
+			{
+				"name": "Pronghorn_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "101",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/17.png"
+				}
+			},
+			{
+				"name": "Moose Buck",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "83",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/18.png"
+				}
+			},
+			{
+				"name": "Moose Buck_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "83",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/18.png"
+				}
+			},
+			{
+				"name": "Mantis God",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "76",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/19.png"
+				}
+			},
+			{
+				"name": "Mantis God_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "76",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/19.png"
+				}
+			},
+			{
+				"name": "Mantis",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "75",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/20.png"
+				}
+			},
+			{
+				"name": "Mantis_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "75",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/20.png"
+				}
+			},
+			{
+				"name": "Strange Larva",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "133",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/21.png"
+				}
+			},
+			{
+				"name": "Strange Larva_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "133",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/21.png"
+				}
+			},
+			{
+				"name": "Strange Pupa",
+				"rarity": "special",
+				"mana_cost": "",
+				"type": "Created Creature — Insect",
+				"collector_number": "151",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/22.png"
+				}
+			},
+			{
+				"name": "Strange Pupa_foil",
+				"rarity": "special",
+				"mana_cost": "",
+				"type": "Created Creature — Insect",
+				"collector_number": "151",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/22.png"
+				}
+			},
+			{
+				"name": "Mothman",
+				"rarity": "special",
+				"mana_cost": "",
+				"type": "Created Creature — Insect",
+				"collector_number": "150",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/23.png"
+				}
+			},
+			{
+				"name": "Mothman_foil",
+				"rarity": "special",
+				"mana_cost": "",
+				"type": "Created Creature — Insect",
+				"collector_number": "150",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/23.png"
+				}
+			},
+			{
+				"name": "Bee",
+				"rarity": "special",
+				"mana_cost": "",
+				"type": "Created Creature — Insect",
+				"collector_number": "147",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/24.png"
+				}
+			},
+			{
+				"name": "Bee_foil",
+				"rarity": "special",
+				"mana_cost": "",
+				"type": "Created Creature — Insect",
+				"collector_number": "147",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/24.png"
+				}
+			},
+			{
+				"name": "Beehive",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "11",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/25.png"
+				}
+			},
+			{
+				"name": "Beehive_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "11",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/25.png"
+				}
+			},
+			{
+				"name": "Worker Ant",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "145",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/26.png"
+				}
+			},
+			{
+				"name": "Worker Ant_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "145",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/26.png"
+				}
+			},
+			{
+				"name": "Ant Queen",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "6",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/27.png"
+				}
+			},
+			{
+				"name": "Ant Queen_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "6",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/27.png"
+				}
+			},
+			{
+				"name": "Skunk",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Rodent",
+				"collector_number": "124",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/28.png"
+				}
+			},
+			{
+				"name": "Skunk_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Rodent",
+				"collector_number": "124",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/28.png"
+				}
+			},
+			{
+				"name": "Cockroach",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "27",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/29.png"
+				}
+			},
+			{
+				"name": "Cockroach_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "27",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/29.png"
+				}
+			},
+			{
+				"name": "Corpse Maggot",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "28",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/30.png"
+				}
+			},
+			{
+				"name": "Corpse Maggot_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "28",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/30.png"
+				}
+			},
+			{
+				"name": "Geck",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "47",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/31.png"
+				}
+			},
+			{
+				"name": "Geck_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "47",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/31.png"
+				}
+			},
+			{
+				"name": "Ouroboros",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "94",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/32.png"
+				}
+			},
+			{
+				"name": "Ouroboros_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "94",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/32.png"
+				}
+			},
+			{
+				"name": "Adder",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "2",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/33.png"
+				}
+			},
+			{
+				"name": "Adder_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "2",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/33.png"
+				}
+			},
+			{
+				"name": "River Snapper",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "111",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/34.png"
+				}
+			},
+			{
+				"name": "River Snapper_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "111",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/34.png"
+				}
+			},
+			{
+				"name": "Rattler",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "105",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/35.png"
+				}
+			},
+			{
+				"name": "Rattler_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "105",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/35.png"
+				}
+			},
+			{
+				"name": "Mole Man",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "82",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/36.png"
+				}
+			},
+			{
+				"name": "Mole Man_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "82",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/36.png"
+				}
+			},
+			{
+				"name": "Mole",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "81",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/37.png"
+				}
+			},
+			{
+				"name": "Mole_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "81",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/37.png"
+				}
+			},
+			{
+				"name": "Amalgam",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "5",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/38.png"
+				}
+			},
+			{
+				"name": "Amalgam_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "5",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/38.png"
+				}
+			},
+			{
+				"name": "Pack Rat",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Rodent",
+				"collector_number": "96",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/39.png"
+				}
+			},
+			{
+				"name": "Pack Rat_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Rodent",
+				"collector_number": "96",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/39.png"
+				}
+			},
+			{
+				"name": "The Daus",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "30",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/40.png"
+				}
+			},
+			{
+				"name": "The Daus_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "30",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/40.png"
+				}
+			},
+			{
+				"name": "Chime",
+				"rarity": "special",
+				"mana_cost": "",
+				"type": "Created Creature",
+				"collector_number": "148",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/41.png"
+				}
+			},
+			{
+				"name": "Chime_foil",
+				"rarity": "special",
+				"mana_cost": "",
+				"type": "Created Creature",
+				"collector_number": "148",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/41.png"
+				}
+			},
+			{
+				"name": "Urayuli",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "139",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/42.png"
+				}
+			},
+			{
+				"name": "Urayuli_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "139",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/42.png"
+				}
+			},
+			{
+				"name": "Cat",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "25",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/43.png"
+				}
+			},
+			{
+				"name": "Cat_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "25",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/43.png"
+				}
+			},
+			{
+				"name": "Porcupine",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "99",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/44.png"
+				}
+			},
+			{
+				"name": "Porcupine_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "99",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/44.png"
+				}
+			},
+			{
+				"name": "River Otter",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "110",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/45.png"
+				}
+			},
+			{
+				"name": "River Otter_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "110",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/45.png"
+				}
+			},
+			{
+				"name": "Stoat",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Rodent",
+				"collector_number": "132",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/46.png"
+				}
+			},
+			{
+				"name": "Stoat_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Rodent",
+				"collector_number": "132",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/46.png"
+				}
+			},
+			{
+				"name": "Beaver",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "10",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/47.png"
+				}
+			},
+			{
+				"name": "Beaver_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "10",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/47.png"
+				}
+			},
+			{
+				"name": "Dam",
+				"rarity": "special",
+				"mana_cost": "",
+				"type": "Created Creature",
+				"collector_number": "149",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/48.png"
+				}
+			},
+			{
+				"name": "Dam_foil",
+				"rarity": "special",
+				"mana_cost": "",
+				"type": "Created Creature",
+				"collector_number": "149",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/48.png"
+				}
+			},
+			{
+				"name": "Rat King",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Rodent",
+				"collector_number": "104",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/49.png"
+				}
+			},
+			{
+				"name": "Rat King_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Rodent",
+				"collector_number": "104",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/49.png"
+				}
+			},
+			{
+				"name": "Great White",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "57",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/50.png"
+				}
+			},
+			{
+				"name": "Great White_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "57",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/50.png"
+				}
+			},
+			{
+				"name": "Grizzly",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "59",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/51.png"
+				}
+			},
+			{
+				"name": "Grizzly_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "59",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/51.png"
+				}
+			},
+			{
+				"name": "Opossum",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "90",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/52.png"
+				}
+			},
+			{
+				"name": "Opossum_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "90",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/52.png"
+				}
+			},
+			{
+				"name": "Bat",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "9",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/53.png"
+				}
+			},
+			{
+				"name": "Bat_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "9",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/53.png"
+				}
+			},
+			{
+				"name": "Lammergeier",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "69",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/54.png"
+				}
+			},
+			{
+				"name": "Lammergeier_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "69",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/54.png"
+				}
+			},
+			{
+				"name": "Dire Wolf",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "32",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/55.png"
+				}
+			},
+			{
+				"name": "Dire Wolf_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "32",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/55.png"
+				}
+			},
+			{
+				"name": "Dire Wolf Pup",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "33",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/56.png"
+				}
+			},
+			{
+				"name": "Dire Wolf Pup_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Canine",
+				"collector_number": "33",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/56.png"
+				}
+			},
+			{
+				"name": "Red Hart",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "108",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/57.png"
+				}
+			},
+			{
+				"name": "Red Hart_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "108",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/57.png"
+				}
+			},
+			{
+				"name": "Wild Bull",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "141",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/58.png"
+				}
+			},
+			{
+				"name": "Wild Bull_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Hooved",
+				"collector_number": "141",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/58.png"
+				}
+			},
+			{
+				"name": "Flying Ant",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "44",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/59.png"
+				}
+			},
+			{
+				"name": "Flying Ant_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "44",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/59.png"
+				}
+			},
+			{
+				"name": "Mealworm",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "80",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/60.png"
+				}
+			},
+			{
+				"name": "Mealworm_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Insect",
+				"collector_number": "80",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/60.png"
+				}
+			},
+			{
+				"name": "Tadpole",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "135",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/61.png"
+				}
+			},
+			{
+				"name": "Tadpole_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "135",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/61.png"
+				}
+			},
+			{
+				"name": "Mud Turtle",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "85",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/62.png"
+				}
+			},
+			{
+				"name": "Mud Turtle_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "85",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/62.png"
+				}
+			},
+			{
+				"name": "Hodag",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "62",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/63.png"
+				}
+			},
+			{
+				"name": "Hodag_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "62",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/63.png"
+				}
+			},
+			{
+				"name": "Raccoon",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "103",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/64.png"
+				}
+			},
+			{
+				"name": "Raccoon_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "103",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/64.png"
+				}
+			},
+			{
+				"name": "Wolverine",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "144",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/65.png"
+				}
+			},
+			{
+				"name": "Wolverine_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "144",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/65.png"
+				}
+			},
+			{
+				"name": "Hrokkall",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "64",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/66.png"
+				}
+			},
+			{
+				"name": "Hrokkall_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "64",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/66.png"
+				}
+			},
+			{
+				"name": "Squirrel",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Side Creature — Rodent",
+				"collector_number": "129",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/67.png"
+				}
+			},
+			{
+				"name": "Squirrel_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Side Creature — Rodent",
+				"collector_number": "129",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/67.png"
+				}
+			},
+			{
+				"name": "Squirrel Ball",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "130",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/68.png"
+				}
+			},
+			{
+				"name": "Squirrel Ball_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "130",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/68.png"
+				}
+			},
+			{
+				"name": "Hawk",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "60",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/69.png"
+				}
+			},
+			{
+				"name": "Hawk_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "60",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/69.png"
+				}
+			},
+			{
+				"name": "Salmon",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "114",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/70.png"
+				}
+			},
+			{
+				"name": "Salmon_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "114",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/70.png"
+				}
+			},
+			{
+				"name": "Skeleton",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Side Creature — Skeletal",
+				"collector_number": "123",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/71.png"
+				}
+			},
+			{
+				"name": "Skeleton_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Side Creature — Skeletal",
+				"collector_number": "123",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/71.png"
+				}
+			},
+			{
+				"name": "Bone Heap",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Skeletal",
+				"collector_number": "19",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/72.png"
+				}
+			},
+			{
+				"name": "Bone Heap_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Skeletal",
+				"collector_number": "19",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/72.png"
+				}
+			},
+			{
+				"name": "Tomb Robber",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Zombie",
+				"collector_number": "136",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/73.png"
+				}
+			},
+			{
+				"name": "Tomb Robber_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Zombie",
+				"collector_number": "136",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/73.png"
+				}
+			},
+			{
+				"name": "Necromancer",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Zombie",
+				"collector_number": "88",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/74.png"
+				}
+			},
+			{
+				"name": "Necromancer_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Zombie",
+				"collector_number": "88",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/74.png"
+				}
+			},
+			{
+				"name": "Drowned Soul",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Spectral",
+				"collector_number": "36",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/75.png"
+				}
+			},
+			{
+				"name": "Drowned Soul_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Spectral",
+				"collector_number": "36",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/75.png"
+				}
+			},
+			{
+				"name": "Dead Hand",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Puppeted",
+				"collector_number": "31",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/76.png"
+				}
+			},
+			{
+				"name": "Dead Hand_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Puppeted",
+				"collector_number": "31",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/76.png"
+				}
+			},
+			{
+				"name": "Headless Horseman",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Spectral",
+				"collector_number": "61",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/77.png"
+				}
+			},
+			{
+				"name": "Headless Horseman_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Spectral",
+				"collector_number": "61",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/77.png"
+				}
+			},
+			{
+				"name": "Gravedigger",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Zombie",
+				"collector_number": "56",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/78.png"
+				}
+			},
+			{
+				"name": "Gravedigger_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Zombie",
+				"collector_number": "56",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/78.png"
+				}
+			},
+			{
+				"name": "Banshee",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Spectral",
+				"collector_number": "8",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/79.png"
+				}
+			},
+			{
+				"name": "Banshee_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Spectral",
+				"collector_number": "8",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/79.png"
+				}
+			},
+			{
+				"name": "Skelemagus",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Skeletal",
+				"collector_number": "122",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/80.png"
+				}
+			},
+			{
+				"name": "Skelemagus_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Skeletal",
+				"collector_number": "122",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/80.png"
+				}
+			},
+			{
+				"name": "Revenant",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Skeletal",
+				"collector_number": "109",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/81.png"
+				}
+			},
+			{
+				"name": "Revenant_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Skeletal",
+				"collector_number": "109",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/81.png"
+				}
+			},
+			{
+				"name": "Zombie",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Zombie",
+				"collector_number": "146",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/82.png"
+				}
+			},
+			{
+				"name": "Zombie_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Zombie",
+				"collector_number": "146",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/82.png"
+				}
+			},
+			{
+				"name": "Bone Lords Horn",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Puppeted",
+				"collector_number": "20",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/83.png"
+				}
+			},
+			{
+				"name": "Bone Lords Horn_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Puppeted",
+				"collector_number": "20",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/83.png"
+				}
+			},
+			{
+				"name": "Sarcophagus",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Puppeted",
+				"collector_number": "116",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/84.png"
+				}
+			},
+			{
+				"name": "Sarcophagus_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Puppeted",
+				"collector_number": "116",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/84.png"
+				}
+			},
+			{
+				"name": "Mummy Lord",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Zombie",
+				"collector_number": "86",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/85.png"
+				}
+			},
+			{
+				"name": "Mummy Lord_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Zombie",
+				"collector_number": "86",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/85.png"
+				}
+			},
+			{
+				"name": "Frank n Stein",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Zombie",
+				"collector_number": "46",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/86.png"
+				}
+			},
+			{
+				"name": "Frank n Stein_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Zombie",
+				"collector_number": "46",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/86.png"
+				}
+			},
+			{
+				"name": "Bonehound",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Canine Skeletal",
+				"collector_number": "21",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/87.png"
+				}
+			},
+			{
+				"name": "Bonehound_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Canine Skeletal",
+				"collector_number": "21",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/87.png"
+				}
+			},
+			{
+				"name": "Pharoahs Pets",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Hooved Zombie",
+				"collector_number": "97",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/88.png"
+				}
+			},
+			{
+				"name": "Pharoahs Pets_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Hooved Zombie",
+				"collector_number": "97",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/88.png"
+				}
+			},
+			{
+				"name": "Plasma Jimmy",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Station",
+				"collector_number": "98",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/89.png"
+				}
+			},
+			{
+				"name": "Plasma Jimmy_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Station",
+				"collector_number": "98",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/89.png"
+				}
+			},
+			{
+				"name": "Mox Module",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Mox",
+				"collector_number": "84",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/90.png"
+				}
+			},
+			{
+				"name": "Mox Module_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Mox",
+				"collector_number": "84",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/90.png"
+				}
+			},
+			{
+				"name": "Shutterbug",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Station",
+				"collector_number": "120",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/91.png"
+				}
+			},
+			{
+				"name": "Shutterbug_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Station",
+				"collector_number": "120",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/91.png"
+				}
+			},
+			{
+				"name": "Bullfrog",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "23",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/92.png"
+				}
+			},
+			{
+				"name": "Bullfrog_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Reptile",
+				"collector_number": "23",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/92.png"
+				}
+			},
+			{
+				"name": "L33pb0t",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "68",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/93.png"
+				}
+			},
+			{
+				"name": "L33pb0t_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "68",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/93.png"
+				}
+			},
+			{
+				"name": "Null Conduit",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Side Creature — Conduit",
+				"collector_number": "89",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/94.png"
+				}
+			},
+			{
+				"name": "Null Conduit_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Side Creature — Conduit",
+				"collector_number": "89",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/94.png"
+				}
+			},
+			{
+				"name": "Sentry Drone",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Station",
+				"collector_number": "117",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/95.png"
+				}
+			},
+			{
+				"name": "Sentry Drone_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Station",
+				"collector_number": "117",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/95.png"
+				}
+			},
+			{
+				"name": "49er",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Station",
+				"collector_number": "1",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/96.png"
+				}
+			},
+			{
+				"name": "49er_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Station",
+				"collector_number": "1",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/96.png"
+				}
+			},
+			{
+				"name": "Buff Conduit",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Conduit",
+				"collector_number": "22",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/97.png"
+				}
+			},
+			{
+				"name": "Buff Conduit_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Conduit",
+				"collector_number": "22",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/97.png"
+				}
+			},
+			{
+				"name": "Energy Bot",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "41",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/98.png"
+				}
+			},
+			{
+				"name": "Energy Bot_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "41",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/98.png"
+				}
+			},
+			{
+				"name": "Explode Bot",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "43",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/99.png"
+				}
+			},
+			{
+				"name": "Explode Bot_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "43",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/99.png"
+				}
+			},
+			{
+				"name": "The Walkers",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "140",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/100.png"
+				}
+			},
+			{
+				"name": "The Walkers_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "140",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/100.png"
+				}
+			},
+			{
+				"name": "M3atb0t",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "71",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/101.png"
+				}
+			},
+			{
+				"name": "M3atb0t_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "71",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/101.png"
+				}
+			},
+			{
+				"name": "Automaton",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "7",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/102.png"
+				}
+			},
+			{
+				"name": "Automaton_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "7",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/102.png"
+				}
+			},
+			{
+				"name": "Insectodrone",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "65",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/103.png"
+				}
+			},
+			{
+				"name": "Insectodrone_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "65",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/103.png"
+				}
+			},
+			{
+				"name": "Bolthound",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Canine Bot",
+				"collector_number": "17",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/104.png"
+				}
+			},
+			{
+				"name": "Bolthound_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Canine Bot",
+				"collector_number": "17",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/104.png"
+				}
+			},
+			{
+				"name": "Double gunner",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "35",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/105.png"
+				}
+			},
+			{
+				"name": "Double gunner_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "35",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/105.png"
+				}
+			},
+			{
+				"name": "Bleenes Mox",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Mox",
+				"collector_number": "13",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/106.png"
+				}
+			},
+			{
+				"name": "Bleenes Mox_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Mox",
+				"collector_number": "13",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/106.png"
+				}
+			},
+			{
+				"name": "Goranjs Mox",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Mox",
+				"collector_number": "52",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/107.png"
+				}
+			},
+			{
+				"name": "Goranjs Mox_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Mox",
+				"collector_number": "52",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/107.png"
+				}
+			},
+			{
+				"name": "Orlus Mox",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Mox",
+				"collector_number": "92",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/108.png"
+				}
+			},
+			{
+				"name": "Orlus Mox_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Mox",
+				"collector_number": "92",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/108.png"
+				}
+			},
+			{
+				"name": "Master Orlu",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Sage",
+				"collector_number": "79",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/109.png"
+				}
+			},
+			{
+				"name": "Master Orlu_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Sage",
+				"collector_number": "79",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/109.png"
+				}
+			},
+			{
+				"name": "Master Goranj",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Warrior",
+				"collector_number": "78",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/110.png"
+				}
+			},
+			{
+				"name": "Master Goranj_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Warrior",
+				"collector_number": "78",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/110.png"
+				}
+			},
+			{
+				"name": "Master Bleene",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Academic",
+				"collector_number": "77",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/111.png"
+				}
+			},
+			{
+				"name": "Master Bleene_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Academic",
+				"collector_number": "77",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/111.png"
+				}
+			},
+			{
+				"name": "Sapphire Mox",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Side Creature — Mox",
+				"collector_number": "115",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/112.png"
+				}
+			},
+			{
+				"name": "Sapphire Mox_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Side Creature — Mox",
+				"collector_number": "115",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/112.png"
+				}
+			},
+			{
+				"name": "Emerald Mox",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Side Creature — Mox",
+				"collector_number": "39",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/113.png"
+				}
+			},
+			{
+				"name": "Emerald Mox_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Side Creature — Mox",
+				"collector_number": "39",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/113.png"
+				}
+			},
+			{
+				"name": "Ruby Mox",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Side Creature — Mox",
+				"collector_number": "113",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/114.png"
+				}
+			},
+			{
+				"name": "Ruby Mox_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Side Creature — Mox",
+				"collector_number": "113",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/114.png"
+				}
+			},
+			{
+				"name": "Mage Pupil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Academic",
+				"collector_number": "73",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/115.png"
+				}
+			},
+			{
+				"name": "Mage Pupil_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Academic",
+				"collector_number": "73",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/115.png"
+				}
+			},
+			{
+				"name": "Stim Mage",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "131",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/116.png"
+				}
+			},
+			{
+				"name": "Stim Mage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "131",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/116.png"
+				}
+			},
+			{
+				"name": "Gourmage",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "54",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/117.png"
+				}
+			},
+			{
+				"name": "Gourmage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "54",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/117.png"
+				}
+			},
+			{
+				"name": "Green Mage",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "58",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/118.png"
+				}
+			},
+			{
+				"name": "Green Mage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "58",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/118.png"
+				}
+			},
+			{
+				"name": "Junior Sage",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Sage",
+				"collector_number": "66",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/119.png"
+				}
+			},
+			{
+				"name": "Junior Sage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Sage",
+				"collector_number": "66",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/119.png"
+				}
+			},
+			{
+				"name": "Muscle Mage",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Warrior",
+				"collector_number": "87",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/120.png"
+				}
+			},
+			{
+				"name": "Muscle Mage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Warrior",
+				"collector_number": "87",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/120.png"
+				}
+			},
+			{
+				"name": "Mage Knight",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Warrior",
+				"collector_number": "72",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/121.png"
+				}
+			},
+			{
+				"name": "Mage Knight_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Warrior",
+				"collector_number": "72",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/121.png"
+				}
+			},
+			{
+				"name": "Practice Wizard",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Academic",
+				"collector_number": "100",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/122.png"
+				}
+			},
+			{
+				"name": "Practice Wizard_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Academic",
+				"collector_number": "100",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/122.png"
+				}
+			},
+			{
+				"name": "Ruby Golem",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Warrior",
+				"collector_number": "112",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/123.png"
+				}
+			},
+			{
+				"name": "Ruby Golem_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Warrior",
+				"collector_number": "112",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/123.png"
+				}
+			},
+			{
+				"name": "Gem Fiend",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Zombie",
+				"collector_number": "49",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/124.png"
+				}
+			},
+			{
+				"name": "Gem Fiend_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Zombie",
+				"collector_number": "49",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/124.png"
+				}
+			},
+			{
+				"name": "Orange Mage",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "91",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/125.png"
+				}
+			},
+			{
+				"name": "Orange Mage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "91",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/125.png"
+				}
+			},
+			{
+				"name": "Blue Mage",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "16",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/126.png"
+				}
+			},
+			{
+				"name": "Blue Mage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "16",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/126.png"
+				}
+			},
+			{
+				"name": "Force Mage",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "45",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/127.png"
+				}
+			},
+			{
+				"name": "Force Mage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "45",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/127.png"
+				}
+			},
+			{
+				"name": "Hover Mage",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "63",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/128.png"
+				}
+			},
+			{
+				"name": "Hover Mage_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "63",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/128.png"
+				}
+			},
+			{
+				"name": "Gr1zz Bot",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "55",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/INS-files/img/129_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/129_front.png"
+				}
+			},
+			{
+				"name": "Gr1zz Bot_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "55",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/INS-files/img/129_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/129_front.png"
+				}
+			},
+			{
+				"name": "Son1a Bot",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "126",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/INS-files/img/131_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/131_front.png"
+				}
+			},
+			{
+				"name": "Son1a Bot_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "126",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/INS-files/img/131_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/131_front.png"
+				}
+			},
+			{
+				"name": "Qu177 Bot",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "102",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/INS-files/img/133_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/133_front.png"
+				}
+			},
+			{
+				"name": "Qu177 Bot_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "102",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://ethershade.github.io/sets/INS-files/img/133_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/133_front.png"
+				}
+			},
+			{
+				"name": "EXEskeleton",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Skeletal",
+				"collector_number": "42",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/135.png"
+				}
+			},
+			{
+				"name": "EXEskeleton_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Skeletal",
+				"collector_number": "42",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/135.png"
+				}
+			},
+			{
+				"name": "Bomb Latcher",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Latcher",
+				"collector_number": "18",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/136.png"
+				}
+			},
+			{
+				"name": "Bomb Latcher_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Latcher",
+				"collector_number": "18",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/136.png"
+				}
+			},
+			{
+				"name": "Skel-e-Latcher",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Latcher",
+				"collector_number": "121",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/137.png"
+				}
+			},
+			{
+				"name": "Skel-e-Latcher_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Latcher",
+				"collector_number": "121",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/137.png"
+				}
+			},
+			{
+				"name": "Shield Latcher",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Latcher",
+				"collector_number": "118",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/138.png"
+				}
+			},
+			{
+				"name": "Shield Latcher_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Latcher",
+				"collector_number": "118",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/138.png"
+				}
+			},
+			{
+				"name": "Gems Conduit",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Conduit",
+				"collector_number": "51",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/139.png"
+				}
+			},
+			{
+				"name": "Gems Conduit_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Conduit",
+				"collector_number": "51",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/139.png"
+				}
+			},
+			{
+				"name": "Tough Cell",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Cell",
+				"collector_number": "137",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/140.png"
+				}
+			},
+			{
+				"name": "Tough Cell_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Cell",
+				"collector_number": "137",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/140.png"
+				}
+			},
+			{
+				"name": "Splinter Cell",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Cell",
+				"collector_number": "128",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/141.png"
+				}
+			},
+			{
+				"name": "Splinter Cell_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Cell",
+				"collector_number": "128",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/141.png"
+				}
+			},
+			{
+				"name": "Bleenes Vessel",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Mox Vessel",
+				"collector_number": "14",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/142.png"
+				}
+			},
+			{
+				"name": "Bleenes Vessel_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Mox Vessel",
+				"collector_number": "14",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/142.png"
+				}
+			},
+			{
+				"name": "Goranjs Vessel",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Mox Vessel",
+				"collector_number": "53",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/143.png"
+				}
+			},
+			{
+				"name": "Goranjs Vessel_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Mox Vessel",
+				"collector_number": "53",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/143.png"
+				}
+			},
+			{
+				"name": "Orlus Vessel",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Mox Vessel",
+				"collector_number": "93",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/144.png"
+				}
+			},
+			{
+				"name": "Orlus Vessel_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Mox Vessel",
+				"collector_number": "93",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/144.png"
+				}
+			},
+			{
+				"name": "Gem Detonator",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "48",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/145.png"
+				}
+			},
+			{
+				"name": "Gem Detonator_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "48",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/145.png"
+				}
+			},
+			{
+				"name": "Gem Guardian",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "50",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/146.png"
+				}
+			},
+			{
+				"name": "Gem Guardian_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Wizard",
+				"collector_number": "50",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/146.png"
+				}
+			},
+			{
+				"name": "Empty Vessel",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Side Creature — Vessel",
+				"collector_number": "40",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/147.png"
+				}
+			},
+			{
+				"name": "Empty Vessel_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Side Creature — Vessel",
+				"collector_number": "40",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/147.png"
+				}
+			},
+			{
+				"name": "Alarm Bot",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "3",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/148.png"
+				}
+			},
+			{
+				"name": "Alarm Bot_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "3",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/148.png"
+				}
+			},
+			{
+				"name": "Busted 3D Printer",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Station",
+				"collector_number": "24",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/149.png"
+				}
+			},
+			{
+				"name": "Busted 3D Printer_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Station",
+				"collector_number": "24",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/149.png"
+				}
+			},
+			{
+				"name": "Shieldbot",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "119",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/150.png"
+				}
+			},
+			{
+				"name": "Shieldbot_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "119",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/150.png"
+				}
+			},
+			{
+				"name": "Sniper Bot",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "125",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/151.png"
+				}
+			},
+			{
+				"name": "Sniper Bot_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Bot",
+				"collector_number": "125",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/151.png"
+				}
+			},
+			{
+				"name": "Ourobot",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Reptile Bot",
+				"collector_number": "95",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/152.png"
+				}
+			},
+			{
+				"name": "Ourobot_foil",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Creature — Reptile Bot",
+				"collector_number": "95",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/152.png"
+				}
+			},
+			{
+				"name": "Doppelganger",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "34",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/153.png"
+				}
+			},
+			{
+				"name": "Doppelganger_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "34",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/153.png"
+				}
+			},
+			{
+				"name": "Living Hand",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "70",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/154.png"
+				}
+			},
+			{
+				"name": "Living Hand_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "70",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/154.png"
+				}
+			}
+		]
+
+[rare(2)]
+	5 Stunted Wolf
+	5 Child 13
+	5 Mantis God
+	5 Strange Larva
+	5 Geck
+	5 Ouroboros
+	5 Mole Man
+	5 Amalgam
+	5 The Daus
+	5 Urayuli
+	5 Hodag
+	5 Hrokkall
+	5 Squirrel Ball
+	5 Bone Heap
+	5 Tomb Robber
+	5 Necromancer
+	5 Dead Hand
+	5 Headless Horseman
+	5 Bone Lords Horn
+	5 Plasma Jimmy
+	5 Mox Module
+	5 Shutterbug
+	5 Master Orlu
+	5 Master Goranj
+	5 Master Bleene
+	5 Ourobot
+[uncommon(4)]
+	5 Raven Egg
+	5 Magpie
+	5 Wolf Cub
+	5 Alpha
+	5 Elk Fawn
+	5 Pronghorn
+	5 Ant Queen
+	5 Skunk
+	5 Cockroach
+	5 Corpse Maggot
+	5 Mole
+	5 Beaver
+	5 Rat King
+	5 Great White
+	5 Lammergeier
+	5 Dire Wolf Pup
+	5 Red Hart
+	5 Wild Bull
+	5 Flying Ant
+	5 Mealworm
+	5 Tadpole
+	5 Mud Turtle
+	5 Raccoon
+	5 Wolverine
+	5 Drowned Soul
+	5 Skelemagus
+	5 Sarcophagus
+	5 The Walkers
+	5 Bleenes Mox
+	5 Goranjs Mox
+	5 Orlus Mox
+	5 Stim Mage
+	5 Gourmage
+	5 Green Mage
+	5 Junior Sage
+	5 Muscle Mage
+	5 Orange Mage
+	5 Blue Mage
+	5 Force Mage
+	5 Hover Mage
+	5 Gr1zz Bot
+	5 Son1a Bot
+	5 Qu177 Bot
+	5 Bomb Latcher
+	5 Skel-e-Latcher
+	5 Shield Latcher
+	5 Bleenes Vessel
+	5 Goranjs Vessel
+	5 Orlus Vessel
+	5 Gem Detonator
+	5 Gem Guardian
+	5 Alarm Bot
+	5 Busted 3D Printer
+	5 Shieldbot
+	5 Sniper Bot
+[common(8)]
+	5 Kingfisher
+	5 Raven
+	5 Sparrow
+	5 Turkey Vulture
+	5 Wolf
+	5 Bloodhound
+	5 Coyote
+	5 Black Goat
+	5 Elk
+	5 Moose Buck
+	5 Mantis
+	5 Beehive
+	5 Worker Ant
+	5 Adder
+	5 River Snapper
+	5 Rattler
+	5 Pack Rat
+	5 Cat
+	5 Porcupine
+	5 River Otter
+	5 Stoat
+	5 Grizzly
+	5 Opossum
+	5 Bat
+	5 Dire Wolf
+	5 Squirrel
+	5 Hawk
+	5 Salmon
+	5 Skeleton
+	5 Gravedigger
+	5 Banshee
+	5 Revenant
+	5 Zombie
+	5 Mummy Lord
+	5 Frank n Stein
+	5 Bonehound
+	5 Pharoahs Pets
+	5 Bullfrog
+	5 L33pb0t
+	5 Null Conduit
+	5 Sentry Drone
+	5 49er
+	5 Buff Conduit
+	5 Energy Bot
+	5 Explode Bot
+	5 M3atb0t
+	5 Automaton
+	5 Insectodrone
+	5 Bolthound
+	5 Double gunner
+	5 Sapphire Mox
+	5 Emerald Mox
+	5 Ruby Mox
+	5 Mage Pupil
+	5 Mage Knight
+	5 Practice Wizard
+	5 Ruby Golem
+	5 Gem Fiend
+	5 EXEskeleton
+	5 Gems Conduit
+	5 Tough Cell
+	5 Splinter Cell
+	5 Empty Vessel
+	5 Doppelganger
+	5 Living Hand

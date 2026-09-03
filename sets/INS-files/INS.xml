@@ -1,0 +1,2403 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>INS</name>
+			<longname>Inscryption Engraved Draft</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-09-03</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Kingfisher</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.
+Waterborne: This card submerges itself during its opponents turn. While submerged, opposing creatures attack its owner directly.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/0.png" num="67">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avian</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raven Egg</name>
+			<text>Fledgling: At the start of your turn, this grows into a wished Raven.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/1.png" num="107">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avian</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raven</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/2.png" num="106">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avian</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sparrow</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/3.png" num="127">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avian</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Magpie</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.
+Hoarder: When you play this card, you may search your main deck for any card and put it into your hand.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/4.png" num="74">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avian</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Turkey Vulture</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/5.png" num="138">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avian</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stunted Wolf</name>
+			<text></text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/6.png" num="134">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Canine</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wolf Cub</name>
+			<text>Fledgling: At the start of your turn, this grows into a wished Wolf.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/7.png" num="143">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Canine</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wolf</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/8.png" num="142">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Canine</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodhound</name>
+			<text>Guardian: When an opposing creature is placed opposite to an empty space, this card will move to that empty space.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/9.png" num="15">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Canine</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coyote</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/10.png" num="29">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Canine</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alpha</name>
+			<text>Leader: Creatures adjacent to this card gain 1 power.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/11.png" num="4">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Canine</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Black Goat</name>
+			<text>Worthy Sacrifice: This card counts as 3{B} rather than {B} when sacrificed.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/12.png" num="12">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hooved</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elk Fawn</name>
+			<text>Fledgling: At the start of your turn, this grows into a wished Elk.
+Sprinter: At the end your turn, this card will move one space to the left or right.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/13.png" num="38">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hooved</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Child 13</name>
+			<text>When sacrificed, transforms instead of perishing.
+---
+(Back): Child 13 Awakened</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/14_front.png" num="26a">INS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Hooved</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Child 13 Awakened</related>
+		</card>
+		<card>
+			<name>Child 13 Awakened</name>
+			<text>When sacrificed, transforms instead of perishing.
+Airborne: This card will strike an opponent directly, even if there is a creature opposing it.
+---
+(Front): Child 13</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/14_back.png" num="26b">INS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Hooved</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Child 13</related>
+		</card>
+		<card>
+			<name>Elk</name>
+			<text>Sprinter: At the end your turn, this card will move one space to the left or right.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/16.png" num="37">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hooved</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pronghorn</name>
+			<text>Sprinter: At the end your turn, this card will move one space to the left or right.
+Bifurcated Strike: This card will strike each opposing space to the left and right of the space across from it.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/17.png" num="101">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hooved</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moose Buck</name>
+			<text>Hefty: At the end your turn, this card will move one space to the left or right. Cards in the way will be pushed in the same direction.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/18.png" num="83">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hooved</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mantis God</name>
+			<text>Trifurcated Strike: This card will strike each opposing space to the left and right of the space across from itas well as the space in front of it.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/19.png" num="76">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mantis</name>
+			<text>Bifurcated Strike: This card will strike each opposing space to the left and right of the space across from it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/20.png" num="75">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Strange Larva</name>
+			<text>Fledgling: At the start of your turn, this grows into a created Strange Pupa.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/21.png" num="133">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Strange Pupa</name>
+			<text>Fledgling: At the start of your turn, this grows into a created Mothman.</text>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/22.png" num="151">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Created Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mothman</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/23.png" num="150">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Created Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>7/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bee</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/24.png" num="147">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Created Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beehive</name>
+			<text>Bees Within: When this card is struck, a Bee is created in your hand.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/25.png" num="11">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Worker Ant</name>
+			<text>Ant Power: This cards power is equal to the number of cards you control with Ant Power.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/26.png" num="145">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>*/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ant Queen</name>
+			<text>Ant Power: This cards power is equal to the number of cards you control with Ant Power.
+Ant Spawner: When you play this card, a Worker Ant is wished into your hand.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/27.png" num="6">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>*/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skunk</name>
+			<text>Stinky: The creature opposing this card loses 1 Power.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/28.png" num="124">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rodent</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cockroach</name>
+			<text>Unkillable: When this card perishes, return it to your hand.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/29.png" num="27">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corpse Maggot</name>
+			<text>Corpse Eater: Immediately after a creature you control perishes by combat, you may play this for free in its place.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/30.png" num="28">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Geck</name>
+			<text></text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/31.png" num="47">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Reptile</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ouroboros</name>
+			<text>When this card perishes, return it to your hand and increase your Ouroboros counter by 1.
+This card gets 1 more power and health for each point of Ouroboros counter you have.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/32.png" num="94">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Reptile</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adder</name>
+			<text>Touch of Death: When this card damages another creature, that creature perishes.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/33.png" num="2">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Reptile</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>River Snapper</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/34.png" num="111">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Reptile</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rattler</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/35.png" num="105">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Reptile</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mole Man</name>
+			<text>Mighty Leap: This card will block an opposing creature bearing the Airborne sigil.
+Burrower: When an empty space would be struck, this card will move to that space to receive the strike instead.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/36.png" num="82">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mole</name>
+			<text>Burrower: When an empty space would be struck, this card will move to that space to receive the strike instead.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/37.png" num="81">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Amalgam</name>
+			<text>This card is all tribes.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/38.png" num="5">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pack Rat</name>
+			<text>Trinket Bearer: When you play this card, restore one of your used items.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/39.png" num="96">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rodent</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Daus</name>
+			<text>Bellist: When you play this card, create a Chime in each empty adjacent space.
+Whenever a Chime you control is struck, this card attacks the striking card.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/40.png" num="30">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hooved</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chime</name>
+			<text>Bloodless</text>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/41.png" num="148">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Created Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Urayuli</name>
+			<text></text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/42.png" num="139">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cat</name>
+			<text>Many Lives: When this card is sacrificed, it does not perish.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/43.png" num="25">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Porcupine</name>
+			<text>Sharp Quills: When this card is struck, the striking card is dealt 1 damage.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/44.png" num="99">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>River Otter</name>
+			<text>Waterborne: This card submerges itself during its opponents turn. While submerged, opposing creatures attack its owner directly.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/45.png" num="110">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stoat</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/46.png" num="132">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rodent</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beaver</name>
+			<text>Dam Builder: When you play this card, create a Dam in each empty adjacent space.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/47.png" num="10">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dam</name>
+			<text>Bloodless</text>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/48.png" num="149">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Created Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rat King</name>
+			<text>Bone King: When this card perishes, 3 extra O are awarded.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/49.png" num="104">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rodent</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Great White</name>
+			<text>Waterborne: This card submerges itself during its opponents turn. While submerged, opposing creatures attack its owner directly.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/50.png" num="57">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grizzly</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/51.png" num="59">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Opossum</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/52.png" num="90">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bat</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/53.png" num="9">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lammergeier</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.
+This cards power is equal to half your O, rounded down.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/54.png" num="69">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avian</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>*/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dire Wolf</name>
+			<text>Double strike: This card strikes the opposing space an extra time when attacking.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/55.png" num="32">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Canine</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dire Wolf Pup</name>
+			<text>Fledgling: At the start of your turn, this grows into a wished Dire Wolf.
+Bone Digger: At the end of your turn, generate O.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/56.png" num="33">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Canine</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Red Hart</name>
+			<text>This cards power is equal to the amount of cards youve sacrificed this turn.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/57.png" num="108">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hooved</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>*/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wild Bull</name>
+			<text>Rampager: At the end your turn, this card will move one space to the left or right. Cards in the way will be thrown back behind this card.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/58.png" num="141">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hooved</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flying Ant</name>
+			<text>Ant Power: This cards power is equal to the number of cards you control with Ant Power.
+Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/59.png" num="44">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>*/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mealworm</name>
+			<text>Morsel: When this card is sacrificed, add its stats to the card it was sacrificed for.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/60.png" num="80">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tadpole</name>
+			<text>Waterborne: This card submerges itself during its opponents turn. While submerged, opposing creatures attack its owner directly.
+Fledgling: At the start of your turn, this grows into a wished Frog.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/61.png" num="135">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Reptile</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mud Turtle</name>
+			<text>Armored: The first time this card would take damage, turn it sideways instead.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/62.png" num="85">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Reptile</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hodag</name>
+			<text>Blood Lust: When a creature is attacked by this card and perishes, increase this cards power by 1.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/63.png" num="62">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raccoon</name>
+			<text>Scavenger: Opposing creatures grant you O on death in addition to their controller.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/64.png" num="103">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wolverine</name>
+			<text>Blood Lust: When a creature is attacked by this card and perishes, increase this cards power by 1.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/65.png" num="144">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hrokkall</name>
+			<text>Waterborne: This card submerges itself during its opponents turn. While submerged, opposing creatures attack its owner directly.
+Battery Bearer: When you play this card, you gain 1 full energy cell.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/66.png" num="64">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Squirrel</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/67.png" num="129">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Side Creature — Rodent</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Squirrel Ball</name>
+			<text>At the end your turn, this card will move one space to the left or right. Wish a squirrel in its old space.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/68.png" num="130">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hawk</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/69.png" num="60">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avian</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Salmon</name>
+			<text>Waterborne: This card submerges itself during its opponents turn. While submerged, opposing creatures attack its owner directly.
+Sprinter: At the end your turn, this card will move one space to the left or right.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/70.png" num="114">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skeleton</name>
+			<text>Brittle: After attacking, this card perishes.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/71.png" num="123">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Side Creature — Skeletal</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bone Heap</name>
+			<text>Activate: Spend 2O: Increase this cards power and health by 1 each.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/72.png" num="19">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeletal</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tomb Robber</name>
+			<text>Activate: Spend 2O: Wish a Skeleton into your hand.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/73.png" num="136">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Necromancer</name>
+			<text>When a creature you control perishes, play it, then kill it again.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/74.png" num="88">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drowned Soul</name>
+			<text>Waterborne: This card submerges itself during its opponents turn. While submerged, opposing creatures attack its owner directly.
+Touch of Death: When this card damages another creature, that creature perishes.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/75.png" num="36">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spectral</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dead Hand</name>
+			<text>When you play this card, discard your hand, then draw three cards from your main deck and one card from your side deck.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/76.png" num="31">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Puppeted</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Headless Horseman</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.
+Sprinter: At the end your turn, this card will move one space to the left or right.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/77.png" num="61">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spectral</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gravedigger</name>
+			<text>Bone Digger: At the end of your turn, generate O.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/78.png" num="56">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Banshee</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/79.png" num="8">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spectral</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skelemagus</name>
+			<text>Brittle: After attacking, this card perishes.
+Gem Dependent: This card perishes if you control no gems.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/80.png" num="122">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeletal</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Revenant</name>
+			<text>Brittle: After attacking, this card perishes.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/81.png" num="109">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeletal</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zombie</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/82.png" num="146">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bone Lords Horn</name>
+			<text>Activate: Spend {E}: Generate O.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/83.png" num="20">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Puppeted</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sarcophagus</name>
+			<text>Fledgling: At the start of your turn, this grows into a wished Mummy Lord.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/84.png" num="116">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Puppeted</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mummy Lord</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/85.png" num="86">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frank n Stein</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/86.png" num="46">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bonehound</name>
+			<text>Guardian: When an opposing creature is placed opposite to an empty space, this card will move to that empty space.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/87.png" num="21">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Canine Skeletal</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pharoahs Pets</name>
+			<text>Many Lives: When this card is sacrificed, it does not perish.
+Worthy Sacrifice: This card counts as 3{B} rather than {B} when sacrificed.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/88.png" num="97">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hooved Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plasma Jimmy</name>
+			<text>Activate: Spend {E}: This deals 1 damage to the card in front of it.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/89.png" num="98">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Station</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mox Module</name>
+			<text>Green Mox
+Blue Mox
+Orange Mox</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/90.png" num="84">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mox</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shutterbug</name>
+			<text>Touch of Death: When this card damages another creature, that creature perishes.
+Sentry: When a creature moves into the space opposing this card, this card deals 1 damage to that creature.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/91.png" num="120">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Station</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bullfrog</name>
+			<text>Mighty Leap: This card will block an opposing creature bearing the Airborne sigil.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/92.png" num="23">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Reptile</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>L33pb0t</name>
+			<text>Mighty Leap: This card will block an opposing creature bearing the Airborne sigil.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/93.png" num="68">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Null Conduit</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/94.png" num="89">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Side Creature — Conduit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sentry Drone</name>
+			<text>Sentry: When a creature moves into the space opposing this card, this card deals 1 damage to that creature.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/95.png" num="117">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Station</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>49er</name>
+			<text>Sprinter: At the end your turn, this card will move one space to the left or right.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/96.png" num="1">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Station</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Buff Conduit</name>
+			<text>Within a circuit that uses this card, other creatures get +1 power.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/97.png" num="22">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Conduit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Energy Bot</name>
+			<text>Battery Bearer: When you play this card, you gain 1 full energy cell.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/98.png" num="41">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Explode Bot</name>
+			<text>Detonator: When this card perishes, all adjacent cards are dealt 10 damage.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/99.png" num="43">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Walkers</name>
+			<text>Bone King: When this card perishes, 3 extra O are awarded.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/100.png" num="140">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>M3atb0t</name>
+			<text>Battery Bearer: When you play this card, you gain 1 full energy cell.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/101.png" num="71">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Automaton</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/102.png" num="7">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Insectodrone</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/103.png" num="65">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bolthound</name>
+			<text>Guardian: When an opposing creature is placed opposite to an empty space, this card will move to that empty space.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/104.png" num="17">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Canine Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Double gunner</name>
+			<text>Bifurcated Strike: This card will strike each opposing space to the left and right of the space across from it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/105.png" num="35">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bleenes Mox</name>
+			<text>Bloodless
+Green Mox
+Blue Mox</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/106.png" num="13">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mox</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goranjs Mox</name>
+			<text>Bloodless
+Orange Mox
+Green Mox</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/107.png" num="52">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mox</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orlus Mox</name>
+			<text>Bloodless
+Blue Mox
+Orange Mox</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/108.png" num="92">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mox</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Master Orlu</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.
+Looter: When this card deals damage directly, draw that many cards from your main deck.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/109.png" num="79">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sage</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Master Goranj</name>
+			<text>Gem Dependent: This card perishes if you control no gems.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/110.png" num="78">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Master Bleene</name>
+			<text>Activate: Sacrifice this: If you have a Blue or Green gem, draw three cards from your main deck.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/111.png" num="77">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Academic</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sapphire Mox</name>
+			<text>Bloodless
+Blue Mox</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/112.png" num="115">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Side Creature — Mox</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emerald Mox</name>
+			<text>Bloodless
+Green Mox</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/113.png" num="39">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Side Creature — Mox</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruby Mox</name>
+			<text>Bloodless
+Orange Mox</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/114.png" num="113">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Side Creature — Mox</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mage Pupil</name>
+			<text>Gem Dependent: This card perishes if you control no gems.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/115.png" num="73">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Academic</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stim Mage</name>
+			<text>Activate: Spend 3{E}: This gets +1 power and +1 health.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/116.png" num="131">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gourmage</name>
+			<text>Activate: Spend 2O: This gets +1 power and +1 health.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/117.png" num="54">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Green Mage</name>
+			<text>This cards power is equal to the amount of gems you control.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/118.png" num="58">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Junior Sage</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/119.png" num="66">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sage</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Muscle Mage</name>
+			<text>Hefty: At the end your turn, this card will move one space to the left or right. Cards in the way will be pushed in the same direction.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/120.png" num="87">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mage Knight</name>
+			<text>Gem Dependent: This card perishes if you control no gems.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/121.png" num="72">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Practice Wizard</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/122.png" num="100">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Academic</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruby Golem</name>
+			<text>Bloodless
+Ruby Heart: When this card perishes, wish a Ruby Mox in its place.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/123.png" num="112">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gem Fiend</name>
+			<text>Gem Dependent: This card perishes if you control no gems.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/124.png" num="49">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orange Mage</name>
+			<text>Moxes you control get +1 power while this is in play.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/125.png" num="91">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blue Mage</name>
+			<text>When you play this, draw cards equal to the number of Moxes you control.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/126.png" num="16">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Force Mage</name>
+			<text>If a creature would attack this card, it doesnt.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/127.png" num="45">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hover Mage</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/128.png" num="63">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gr1zz Bot</name>
+			<text>Transformer: Transform this at the start of your turn.
+---
+(Back): Gr1zz Beast</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/129_front.png" num="55a">INS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Gr1zz Beast</related>
+		</card>
+		<card>
+			<name>Gr1zz Beast</name>
+			<text>Transformer: Transform this at the start of your turn.
+---
+(Front): Gr1zz Bot</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/129_back.png" num="55b">INS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Gr1zz Bot</related>
+		</card>
+		<card>
+			<name>Son1a Bot</name>
+			<text>Transformer: Transform this at the start of your turn.
+---
+(Back): Son1a Beast</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/131_front.png" num="126a">INS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Son1a Beast</related>
+		</card>
+		<card>
+			<name>Son1a Beast</name>
+			<text>Transformer: Transform this at the start of your turn.
+Airborne: This card will strike an opponent directly, even if there is a creature opposing it.
+---
+(Front): Son1a Bot</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/131_back.png" num="126b">INS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Son1a Bot</related>
+		</card>
+		<card>
+			<name>Qu177 Bot</name>
+			<text>Transformer: Transform this at the start of your turn.
+---
+(Back): Qu177 Beast</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/133_front.png" num="102a">INS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Qu177 Beast</related>
+		</card>
+		<card>
+			<name>Qu177 Beast</name>
+			<text>Transformer: Transform this at the start of your turn.
+Sharp Quills: When this card is struck, the striking card is dealt 1 damage.
+---
+(Front): Qu177 Bot</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/133_back.png" num="102b">INS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Qu177 Bot</related>
+		</card>
+		<card>
+			<name>EXEskeleton</name>
+			<text>Brittle: After attacking, this card perishes.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/135.png" num="42">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeletal</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bomb Latcher</name>
+			<text>When this card dies, choose a creature to gain the ability &quot;Detonator: When this card perishes, all adjacent cards are dealt 10 damage.&quot;</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/136.png" num="18">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Latcher</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skel-e-Latcher</name>
+			<text>When this card dies, choose a creature to gain the ability &quot;Brittle: After attacking, this card perishes.&quot;</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/137.png" num="121">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Latcher</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shield Latcher</name>
+			<text>When this card dies, choose a creature to gain the ability &quot;Armored: The first time this card would take damage, turn it sideways instead.&quot;</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/138.png" num="118">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Latcher</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gems Conduit</name>
+			<text>Within a circuit that uses this card, at the end of your turn, place the top cards of your side deck.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/139.png" num="51">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Conduit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tough Cell</name>
+			<text>While within a circuit, this card gain 2 health.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/140.png" num="137">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cell</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Splinter Cell</name>
+			<text>While within a circuit, this card will strike each opposing space to the left and right of the space across from itas well as the space in front of it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/141.png" num="128">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cell</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bleenes Vessel</name>
+			<text>Green Mox
+Blue Mox</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/142.png" num="14">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mox Vessel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goranjs Vessel</name>
+			<text>Orange Mox
+Green Mox</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/143.png" num="53">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mox Vessel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orlus Vessel</name>
+			<text>Blue Mox
+Orange Mox</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/144.png" num="93">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mox Vessel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gem Detonator</name>
+			<text>Moxes you control have the ability &quot;Detonator: When this card perishes, all adjacent cards are dealt 10 damage.&quot;</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/145.png" num="48">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gem Guardian</name>
+			<text>Moxes you control have the ability &quot;Armored: The first time this card would take damage, turn it sideways instead.&quot;</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/146.png" num="50">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Empty Vessel</name>
+			<text></text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/147.png" num="40">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Side Creature — Vessel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alarm Bot</name>
+			<text>Annoying: The creature opposing this card gains 1 power.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/148.png" num="3">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Busted 3D Printer</name>
+			<text>When this card is struck, draw a card from your side deck.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/149.png" num="24">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Station</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shieldbot</name>
+			<text>Armored: The first time this card would take damage, turn it sideways instead.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/150.png" num="119">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sniper Bot</name>
+			<text>Sniper: You choose which space this card strikes.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/151.png" num="125">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ourobot</name>
+			<text>When this card perishes, return it to your hand and increase your Ouroboros counter by 1.
+This card gets 1 more power and health for each point of Ouroboros counter you have.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/152.png" num="95">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Reptile Bot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doppelganger</name>
+			<text>This cards power is equal to the power of the card opposing it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/153.png" num="34">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Living Hand</name>
+			<text>This cards power is equal to the number of cards in your hand.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/154.png" num="70">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
