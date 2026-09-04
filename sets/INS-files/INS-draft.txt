@@ -3682,7 +3682,7 @@
 			}
 		]
 
-[rare(2)]
+[rare(1)]
 	5 Stunted Wolf
 	5 Child 13
 	5 Mantis God
@@ -3709,7 +3709,7 @@
 	5 Master Goranj
 	5 Master Bleene
 	5 Ourobot
-[uncommon(4)]
+[uncommon(3)]
 	5 Raven Egg
 	5 Magpie
 	5 Wolf Cub
@@ -3765,7 +3765,7 @@
 	5 Busted 3D Printer
 	5 Shieldbot
 	5 Sniper Bot
-[common(8)]
+[common(7)]
 	5 Kingfisher
 	5 Raven
 	5 Sparrow
