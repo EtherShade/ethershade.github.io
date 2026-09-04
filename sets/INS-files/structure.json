@@ -1,5 +1,8 @@
 ﻿[
 	{ "name": "rare", "count": 1, "balanced": true, "custom": false, "filtered": false },
 	{ "name": "uncommon", "count": 3, "balanced": true, "custom": false, "filtered": false },
-	{ "name": "common", "count": 7, "balanced": true, "custom": false, "filtered": false }
+	{ "name": "common", "count": 7, "balanced": true, "custom": false, "filtered": false },
+	{ "name": "itemslotrare", "count": 1, "balanced": true, "custom": true, "filtered": true },
+	{ "name": "itemslotuncommon", "count": 4, "balanced": true, "custom": true, "filtered": true },
+	{ "name": "itemslotcommon", "count": 8, "balanced": true, "custom": true, "filtered": true }
 ]

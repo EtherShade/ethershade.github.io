@@ -1,4 +1,103 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Goat in a Bottle added.
+Harpies Birdleg Fan added.
+Hoggy Bank added.
+Pliers added.
+Spare Battery added.
+Squirrel in a Bottle added.
+Magpies Lens added.
+Scissors added.
+Airborne added.
+Made of Stone added.
+Mighty Leap added.
+Sprinter added.
+Battery Bearer added.
+Blue Mox added.
+Bone Digger added.
+Bone King added.
+Burrower added.
+Green Mox added.
+Guardian added.
+Orange Mox added.
+Sharp Quills added.
+Stinky added.
+Waterborne added.
+Worthy Sacrifice added.
+Ant Spawner added.
+Armored added.
+Bees Within added.
+Bellist added.
+Bifurcated Strike added.
+Blood Lust added.
+Corpse Eater added.
+Dam Builder added.
+Double Strike added.
+Leader added.
+Morsel added.
+Sentry added.
+Sniper added.
+Trinket Bearer added.
+Academic added.
+Avian added.
+Bot added.
+Canine added.
+Cell added.
+Conduit added.
+Hooved added.
+Insect added.
+Latcher added.
+Mox added.
+Puppeted added.
+Reptile added.
+Rodent added.
+Sage added.
+Skeletal added.
+Spectral added.
+Station added.
+Vessel added.
+Warrior added.
+Wizard added.
+Zombie added.
+
+
+
+VERSION 3 CHANGELOG
+====================
+
+
+
+Mole Man
+type: Creature => Creature — Rodent
+
+Mole
+type: Creature => Creature — Rodent
+
+Squirrel
+
+Skeleton
+
+Null Conduit
+
+The Walkers
+type: Creature => Creature — Zombie
+
+Sapphire Mox
+
+Emerald Mox
+
+Ruby Mox
+
+Empty Vessel
+
+Doppelganger
+
+Living Hand
+type: Creature => Creature — Puppeted
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.
