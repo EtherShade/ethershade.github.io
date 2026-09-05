@@ -1,4 +1,19 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Zombie Minion added.
+
+Zombie removed.
+
+Wild Bull
+rules_text: Rampager: At the end your turn, this card will move one space to the left or right. Cards in the way will be thrown back behind this card. => Rampager: At the end of your turn, this card will move one space to the left or right. Cards in the way will be thrown back behind this card.
+
+Zombie
+type: Creature — Zombie => Totem — Head
+pt: 1/1 => 
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Goat in a Bottle added.

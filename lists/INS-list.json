@@ -1569,11 +1569,19 @@
     },
     {
         "card_name": "Zombie",
-        "number": 198,
+        "number": 197,
         "shape": "normal",
         "set": "INS",
         "rotated": false,
         "position": "213"
+    },
+    {
+        "card_name": "Zombie Minion",
+        "number": 198,
+        "shape": "normal",
+        "set": "INS",
+        "rotated": false,
+        "position": "82"
     },
     {
         "card_name": "Bee",
@@ -1670,9 +1678,6 @@
         "set": "INS",
         "rotated": false,
         "position": "22"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

@@ -1959,11 +1959,11 @@
 				}
 			},
 			{
-				"name": "Zombie",
+				"name": "Zombie Minion",
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "197",
+				"collector_number": "198",
 				"foil": false,
 
 				"image_uris": {
@@ -1971,11 +1971,11 @@
 				}
 			},
 			{
-				"name": "Zombie_foil",
+				"name": "Zombie Minion_foil",
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "197",
+				"collector_number": "198",
 				"foil": true,
 
 				"image_uris": {
@@ -5077,7 +5077,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "198",
+				"collector_number": "197",
 				"foil": false,
 
 				"image_uris": {
@@ -5089,7 +5089,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "198",
+				"collector_number": "197",
 				"foil": true,
 
 				"image_uris": {
@@ -5097,7 +5097,6 @@
 				}
 			}
 		]
-
 [Settings]
 {
 	"layouts": {
@@ -5118,64 +5117,35 @@
 	}
 	"predeterminedLayouts": ["Main", "Main", "Main", Item],
 }
-[Common]
-	5 Kingfisher
-	5 Raven
-	5 Sparrow
-	5 Turkey Vulture
-	5 Wolf
-	5 Bloodhound
-	5 Coyote
-	5 Black Goat
-	5 Elk
-	5 Moose Buck
-	5 Mantis
-	5 Beehive
-	5 Worker Ant
-	5 Adder
-	5 River Snapper
-	5 Rattler
-	5 Pack Rat
-	5 Cat
-	5 Porcupine
-	5 River Otter
-	5 Stoat
-	5 Grizzly
-	5 Opossum
-	5 Bat
-	5 Dire Wolf
-	5 Hawk
-	5 Salmon
-	5 Gravedigger
-	5 Banshee
-	5 Revenant
-	5 Zombie
-	5 Mummy Lord
-	5 Frank n Stein
-	5 Bonehound
-	5 Pharoahs Pets
-	5 Bullfrog
-	5 L33pb0t
-	5 Sentry Drone
-	5 49er
-	5 Buff Conduit
-	5 Energy Bot
-	5 Explode Bot
-	5 M3atb0t
-	5 Automaton
-	5 Insectodrone
-	5 Bolthound
-	5 Double gunner
-	5 Mage Pupil
-	5 Mage Knight
-	5 Practice Wizard
-	5 Ruby Golem
-	5 Gem Fiend
-	5 EXEskeleton
-	5 Gems Conduit
-	5 Tough Cell
-	5 Splinter Cell
-[Uncommon]
+
+[rare]
+	5 Stunted Wolf
+	5 Child 13
+	5 Mantis God
+	5 Strange Larva
+	5 Geck
+	5 Ouroboros
+	5 Mole Man
+	5 Amalgam
+	5 The Daus
+	5 Urayuli
+	5 Hodag
+	5 Hrokkall
+	5 Squirrel Ball
+	5 Bone Heap
+	5 Tomb Robber
+	5 Necromancer
+	5 Dead Hand
+	5 Headless Horseman
+	5 Bone Lords Horn
+	5 Plasma Jimmy
+	5 Mox Module
+	5 Shutterbug
+	5 Master Orlu
+	5 Master Goranj
+	5 Master Bleene
+	5 Ourobot
+[uncommon]
 	5 Raven Egg
 	5 Magpie
 	5 Wolf Cub
@@ -5233,33 +5203,63 @@
 	5 Sniper Bot
 	5 Doppelganger
 	5 Living Hand
-[Rare]
-	5 Stunted Wolf
-	5 Child 13
-	5 Mantis God
-	5 Strange Larva
-	5 Geck
-	5 Ouroboros
-	5 Mole Man
-	5 Amalgam
-	5 The Daus
-	5 Urayuli
-	5 Hodag
-	5 Hrokkall
-	5 Squirrel Ball
-	5 Bone Heap
-	5 Tomb Robber
-	5 Necromancer
-	5 Dead Hand
-	5 Headless Horseman
-	5 Bone Lords Horn
-	5 Plasma Jimmy
-	5 Mox Module
-	5 Shutterbug
-	5 Master Orlu
-	5 Master Goranj
-	5 Master Bleene
-	5 Ourobot
+[common]
+	5 Kingfisher
+	5 Raven
+	5 Sparrow
+	5 Turkey Vulture
+	5 Wolf
+	5 Bloodhound
+	5 Coyote
+	5 Black Goat
+	5 Elk
+	5 Moose Buck
+	5 Mantis
+	5 Beehive
+	5 Worker Ant
+	5 Adder
+	5 River Snapper
+	5 Rattler
+	5 Pack Rat
+	5 Cat
+	5 Porcupine
+	5 River Otter
+	5 Stoat
+	5 Grizzly
+	5 Opossum
+	5 Bat
+	5 Dire Wolf
+	5 Hawk
+	5 Salmon
+	5 Gravedigger
+	5 Banshee
+	5 Revenant
+	5 Zombie Minion
+	5 Mummy Lord
+	5 Frank n Stein
+	5 Bonehound
+	5 Pharoahs Pets
+	5 Bullfrog
+	5 L33pb0t
+	5 Sentry Drone
+	5 49er
+	5 Buff Conduit
+	5 Energy Bot
+	5 Explode Bot
+	5 M3atb0t
+	5 Automaton
+	5 Insectodrone
+	5 Bolthound
+	5 Double gunner
+	5 Mage Pupil
+	5 Mage Knight
+	5 Practice Wizard
+	5 Ruby Golem
+	5 Gem Fiend
+	5 EXEskeleton
+	5 Gems Conduit
+	5 Tough Cell
+	5 Splinter Cell
 [itemslotrare]
 	5 Ant Spawner
 	5 Armored

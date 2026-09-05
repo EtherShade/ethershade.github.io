@@ -5,7 +5,7 @@
 			<name>INS</name>
 			<longname>Inscryption Engraved Draft</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-04</releasedate>
+			<releasedate>2026-09-05</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -899,7 +899,7 @@ Bone Digger: At the end of your turn, generate O.</text>
 		</card>
 		<card>
 			<name>Wild Bull</name>
-			<text>Rampager: At the end your turn, this card will move one space to the left or right. Cards in the way will be thrown back behind this card.</text>
+			<text>Rampager: At the end of your turn, this card will move one space to the left or right. Cards in the way will be thrown back behind this card.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/58.png" num="190">INS</set>
 			<prop>
 				<layout>normal</layout>
@@ -1265,9 +1265,9 @@ Gem Dependent: This card perishes if you control no gems.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Zombie</name>
+			<name>Zombie Minion</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/82.png" num="197">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/82.png" num="198">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3216,7 +3216,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Zombie</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/213.png" num="198">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/213.png" num="197">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
