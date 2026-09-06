@@ -1,4 +1,276 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Blue Gem added.
+Green Gem added.
+Orange Gem added.
+Assimilator added.
+Ruby Furnace added.
+Sapphirebound Stoat added.
+Gemstone Generator added.
+Gemshell Turtle added.
+Gem Feline added.
+Filtration System added.
+Hawk Egg added.
+Magpie Egg added.
+Bombardier Beetle added.
+Gem-Mandible Mantis added.
+Rubybound Beehive added.
+Deer added.
+Emeraldbound Deer added.
+Gemhorn Bull added.
+Bloodstained Sage added.
+Scholar of Brutality added.
+Orange Zombie Minion added.
+Blue Banshee added.
+Crawling Hand added.
+Green Crawling Hand added.
+Dead Battery added.
+
+Mox Module removed.
+Null Conduit removed.
+Buff Conduit removed.
+Bleenes Mox removed.
+Goranjs Mox removed.
+Orlus Mox removed.
+Bomb Latcher removed.
+Skel-e-Latcher removed.
+Shield Latcher removed.
+Gems Conduit removed.
+Tough Cell removed.
+Splinter Cell removed.
+Bleenes Vessel removed.
+Goranjs Vessel removed.
+Orlus Vessel removed.
+Blue Mox removed.
+Green Mox removed.
+Orange Mox removed.
+Cell removed.
+Conduit removed.
+Latcher removed.
+
+Magpie
+
+Beehive
+pt: 0/2 => 0/3
+
+Great White
+
+Red Hart
+rules_text: This cards power is equal to the amount of cards youve sacrificed this turn. => Sprinter: At the end your turn, this card will move one space to the left or right.
+This cards power is equal to the amount of cards youve sacrificed this turn.
+
+Shutterbug
+
+Bullfrog
+
+L33pb0t
+
+Sentry Drone
+
+49er
+
+Energy Bot
+
+Explode Bot
+
+The Walkers
+
+M3atb0t
+
+Automaton
+
+Insectodrone
+
+Bolthound
+
+Double gunner
+
+Master Orlu
+
+Master Goranj
+
+Master Bleene
+
+Sapphire Mox
+rules_text: Bloodless
+Blue Mox => Bloodless
+Blue Gem
+
+Emerald Mox
+rules_text: Bloodless
+Green Mox => Bloodless
+Green Gem
+
+Ruby Mox
+rules_text: Bloodless
+Orange Mox => Bloodless
+Orange Gem
+
+Mage Pupil
+
+Stim Mage
+
+Gourmage
+
+Green Mage
+
+Junior Sage
+
+Muscle Mage
+
+Mage Knight
+
+Practice Wizard
+
+Ruby Golem
+
+Gem Fiend
+
+Orange Mage
+
+Blue Mage
+
+Force Mage
+
+Hover Mage
+
+Gr1zz Bot
+
+Son1a Bot
+
+Qu177 Bot
+
+EXEskeleton
+
+Gem Detonator
+
+Gem Guardian
+
+Empty Vessel
+
+Alarm Bot
+
+Busted 3D Printer
+
+Shieldbot
+
+Sniper Bot
+
+Ourobot
+
+Doppelganger
+
+Living Hand
+
+Goat in a Bottle
+
+Harpies Birdleg Fan
+
+Hoggy Bank
+
+Pliers
+
+Spare Battery
+
+Squirrel in a Bottle
+
+Magpies Lens
+
+Scissors
+
+Airborne
+
+Made of Stone
+
+Mighty Leap
+
+Sprinter
+
+Battery Bearer
+
+Bone Digger
+
+Bone King
+
+Burrower
+
+Guardian
+
+Sharp Quills
+
+Stinky
+
+Waterborne
+
+Worthy Sacrifice
+
+Ant Spawner
+
+Armored
+
+Bees Within
+
+Bellist
+
+Bifurcated Strike
+
+Blood Lust
+
+Corpse Eater
+
+Dam Builder
+
+Double Strike
+
+Leader
+
+Morsel
+
+Sentry
+
+Sniper
+
+Trinket Bearer
+
+Academic
+
+Avian
+
+Bot
+
+Canine
+
+Hooved
+
+Insect
+
+Mox
+
+Puppeted
+
+Reptile
+
+Rodent
+
+Sage
+
+Skeletal
+
+Spectral
+
+Station
+
+Vessel
+
+Warrior
+
+Wizard
+
+Zombie
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Zombie Minion added.
