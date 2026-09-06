@@ -5193,8 +5193,29 @@
 				}
 			}
 		]
-
-[rare(1)]
+[Settings]
+{
+	"layouts": {
+		"Main": {
+			"weight": 1,
+			"slots": {
+  				"rare": 1,
+  				"uncommon": 3,
+  				"common": 7
+			}
+		},
+		"Item": {
+			"weight": 1,
+			"slots": {
+  				"itemslotrare": 2,
+  				"itemslotuncommon": 4,
+  				"itemslotcommon": 8
+			}
+		}
+	},
+	"predeterminedLayouts": ["Main", "Main", "Main", "Item"],
+}
+[rare]
 	5 Stunted Wolf
 	5 Child 13
 	5 Mantis God
@@ -5226,7 +5247,7 @@
 	5 Bombardier Beetle
 	5 Bloodstained Sage
 	5 Scholar of Brutality
-[uncommon(3)]
+[uncommon]
 	5 Raven Egg
 	5 Wolf Cub
 	5 Alpha
@@ -5282,7 +5303,7 @@
 	5 Gemhorn Bull
 	5 Crawling Hand
 	5 Green Crawling Hand
-[common(7)]
+[common]
 	5 Kingfisher
 	5 Raven
 	5 Sparrow
@@ -5344,7 +5365,7 @@
 	5 Orange Zombie Minion
 	5 Blue Banshee
 	5 Dead Battery
-[itemslotrare(1)]
+[itemslotrare]
 	5 Ant Spawner
 	5 Armored
 	5 Bees Within
@@ -5359,7 +5380,7 @@
 	5 Sentry
 	5 Sniper
 	5 Trinket Bearer
-[itemslotuncommon(4)]
+[itemslotuncommon]
 	5 Magpies Lens
 	5 Scissors
 	5 Battery Bearer
@@ -5374,7 +5395,7 @@
 	5 Stinky
 	5 Waterborne
 	5 Worthy Sacrifice
-[itemslotcommon(8)]
+[itemslotcommon]
 	5 Goat in a Bottle
 	5 Harpies Birdleg Fan
 	5 Hoggy Bank

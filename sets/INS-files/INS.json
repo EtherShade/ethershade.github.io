@@ -4480,7 +4480,7 @@
             "shape": "normal",
             "set": "INS",
             "loyalty": "",
-            "artist": "Daniel Mullins Games",
+            "artist": "",
             "alias": "",
             "position": "214",
             "rotated": false,
@@ -4550,5 +4550,5 @@
             "notes": ""
         }
     ],
-    "version": 6
+    "version": 7
 }

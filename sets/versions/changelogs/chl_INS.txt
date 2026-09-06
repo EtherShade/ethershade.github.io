@@ -1,4 +1,12 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Blue Banshee
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Blue Gem added.
