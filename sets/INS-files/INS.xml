@@ -5,7 +5,7 @@
 			<name>INS</name>
 			<longname>Inscryption Engraved Draft</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-06</releasedate>
+			<releasedate>2026-09-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -27,8 +27,8 @@ Waterborne: This card submerges itself during its opponents turn. While submerge
 		</card>
 		<card>
 			<name>Raven Egg</name>
-			<text>Fledgling: At the start of your turn, this grows into a wished Raven.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/1.png" num="147">INS</set>
+			<text>Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Raven.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/1.png" num="150">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -43,7 +43,7 @@ Waterborne: This card submerges itself during its opponents turn. While submerge
 		<card>
 			<name>Raven</name>
 			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/2.png" num="146">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/2.png" num="149">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -58,7 +58,7 @@ Waterborne: This card submerges itself during its opponents turn. While submerge
 		<card>
 			<name>Sparrow</name>
 			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/3.png" num="175">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/3.png" num="179">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -89,7 +89,7 @@ Hoarder: When you play this card, you may search your main deck for any card and
 		<card>
 			<name>Turkey Vulture</name>
 			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/5.png" num="189">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/5.png" num="193">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -104,7 +104,7 @@ Hoarder: When you play this card, you may search your main deck for any card and
 		<card>
 			<name>Stunted Wolf</name>
 			<text></text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/6.png" num="185">INS</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/6.png" num="189">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -118,8 +118,8 @@ Hoarder: When you play this card, you may search your main deck for any card and
 		</card>
 		<card>
 			<name>Wolf Cub</name>
-			<text>Fledgling: At the start of your turn, this grows into a wished Wolf.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/7.png" num="198">INS</set>
+			<text>Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Wolf.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/7.png" num="202">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -134,7 +134,7 @@ Hoarder: When you play this card, you may search your main deck for any card and
 		<card>
 			<name>Wolf</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/8.png" num="197">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/8.png" num="201">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -209,7 +209,7 @@ Hoarder: When you play this card, you may search your main deck for any card and
 		</card>
 		<card>
 			<name>Elk Fawn</name>
-			<text>Fledgling: At the start of your turn, this grows into a wished Elk.
+			<text>Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Elk.
 Sprinter: At the end your turn, this card will move one space to the left or right.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/13.png" num="60">INS</set>
 			<prop>
@@ -279,7 +279,7 @@ Airborne: This card will strike an opponent directly, even if there is a creatur
 			<name>Pronghorn</name>
 			<text>Sprinter: At the end your turn, this card will move one space to the left or right.
 Bifurcated Strike: This card will strike each opposing space to the left and right of the space across from it.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/17.png" num="140">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/17.png" num="143">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -338,8 +338,8 @@ Bifurcated Strike: This card will strike each opposing space to the left and rig
 		</card>
 		<card>
 			<name>Strange Larva</name>
-			<text>Fledgling: At the start of your turn, this grows into a created Strange Pupa.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/21.png" num="184">INS</set>
+			<text>Fledgling: At the start of your turn, if this is in your front row, this grows into a created Strange Pupa.</text>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/21.png" num="188">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -353,8 +353,8 @@ Bifurcated Strike: This card will strike each opposing space to the left and rig
 		</card>
 		<card>
 			<name>Strange Pupa</name>
-			<text>Fledgling: At the start of your turn, this grows into a created Mothman.</text>
-			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/22.png" num="214">INS</set>
+			<text>Fledgling: At the start of your turn, if this is in your front row, this grows into a created Mothman.</text>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/22.png" num="218">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -369,7 +369,7 @@ Bifurcated Strike: This card will strike each opposing space to the left and rig
 		<card>
 			<name>Mothman</name>
 			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
-			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/23.png" num="209">INS</set>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/23.png" num="213">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -384,7 +384,7 @@ Bifurcated Strike: This card will strike each opposing space to the left and rig
 		<card>
 			<name>Bee</name>
 			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.</text>
-			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/24.png" num="204">INS</set>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/24.png" num="208">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -414,7 +414,7 @@ Bifurcated Strike: This card will strike each opposing space to the left and rig
 		<card>
 			<name>Worker Ant</name>
 			<text>Ant Power: This cards power is equal to the number of cards you control with Ant Power.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/26.png" num="200">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/26.png" num="204">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -445,7 +445,7 @@ Ant Spawner: When you play this card, a Worker Ant is wished into your hand.</te
 		<card>
 			<name>Skunk</name>
 			<text>Stinky: The creature opposing this card loses 1 Power.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/28.png" num="170">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/28.png" num="173">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -536,7 +536,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>River Snapper</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/34.png" num="152">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/34.png" num="155">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -551,7 +551,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Rattler</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/35.png" num="145">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/35.png" num="148">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -612,7 +612,7 @@ Burrower: When an empty space would be struck, this card will move to that space
 		<card>
 			<name>Pack Rat</name>
 			<text>Trinket Bearer: When you play this card, restore one of your used items.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/39.png" num="134">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/39.png" num="136">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -643,7 +643,7 @@ Whenever a Chime you control is struck, this card attacks the striking card.</te
 		<card>
 			<name>Chime</name>
 			<text>Bloodless</text>
-			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/41.png" num="205">INS</set>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/41.png" num="209">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -658,7 +658,7 @@ Whenever a Chime you control is struck, this card attacks the striking card.</te
 		<card>
 			<name>Urayuli</name>
 			<text></text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/42.png" num="190">INS</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/42.png" num="194">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -688,7 +688,7 @@ Whenever a Chime you control is struck, this card attacks the striking card.</te
 		<card>
 			<name>Porcupine</name>
 			<text>Sharp Quills: When this card is struck, the striking card is dealt 1 damage.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/44.png" num="138">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/44.png" num="141">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -703,7 +703,7 @@ Whenever a Chime you control is struck, this card attacks the striking card.</te
 		<card>
 			<name>River Otter</name>
 			<text>Waterborne: This card submerges itself during its opponents turn. While submerged, opposing creatures attack its owner directly.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/45.png" num="151">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/45.png" num="154">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -718,7 +718,7 @@ Whenever a Chime you control is struck, this card attacks the striking card.</te
 		<card>
 			<name>Stoat</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/46.png" num="183">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/46.png" num="187">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -748,7 +748,7 @@ Whenever a Chime you control is struck, this card attacks the striking card.</te
 		<card>
 			<name>Dam</name>
 			<text>Bloodless</text>
-			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/48.png" num="206">INS</set>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/48.png" num="210">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -763,7 +763,7 @@ Whenever a Chime you control is struck, this card attacks the striking card.</te
 		<card>
 			<name>Rat King</name>
 			<text>Bone King: When this card perishes, 3 extra O are awarded.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/49.png" num="144">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/49.png" num="147">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -868,7 +868,7 @@ This cards power is equal to half your O, rounded down.</text>
 		</card>
 		<card>
 			<name>Dire Wolf Pup</name>
-			<text>Fledgling: At the start of your turn, this grows into a wished Dire Wolf.
+			<text>Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Dire Wolf.
 Bone Digger: At the end of your turn, generate O.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/56.png" num="54">INS</set>
 			<prop>
@@ -886,7 +886,7 @@ Bone Digger: At the end of your turn, generate O.</text>
 			<name>Red Hart</name>
 			<text>Sprinter: At the end your turn, this card will move one space to the left or right.
 This cards power is equal to the amount of cards youve sacrificed this turn.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/57.png" num="148">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/57.png" num="151">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -901,7 +901,7 @@ This cards power is equal to the amount of cards youve sacrificed this turn.</te
 		<card>
 			<name>Wild Bull</name>
 			<text>Rampager: At the end of your turn, this card will move one space to the left or right. Cards in the way will be thrown back behind this card.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/58.png" num="195">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/58.png" num="199">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -946,9 +946,9 @@ Airborne: This card will strike an opponent directly, even if there is a creatur
 		</card>
 		<card>
 			<name>Tadpole</name>
-			<text>Waterborne: This card submerges itself during its opponents turn. While submerged, opposing creatures attack its owner directly.
-Fledgling: At the start of your turn, this grows into a wished Frog.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/61.png" num="186">INS</set>
+			<text>Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Frog.
+Waterborne: This card submerges itself during its opponents turn. While submerged, opposing creatures attack its owner directly.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/61.png" num="190">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -993,7 +993,7 @@ Fledgling: At the start of your turn, this grows into a wished Frog.</text>
 		<card>
 			<name>Raccoon</name>
 			<text>Scavenger: Opposing creatures grant you O on death in addition to their controller.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/64.png" num="143">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/64.png" num="146">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1008,7 +1008,7 @@ Fledgling: At the start of your turn, this grows into a wished Frog.</text>
 		<card>
 			<name>Wolverine</name>
 			<text>Blood Lust: When a creature is attacked by this card and perishes, increase this cards power by 1.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/65.png" num="199">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/65.png" num="203">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1039,7 +1039,7 @@ Battery Bearer: When you play this card, you gain 1 full energy cell.</text>
 		<card>
 			<name>Squirrel</name>
 			<text></text>
-			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/67.png" num="213">INS</set>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/67.png" num="217">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1054,7 +1054,7 @@ Battery Bearer: When you play this card, you gain 1 full energy cell.</text>
 		<card>
 			<name>Squirrel Ball</name>
 			<text>At the end your turn, this card will move one space to the left or right. Wish a squirrel in its old space.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/68.png" num="178">INS</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/68.png" num="182">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1085,7 +1085,7 @@ Battery Bearer: When you play this card, you gain 1 full energy cell.</text>
 			<name>Salmon</name>
 			<text>Waterborne: This card submerges itself during its opponents turn. While submerged, opposing creatures attack its owner directly.
 Sprinter: At the end your turn, this card will move one space to the left or right.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/70.png" num="158">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/70.png" num="161">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1100,7 +1100,7 @@ Sprinter: At the end your turn, this card will move one space to the left or rig
 		<card>
 			<name>Skeleton</name>
 			<text>Brittle: After attacking, this card perishes.</text>
-			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/71.png" num="212">INS</set>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/71.png" num="216">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1130,7 +1130,7 @@ Sprinter: At the end your turn, this card will move one space to the left or rig
 		<card>
 			<name>Tomb Robber</name>
 			<text>Activate: Spend 2O: Wish a Skeleton into your hand.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/73.png" num="187">INS</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/73.png" num="191">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1238,7 +1238,7 @@ Sprinter: At the end your turn, this card will move one space to the left or rig
 			<name>Skelemagus</name>
 			<text>Brittle: After attacking, this card perishes.
 Gem Dependent: This card perishes if you control no gems.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/80.png" num="168">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/80.png" num="171">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1253,7 +1253,7 @@ Gem Dependent: This card perishes if you control no gems.</text>
 		<card>
 			<name>Revenant</name>
 			<text>Brittle: After attacking, this card perishes.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/81.png" num="150">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/81.png" num="153">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1268,7 +1268,7 @@ Gem Dependent: This card perishes if you control no gems.</text>
 		<card>
 			<name>Zombie Minion</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/82.png" num="203">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/82.png" num="207">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1297,8 +1297,8 @@ Gem Dependent: This card perishes if you control no gems.</text>
 		</card>
 		<card>
 			<name>Sarcophagus</name>
-			<text>Fledgling: At the start of your turn, this grows into a wished Mummy Lord.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/84.png" num="160">INS</set>
+			<text>Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Mummy Lord.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/84.png" num="163">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1359,7 +1359,7 @@ Gem Dependent: This card perishes if you control no gems.</text>
 			<name>Pharoahs Pets</name>
 			<text>Many Lives: When this card is sacrificed, it does not perish.
 Worthy Sacrifice: This card counts as 3{B} rather than {B} when sacrificed.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/88.png" num="135">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/88.png" num="138">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1375,7 +1375,7 @@ Worthy Sacrifice: This card counts as 3{B} rather than {B} when sacrificed.</tex
 		<card>
 			<name>Plasma Jimmy</name>
 			<text>Activate: Spend {E}: This deals 1 damage to the card in front of it.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/89.png" num="136">INS</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/89.png" num="139">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1391,7 +1391,7 @@ Worthy Sacrifice: This card counts as 3{B} rather than {B} when sacrificed.</tex
 			<name>Shutterbug</name>
 			<text>Touch of Death: When this card damages another creature, that creature perishes.
 Sentry: When a creature moves into the space opposing this card, this card deals 1 damage to that creature.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/90.png" num="167">INS</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/90.png" num="170">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1436,7 +1436,7 @@ Sentry: When a creature moves into the space opposing this card, this card deals
 		<card>
 			<name>Sentry Drone</name>
 			<text>Sentry: When a creature moves into the space opposing this card, this card deals 1 damage to that creature.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/93.png" num="164">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/93.png" num="167">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1496,7 +1496,7 @@ Sentry: When a creature moves into the space opposing this card, this card deals
 		<card>
 			<name>The Walkers</name>
 			<text>Bone King: When this card perishes, 3 extra O are awarded.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/97.png" num="192">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/97.png" num="196">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1633,7 +1633,7 @@ Looter: When this card deals damage directly, draw that many cards from your mai
 			<name>Sapphire Mox</name>
 			<text>Bloodless
 Blue Gem</text>
-			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/106.png" num="211">INS</set>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/106.png" num="215">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1649,7 +1649,7 @@ Blue Gem</text>
 			<name>Emerald Mox</name>
 			<text>Bloodless
 Green Gem</text>
-			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/107.png" num="207">INS</set>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/107.png" num="211">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1665,7 +1665,7 @@ Green Gem</text>
 			<name>Ruby Mox</name>
 			<text>Bloodless
 Orange Gem</text>
-			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/108.png" num="210">INS</set>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/108.png" num="214">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1695,7 +1695,7 @@ Orange Gem</text>
 		<card>
 			<name>Stim Mage</name>
 			<text>Activate: Spend 3{E}: This gets +1 power and +1 health.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/110.png" num="181">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/110.png" num="185">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1785,7 +1785,7 @@ Orange Gem</text>
 		<card>
 			<name>Practice Wizard</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/116.png" num="139">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/116.png" num="142">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1801,7 +1801,7 @@ Orange Gem</text>
 			<name>Ruby Golem</name>
 			<text>Bloodless
 Ruby Heart: When this card perishes, wish a Ruby Mox in its place.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/117.png" num="155">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/117.png" num="158">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1929,7 +1929,7 @@ Ruby Heart: When this card perishes, wish a Ruby Mox in its place.</text>
 			<text>Transformer: Transform this at the start of your turn.
 ---
 (Back): Son1a Beast</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/125_front.png" num="173a">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/125_front.png" num="177a">INS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1948,7 +1948,7 @@ Ruby Heart: When this card perishes, wish a Ruby Mox in its place.</text>
 Airborne: This card will strike an opponent directly, even if there is a creature opposing it.
 ---
 (Front): Son1a Bot</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/125_back.png" num="173b">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/125_back.png" num="177b">INS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1966,7 +1966,7 @@ Airborne: This card will strike an opponent directly, even if there is a creatur
 			<text>Transformer: Transform this at the start of your turn.
 ---
 (Back): Qu177 Beast</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/127_front.png" num="142a">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/127_front.png" num="145a">INS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1985,7 +1985,7 @@ Airborne: This card will strike an opponent directly, even if there is a creatur
 Sharp Quills: When this card is struck, the striking card is dealt 1 damage.
 ---
 (Front): Qu177 Bot</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/127_back.png" num="142b">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/127_back.png" num="145b">INS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2046,7 +2046,7 @@ Sharp Quills: When this card is struck, the striking card is dealt 1 damage.
 		<card>
 			<name>Empty Vessel</name>
 			<text></text>
-			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/132.png" num="208">INS</set>
+			<set rarity="special" picurl="https://ethershade.github.io/sets/INS-files/img/132.png" num="212">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2091,7 +2091,7 @@ Sharp Quills: When this card is struck, the striking card is dealt 1 damage.
 		<card>
 			<name>Shieldbot</name>
 			<text>Armored: The first time this card would take damage, turn it sideways instead.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/135.png" num="166">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/135.png" num="169">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2106,7 +2106,7 @@ Sharp Quills: When this card is struck, the striking card is dealt 1 damage.
 		<card>
 			<name>Sniper Bot</name>
 			<text>Sniper: You choose which space this card strikes.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/136.png" num="172">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/136.png" num="176">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2210,7 +2210,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Pliers</name>
 			<text>Tip the scales 1 point towards your opponent.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/143.png" num="137">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/143.png" num="140">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2224,7 +2224,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Spare Battery</name>
 			<text>You gain 1 full energy cell.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/144.png" num="174">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/144.png" num="178">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2238,7 +2238,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Squirrel in a Bottle</name>
 			<text>Draw a card from your side deck.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/145.png" num="179">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/145.png" num="183">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2266,7 +2266,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Scissors</name>
 			<text>Destroy one of your opponents cards.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/147.png" num="162">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/147.png" num="165">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2322,7 +2322,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Sprinter</name>
 			<text>Sprinter: At the end your turn, affected cards will move one space to the left or right.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/151.png" num="177">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/151.png" num="181">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2448,7 +2448,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Sharp Quills</name>
 			<text>Sharp Quills: When an affect card is struck, the striking card is dealt 1 damage.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/160.png" num="165">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/160.png" num="168">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2462,7 +2462,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Stinky</name>
 			<text>Stinky: Creatures opposing affected cards lose 1 Power.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/161.png" num="182">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/161.png" num="186">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2476,7 +2476,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Waterborne</name>
 			<text>Waterborne: Affected cards submerge themselves during their opponents turn. While submerged, opposing creatures attack their owner directly.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/162.png" num="194">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/162.png" num="198">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2490,7 +2490,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Worthy Sacrifice</name>
 			<text>Worthy Sacrifice: This card counts as 3{B} rather than {B} when sacrificed.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/163.png" num="201">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/163.png" num="205">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2659,7 +2659,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Sentry</name>
 			<text>Sentry: When a creature moves into the space opposing an affected card, the affected card deals 1 damage to that creature.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/175.png" num="163">INS</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/175.png" num="166">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2673,7 +2673,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Sniper</name>
 			<text>Sniper: You choose which space affected cards strike.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/176.png" num="171">INS</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/176.png" num="175">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2687,7 +2687,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Trinket Bearer</name>
 			<text>Trinket Bearer: When you play an affected card, restore one of your used items.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/177.png" num="188">INS</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/177.png" num="192">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2799,7 +2799,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Puppeted</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/185.png" num="141">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/185.png" num="144">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2813,7 +2813,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Reptile</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/186.png" num="149">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/186.png" num="152">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2827,7 +2827,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Rodent</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/187.png" num="153">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/187.png" num="156">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2841,7 +2841,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Sage</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/188.png" num="157">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/188.png" num="160">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2855,7 +2855,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Skeletal</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/189.png" num="169">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/189.png" num="172">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2869,7 +2869,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Spectral</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/190.png" num="176">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/190.png" num="180">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2883,7 +2883,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Station</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/191.png" num="180">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/191.png" num="184">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2897,7 +2897,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Vessel</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/192.png" num="191">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/192.png" num="195">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2911,7 +2911,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Warrior</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/193.png" num="193">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/193.png" num="197">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2925,7 +2925,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Wizard</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/194.png" num="196">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/194.png" num="200">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2939,7 +2939,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 		<card>
 			<name>Zombie</name>
 			<text></text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/195.png" num="202">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/195.png" num="206">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2971,7 +2971,7 @@ This card gets 1 more power and health for each point of Ouroboros counter you h
 			<text>Orange Gem
 Battery Bearer: When you play this card, you gain 1 full energy cell.
 Detonator: When this card perishes, all adjacent cards are dealt 10 damage.</text>
-			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/197.png" num="154">INS</set>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/197.png" num="157">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2986,7 +2986,7 @@ Detonator: When this card perishes, all adjacent cards are dealt 10 damage.</tex
 		<card>
 			<name>Sapphirebound Stoat</name>
 			<text>Blue Gem</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/198.png" num="159">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/198.png" num="162">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3062,7 +3062,7 @@ Many Lives: When this card is sacrificed, it does not perish.</text>
 		</card>
 		<card>
 			<name>Hawk Egg</name>
-			<text>Fledgling: At the start of your turn, this grows into a wished Hawk.</text>
+			<text>Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Hawk.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/203.png" num="90">INS</set>
 			<prop>
 				<layout>normal</layout>
@@ -3077,7 +3077,7 @@ Many Lives: When this card is sacrificed, it does not perish.</text>
 		</card>
 		<card>
 			<name>Magpie Egg</name>
-			<text>Fledgling: At the start of your turn, this grows into a wished Magpie.</text>
+			<text>Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Magpie.</text>
 			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/204.png" num="110">INS</set>
 			<prop>
 				<layout>normal</layout>
@@ -3126,7 +3126,7 @@ Bifurcated Strike: This card will strike each opposing space to the left and rig
 			<name>Rubybound Beehive</name>
 			<text>Orange Gem
 Bees Within: When this card is struck, a Bee is created in your hand.</text>
-			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/207.png" num="156">INS</set>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/207.png" num="159">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3205,7 +3205,7 @@ Blood Lust: When a creature is attacked by this card and perishes, increase this
 			<name>Scholar of Brutality</name>
 			<text>Blue Gem
 At the start of your turn, you may pay 3{B}. If you do, this grows into a wished Urayuli.</text>
-			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/212.png" num="161">INS</set>
+			<set rarity="rare" picurl="https://ethershade.github.io/sets/INS-files/img/212.png" num="164">INS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3292,6 +3292,67 @@ Sprinter: At the end your turn, this card will move one space to the left or rig
 				<manacost></manacost>
 				<cmc>0</cmc>
 				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sneaking Bones</name>
+			<text>Stealth: This creature can attack while in a back row with nothing in front of it.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/218.png" num="174">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeletal</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Panther</name>
+			<text>Stealth: This creature can attack while in a back row with nothing in front of it.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/219.png" num="137">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Owl</name>
+			<text>Airborne: This card will strike an opponent directly, even if there is a creature opposing it.
+Stealth: This creature can attack while in a back row with nothing in front of it.</text>
+			<set rarity="common" picurl="https://ethershade.github.io/sets/INS-files/img/220.png" num="134">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avian</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Owl Egg</name>
+			<text>Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Owl.</text>
+			<set rarity="uncommon" picurl="https://ethershade.github.io/sets/INS-files/img/221.png" num="135">INS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avian</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

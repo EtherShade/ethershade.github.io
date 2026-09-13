@@ -1,4 +1,54 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Sneaking Bones added.
+Panther added.
+Owl added.
+Owl Egg added.
+
+
+Raven Egg
+rules_text: Fledgling: At the start of your turn, this grows into a wished Raven. => Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Raven.
+
+Wolf Cub
+rules_text: Fledgling: At the start of your turn, this grows into a wished Wolf. => Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Wolf.
+
+Elk Fawn
+rules_text: Fledgling: At the start of your turn, this grows into a wished Elk.
+Sprinter: At the end your turn, this card will move one space to the left or right. => Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Elk.
+Sprinter: At the end your turn, this card will move one space to the left or right.
+
+Strange Larva
+rules_text: Fledgling: At the start of your turn, this grows into a created Strange Pupa. => Fledgling: At the start of your turn, if this is in your front row, this grows into a created Strange Pupa.
+
+Strange Pupa
+rules_text: Fledgling: At the start of your turn, this grows into a created Mothman. => Fledgling: At the start of your turn, if this is in your front row, this grows into a created Mothman.
+
+Dire Wolf Pup
+rules_text: Fledgling: At the start of your turn, this grows into a wished Dire Wolf.
+Bone Digger: At the end of your turn, generate O. => Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Dire Wolf.
+Bone Digger: At the end of your turn, generate O.
+
+Tadpole
+rules_text: Waterborne: This card submerges itself during its opponents turn. While submerged, opposing creatures attack its owner directly.
+Fledgling: At the start of your turn, this grows into a wished Frog. => Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Frog.
+Waterborne: This card submerges itself during its opponents turn. While submerged, opposing creatures attack its owner directly.
+
+Sarcophagus
+rules_text: Fledgling: At the start of your turn, this grows into a wished Mummy Lord. => Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Mummy Lord.
+
+Doppelganger
+
+Gem Feline
+
+Hawk Egg
+rules_text: Fledgling: At the start of your turn, this grows into a wished Hawk. => Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Hawk.
+
+Magpie Egg
+rules_text: Fledgling: At the start of your turn, this grows into a wished Magpie. => Fledgling: At the start of your turn, if this is in your front row, this grows into a wished Magpie.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 

@@ -29,7 +29,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "147",
+				"collector_number": "150",
 				"foil": false,
 
 				"image_uris": {
@@ -41,7 +41,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "147",
+				"collector_number": "150",
 				"foil": true,
 
 				"image_uris": {
@@ -53,7 +53,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "146",
+				"collector_number": "149",
 				"foil": false,
 
 				"image_uris": {
@@ -65,7 +65,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "146",
+				"collector_number": "149",
 				"foil": true,
 
 				"image_uris": {
@@ -77,7 +77,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "175",
+				"collector_number": "179",
 				"foil": false,
 
 				"image_uris": {
@@ -89,7 +89,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "175",
+				"collector_number": "179",
 				"foil": true,
 
 				"image_uris": {
@@ -125,7 +125,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "189",
+				"collector_number": "193",
 				"foil": false,
 
 				"image_uris": {
@@ -137,7 +137,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "189",
+				"collector_number": "193",
 				"foil": true,
 
 				"image_uris": {
@@ -149,7 +149,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Canine",
-				"collector_number": "185",
+				"collector_number": "189",
 				"foil": false,
 
 				"image_uris": {
@@ -161,7 +161,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Canine",
-				"collector_number": "185",
+				"collector_number": "189",
 				"foil": true,
 
 				"image_uris": {
@@ -173,7 +173,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Canine",
-				"collector_number": "198",
+				"collector_number": "202",
 				"foil": false,
 
 				"image_uris": {
@@ -185,7 +185,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Canine",
-				"collector_number": "198",
+				"collector_number": "202",
 				"foil": true,
 
 				"image_uris": {
@@ -197,7 +197,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Canine",
-				"collector_number": "197",
+				"collector_number": "201",
 				"foil": false,
 
 				"image_uris": {
@@ -209,7 +209,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Canine",
-				"collector_number": "197",
+				"collector_number": "201",
 				"foil": true,
 
 				"image_uris": {
@@ -403,7 +403,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Hooved",
-				"collector_number": "140",
+				"collector_number": "143",
 				"foil": false,
 
 				"image_uris": {
@@ -415,7 +415,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Hooved",
-				"collector_number": "140",
+				"collector_number": "143",
 				"foil": true,
 
 				"image_uris": {
@@ -499,7 +499,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Insect",
-				"collector_number": "184",
+				"collector_number": "188",
 				"foil": false,
 
 				"image_uris": {
@@ -511,7 +511,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Insect",
-				"collector_number": "184",
+				"collector_number": "188",
 				"foil": true,
 
 				"image_uris": {
@@ -523,7 +523,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature — Insect",
-				"collector_number": "214",
+				"collector_number": "218",
 				"foil": false,
 
 				"image_uris": {
@@ -535,7 +535,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature — Insect",
-				"collector_number": "214",
+				"collector_number": "218",
 				"foil": true,
 
 				"image_uris": {
@@ -547,7 +547,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature — Insect",
-				"collector_number": "209",
+				"collector_number": "213",
 				"foil": false,
 
 				"image_uris": {
@@ -559,7 +559,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature — Insect",
-				"collector_number": "209",
+				"collector_number": "213",
 				"foil": true,
 
 				"image_uris": {
@@ -571,7 +571,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature — Insect",
-				"collector_number": "204",
+				"collector_number": "208",
 				"foil": false,
 
 				"image_uris": {
@@ -583,7 +583,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature — Insect",
-				"collector_number": "204",
+				"collector_number": "208",
 				"foil": true,
 
 				"image_uris": {
@@ -619,7 +619,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Insect",
-				"collector_number": "200",
+				"collector_number": "204",
 				"foil": false,
 
 				"image_uris": {
@@ -631,7 +631,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Insect",
-				"collector_number": "200",
+				"collector_number": "204",
 				"foil": true,
 
 				"image_uris": {
@@ -667,7 +667,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "170",
+				"collector_number": "173",
 				"foil": false,
 
 				"image_uris": {
@@ -679,7 +679,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "170",
+				"collector_number": "173",
 				"foil": true,
 
 				"image_uris": {
@@ -811,7 +811,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "152",
+				"collector_number": "155",
 				"foil": false,
 
 				"image_uris": {
@@ -823,7 +823,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "152",
+				"collector_number": "155",
 				"foil": true,
 
 				"image_uris": {
@@ -835,7 +835,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "145",
+				"collector_number": "148",
 				"foil": false,
 
 				"image_uris": {
@@ -847,7 +847,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "145",
+				"collector_number": "148",
 				"foil": true,
 
 				"image_uris": {
@@ -931,7 +931,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "134",
+				"collector_number": "136",
 				"foil": false,
 
 				"image_uris": {
@@ -943,7 +943,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "134",
+				"collector_number": "136",
 				"foil": true,
 
 				"image_uris": {
@@ -979,7 +979,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature",
-				"collector_number": "205",
+				"collector_number": "209",
 				"foil": false,
 
 				"image_uris": {
@@ -991,7 +991,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature",
-				"collector_number": "205",
+				"collector_number": "209",
 				"foil": true,
 
 				"image_uris": {
@@ -1003,7 +1003,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "190",
+				"collector_number": "194",
 				"foil": false,
 
 				"image_uris": {
@@ -1015,7 +1015,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "190",
+				"collector_number": "194",
 				"foil": true,
 
 				"image_uris": {
@@ -1051,7 +1051,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "138",
+				"collector_number": "141",
 				"foil": false,
 
 				"image_uris": {
@@ -1063,7 +1063,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "138",
+				"collector_number": "141",
 				"foil": true,
 
 				"image_uris": {
@@ -1075,7 +1075,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "151",
+				"collector_number": "154",
 				"foil": false,
 
 				"image_uris": {
@@ -1087,7 +1087,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "151",
+				"collector_number": "154",
 				"foil": true,
 
 				"image_uris": {
@@ -1099,7 +1099,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "183",
+				"collector_number": "187",
 				"foil": false,
 
 				"image_uris": {
@@ -1111,7 +1111,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "183",
+				"collector_number": "187",
 				"foil": true,
 
 				"image_uris": {
@@ -1147,7 +1147,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature",
-				"collector_number": "206",
+				"collector_number": "210",
 				"foil": false,
 
 				"image_uris": {
@@ -1159,7 +1159,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature",
-				"collector_number": "206",
+				"collector_number": "210",
 				"foil": true,
 
 				"image_uris": {
@@ -1171,7 +1171,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "144",
+				"collector_number": "147",
 				"foil": false,
 
 				"image_uris": {
@@ -1183,7 +1183,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "144",
+				"collector_number": "147",
 				"foil": true,
 
 				"image_uris": {
@@ -1363,7 +1363,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Hooved",
-				"collector_number": "148",
+				"collector_number": "151",
 				"foil": false,
 
 				"image_uris": {
@@ -1375,7 +1375,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Hooved",
-				"collector_number": "148",
+				"collector_number": "151",
 				"foil": true,
 
 				"image_uris": {
@@ -1387,7 +1387,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Hooved",
-				"collector_number": "195",
+				"collector_number": "199",
 				"foil": false,
 
 				"image_uris": {
@@ -1399,7 +1399,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Hooved",
-				"collector_number": "195",
+				"collector_number": "199",
 				"foil": true,
 
 				"image_uris": {
@@ -1459,7 +1459,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "186",
+				"collector_number": "190",
 				"foil": false,
 
 				"image_uris": {
@@ -1471,7 +1471,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "186",
+				"collector_number": "190",
 				"foil": true,
 
 				"image_uris": {
@@ -1531,7 +1531,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "143",
+				"collector_number": "146",
 				"foil": false,
 
 				"image_uris": {
@@ -1543,7 +1543,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "143",
+				"collector_number": "146",
 				"foil": true,
 
 				"image_uris": {
@@ -1555,7 +1555,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "199",
+				"collector_number": "203",
 				"foil": false,
 
 				"image_uris": {
@@ -1567,7 +1567,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "199",
+				"collector_number": "203",
 				"foil": true,
 
 				"image_uris": {
@@ -1603,7 +1603,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Rodent",
-				"collector_number": "213",
+				"collector_number": "217",
 				"foil": false,
 
 				"image_uris": {
@@ -1615,7 +1615,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Rodent",
-				"collector_number": "213",
+				"collector_number": "217",
 				"foil": true,
 
 				"image_uris": {
@@ -1627,7 +1627,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "178",
+				"collector_number": "182",
 				"foil": false,
 
 				"image_uris": {
@@ -1639,7 +1639,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "178",
+				"collector_number": "182",
 				"foil": true,
 
 				"image_uris": {
@@ -1675,7 +1675,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "158",
+				"collector_number": "161",
 				"foil": false,
 
 				"image_uris": {
@@ -1687,7 +1687,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "158",
+				"collector_number": "161",
 				"foil": true,
 
 				"image_uris": {
@@ -1699,7 +1699,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Skeletal",
-				"collector_number": "212",
+				"collector_number": "216",
 				"foil": false,
 
 				"image_uris": {
@@ -1711,7 +1711,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Skeletal",
-				"collector_number": "212",
+				"collector_number": "216",
 				"foil": true,
 
 				"image_uris": {
@@ -1747,7 +1747,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "187",
+				"collector_number": "191",
 				"foil": false,
 
 				"image_uris": {
@@ -1759,7 +1759,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "187",
+				"collector_number": "191",
 				"foil": true,
 
 				"image_uris": {
@@ -1915,7 +1915,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Skeletal",
-				"collector_number": "168",
+				"collector_number": "171",
 				"foil": false,
 
 				"image_uris": {
@@ -1927,7 +1927,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Skeletal",
-				"collector_number": "168",
+				"collector_number": "171",
 				"foil": true,
 
 				"image_uris": {
@@ -1939,7 +1939,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Skeletal",
-				"collector_number": "150",
+				"collector_number": "153",
 				"foil": false,
 
 				"image_uris": {
@@ -1951,7 +1951,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Skeletal",
-				"collector_number": "150",
+				"collector_number": "153",
 				"foil": true,
 
 				"image_uris": {
@@ -1963,7 +1963,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "203",
+				"collector_number": "207",
 				"foil": false,
 
 				"image_uris": {
@@ -1975,7 +1975,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "203",
+				"collector_number": "207",
 				"foil": true,
 
 				"image_uris": {
@@ -2011,7 +2011,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Puppeted",
-				"collector_number": "160",
+				"collector_number": "163",
 				"foil": false,
 
 				"image_uris": {
@@ -2023,7 +2023,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Puppeted",
-				"collector_number": "160",
+				"collector_number": "163",
 				"foil": true,
 
 				"image_uris": {
@@ -2107,7 +2107,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Hooved Zombie",
-				"collector_number": "135",
+				"collector_number": "138",
 				"foil": false,
 
 				"image_uris": {
@@ -2119,7 +2119,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Hooved Zombie",
-				"collector_number": "135",
+				"collector_number": "138",
 				"foil": true,
 
 				"image_uris": {
@@ -2131,7 +2131,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "136",
+				"collector_number": "139",
 				"foil": false,
 
 				"image_uris": {
@@ -2143,7 +2143,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "136",
+				"collector_number": "139",
 				"foil": true,
 
 				"image_uris": {
@@ -2155,7 +2155,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "167",
+				"collector_number": "170",
 				"foil": false,
 
 				"image_uris": {
@@ -2167,7 +2167,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "167",
+				"collector_number": "170",
 				"foil": true,
 
 				"image_uris": {
@@ -2227,7 +2227,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "164",
+				"collector_number": "167",
 				"foil": false,
 
 				"image_uris": {
@@ -2239,7 +2239,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "164",
+				"collector_number": "167",
 				"foil": true,
 
 				"image_uris": {
@@ -2323,7 +2323,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "192",
+				"collector_number": "196",
 				"foil": false,
 
 				"image_uris": {
@@ -2335,7 +2335,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "192",
+				"collector_number": "196",
 				"foil": true,
 
 				"image_uris": {
@@ -2539,7 +2539,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Mox",
-				"collector_number": "211",
+				"collector_number": "215",
 				"foil": false,
 
 				"image_uris": {
@@ -2551,7 +2551,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Mox",
-				"collector_number": "211",
+				"collector_number": "215",
 				"foil": true,
 
 				"image_uris": {
@@ -2563,7 +2563,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Mox",
-				"collector_number": "207",
+				"collector_number": "211",
 				"foil": false,
 
 				"image_uris": {
@@ -2575,7 +2575,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Mox",
-				"collector_number": "207",
+				"collector_number": "211",
 				"foil": true,
 
 				"image_uris": {
@@ -2587,7 +2587,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Mox",
-				"collector_number": "210",
+				"collector_number": "214",
 				"foil": false,
 
 				"image_uris": {
@@ -2599,7 +2599,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Mox",
-				"collector_number": "210",
+				"collector_number": "214",
 				"foil": true,
 
 				"image_uris": {
@@ -2635,7 +2635,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Wizard",
-				"collector_number": "181",
+				"collector_number": "185",
 				"foil": false,
 
 				"image_uris": {
@@ -2647,7 +2647,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Wizard",
-				"collector_number": "181",
+				"collector_number": "185",
 				"foil": true,
 
 				"image_uris": {
@@ -2779,7 +2779,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Academic",
-				"collector_number": "139",
+				"collector_number": "142",
 				"foil": false,
 
 				"image_uris": {
@@ -2791,7 +2791,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Academic",
-				"collector_number": "139",
+				"collector_number": "142",
 				"foil": true,
 
 				"image_uris": {
@@ -2803,7 +2803,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Warrior",
-				"collector_number": "155",
+				"collector_number": "158",
 				"foil": false,
 
 				"image_uris": {
@@ -2815,7 +2815,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Warrior",
-				"collector_number": "155",
+				"collector_number": "158",
 				"foil": true,
 
 				"image_uris": {
@@ -2985,7 +2985,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "173",
+				"collector_number": "177",
 				"foil": false,
 
 				"back": {
@@ -3004,7 +3004,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "173",
+				"collector_number": "177",
 				"foil": true,
 
 				"back": {
@@ -3023,7 +3023,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "142",
+				"collector_number": "145",
 				"foil": false,
 
 				"back": {
@@ -3042,7 +3042,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "142",
+				"collector_number": "145",
 				"foil": true,
 
 				"back": {
@@ -3133,7 +3133,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Vessel",
-				"collector_number": "208",
+				"collector_number": "212",
 				"foil": false,
 
 				"image_uris": {
@@ -3145,7 +3145,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Vessel",
-				"collector_number": "208",
+				"collector_number": "212",
 				"foil": true,
 
 				"image_uris": {
@@ -3205,7 +3205,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "166",
+				"collector_number": "169",
 				"foil": false,
 
 				"image_uris": {
@@ -3217,7 +3217,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "166",
+				"collector_number": "169",
 				"foil": true,
 
 				"image_uris": {
@@ -3229,7 +3229,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "172",
+				"collector_number": "176",
 				"foil": false,
 
 				"image_uris": {
@@ -3241,7 +3241,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "172",
+				"collector_number": "176",
 				"foil": true,
 
 				"image_uris": {
@@ -3397,7 +3397,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "137",
+				"collector_number": "140",
 				"foil": false,
 
 				"image_uris": {
@@ -3409,7 +3409,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "137",
+				"collector_number": "140",
 				"foil": true,
 
 				"image_uris": {
@@ -3421,7 +3421,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "174",
+				"collector_number": "178",
 				"foil": false,
 
 				"image_uris": {
@@ -3433,7 +3433,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "174",
+				"collector_number": "178",
 				"foil": true,
 
 				"image_uris": {
@@ -3445,7 +3445,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "179",
+				"collector_number": "183",
 				"foil": false,
 
 				"image_uris": {
@@ -3457,7 +3457,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "179",
+				"collector_number": "183",
 				"foil": true,
 
 				"image_uris": {
@@ -3493,7 +3493,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "162",
+				"collector_number": "165",
 				"foil": false,
 
 				"image_uris": {
@@ -3505,7 +3505,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "162",
+				"collector_number": "165",
 				"foil": true,
 
 				"image_uris": {
@@ -3589,7 +3589,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "177",
+				"collector_number": "181",
 				"foil": false,
 
 				"image_uris": {
@@ -3601,7 +3601,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "177",
+				"collector_number": "181",
 				"foil": true,
 
 				"image_uris": {
@@ -3805,7 +3805,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "165",
+				"collector_number": "168",
 				"foil": false,
 
 				"image_uris": {
@@ -3817,7 +3817,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "165",
+				"collector_number": "168",
 				"foil": true,
 
 				"image_uris": {
@@ -3829,7 +3829,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "182",
+				"collector_number": "186",
 				"foil": false,
 
 				"image_uris": {
@@ -3841,7 +3841,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "182",
+				"collector_number": "186",
 				"foil": true,
 
 				"image_uris": {
@@ -3853,7 +3853,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "194",
+				"collector_number": "198",
 				"foil": false,
 
 				"image_uris": {
@@ -3865,7 +3865,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "194",
+				"collector_number": "198",
 				"foil": true,
 
 				"image_uris": {
@@ -3877,7 +3877,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "201",
+				"collector_number": "205",
 				"foil": false,
 
 				"image_uris": {
@@ -3889,7 +3889,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "201",
+				"collector_number": "205",
 				"foil": true,
 
 				"image_uris": {
@@ -4165,7 +4165,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "163",
+				"collector_number": "166",
 				"foil": false,
 
 				"image_uris": {
@@ -4177,7 +4177,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "163",
+				"collector_number": "166",
 				"foil": true,
 
 				"image_uris": {
@@ -4189,7 +4189,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "171",
+				"collector_number": "175",
 				"foil": false,
 
 				"image_uris": {
@@ -4201,7 +4201,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "171",
+				"collector_number": "175",
 				"foil": true,
 
 				"image_uris": {
@@ -4213,7 +4213,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "188",
+				"collector_number": "192",
 				"foil": false,
 
 				"image_uris": {
@@ -4225,7 +4225,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "188",
+				"collector_number": "192",
 				"foil": true,
 
 				"image_uris": {
@@ -4405,7 +4405,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "141",
+				"collector_number": "144",
 				"foil": false,
 
 				"image_uris": {
@@ -4417,7 +4417,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "141",
+				"collector_number": "144",
 				"foil": true,
 
 				"image_uris": {
@@ -4429,7 +4429,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "149",
+				"collector_number": "152",
 				"foil": false,
 
 				"image_uris": {
@@ -4441,7 +4441,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "149",
+				"collector_number": "152",
 				"foil": true,
 
 				"image_uris": {
@@ -4453,7 +4453,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "153",
+				"collector_number": "156",
 				"foil": false,
 
 				"image_uris": {
@@ -4465,7 +4465,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "153",
+				"collector_number": "156",
 				"foil": true,
 
 				"image_uris": {
@@ -4477,7 +4477,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "157",
+				"collector_number": "160",
 				"foil": false,
 
 				"image_uris": {
@@ -4489,7 +4489,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "157",
+				"collector_number": "160",
 				"foil": true,
 
 				"image_uris": {
@@ -4501,7 +4501,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "169",
+				"collector_number": "172",
 				"foil": false,
 
 				"image_uris": {
@@ -4513,7 +4513,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "169",
+				"collector_number": "172",
 				"foil": true,
 
 				"image_uris": {
@@ -4525,7 +4525,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "176",
+				"collector_number": "180",
 				"foil": false,
 
 				"image_uris": {
@@ -4537,7 +4537,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "176",
+				"collector_number": "180",
 				"foil": true,
 
 				"image_uris": {
@@ -4549,7 +4549,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "180",
+				"collector_number": "184",
 				"foil": false,
 
 				"image_uris": {
@@ -4561,7 +4561,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "180",
+				"collector_number": "184",
 				"foil": true,
 
 				"image_uris": {
@@ -4573,7 +4573,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "191",
+				"collector_number": "195",
 				"foil": false,
 
 				"image_uris": {
@@ -4585,7 +4585,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "191",
+				"collector_number": "195",
 				"foil": true,
 
 				"image_uris": {
@@ -4597,7 +4597,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "193",
+				"collector_number": "197",
 				"foil": false,
 
 				"image_uris": {
@@ -4609,7 +4609,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "193",
+				"collector_number": "197",
 				"foil": true,
 
 				"image_uris": {
@@ -4621,7 +4621,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "196",
+				"collector_number": "200",
 				"foil": false,
 
 				"image_uris": {
@@ -4633,7 +4633,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "196",
+				"collector_number": "200",
 				"foil": true,
 
 				"image_uris": {
@@ -4645,7 +4645,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "202",
+				"collector_number": "206",
 				"foil": false,
 
 				"image_uris": {
@@ -4657,7 +4657,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "202",
+				"collector_number": "206",
 				"foil": true,
 
 				"image_uris": {
@@ -4693,7 +4693,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "154",
+				"collector_number": "157",
 				"foil": false,
 
 				"image_uris": {
@@ -4705,7 +4705,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "154",
+				"collector_number": "157",
 				"foil": true,
 
 				"image_uris": {
@@ -4717,7 +4717,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "159",
+				"collector_number": "162",
 				"foil": false,
 
 				"image_uris": {
@@ -4729,7 +4729,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "159",
+				"collector_number": "162",
 				"foil": true,
 
 				"image_uris": {
@@ -4933,7 +4933,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Insect",
-				"collector_number": "156",
+				"collector_number": "159",
 				"foil": false,
 
 				"image_uris": {
@@ -4945,7 +4945,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Insect",
-				"collector_number": "156",
+				"collector_number": "159",
 				"foil": true,
 
 				"image_uris": {
@@ -5053,7 +5053,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Academic",
-				"collector_number": "161",
+				"collector_number": "164",
 				"foil": false,
 
 				"image_uris": {
@@ -5065,7 +5065,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Academic",
-				"collector_number": "161",
+				"collector_number": "164",
 				"foil": true,
 
 				"image_uris": {
@@ -5191,6 +5191,102 @@
 				"image_uris": {
 					"en": "https://ethershade.github.io/sets/INS-files/img/217.png"
 				}
+			},
+			{
+				"name": "Sneaking Bones",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Skeletal",
+				"collector_number": "174",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/218.png"
+				}
+			},
+			{
+				"name": "Sneaking Bones_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Skeletal",
+				"collector_number": "174",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/218.png"
+				}
+			},
+			{
+				"name": "Panther",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "137",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/219.png"
+				}
+			},
+			{
+				"name": "Panther_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature",
+				"collector_number": "137",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/219.png"
+				}
+			},
+			{
+				"name": "Owl",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "134",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/220.png"
+				}
+			},
+			{
+				"name": "Owl_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "134",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/220.png"
+				}
+			},
+			{
+				"name": "Owl Egg",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "135",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/221.png"
+				}
+			},
+			{
+				"name": "Owl Egg_foil",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Creature — Avian",
+				"collector_number": "135",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://ethershade.github.io/sets/INS-files/img/221.png"
+				}
 			}
 		]
 [Settings]
@@ -5215,6 +5311,7 @@
 	},
 	"predeterminedLayouts": ["Main", "Main", "Main", "Item"],
 }
+
 [rare]
 	5 Stunted Wolf
 	5 Child 13
@@ -5303,6 +5400,9 @@
 	5 Gemhorn Bull
 	5 Crawling Hand
 	5 Green Crawling Hand
+	5 Sneaking Bones
+	5 Panther
+	5 Owl Egg
 [common]
 	5 Kingfisher
 	5 Raven
@@ -5365,6 +5465,7 @@
 	5 Orange Zombie Minion
 	5 Blue Banshee
 	5 Dead Battery
+	5 Owl
 [itemslotrare]
 	5 Ant Spawner
 	5 Armored
