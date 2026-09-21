@@ -1,4 +1,299 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Double Gunner added.
+
+Necromancer removed.
+Double gunner removed.
+Mox removed.
+Rodent removed.
+Skeletal removed.
+Vessel removed.
+
+Drowned Soul
+
+Dead Hand
+
+Headless Horseman
+
+Gravedigger
+
+Banshee
+
+Skelemagus
+
+Revenant
+
+Zombie Minion
+
+Bone Lords Horn
+
+Sarcophagus
+
+Mummy Lord
+
+Frank n Stein
+
+Bonehound
+
+Pharoahs Pets
+
+Plasma Jimmy
+
+Shutterbug
+
+Bullfrog
+
+L33pb0t
+
+Sentry Drone
+
+49er
+type: Creature — Station => Creature — Bot
+
+Energy Bot
+
+Explode Bot
+
+The Walkers
+
+M3atb0t
+
+Automaton
+
+Insectodrone
+
+Bolthound
+
+Master Orlu
+
+Master Goranj
+
+Master Bleene
+
+Sapphire Mox
+
+Emerald Mox
+
+Ruby Mox
+
+Mage Pupil
+
+Stim Mage
+
+Gourmage
+
+Green Mage
+
+Junior Sage
+
+Muscle Mage
+
+Mage Knight
+
+Practice Wizard
+
+Ruby Golem
+
+Gem Fiend
+
+Orange Mage
+
+Blue Mage
+
+Force Mage
+
+Hover Mage
+
+Gr1zz Bot
+
+Son1a Bot
+
+Qu177 Bot
+
+EXEskeleton
+
+Gem Detonator
+
+Gem Guardian
+
+Empty Vessel
+
+Alarm Bot
+
+Busted 3D Printer
+
+Shieldbot
+
+Sniper Bot
+
+Ourobot
+
+Doppelganger
+
+Living Hand
+
+Goat in a Bottle
+
+Harpies Birdleg Fan
+
+Hoggy Bank
+
+Pliers
+
+Spare Battery
+
+Squirrel in a Bottle
+
+Magpies Lens
+
+Scissors
+
+Airborne
+
+Made of Stone
+
+Mighty Leap
+
+Sprinter
+
+Battery Bearer
+
+Blue Gem
+
+Bone Digger
+
+Bone King
+
+Burrower
+
+Green Gem
+
+Guardian
+
+Orange Gem
+
+Sharp Quills
+
+Stinky
+
+Waterborne
+
+Worthy Sacrifice
+
+Ant Spawner
+
+Armored
+
+Bees Within
+
+Bellist
+
+Bifurcated Strike
+
+Blood Lust
+
+Corpse Eater
+
+Dam Builder
+
+Double Strike
+
+Leader
+
+Morsel
+
+Sentry
+
+Sniper
+
+Trinket Bearer
+
+Academic
+
+Avian
+
+Bot
+
+Canine
+
+Hooved
+
+Insect
+
+Puppeted
+
+Reptile
+
+Sage
+
+Spectral
+
+Station
+
+Warrior
+
+Wizard
+
+Zombie
+
+Assimilator
+
+Ruby Furnace
+
+Sapphirebound Stoat
+
+Gemstone Generator
+
+Gemshell Turtle
+
+Gem Feline
+
+Filtration System
+
+Hawk Egg
+
+Magpie Egg
+
+Bombardier Beetle
+
+Gem-Mandible Mantis
+
+Rubybound Beehive
+
+Deer
+
+Emeraldbound Deer
+
+Gemhorn Bull
+rules_text: Ruby Gem
+Rampager: At the end of your turn, this card will move one space to the left or right. Cards in the way will be thrown back behind this card. => Orange Gem
+Rampager: At the end of your turn, this card will move one space to the left or right. Cards in the way will be thrown back behind this card.
+
+Bloodstained Sage
+
+Scholar of Brutality
+
+Orange Zombie Minion
+
+Blue Banshee
+
+Crawling Hand
+
+Green Crawling Hand
+
+Dead Battery
+
+Sneaking Bones
+
+Panther
+
+Owl
+
+Owl Egg
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Sneaking Bones added.

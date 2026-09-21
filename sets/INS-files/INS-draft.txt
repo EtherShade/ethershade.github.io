@@ -29,7 +29,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "150",
+				"collector_number": "148",
 				"foil": false,
 
 				"image_uris": {
@@ -41,7 +41,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "150",
+				"collector_number": "148",
 				"foil": true,
 
 				"image_uris": {
@@ -53,7 +53,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "149",
+				"collector_number": "147",
 				"foil": false,
 
 				"image_uris": {
@@ -65,7 +65,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "149",
+				"collector_number": "147",
 				"foil": true,
 
 				"image_uris": {
@@ -77,7 +77,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "179",
+				"collector_number": "175",
 				"foil": false,
 
 				"image_uris": {
@@ -89,7 +89,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "179",
+				"collector_number": "175",
 				"foil": true,
 
 				"image_uris": {
@@ -125,7 +125,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "193",
+				"collector_number": "189",
 				"foil": false,
 
 				"image_uris": {
@@ -137,7 +137,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "193",
+				"collector_number": "189",
 				"foil": true,
 
 				"image_uris": {
@@ -149,7 +149,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Canine",
-				"collector_number": "189",
+				"collector_number": "185",
 				"foil": false,
 
 				"image_uris": {
@@ -161,7 +161,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Canine",
-				"collector_number": "189",
+				"collector_number": "185",
 				"foil": true,
 
 				"image_uris": {
@@ -173,7 +173,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Canine",
-				"collector_number": "202",
+				"collector_number": "197",
 				"foil": false,
 
 				"image_uris": {
@@ -185,7 +185,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Canine",
-				"collector_number": "202",
+				"collector_number": "197",
 				"foil": true,
 
 				"image_uris": {
@@ -197,7 +197,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Canine",
-				"collector_number": "201",
+				"collector_number": "196",
 				"foil": false,
 
 				"image_uris": {
@@ -209,7 +209,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Canine",
-				"collector_number": "201",
+				"collector_number": "196",
 				"foil": true,
 
 				"image_uris": {
@@ -403,7 +403,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Hooved",
-				"collector_number": "143",
+				"collector_number": "141",
 				"foil": false,
 
 				"image_uris": {
@@ -415,7 +415,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Hooved",
-				"collector_number": "143",
+				"collector_number": "141",
 				"foil": true,
 
 				"image_uris": {
@@ -499,7 +499,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Insect",
-				"collector_number": "188",
+				"collector_number": "184",
 				"foil": false,
 
 				"image_uris": {
@@ -511,7 +511,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Insect",
-				"collector_number": "188",
+				"collector_number": "184",
 				"foil": true,
 
 				"image_uris": {
@@ -523,7 +523,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature — Insect",
-				"collector_number": "218",
+				"collector_number": "213",
 				"foil": false,
 
 				"image_uris": {
@@ -535,7 +535,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature — Insect",
-				"collector_number": "218",
+				"collector_number": "213",
 				"foil": true,
 
 				"image_uris": {
@@ -547,7 +547,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature — Insect",
-				"collector_number": "213",
+				"collector_number": "208",
 				"foil": false,
 
 				"image_uris": {
@@ -559,7 +559,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature — Insect",
-				"collector_number": "213",
+				"collector_number": "208",
 				"foil": true,
 
 				"image_uris": {
@@ -571,7 +571,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature — Insect",
-				"collector_number": "208",
+				"collector_number": "203",
 				"foil": false,
 
 				"image_uris": {
@@ -583,7 +583,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature — Insect",
-				"collector_number": "208",
+				"collector_number": "203",
 				"foil": true,
 
 				"image_uris": {
@@ -619,7 +619,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Insect",
-				"collector_number": "204",
+				"collector_number": "199",
 				"foil": false,
 
 				"image_uris": {
@@ -631,7 +631,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Insect",
-				"collector_number": "204",
+				"collector_number": "199",
 				"foil": true,
 
 				"image_uris": {
@@ -667,7 +667,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "173",
+				"collector_number": "169",
 				"foil": false,
 
 				"image_uris": {
@@ -679,7 +679,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "173",
+				"collector_number": "169",
 				"foil": true,
 
 				"image_uris": {
@@ -763,7 +763,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "132",
+				"collector_number": "130",
 				"foil": false,
 
 				"image_uris": {
@@ -775,7 +775,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "132",
+				"collector_number": "130",
 				"foil": true,
 
 				"image_uris": {
@@ -811,7 +811,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "155",
+				"collector_number": "153",
 				"foil": false,
 
 				"image_uris": {
@@ -823,7 +823,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "155",
+				"collector_number": "153",
 				"foil": true,
 
 				"image_uris": {
@@ -835,7 +835,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "148",
+				"collector_number": "146",
 				"foil": false,
 
 				"image_uris": {
@@ -847,7 +847,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "148",
+				"collector_number": "146",
 				"foil": true,
 
 				"image_uris": {
@@ -931,7 +931,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "136",
+				"collector_number": "134",
 				"foil": false,
 
 				"image_uris": {
@@ -943,7 +943,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "136",
+				"collector_number": "134",
 				"foil": true,
 
 				"image_uris": {
@@ -979,7 +979,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature",
-				"collector_number": "209",
+				"collector_number": "204",
 				"foil": false,
 
 				"image_uris": {
@@ -991,7 +991,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature",
-				"collector_number": "209",
+				"collector_number": "204",
 				"foil": true,
 
 				"image_uris": {
@@ -1003,7 +1003,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "194",
+				"collector_number": "190",
 				"foil": false,
 
 				"image_uris": {
@@ -1015,7 +1015,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "194",
+				"collector_number": "190",
 				"foil": true,
 
 				"image_uris": {
@@ -1051,7 +1051,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "141",
+				"collector_number": "139",
 				"foil": false,
 
 				"image_uris": {
@@ -1063,7 +1063,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "141",
+				"collector_number": "139",
 				"foil": true,
 
 				"image_uris": {
@@ -1075,7 +1075,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "154",
+				"collector_number": "152",
 				"foil": false,
 
 				"image_uris": {
@@ -1087,7 +1087,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "154",
+				"collector_number": "152",
 				"foil": true,
 
 				"image_uris": {
@@ -1099,7 +1099,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "187",
+				"collector_number": "183",
 				"foil": false,
 
 				"image_uris": {
@@ -1111,7 +1111,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "187",
+				"collector_number": "183",
 				"foil": true,
 
 				"image_uris": {
@@ -1147,7 +1147,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature",
-				"collector_number": "210",
+				"collector_number": "205",
 				"foil": false,
 
 				"image_uris": {
@@ -1159,7 +1159,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Created Creature",
-				"collector_number": "210",
+				"collector_number": "205",
 				"foil": true,
 
 				"image_uris": {
@@ -1171,7 +1171,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "147",
+				"collector_number": "145",
 				"foil": false,
 
 				"image_uris": {
@@ -1183,7 +1183,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "147",
+				"collector_number": "145",
 				"foil": true,
 
 				"image_uris": {
@@ -1243,7 +1243,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "128",
+				"collector_number": "126",
 				"foil": false,
 
 				"image_uris": {
@@ -1255,7 +1255,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "128",
+				"collector_number": "126",
 				"foil": true,
 
 				"image_uris": {
@@ -1363,7 +1363,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Hooved",
-				"collector_number": "151",
+				"collector_number": "149",
 				"foil": false,
 
 				"image_uris": {
@@ -1375,7 +1375,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Hooved",
-				"collector_number": "151",
+				"collector_number": "149",
 				"foil": true,
 
 				"image_uris": {
@@ -1387,7 +1387,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Hooved",
-				"collector_number": "199",
+				"collector_number": "194",
 				"foil": false,
 
 				"image_uris": {
@@ -1399,7 +1399,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Hooved",
-				"collector_number": "199",
+				"collector_number": "194",
 				"foil": true,
 
 				"image_uris": {
@@ -1459,7 +1459,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "190",
+				"collector_number": "186",
 				"foil": false,
 
 				"image_uris": {
@@ -1471,7 +1471,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "190",
+				"collector_number": "186",
 				"foil": true,
 
 				"image_uris": {
@@ -1483,7 +1483,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "124",
+				"collector_number": "123",
 				"foil": false,
 
 				"image_uris": {
@@ -1495,7 +1495,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Reptile",
-				"collector_number": "124",
+				"collector_number": "123",
 				"foil": true,
 
 				"image_uris": {
@@ -1531,7 +1531,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "146",
+				"collector_number": "144",
 				"foil": false,
 
 				"image_uris": {
@@ -1543,7 +1543,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "146",
+				"collector_number": "144",
 				"foil": true,
 
 				"image_uris": {
@@ -1555,7 +1555,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "203",
+				"collector_number": "198",
 				"foil": false,
 
 				"image_uris": {
@@ -1567,7 +1567,7 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "203",
+				"collector_number": "198",
 				"foil": true,
 
 				"image_uris": {
@@ -1603,7 +1603,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Rodent",
-				"collector_number": "217",
+				"collector_number": "212",
 				"foil": false,
 
 				"image_uris": {
@@ -1615,7 +1615,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Rodent",
-				"collector_number": "217",
+				"collector_number": "212",
 				"foil": true,
 
 				"image_uris": {
@@ -1627,7 +1627,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "182",
+				"collector_number": "178",
 				"foil": false,
 
 				"image_uris": {
@@ -1639,7 +1639,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "182",
+				"collector_number": "178",
 				"foil": true,
 
 				"image_uris": {
@@ -1675,7 +1675,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "161",
+				"collector_number": "158",
 				"foil": false,
 
 				"image_uris": {
@@ -1687,7 +1687,7 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "161",
+				"collector_number": "158",
 				"foil": true,
 
 				"image_uris": {
@@ -1699,7 +1699,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Skeletal",
-				"collector_number": "216",
+				"collector_number": "211",
 				"foil": false,
 
 				"image_uris": {
@@ -1711,7 +1711,7 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Skeletal",
-				"collector_number": "216",
+				"collector_number": "211",
 				"foil": true,
 
 				"image_uris": {
@@ -1747,7 +1747,7 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "191",
+				"collector_number": "187",
 				"foil": false,
 
 				"image_uris": {
@@ -1759,35 +1759,11 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "191",
+				"collector_number": "187",
 				"foil": true,
 
 				"image_uris": {
 					"en": "https://ethershade.github.io/sets/INS-files/img/73.png"
-				}
-			},
-			{
-				"name": "Necromancer",
-				"rarity": "rare",
-				"mana_cost": "",
-				"type": "Creature — Zombie",
-				"collector_number": "127",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/74.png"
-				}
-			},
-			{
-				"name": "Necromancer_foil",
-				"rarity": "rare",
-				"mana_cost": "",
-				"type": "Creature — Zombie",
-				"collector_number": "127",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/74.png"
 				}
 			},
 			{
@@ -1799,7 +1775,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/75.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/74.png"
 				}
 			},
 			{
@@ -1811,7 +1787,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/75.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/74.png"
 				}
 			},
 			{
@@ -1823,7 +1799,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/76.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/75.png"
 				}
 			},
 			{
@@ -1835,7 +1811,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/76.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/75.png"
 				}
 			},
 			{
@@ -1847,7 +1823,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/77.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/76.png"
 				}
 			},
 			{
@@ -1859,7 +1835,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/77.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/76.png"
 				}
 			},
 			{
@@ -1871,7 +1847,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/78.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/77.png"
 				}
 			},
 			{
@@ -1883,7 +1859,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/78.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/77.png"
 				}
 			},
 			{
@@ -1895,7 +1871,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/79.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/78.png"
 				}
 			},
 			{
@@ -1907,7 +1883,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/79.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/78.png"
 				}
 			},
 			{
@@ -1915,11 +1891,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Skeletal",
-				"collector_number": "171",
+				"collector_number": "168",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/80.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/79.png"
 				}
 			},
 			{
@@ -1927,11 +1903,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Skeletal",
-				"collector_number": "171",
+				"collector_number": "168",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/80.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/79.png"
 				}
 			},
 			{
@@ -1939,11 +1915,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Skeletal",
-				"collector_number": "153",
+				"collector_number": "151",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/81.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/80.png"
 				}
 			},
 			{
@@ -1951,11 +1927,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Skeletal",
-				"collector_number": "153",
+				"collector_number": "151",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/81.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/80.png"
 				}
 			},
 			{
@@ -1963,11 +1939,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "207",
+				"collector_number": "202",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/82.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/81.png"
 				}
 			},
 			{
@@ -1975,11 +1951,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "207",
+				"collector_number": "202",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/82.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/81.png"
 				}
 			},
 			{
@@ -1991,7 +1967,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/83.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/82.png"
 				}
 			},
 			{
@@ -2003,7 +1979,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/83.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/82.png"
 				}
 			},
 			{
@@ -2011,11 +1987,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Puppeted",
-				"collector_number": "163",
+				"collector_number": "160",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/84.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/83.png"
 				}
 			},
 			{
@@ -2023,11 +1999,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Puppeted",
-				"collector_number": "163",
+				"collector_number": "160",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/84.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/83.png"
 				}
 			},
 			{
@@ -2035,11 +2011,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "125",
+				"collector_number": "124",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/85.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/84.png"
 				}
 			},
 			{
@@ -2047,11 +2023,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "125",
+				"collector_number": "124",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/85.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/84.png"
 				}
 			},
 			{
@@ -2063,7 +2039,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/86.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/85.png"
 				}
 			},
 			{
@@ -2075,7 +2051,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/86.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/85.png"
 				}
 			},
 			{
@@ -2087,7 +2063,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/87.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/86.png"
 				}
 			},
 			{
@@ -2099,7 +2075,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/87.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/86.png"
 				}
 			},
 			{
@@ -2107,11 +2083,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Hooved Zombie",
-				"collector_number": "138",
+				"collector_number": "136",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/88.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/87.png"
 				}
 			},
 			{
@@ -2119,11 +2095,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Hooved Zombie",
-				"collector_number": "138",
+				"collector_number": "136",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/88.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/87.png"
 				}
 			},
 			{
@@ -2131,11 +2107,11 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "139",
+				"collector_number": "137",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/89.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/88.png"
 				}
 			},
 			{
@@ -2143,11 +2119,11 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "139",
+				"collector_number": "137",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/89.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/88.png"
 				}
 			},
 			{
@@ -2155,11 +2131,11 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "170",
+				"collector_number": "167",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/90.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/89.png"
 				}
 			},
 			{
@@ -2167,11 +2143,11 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "170",
+				"collector_number": "167",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/90.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/89.png"
 				}
 			},
 			{
@@ -2183,7 +2159,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/91.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/90.png"
 				}
 			},
 			{
@@ -2195,7 +2171,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/91.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/90.png"
 				}
 			},
 			{
@@ -2207,7 +2183,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/92.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/91.png"
 				}
 			},
 			{
@@ -2219,7 +2195,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/92.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/91.png"
 				}
 			},
 			{
@@ -2227,11 +2203,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "167",
+				"collector_number": "164",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/93.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/92.png"
 				}
 			},
 			{
@@ -2239,35 +2215,35 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "167",
+				"collector_number": "164",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/93.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/92.png"
 				}
 			},
 			{
 				"name": "49er",
 				"rarity": "common",
 				"mana_cost": "",
-				"type": "Creature — Station",
+				"type": "Creature — Bot",
 				"collector_number": "1",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/94.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/93.png"
 				}
 			},
 			{
 				"name": "49er_foil",
 				"rarity": "common",
 				"mana_cost": "",
-				"type": "Creature — Station",
+				"type": "Creature — Bot",
 				"collector_number": "1",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/94.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/93.png"
 				}
 			},
 			{
@@ -2279,7 +2255,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/95.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/94.png"
 				}
 			},
 			{
@@ -2291,7 +2267,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/95.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/94.png"
 				}
 			},
 			{
@@ -2303,7 +2279,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/96.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/95.png"
 				}
 			},
 			{
@@ -2315,7 +2291,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/96.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/95.png"
 				}
 			},
 			{
@@ -2323,11 +2299,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "196",
+				"collector_number": "191",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/97.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/96.png"
 				}
 			},
 			{
@@ -2335,11 +2311,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "196",
+				"collector_number": "191",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/97.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/96.png"
 				}
 			},
 			{
@@ -2351,7 +2327,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/98.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/97.png"
 				}
 			},
 			{
@@ -2363,7 +2339,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/98.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/97.png"
 				}
 			},
 			{
@@ -2375,7 +2351,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/99.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/98.png"
 				}
 			},
 			{
@@ -2387,7 +2363,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/99.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/98.png"
 				}
 			},
 			{
@@ -2399,7 +2375,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/100.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/99.png"
 				}
 			},
 			{
@@ -2411,7 +2387,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/100.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/99.png"
 				}
 			},
 			{
@@ -2423,7 +2399,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/101.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/100.png"
 				}
 			},
 			{
@@ -2435,11 +2411,11 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/101.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/100.png"
 				}
 			},
 			{
-				"name": "Double gunner",
+				"name": "Double Gunner",
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Bot",
@@ -2447,11 +2423,11 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/102.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/101.png"
 				}
 			},
 			{
-				"name": "Double gunner_foil",
+				"name": "Double Gunner_foil",
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Bot",
@@ -2459,7 +2435,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/102.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/101.png"
 				}
 			},
 			{
@@ -2471,7 +2447,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/103.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/102.png"
 				}
 			},
 			{
@@ -2483,7 +2459,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/103.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/102.png"
 				}
 			},
 			{
@@ -2495,7 +2471,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/104.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/103.png"
 				}
 			},
 			{
@@ -2507,7 +2483,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/104.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/103.png"
 				}
 			},
 			{
@@ -2519,7 +2495,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/105.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/104.png"
 				}
 			},
 			{
@@ -2531,7 +2507,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/105.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/104.png"
 				}
 			},
 			{
@@ -2539,11 +2515,11 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Mox",
-				"collector_number": "215",
+				"collector_number": "210",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/106.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/105.png"
 				}
 			},
 			{
@@ -2551,11 +2527,11 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Mox",
-				"collector_number": "215",
+				"collector_number": "210",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/106.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/105.png"
 				}
 			},
 			{
@@ -2563,11 +2539,11 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Mox",
-				"collector_number": "211",
+				"collector_number": "206",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/107.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/106.png"
 				}
 			},
 			{
@@ -2575,11 +2551,11 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Mox",
-				"collector_number": "211",
+				"collector_number": "206",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/107.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/106.png"
 				}
 			},
 			{
@@ -2587,11 +2563,11 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Mox",
-				"collector_number": "214",
+				"collector_number": "209",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/108.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/107.png"
 				}
 			},
 			{
@@ -2599,11 +2575,11 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Mox",
-				"collector_number": "214",
+				"collector_number": "209",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/108.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/107.png"
 				}
 			},
 			{
@@ -2615,7 +2591,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/109.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/108.png"
 				}
 			},
 			{
@@ -2627,7 +2603,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/109.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/108.png"
 				}
 			},
 			{
@@ -2635,11 +2611,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Wizard",
-				"collector_number": "185",
+				"collector_number": "181",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/110.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/109.png"
 				}
 			},
 			{
@@ -2647,11 +2623,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Wizard",
-				"collector_number": "185",
+				"collector_number": "181",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/110.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/109.png"
 				}
 			},
 			{
@@ -2663,7 +2639,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/111.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/110.png"
 				}
 			},
 			{
@@ -2675,7 +2651,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/111.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/110.png"
 				}
 			},
 			{
@@ -2687,7 +2663,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/112.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/111.png"
 				}
 			},
 			{
@@ -2699,7 +2675,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/112.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/111.png"
 				}
 			},
 			{
@@ -2711,7 +2687,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/113.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/112.png"
 				}
 			},
 			{
@@ -2723,7 +2699,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/113.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/112.png"
 				}
 			},
 			{
@@ -2731,11 +2707,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Warrior",
-				"collector_number": "126",
+				"collector_number": "125",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/114.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/113.png"
 				}
 			},
 			{
@@ -2743,11 +2719,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Warrior",
-				"collector_number": "126",
+				"collector_number": "125",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/114.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/113.png"
 				}
 			},
 			{
@@ -2759,7 +2735,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/115.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/114.png"
 				}
 			},
 			{
@@ -2771,7 +2747,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/115.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/114.png"
 				}
 			},
 			{
@@ -2779,11 +2755,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Academic",
-				"collector_number": "142",
+				"collector_number": "140",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/116.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/115.png"
 				}
 			},
 			{
@@ -2791,11 +2767,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Academic",
-				"collector_number": "142",
+				"collector_number": "140",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/116.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/115.png"
 				}
 			},
 			{
@@ -2803,11 +2779,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Warrior",
-				"collector_number": "158",
+				"collector_number": "155",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/117.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/116.png"
 				}
 			},
 			{
@@ -2815,11 +2791,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Warrior",
-				"collector_number": "158",
+				"collector_number": "155",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/117.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/116.png"
 				}
 			},
 			{
@@ -2831,7 +2807,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/118.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/117.png"
 				}
 			},
 			{
@@ -2843,7 +2819,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/118.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/117.png"
 				}
 			},
 			{
@@ -2851,11 +2827,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Wizard",
-				"collector_number": "130",
+				"collector_number": "128",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/119.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/118.png"
 				}
 			},
 			{
@@ -2863,11 +2839,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Wizard",
-				"collector_number": "130",
+				"collector_number": "128",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/119.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/118.png"
 				}
 			},
 			{
@@ -2879,7 +2855,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/120.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/119.png"
 				}
 			},
 			{
@@ -2891,7 +2867,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/120.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/119.png"
 				}
 			},
 			{
@@ -2903,7 +2879,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/121.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/120.png"
 				}
 			},
 			{
@@ -2915,7 +2891,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/121.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/120.png"
 				}
 			},
 			{
@@ -2927,7 +2903,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/122.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/121.png"
 				}
 			},
 			{
@@ -2939,7 +2915,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/122.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/121.png"
 				}
 			},
 			{
@@ -2954,11 +2930,11 @@
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/INS-files/img/123_back.png"
+						"en": "https://ethershade.github.io/sets/INS-files/img/122_back.png"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/123_front.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/122_front.png"
 				}
 			},
 			{
@@ -2973,11 +2949,11 @@
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/INS-files/img/123_back.png"
+						"en": "https://ethershade.github.io/sets/INS-files/img/122_back.png"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/123_front.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/122_front.png"
 				}
 			},
 			{
@@ -2985,18 +2961,18 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "177",
+				"collector_number": "173",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/INS-files/img/125_back.png"
+						"en": "https://ethershade.github.io/sets/INS-files/img/124_back.png"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/125_front.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/124_front.png"
 				}
 			},
 			{
@@ -3004,18 +2980,18 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "177",
+				"collector_number": "173",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/INS-files/img/125_back.png"
+						"en": "https://ethershade.github.io/sets/INS-files/img/124_back.png"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/125_front.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/124_front.png"
 				}
 			},
 			{
@@ -3023,18 +2999,18 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "145",
+				"collector_number": "143",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/INS-files/img/127_back.png"
+						"en": "https://ethershade.github.io/sets/INS-files/img/126_back.png"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/127_front.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/126_front.png"
 				}
 			},
 			{
@@ -3042,18 +3018,18 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "145",
+				"collector_number": "143",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://ethershade.github.io/sets/INS-files/img/127_back.png"
+						"en": "https://ethershade.github.io/sets/INS-files/img/126_back.png"
 					}
 				},
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/127_front.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/126_front.png"
 				}
 			},
 			{
@@ -3065,7 +3041,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/129.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/128.png"
 				}
 			},
 			{
@@ -3077,7 +3053,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/129.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/128.png"
 				}
 			},
 			{
@@ -3089,7 +3065,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/130.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/129.png"
 				}
 			},
 			{
@@ -3101,7 +3077,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/130.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/129.png"
 				}
 			},
 			{
@@ -3113,7 +3089,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/131.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/130.png"
 				}
 			},
 			{
@@ -3125,7 +3101,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/131.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/130.png"
 				}
 			},
 			{
@@ -3133,11 +3109,11 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Vessel",
-				"collector_number": "212",
+				"collector_number": "207",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/132.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/131.png"
 				}
 			},
 			{
@@ -3145,11 +3121,11 @@
 				"rarity": "special",
 				"mana_cost": "",
 				"type": "Side Creature — Vessel",
-				"collector_number": "212",
+				"collector_number": "207",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/132.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/131.png"
 				}
 			},
 			{
@@ -3161,7 +3137,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/133.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/132.png"
 				}
 			},
 			{
@@ -3173,7 +3149,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/133.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/132.png"
 				}
 			},
 			{
@@ -3185,7 +3161,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/134.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/133.png"
 				}
 			},
 			{
@@ -3197,7 +3173,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/134.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/133.png"
 				}
 			},
 			{
@@ -3205,11 +3181,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "169",
+				"collector_number": "166",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/135.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/134.png"
 				}
 			},
 			{
@@ -3217,11 +3193,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "169",
+				"collector_number": "166",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/135.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/134.png"
 				}
 			},
 			{
@@ -3229,11 +3205,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "176",
+				"collector_number": "172",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/136.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/135.png"
 				}
 			},
 			{
@@ -3241,11 +3217,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Bot",
-				"collector_number": "176",
+				"collector_number": "172",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/136.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/135.png"
 				}
 			},
 			{
@@ -3253,11 +3229,11 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Reptile Bot",
-				"collector_number": "133",
+				"collector_number": "131",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/137.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/136.png"
 				}
 			},
 			{
@@ -3265,11 +3241,11 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Reptile Bot",
-				"collector_number": "133",
+				"collector_number": "131",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/137.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/136.png"
 				}
 			},
 			{
@@ -3281,7 +3257,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/138.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/137.png"
 				}
 			},
 			{
@@ -3293,7 +3269,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/138.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/137.png"
 				}
 			},
 			{
@@ -3305,7 +3281,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/139.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/138.png"
 				}
 			},
 			{
@@ -3317,7 +3293,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/139.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/138.png"
 				}
 			},
 			{
@@ -3329,7 +3305,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/140.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/139.png"
 				}
 			},
 			{
@@ -3341,7 +3317,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/140.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/139.png"
 				}
 			},
 			{
@@ -3353,7 +3329,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/141.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/140.png"
 				}
 			},
 			{
@@ -3365,7 +3341,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/141.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/140.png"
 				}
 			},
 			{
@@ -3377,7 +3353,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/142.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/141.png"
 				}
 			},
 			{
@@ -3389,7 +3365,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/142.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/141.png"
 				}
 			},
 			{
@@ -3397,11 +3373,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "140",
+				"collector_number": "138",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/143.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/142.png"
 				}
 			},
 			{
@@ -3409,11 +3385,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "140",
+				"collector_number": "138",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/143.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/142.png"
 				}
 			},
 			{
@@ -3421,11 +3397,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "178",
+				"collector_number": "174",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/144.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/143.png"
 				}
 			},
 			{
@@ -3433,11 +3409,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "178",
+				"collector_number": "174",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/144.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/143.png"
 				}
 			},
 			{
@@ -3445,11 +3421,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "183",
+				"collector_number": "179",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/145.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/144.png"
 				}
 			},
 			{
@@ -3457,11 +3433,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "183",
+				"collector_number": "179",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/145.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/144.png"
 				}
 			},
 			{
@@ -3473,7 +3449,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/146.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/145.png"
 				}
 			},
 			{
@@ -3485,7 +3461,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/146.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/145.png"
 				}
 			},
 			{
@@ -3493,11 +3469,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "165",
+				"collector_number": "162",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/147.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/146.png"
 				}
 			},
 			{
@@ -3505,11 +3481,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Item",
-				"collector_number": "165",
+				"collector_number": "162",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/147.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/146.png"
 				}
 			},
 			{
@@ -3521,7 +3497,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/148.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/147.png"
 				}
 			},
 			{
@@ -3533,7 +3509,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/148.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/147.png"
 				}
 			},
 			{
@@ -3545,7 +3521,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/149.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/148.png"
 				}
 			},
 			{
@@ -3557,7 +3533,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/149.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/148.png"
 				}
 			},
 			{
@@ -3569,7 +3545,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/150.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/149.png"
 				}
 			},
 			{
@@ -3581,7 +3557,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/150.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/149.png"
 				}
 			},
 			{
@@ -3589,11 +3565,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "181",
+				"collector_number": "177",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/151.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/150.png"
 				}
 			},
 			{
@@ -3601,11 +3577,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "181",
+				"collector_number": "177",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/151.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/150.png"
 				}
 			},
 			{
@@ -3617,7 +3593,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/152.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/151.png"
 				}
 			},
 			{
@@ -3629,7 +3605,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/152.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/151.png"
 				}
 			},
 			{
@@ -3641,7 +3617,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/153.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/152.png"
 				}
 			},
 			{
@@ -3653,7 +3629,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/153.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/152.png"
 				}
 			},
 			{
@@ -3665,7 +3641,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/154.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/153.png"
 				}
 			},
 			{
@@ -3677,7 +3653,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/154.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/153.png"
 				}
 			},
 			{
@@ -3689,7 +3665,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/155.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/154.png"
 				}
 			},
 			{
@@ -3701,7 +3677,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/155.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/154.png"
 				}
 			},
 			{
@@ -3713,7 +3689,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/156.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/155.png"
 				}
 			},
 			{
@@ -3725,7 +3701,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/156.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/155.png"
 				}
 			},
 			{
@@ -3737,7 +3713,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/157.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/156.png"
 				}
 			},
 			{
@@ -3749,7 +3725,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/157.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/156.png"
 				}
 			},
 			{
@@ -3761,7 +3737,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/158.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/157.png"
 				}
 			},
 			{
@@ -3773,7 +3749,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/158.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/157.png"
 				}
 			},
 			{
@@ -3781,11 +3757,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "129",
+				"collector_number": "127",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/159.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/158.png"
 				}
 			},
 			{
@@ -3793,11 +3769,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "129",
+				"collector_number": "127",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/159.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/158.png"
 				}
 			},
 			{
@@ -3805,11 +3781,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "168",
+				"collector_number": "165",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/160.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/159.png"
 				}
 			},
 			{
@@ -3817,11 +3793,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "168",
+				"collector_number": "165",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/160.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/159.png"
 				}
 			},
 			{
@@ -3829,11 +3805,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "186",
+				"collector_number": "182",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/161.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/160.png"
 				}
 			},
 			{
@@ -3841,11 +3817,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "186",
+				"collector_number": "182",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/161.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/160.png"
 				}
 			},
 			{
@@ -3853,11 +3829,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "198",
+				"collector_number": "193",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/162.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/161.png"
 				}
 			},
 			{
@@ -3865,11 +3841,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "198",
+				"collector_number": "193",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/162.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/161.png"
 				}
 			},
 			{
@@ -3877,11 +3853,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "205",
+				"collector_number": "200",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/163.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/162.png"
 				}
 			},
 			{
@@ -3889,11 +3865,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "205",
+				"collector_number": "200",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/163.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/162.png"
 				}
 			},
 			{
@@ -3905,7 +3881,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/164.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/163.png"
 				}
 			},
 			{
@@ -3917,7 +3893,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/164.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/163.png"
 				}
 			},
 			{
@@ -3929,7 +3905,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/165.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/164.png"
 				}
 			},
 			{
@@ -3941,7 +3917,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/165.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/164.png"
 				}
 			},
 			{
@@ -3953,7 +3929,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/166.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/165.png"
 				}
 			},
 			{
@@ -3965,7 +3941,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/166.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/165.png"
 				}
 			},
 			{
@@ -3977,7 +3953,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/167.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/166.png"
 				}
 			},
 			{
@@ -3989,7 +3965,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/167.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/166.png"
 				}
 			},
 			{
@@ -4001,7 +3977,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/168.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/167.png"
 				}
 			},
 			{
@@ -4013,7 +3989,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/168.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/167.png"
 				}
 			},
 			{
@@ -4025,7 +4001,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/169.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/168.png"
 				}
 			},
 			{
@@ -4037,7 +4013,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/169.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/168.png"
 				}
 			},
 			{
@@ -4049,7 +4025,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/170.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/169.png"
 				}
 			},
 			{
@@ -4061,7 +4037,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/170.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/169.png"
 				}
 			},
 			{
@@ -4073,7 +4049,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/171.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/170.png"
 				}
 			},
 			{
@@ -4085,7 +4061,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/171.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/170.png"
 				}
 			},
 			{
@@ -4097,7 +4073,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/172.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/171.png"
 				}
 			},
 			{
@@ -4109,7 +4085,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/172.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/171.png"
 				}
 			},
 			{
@@ -4121,7 +4097,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/173.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/172.png"
 				}
 			},
 			{
@@ -4133,7 +4109,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/173.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/172.png"
 				}
 			},
 			{
@@ -4145,7 +4121,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/174.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/173.png"
 				}
 			},
 			{
@@ -4157,7 +4133,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/174.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/173.png"
 				}
 			},
 			{
@@ -4165,11 +4141,11 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "166",
+				"collector_number": "163",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/175.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/174.png"
 				}
 			},
 			{
@@ -4177,11 +4153,11 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "166",
+				"collector_number": "163",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/175.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/174.png"
 				}
 			},
 			{
@@ -4189,11 +4165,11 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "175",
+				"collector_number": "171",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/176.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/175.png"
 				}
 			},
 			{
@@ -4201,11 +4177,11 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "175",
+				"collector_number": "171",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/176.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/175.png"
 				}
 			},
 			{
@@ -4213,11 +4189,11 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "192",
+				"collector_number": "188",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/177.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/176.png"
 				}
 			},
 			{
@@ -4225,11 +4201,11 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Totem — Body",
-				"collector_number": "192",
+				"collector_number": "188",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/177.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/176.png"
 				}
 			},
 			{
@@ -4241,7 +4217,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/178.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/177.png"
 				}
 			},
 			{
@@ -4253,7 +4229,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/178.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/177.png"
 				}
 			},
 			{
@@ -4265,7 +4241,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/179.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/178.png"
 				}
 			},
 			{
@@ -4277,7 +4253,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/179.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/178.png"
 				}
 			},
 			{
@@ -4289,7 +4265,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/180.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/179.png"
 				}
 			},
 			{
@@ -4301,7 +4277,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/180.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/179.png"
 				}
 			},
 			{
@@ -4313,7 +4289,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/181.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/180.png"
 				}
 			},
 			{
@@ -4325,7 +4301,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/181.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/180.png"
 				}
 			},
 			{
@@ -4337,7 +4313,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/182.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/181.png"
 				}
 			},
 			{
@@ -4349,7 +4325,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/182.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/181.png"
 				}
 			},
 			{
@@ -4361,7 +4337,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/183.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/182.png"
 				}
 			},
 			{
@@ -4373,31 +4349,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/183.png"
-				}
-			},
-			{
-				"name": "Mox",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "Totem — Head",
-				"collector_number": "123",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/184.png"
-				}
-			},
-			{
-				"name": "Mox_foil",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "Totem — Head",
-				"collector_number": "123",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/184.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/182.png"
 				}
 			},
 			{
@@ -4405,11 +4357,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "144",
+				"collector_number": "142",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/185.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/183.png"
 				}
 			},
 			{
@@ -4417,11 +4369,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "144",
+				"collector_number": "142",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/185.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/183.png"
 				}
 			},
 			{
@@ -4429,11 +4381,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "152",
+				"collector_number": "150",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/186.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/184.png"
 				}
 			},
 			{
@@ -4441,35 +4393,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "152",
+				"collector_number": "150",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/186.png"
-				}
-			},
-			{
-				"name": "Rodent",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "Totem — Head",
-				"collector_number": "156",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/187.png"
-				}
-			},
-			{
-				"name": "Rodent_foil",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "Totem — Head",
-				"collector_number": "156",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/187.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/184.png"
 				}
 			},
 			{
@@ -4477,11 +4405,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "160",
+				"collector_number": "157",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/188.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/185.png"
 				}
 			},
 			{
@@ -4489,35 +4417,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "160",
+				"collector_number": "157",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/188.png"
-				}
-			},
-			{
-				"name": "Skeletal",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "Totem — Head",
-				"collector_number": "172",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/189.png"
-				}
-			},
-			{
-				"name": "Skeletal_foil",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "Totem — Head",
-				"collector_number": "172",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/189.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/185.png"
 				}
 			},
 			{
@@ -4525,11 +4429,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "180",
+				"collector_number": "176",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/190.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/186.png"
 				}
 			},
 			{
@@ -4537,11 +4441,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "180",
+				"collector_number": "176",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/190.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/186.png"
 				}
 			},
 			{
@@ -4549,11 +4453,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "184",
+				"collector_number": "180",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/191.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/187.png"
 				}
 			},
 			{
@@ -4561,35 +4465,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "184",
+				"collector_number": "180",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/191.png"
-				}
-			},
-			{
-				"name": "Vessel",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "Totem — Head",
-				"collector_number": "195",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/192.png"
-				}
-			},
-			{
-				"name": "Vessel_foil",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "Totem — Head",
-				"collector_number": "195",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/192.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/187.png"
 				}
 			},
 			{
@@ -4597,11 +4477,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "197",
+				"collector_number": "192",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/193.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/188.png"
 				}
 			},
 			{
@@ -4609,11 +4489,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "197",
+				"collector_number": "192",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/193.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/188.png"
 				}
 			},
 			{
@@ -4621,11 +4501,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "200",
+				"collector_number": "195",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/194.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/189.png"
 				}
 			},
 			{
@@ -4633,11 +4513,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "200",
+				"collector_number": "195",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/194.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/189.png"
 				}
 			},
 			{
@@ -4645,11 +4525,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "206",
+				"collector_number": "201",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/195.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/190.png"
 				}
 			},
 			{
@@ -4657,11 +4537,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Totem — Head",
-				"collector_number": "206",
+				"collector_number": "201",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/195.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/190.png"
 				}
 			},
 			{
@@ -4673,7 +4553,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/196.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/191.png"
 				}
 			},
 			{
@@ -4685,7 +4565,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/196.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/191.png"
 				}
 			},
 			{
@@ -4693,11 +4573,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "157",
+				"collector_number": "154",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/197.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/192.png"
 				}
 			},
 			{
@@ -4705,11 +4585,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Station",
-				"collector_number": "157",
+				"collector_number": "154",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/197.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/192.png"
 				}
 			},
 			{
@@ -4717,11 +4597,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "162",
+				"collector_number": "159",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/198.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/193.png"
 				}
 			},
 			{
@@ -4729,11 +4609,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Rodent",
-				"collector_number": "162",
+				"collector_number": "159",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/198.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/193.png"
 				}
 			},
 			{
@@ -4745,7 +4625,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/199.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/194.png"
 				}
 			},
 			{
@@ -4757,7 +4637,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/199.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/194.png"
 				}
 			},
 			{
@@ -4769,7 +4649,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/200.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/195.png"
 				}
 			},
 			{
@@ -4781,7 +4661,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/200.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/195.png"
 				}
 			},
 			{
@@ -4793,7 +4673,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/201.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/196.png"
 				}
 			},
 			{
@@ -4805,7 +4685,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/201.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/196.png"
 				}
 			},
 			{
@@ -4817,7 +4697,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/202.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/197.png"
 				}
 			},
 			{
@@ -4829,7 +4709,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/202.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/197.png"
 				}
 			},
 			{
@@ -4841,7 +4721,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/203.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/198.png"
 				}
 			},
 			{
@@ -4853,7 +4733,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/203.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/198.png"
 				}
 			},
 			{
@@ -4865,7 +4745,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/204.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/199.png"
 				}
 			},
 			{
@@ -4877,7 +4757,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/204.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/199.png"
 				}
 			},
 			{
@@ -4889,7 +4769,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/205.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/200.png"
 				}
 			},
 			{
@@ -4901,7 +4781,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/205.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/200.png"
 				}
 			},
 			{
@@ -4913,7 +4793,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/206.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/201.png"
 				}
 			},
 			{
@@ -4925,7 +4805,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/206.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/201.png"
 				}
 			},
 			{
@@ -4933,11 +4813,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Insect",
-				"collector_number": "159",
+				"collector_number": "156",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/207.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/202.png"
 				}
 			},
 			{
@@ -4945,11 +4825,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Insect",
-				"collector_number": "159",
+				"collector_number": "156",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/207.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/202.png"
 				}
 			},
 			{
@@ -4961,7 +4841,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/208.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/203.png"
 				}
 			},
 			{
@@ -4973,7 +4853,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/208.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/203.png"
 				}
 			},
 			{
@@ -4985,7 +4865,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/209.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/204.png"
 				}
 			},
 			{
@@ -4997,7 +4877,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/209.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/204.png"
 				}
 			},
 			{
@@ -5009,7 +4889,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/210.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/205.png"
 				}
 			},
 			{
@@ -5021,7 +4901,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/210.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/205.png"
 				}
 			},
 			{
@@ -5033,7 +4913,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/211.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/206.png"
 				}
 			},
 			{
@@ -5045,7 +4925,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/211.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/206.png"
 				}
 			},
 			{
@@ -5053,11 +4933,11 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Academic",
-				"collector_number": "164",
+				"collector_number": "161",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/212.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/207.png"
 				}
 			},
 			{
@@ -5065,11 +4945,11 @@
 				"rarity": "rare",
 				"mana_cost": "",
 				"type": "Creature — Academic",
-				"collector_number": "164",
+				"collector_number": "161",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/212.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/207.png"
 				}
 			},
 			{
@@ -5077,11 +4957,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "131",
+				"collector_number": "129",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/213.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/208.png"
 				}
 			},
 			{
@@ -5089,11 +4969,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Zombie",
-				"collector_number": "131",
+				"collector_number": "129",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/213.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/208.png"
 				}
 			},
 			{
@@ -5105,7 +4985,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/214.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/209.png"
 				}
 			},
 			{
@@ -5117,7 +4997,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/214.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/209.png"
 				}
 			},
 			{
@@ -5129,7 +5009,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/215.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/210.png"
 				}
 			},
 			{
@@ -5141,7 +5021,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/215.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/210.png"
 				}
 			},
 			{
@@ -5153,7 +5033,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/216.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/211.png"
 				}
 			},
 			{
@@ -5165,7 +5045,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/216.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/211.png"
 				}
 			},
 			{
@@ -5177,7 +5057,7 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/217.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/212.png"
 				}
 			},
 			{
@@ -5189,7 +5069,7 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/217.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/212.png"
 				}
 			},
 			{
@@ -5197,11 +5077,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Skeletal",
-				"collector_number": "174",
+				"collector_number": "170",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/218.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/213.png"
 				}
 			},
 			{
@@ -5209,11 +5089,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Skeletal",
-				"collector_number": "174",
+				"collector_number": "170",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/218.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/213.png"
 				}
 			},
 			{
@@ -5221,11 +5101,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "137",
+				"collector_number": "135",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/219.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/214.png"
 				}
 			},
 			{
@@ -5233,11 +5113,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature",
-				"collector_number": "137",
+				"collector_number": "135",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/219.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/214.png"
 				}
 			},
 			{
@@ -5245,11 +5125,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "134",
+				"collector_number": "132",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/220.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/215.png"
 				}
 			},
 			{
@@ -5257,11 +5137,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "134",
+				"collector_number": "132",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/220.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/215.png"
 				}
 			},
 			{
@@ -5269,11 +5149,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "135",
+				"collector_number": "133",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/221.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/216.png"
 				}
 			},
 			{
@@ -5281,14 +5161,15 @@
 				"rarity": "uncommon",
 				"mana_cost": "",
 				"type": "Creature — Avian",
-				"collector_number": "135",
+				"collector_number": "133",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://ethershade.github.io/sets/INS-files/img/221.png"
+					"en": "https://ethershade.github.io/sets/INS-files/img/216.png"
 				}
 			}
 		]
+
 [Settings]
 {
 	"layouts": {
@@ -5311,7 +5192,6 @@
 	},
 	"predeterminedLayouts": ["Main", "Main", "Main", "Item"],
 }
-
 [rare]
 	5 Stunted Wolf
 	5 Child 13
@@ -5328,7 +5208,6 @@
 	5 Squirrel Ball
 	5 Bone Heap
 	5 Tomb Robber
-	5 Necromancer
 	5 Dead Hand
 	5 Headless Horseman
 	5 Bone Lords Horn
@@ -5451,7 +5330,7 @@
 	5 Automaton
 	5 Insectodrone
 	5 Bolthound
-	5 Double gunner
+	5 Double Gunner
 	5 Mage Pupil
 	5 Mage Knight
 	5 Practice Wizard
@@ -5513,15 +5392,11 @@
 	5 Canine
 	5 Hooved
 	5 Insect
-	5 Mox
 	5 Puppeted
 	5 Reptile
-	5 Rodent
 	5 Sage
-	5 Skeletal
 	5 Spectral
 	5 Station
-	5 Vessel
 	5 Warrior
 	5 Wizard
 	5 Zombie
